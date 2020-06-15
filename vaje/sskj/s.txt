@@ -1,0 +1,8331 @@
+s;;m neskl.
+s;;predl., gl.
+s...;;gl.
+sabejnik;-a;m
+sablja;-e;ž
+sabljaè;-a;m
+sabljaèica;-e;ž
+sabljanje;-a;s
+sabljar;;tudi
+sabljarica;-e;ž
+sabljarka;-e;ž
+sabljast;-a -o;prid.
+sabljaški;-a -o;prid.
+sabljati;-am;nedov.
+sabljavka;-e;ž
+sabljezob;-a -o;prid.
+sabljica;-e;ž
+sabljièast;-a -o;prid.
+sabljika;-e;ž
+sabor;-a;m
+sabotaža;-e;ž
+sabotažen;-žna -o;prid.
+saboter;-ja;m
+saboterka;-e;ž
+saboterski;-a -o;prid.
+saboterka;-e;ž
+saboterski;-a -o;prid.
+saboterstvo;-a;s
+sabotiranje;-a;s
+sabotirati;-am;nedov. in dov.
+saèiti;-im;nedov.
+sad;-u;m
+saden;-dna -o;prid.
+sadež;-a;m
+sadika;-e;ž
+sadilec;-lca;m
+sadilen;-lna -o;prid.
+sadilnik;-a;m
+sadist;-a;m
+sadistièen;-èna -o;prid.
+sadistka;-e;ž
+saditev;-tve;ž
+saditi;-im;nedov.
+saditven;-a -o;prid.
+sadizem;-zma;m
+sadjar;-ja;m
+sadjariti;-im;nedov.
+sadjarjenje;-a;s
+sadjarski;-a -o;prid.
+sadjarski;-a -o;prid.
+sadjarstvo;-a;s
+sadje;-a;s
+sadjerejec;-jca;m
+sadjerejski;-a -o;prid.
+sadjeroden;-dna -o;prid.
+sadjevec;-vca;m
+sadnja;-e;ž
+sadomasohizem;;in
+sadonosen;-sna -o;prid.
+sadonosnik;-a;m
+sadovnik;-a;m
+sadovnjak;-a;m
+sadra;-e;ž
+sadrar;-ja;m
+sadrast;-a -o;prid.
+sadrati;-am;nedov.
+sadren;-a -o;prid.
+sadrenec;-nca;m
+sadrenka;-e;ž
+saducej;-a;m
+safalada;-e;ž
+safari;-ja;m
+safe;;gl.
+safian;-a;m
+safianast;;tudi
+safianski;;tudi
+safir;-ja;m
+safirast;-a -o;prid.
+safiren;-rna -o;prid.
+saga;-e;ž
+sagitalen;-lna -o;prid.
+sago;-a;m
+sagov;-a -o;prid.
+sagovec;-vca;m
+saharid;-a;m
+saharificirati;-am;nedov. in dov.
+saharin;-a;m
+saharinast;-a -o;prid.
+saharinski;-a -o;prid.
+saharometer;-tra;m
+saharoza;-e;ž
+saharski;;in
+sahel;-hla -o;prid.
+sahib;-a;m
+sahneti;-im;nedov.
+sahniti;;in
+saintsimonist;-a;m
+saintsimonizem;-zma;m
+saj;;in
+saj;;in
+saja;-e;ž
+sajast;-a -o;prid.
+sajav;-a -o;prid.
+sajavec;-vca;m
+sajavost;-i;ž
+saje;saj;ž mn.
+sajenec;-nca;m
+sajenica;-e;ž
+sajenje;-a;s
+sajenje;-a;s
+sajenka;-e;ž
+sajiti;-im;nedov.
+sak;;in
+sakar;-ja;m
+sake;-ja;m
+sako;-ja;m
+sakra;;in
+sakrabolski;-a -o;prid.
+sakrabolt;;in
+sakralen;-lna -o;prid.
+sakralizirati;-am;nedov. in dov.
+sakralnost;-i;ž
+sakramenski;-a -o;prid.
+sakrament;;medm.
+sakramentirati;-am;nedov.
+sakramiš;;medm.
+sakrilegij;-a;m
+sakrosankten;-tna -o;prid.
+sakrosanktnost;-i;ž
+saksofon;-a;m
+saksofonist;-a;m
+saksofonski;-a -o;prid.
+salabolski;-a -o;prid.
+salabolt;;in
+salama;-e;ž
+salamander;-dra;m
+salamenski;-a -o;prid.
+salament;;medm.
+salamin;-a;m
+salamiš;;medm.
+salamurja;-e;ž
+salangana;-e;ž
+salast;-a -o;prid.
+salaš;-a;m
+saldakonti;-ov;m mn.
+saldakontist;-a;m
+saldakontistka;-e;ž
+saldiranje;-a;s
+saldirati;-am;dov. in nedov.
+saldo;-a;m
+salezijanec;-nca;m
+salezijanski;-a -o;prid.
+salicil;-a;m
+salicilen;-lna -o;prid.
+saliniteta;-e;ž
+salinometer;-tra;m
+salmiak;-a;m
+salmiakov;-a -o;prid.
+salmiakovec;;tudi
+salmonela;-e;ž
+salmonid;-a;m
+salmoniden;-dna -o;prid.
+salo;-a;s
+salomonov;-a -o;prid.
+salomonski;;tudi
+salon;-a;m
+salonar;-ja;m
+salonèek;-èka;m
+salonit;-a;m
+saloniten;-tna -o;prid.
+salonitka;-e;ž
+salonski;-a -o;prid.
+saloon;;in
+saloon;;in
+salopen;-pna -o;prid.
+salovec;-vca;m
+salpa;-e;ž
+salpeter;-tra;m
+salta;-e;ž
+salto;-a;m
+salto mortale;salta mortale;m
+salun;;gl.
+salut;-a;m
+salutiranje;-a;s
+salutirati;-am;dov. in nedov.
+salva;-e;ž
+salvarzan;-a;m
+salvija;-e;ž
+salzburški;-a -o;prid.
+samarij;-a;m
+samarijan;-a;m
+samaritan;-a;m
+samaritanka;-e;ž
+samaritanski;-a -o;prid.
+samaritanstvo;-a;s
+samba;-e;ž
+samaritanstvo;-a;s
+samba;-e;ž
+samcat;-a -o;prid.
+samèe;-eta;m
+samèe;-eta;s
+samèek;-èka;m
+samèevski;-a -o;prid.
+samèevstvo;-a;s
+samec;-mca;m
+sameti;-im;nedov.
+samevanje;-a;s
+samevati;-am;nedov.
+samica;-e;ž
+samièen;-èna -o;prid.
+samièica;-e;ž
+samièji;-a -e;prid.
+samièka;-e;ž
+samija;-e;ž
+samina;-e;ž
+samištvo;;in
+samiti;-im;tudi
+samka;-e;ž
+samkrat;;prisl.
+samo;;prisl.
+samo;;prisl.
+samo...;;ali
+samoaktivnost;-i;ž
+samoanaliza;-e;ž
+samobit;-i;ž
+samobiten;-tna -o;prid.
+samobitnost;-i;ž
+samocenzura;-e;ž
+samoèa;-e;ž
+samoèist;-a -o;prid.
+samoèistilen;-lna -o;prid.
+samoèistilnost;-i;ž
+samodejaven;-vna -o;prid.
+samodejavnost;-i;ž
+samodejen;-jna -o;prid.
+samodejnost;-i;ž
+samodelen;-lna -o;prid.
+samodisciplina;-e;ž
+samodiscipliniran;-a -o;prid.
+samodogajanje;-a;s
+samodopaden;-dna -o;prid.
+samodopadenje;-a;s
+samodopadljiv;-a -o;prid.
+samodopadljivost;-i;ž
+samodovoljnost;-i;ž
+samodrè;-a;m
+samodrški;-a -o;prid.
+samodrštvo;-a;s
+samodrug;-a -o;prid.
+samodržaven;-vna -o;prid.
+samodržavje;-a;s
+samodržec;-žca;m
+samodržen;-žna -o;prid.
+samodržje;-a;s
+samoedin;-a -o;prid.
+samofinanciranje;;in
+samofrè;-a;m
+samogib;-a;m
+samogibanje;-a;s
+samogiben;-bna -o;prid.
+samogibnost;-i;ž
+samoglasen;-sna -o;prid.
+samoglasnik;-a;m
+samoglasniški;-a -o;prid.
+samoglav;;tudi
+samoglavec;-vca;m
+samoglavnost;-i;ž
+samoglavost;-i;ž
+samogolt;-a;m
+samogolten;-tna -o;prid.
+samogoltnež;-a;m
+samogoltnik;-a;m
+samogoltnost;-i;ž
+samogotovost;-i;ž
+samogovor;-a;m
+samogradnja;-e;ž
+samograja;-e;ž
+samohodec;-dca;m
+samohoden;;in
+samohodka;-e;ž
+samohoten;-tna -o;prid.
+samohotnost;-i;ž
+samohranilka;-e;ž
+samohvala;-e;ž
+samohvalen;-lna -o;prid.
+samoindukcija;-e;ž
+samoiniciativa;-e;ž
+samoiniciativen;-vna -o;prid.
+samoiniciativnost;-i;ž
+samoironija;-e;ž
+samoizbira;-e;ž
+samoizbiren;-rna -o;prid.
+samoiznièenje;-a;s
+samoiznièiti se;-im se;dov.
+samoizobrazba;-e;ž
+samoizobraževalen;-lna -o;prid.
+samoizobraževanje;-a;s
+samoizpopolnjevanje;-a;s
+samoizpoved;-i;ž
+samoizpoveden;-dna -o;prid.
+samokolnica;-e;ž
+samokolnièar;-ja;m
+samokontrola;-e;ž
+samokopiren;-rna -o;prid.
+samokov;-ova;m
+samokres;;in
+samokresen;-sna -o;prid.
+samokrilnik;-a;m
+samokritièen;-èna -o;prid.
+samokritiènost;-i;ž
+samokritika;-e;ž
+samolasten;-tna -o;prid.
+samolastnost;-i;ž
+samolepen;-pna -o;prid.
+samolepilen;-lna -o;prid.
+samolepljiv;-a -o;prid.
+samolet;-a -o;prid.
+samoljuben;-bna -o;prid.
+samoljubje;-a;s
+samoljubnež;-a;m
+samoljubnost;-i;ž
+samomasaža;-e;ž
+samomat;-a;m
+samomor;-ora;m
+samomorilec;-lca;m
+samomorilen;-lna -o;prid.
+samomorilka;-e;ž
+samomorilnost;-i;ž
+samomorilski;-a -o;prid.
+samomorilstvo;-a;s
+samomorstvo;-a;s
+samomuèenje;-a;s
+samomuèilec;-lca;m
+samomuèilen;-lna -o;prid.
+samomuèitelj;-a;m
+samomuèiteljski;-a -o;prid.
+samonakladalen;-lna -o;prid.
+samonamen;-ena;m
+samonapajalnik;-a;m
+samonaslada;-e;ž
+samonastajanje;-a;s
+samonastanek;-nka;m
+samonavijalec;-lca;m
+samonegacija;-e;ž
+samonemški;-a -o;prid.
+samonikel;-kla -o;prid.
+samoniklost;-i;ž
+samonog;-a -o;prid.
+samonosen;-sna -o;prid.
+samonosilen;-lna -o;prid.
+samoobdolžitev;-tve;ž
+samooblasten;-tna -o;prid.
+samooblikovanje;-a;s
+samoobnavljanje;-a;s
+samooboževanje;-a;s
+samoobramba;-e;ž
+samoobramben;-bna -o;prid.
+samoobseben;;tudi
+samoobsebiumevnost;-i;ž
+samoobsodba;-e;ž
+samoobtožba;-e;ž
+samoobtoževanje;-a;s
+samoobvladanje;-a;s
+samoobvladovanje;-a;s
+samoocenjevanje;-a;s
+samooèišèenje;-a;s
+samooèišèevanje;-a;s
+samooèitanje;-a;s
+samooèitek;-tka;m
+samoodgovornost;-i;ž
+samoodloèanje;-a;s
+samoodloèba;-e;ž
+samoodloèitev;-tve;ž
+samoodpoved;-i;ž
+samoodpovedovanje;-a;s
+samoodrekanje;-a;s
+samoodseben;;tudi
+samoodtujenost;;in
+samoodtujevanje;-a;s
+samoodtujitev;-tve;ž
+samoohrana;-e;ž
+samoohranitev;-tve;ž
+samoohranitven;-a -o;prid.
+samook;-a;m
+samookužba;-e;ž
+samoomama;-e;ž
+samoomejevanje;-a;s
+samoomejitev;-tve;ž
+samoopazovanje;-a;s
+samooploden;-dna -o;prid.
+samooploditev;-tve;ž
+samooplojevanje;-a;s
+samoopraševanje;-a;s
+samooprašitev;-tve;ž
+samoopredelitev;-tve;ž
+samoorganiziranje;-a;s
+samooskrba;-e;ž
+samooskrbovanje;-a;s
+samooskrumba;-e;ž
+samoosvešèanje;-a;s
+samoosvešèenost;-i;ž
+samoosvobajanje;-a;s
+samoosvoboditev;-tve;ž
+samoovadba;-e;ž
+samopal;;in
+samopaš;;in
+samopaš;;in
+samopašen;-šna -o;prid.
+samopašiti;-im;nedov.
+samopašnež;-a;m
+samopašnik;-a;m
+samopašnost;-i;ž
+samopaštvo;-a;s
+samoperka;-e;ž
+samoplaènik;-a;m
+samopohaba;-e;ž
+samopomilovanje;-a;s
+samopomoè;-i;in
+samopomoèen;-èna -o;prid.
+samoponižanje;-a;s
+samoponiževanje;-a;s
+samoporajanje;-a;s
+samoposeben;;tudi
+samoposebiumevnost;-i;ž
+samoposmeh;;in
+samopostrežba;-e;ž
+samopostrežen;-žna -o;prid.
+samopostrežnica;-e;ž
+samopoškodba;-e;ž
+samopotrditev;-tve;ž
+samopotrjevanje;-a;s
+samopovelièevanje;-a;s
+samopozaba;-e;ž
+samopozaben;-bna -o;prid.
+samopozabljenje;-a;s
+samopožrtvovalnost;-i;ž
+samopožrtvovanje;-a;s
+samoprecenjevanje;-a;s
+samopremagovanje;-a;s
+samopreprièevanje;-a;s
+samoprerašèanje;-a;s
+samopreskrba;-e;ž
+samopresoja;-e;ž
+samoprevara;-e;ž
+samoprid;-a;m
+samopriden;-dna -o;prid.
+samopridnež;-a;m
+samopridnost;-i;ž
+samoprispevek;-vka;m
+samoprodaja;-e;ž
+samoprodajen;-jna -o;prid.
+samorasel;-sla -o;prid.
+samoraslost;-i;ž
+samorasten;-tna -o;prid.
+samorastnica;-e;ž
+samorastnik;-a;m
+samorastniški;-a -o;prid.
+samorastništvo;-a;s
+samorastnost;-i;ž
+samorašè;-a -e;prid.
+samorazdejanje;-a;s
+samorazkroj;-oja;m
+samorazumevanje;-a;s
+samorazvijalen;-lna -o;prid.
+samorazvoj;-oja;m
+samorefleksija;-e;ž
+samoreprodukcija;-e;ž
+samoreševalec;-lca;m
+samorezen;-zna -o;prid.
+samoroèen;;in
+samorodek;-dka;m
+samoroden;-dna -o;prid.
+samorodnica;-e;ž
+samorodnost;-i;ž
+samorog;-a;m
+samorok;-a;m
+samorok;-a -o;prid.
+samorokec;-kca;m
+samoseben;;tudi
+samosevec;-vca;m
+samoseven;-vna -o;prid.
+samosevka;-e;ž
+samosežig;-a;m
+samosilen;-lna -o;prid.
+samosilje;-a;s
+samosilnež;-a;m
+samosilnica;-e;ž
+samosilnik;-a;m
+samosilniški;-a -o;prid.
+samosilništvo;-a;s
+samosilnost;-i;ž
+samosilstvo;-a;s
+samoskrumba;-e;ž
+samoskrunstvo;-a;s
+samoslepilo;-a;s
+samoslovenec;-nca;m
+samoslovenski;-a -o;prid.
+samoslovenstvo;-a;s
+samosmiljenje;-a;s
+samospev;;in
+samospoštovanje;-a;s
+samospoznanje;-a;s
+samospoznavanje;-a;s
+samosprožilec;-lca;m
+samosprožilen;-lna -o;prid.
+samosrajèen;-èna -o;prid.
+samosrajènik;-a;m
+samost;-i;ž
+samostalen;-lna -o;prid.
+samostalnik;-a;m
+samostalniški;-a -o;prid.
+samostalnost;-i;ž
+samostan;-a;m
+samostanec;-nca;m
+samostanka;-e;ž
+samostanski;-a -o;prid.
+samostojeè;-eèa -e;prid.
+samostojen;-jna -o;prid.
+samostojnež;-a;m
+samostojnež;-a;m
+samostojnost;-i;ž
+samostra;-e;ž
+samostrel;;tudi
+samostrelec;-lca;m
+samostrelen;-lna -o;prid.
+samostrina;-e;ž
+samosvest;-i;ž
+samosvesten;-tna -o;prid.
+samosvoj;-oja -e;prid.
+samosvojec;-jca;m
+samosvojost;-i;ž
+samošen;-šna -o;prid.
+samota;-e;ž
+samotar;-ja;m
+samotarec;-rca;m
+samotariti;-im;nedov.
+samotarjenje;-a;s
+samotarka;-e;ž
+samotarski;-a -o;prid.
+samotarstvo;-a;s
+samoteèen;-èna -o;prid.
+samoten;-tna -o;prid.
+samotež;-a;m
+samotež;;tudi
+samotežen;;in
+samotežnice;;tudi
+samotežnik;;tudi
+samotija;-e;ž
+samotišèe;-a;s
+samotnež;-a;m
+samotnica;-e;ž
+samotnik;-a;m
+samotnjak;-a;m
+samotnost;-i;ž
+samotok;;in
+samotolažba;-e;ž
+samotretji;-a -e;prid.
+samotrpinèenje;-a;s
+samotržen;-žna -o;prid.
+samouèenje;-a;s
+samougodje;-a;s
+samouk;-a;m
+samouk;-a -o;prid.
+samoukinja;-e;ž
+samoumeven;-vna -o;prid.
+samoumevnost;-i;ž
+samoumljiv;-a -o;prid.
+samounièenje;-a;s
+samounièevalen;-lna -o;prid.
+samounièevanje;-a;s
+samounièevati se;-ujem se;nedov.
+samounièiti se;-im se;dov.
+samouprava;-e;ž
+samoupraven;-vna -o;prid.
+samoupravljalen;-lna -o;prid.
+samoupravljanje;-a;s
+samoupravljati;-am;nedov.
+samoupravljavec;-vca;m
+samoupravljavski;-a -o;prid.
+samoupravnost;-i;ž
+samouresnièenje;-a;s
+samouresnièevanje;-a;s
+samouresnièevati se;-ujem se;nedov.
+samouresnièitev;-tve;ž
+samousmiljenje;-a;s
+samouški;-a -o;prid.
+samouštvo;-a;s
+samoutrjevanje;-a;s
+samouveljavljanje;-a;s
+samouverjenost;-i;ž
+samovanje;-a;s
+samovar;-a;in
+samovarovanje;;in
+samovarovanje;;in
+samovati;-ujem;nedov.
+samovelièje;-a;s
+samoveznica;-e;ž
+samovid;-a;m
+samovlada;-e;ž
+samovladanje;-a;s
+samovladar;-ja;m
+samovladarica;-e;ž
+samovladje;-a;s
+samovnetje;-a;s
+samovnetljiv;-a -o;prid.
+samovnjak;-a;m
+samovoden;-a -o;prid.
+samovolja;-e;ž
+samovoljen;-jna -o;prid.
+samovoljnež;-a;m
+samovoljnost;-i;ž
+samovozen;;in
+samovšeèen;-èna -o;prid.
+samovšeènost;-i;ž
+samovzbujanje;-a;s
+samovzgoja;-e;ž
+samovžig;-a;m
+samozadosten;-tna -o;prid.
+samozadostnost;-i;ž
+samozadošèenost;-i;ž
+samozadovoljen;-jna -o;prid.
+samozadovoljevanje;-a;s
+samozadovoljevati se;-ujem se;nedov.
+samozadovoljitev;-tve;ž
+samozadovoljiv;-a -o;prid.
+samozadovoljnost;-i;ž
+samozadovoljstvo;-a;s
+samozagledanost;-i;ž
+samozaklopen;-pna -o;prid.
+samozaljubljen;-a -o;prid.
+samozaljubljenost;-i;ž
+samozaložba;-e;ž
+samozaložnik;-a;m
+samozanièevanje;-a;s
+samozanikanje;-a;s
+samozapiralen;-lna -o;prid.
+samozaporen;-rna -o;prid.
+samozastrupljenje;-a;s
+samozašèita;-e;ž
+samozašèiten;-tna -o;prid.
+samozataja;-e;ž
+samozatajen;-jna -o;prid.
+samozatajevalen;-lna -o;prid.
+samozatajevanje;-a;s
+samozaupanje;-a;s
+samozavedanje;-a;s
+samozaverovanost;;in
+samozavest;-i;ž
+samozavesten;-tna -o;prid.
+samozavestnež;-a;m
+samozavestnost;-i;ž
+samozaveznica;-e;ž
+samozaznava;-e;ž
+samozažig;-a;m
+samoznak;-a;m
+samozvan;-a -o;prid.
+samozvanec;-nca;m
+samozvanka;-e;ž
+samozvanski;-a -o;prid.
+samozvanstvo;-a;s
+samoživ;-a -o;prid.
+samoživost;-i;ž
+samožrtvovanje;-a;s
+sampan;-a;m
+samski;-a -o;prid.
+samskost;-i;ž
+samstvo;-a;s
+samsvoj;;gl.
+samši;;prisl.
+samum;-a;m
+samuraj;-a;m
+sanacija;-e;ž
+sanacijski;;tudi
+sanatorij;-a;m
+sanatorijski;-a -o;prid.
+sanèopansovski;-a -o;prid.
+sandal;-a;m
+sandal;-a;m
+sandala;-e;ž
+sandalet;-a;m
+sandaleta;-e;ž
+sandalica;-e;ž
+sandalov;-a -o;prid.
+sandalovina;-e;ž
+sandolin;-a;m
+sandolina;-e;ž
+sanenec;-nca;m
+sanforizirati;-am;nedov. in dov.
+sangvinièen;-èna -o;prid.
+sangviniènost;-i;ž
+sangvinik;-a;m
+sanhedrin;-a;m
+sani;-i;ž mn.
+sanica;-e;ž
+sanik;-a;m
+sanina;-e;ž
+saninec;-nca;m
+saniranje;-a;s
+sanirati;-am;dov. in nedov.
+sanišèe;-a;s
+sanitarec;-rca;m
+sanitaren;-rna -o;prid.
+sanitarije;-rij;ž mn.
+sanitejec;-jca;m
+sanitejka;-e;ž
+sanitejski;-a -o;prid.
+saniteta;-e;ž
+saniteten;-tna -o;prid.
+sanitetski;-a -o;prid.
+sanja;-e;ž
+sanjaè;-a;m
+sanjanje;-a;s
+sanjar;-ja;m
+sanjarija;-e;ž
+sanjariti;-im;nedov.
+sanjarjenje;-a;s
+sanjarka;-e;ž
+sanjarski;-a -o;prid.
+sanjarstvo;-a;s
+sanjaški;-a -o;prid.
+sanjaštvo;-a;s
+sanjati;-am;nedov.
+sanjav;-ava -o;prid.
+sanjavec;-vca;m
+sanjavost;-i;ž
+sanjski;-a -o;prid.
+sanjskost;-i;ž
+sankaè;-a;m
+sankališèe;-a;s
+sankanje;-a;s
+sankar;-ja;m
+sankaški;-a -o;prid.
+sankaštvo;-a;s
+sankati se;-am se;nedov.
+sankcija;-e;ž
+sankcijski;-a -o;prid.
+sankcioniranje;-a;s
+sankcionirati;-am;dov. in nedov.
+sanke;sank;ž mn.
+sanktuarij;-a;m
+sanpavlija;-e;ž
+sansevierija;-e;ž
+sanskilot;-a;m
+sanskilotski;-a -o;prid.
+sanskrit;-a;m
+sanskrt;-a;m
+sanskrtski;-a -o;prid.
+santonin;-a;m
+sapa;-e;ž
+saper;-ja;m
+saperlot;;in
+sapfièen;-èna -o;prid.
+sapica;-e;ž
+sapiti;-im;nedov.
+sapljati;-am;nedov.
+sapnica;-e;ž
+sapnièen;-èna -o;prid.
+sapnik;-a;m
+sapon;-a;m
+saponin;-a;m
+sapra;;medm.
+saprabolski;-a -o;prid.
+saprabolt;;in
+sapralot;;in
+sapramenski;-a -o;prid.
+saprament;;medm.
+sapramiš;;medm.
+sapramiš;;medm.
+saprlot;;in
+saprofit;-a;m
+sapropel;-a;m
+sarabanda;-e;ž
+sarafan;-a;m
+saraj;-a;m
+sarajevski;-a -o;prid.
+saranèa;-e;ž
+sardela;-e;ž
+sardelen;-lna -o;prid.
+sardelica;-e;ž
+sardina;-e;ž
+sardon;-a;m
+sardonièen;-èna -o;prid.
+sardoniks;-a;m
+sardonski;-a -o;prid.
+sargaški;-a -o;prid.
+sari;-ja;m
+sarin;-a;m
+sarkast;-a;m
+sarkastièen;-èna -o;prid.
+sarkazem;-zma;m
+sarkofag;-a;m
+sarkom;-a;m
+sarma;-e;ž
+sarong;-a;m
+sartrovski;-a -o;prid.
+saskija;-e;ž
+saški;-a -o;prid.
+sat;-a;tudi
+satan;-a;m
+satanela;-e;ž
+satanist;-a;m
+satanizem;-zma;m
+satanka;-e;ž
+satanov;-a -o;prid.
+satanski;-a -o;prid.
+satanstvo;-a;s
+sataraš;-a;m
+satast;-a -o;prid.
+satelit;-a;m
+sateliten;-tna -o;prid.
+satelitski;-a -o;prid.
+satemski;-a -o;prid.
+saten;-a;m
+saten;-tna -o;prid.
+satenast;-a -o;prid.
+satinet;-a;m
+satinirati;-am;nedov. in dov.
+satir;;in
+satira;-e;ž
+satirièen;-èna -o;prid.
+satiriènost;-i;ž
+satirik;-a;m
+satirika;-e;ž
+satirski;;in
+satisfakcija;-e;ž
+satje;-a;stil.
+satnica;-e;ž
+satnik;-a;m
+satovje;-a;s
+satovnat;-a -o;prid.
+satovnica;-e;ž
+satovnjak;-a;m
+satrap;-a;m
+satrapija;-e;ž
+saturacija;-e;ž
+saturacijski;-a -o;prid.
+saturirati;-am;dov. in nedov.
+saturnalije;-lij;ž mn.
+saturnizem;-zma;m
+sauvignon;;tudi
+savana;-e;ž
+Savel;-vla;m
+savinjèan;-a;m
+savinjski;-a -o;prid.
+savna;-e;ž
+savnati se;-am se;nedov.
+savski;-a -o;prid.
+scagati;-am;dov.
+scalen;-lna -o;prid.
+scalina;-e;ž
+scalnica;-e;ž
+scalnik;-a;m
+scalo;-a;s
+scanina;-e;ž
+scanje;-a;s
+scapan;-a -o;prid.
+scartati;-am;dov.
+scati;šèijem;tudi
+scediti;-im;dov.
+scefrati;-am;dov.
+scejati;-am;nedov.
+scela;;prisl.
+scelen;-lna -o;prid.
+sceliti;;in
+sceloma;;prisl.
+sceloma;;prisl.
+scementirati;-am;dov.
+scena;-e;ž
+scenarij;-a;m
+scenarijski;-a -o;prid.
+scenarist;-a;m
+scenaristka;-e;ž
+scenerija;-e;ž
+scenièen;-èna -o;prid.
+scenograf;-a;m
+scenografija;-e;ž
+scenografka;-e;ž
+scenografski;-a -o;prid.
+scenski;-a -o;prid.
+scepetati;-am;dov.
+scepiti;;in
+scesten;-tna -o;prid.
+scherzando;;prisl.
+scherzo;-a;m
+schleglovski;-a -o;prid.
+schopenhauerski;-a -o;prid.
+schulvereinski;-a -o;prid.
+science fiction;science fictiona;m
+scientist;-a;m
+scientistièen;-èna -o;prid.
+scientizem;-zma;m
+Scila;-e;ž
+scila;-e;ž
+scimiti se;;gl.
+scindaps;;in
+scintilacija;-e;ž
+scintilacijski;-a -o;prid.
+scizeti;;gl.
+scmariti;-im;dov.
+scmeriti se;-im se;dov.
+scoprati;;gl.
+scrkljanec;-nca;m
+scrkljanka;-e;ž
+scrkljanost;-i;ž
+scrkljati;-am;dov.
+scufati;-am;dov.
+scukati;-am;dov.
+scureti;ipd.;gl.
+scuzati;;gl.
+scveteti;-im;dov.
+scvreti;scvrem;dov.
+scvrkniti se;-em se;dov.
+sèajmati se;-am se;tudi
+sèakati;-am;dov.
+sèakavati;-am;nedov.
+sèakovati;-ujem;nedov.
+sèasom;;in
+sèasoma;;prisl.
+sèebljati;;gl.
+sèeèkati;-am;dov.
+sèediti;;gl.
+sèeliti;-im;in
+sèeljustati;;gl.
+sèemeriti se;-im se;tudi
+sèenèati;;gl.
+sèesati;;gl.
+sèesnati;;gl.
+sèiniti;-im;in
+sèista;;prisl.
+sèistiti;ipd.;gl.
+sèivkati;;gl.
+sèmeriti se;;gl.
+sèofotati;-am;dov.
+sèrneti;-im;dov.
+sèrniti se;-im se;in
+sèrtati;;gl.
+sèrvièiti;-im;dov.
+sèvekati;;gl.
+se;;zaim.
+se...;;gl.
+sealskin;-a;m
+seansa;-e;ž
+sebe;;gl.
+sebe...;;prvi del zloženk
+sebeljuben;-bna -o;prid.
+sebenjek;-jka;m
+seber;-bra;m
+sebevidnost;-i;ž
+sebièen;-èna -o;prid.
+sebièje;-a;s
+sebiènež;-a;m
+sebiènica;-e;ž
+sebiènik;-a;m
+sebiènost;-i;ž
+seboreja;-e;ž
+secesija;-e;ž
+secesijski;-a -o;prid.
+secesionist;-a;m
+secesionistièen;-èna -o;prid.
+secesionizem;-zma;m
+seciranje;-a;s
+secirati;-am;nedov. in dov.
+seciren;-rna -o;prid.
+secirnica;-e;ž
+seè;-a;m
+seèa;-e;ž
+seèekrvnost;-i;ž
+seèevod;-oda;m
+seèi;seèem;nedov.
+seèi;sežem;dov.
+seèila;-èil;s mn.
+seèišèe;-a;s
+seèka;-e;ž
+seènik;-a;m
+seènina;-e;ž
+seèninski;-a -o;prid.
+seènja;-e;ž
+sed;-a;m
+sedaj;;prisl.
+sedajle;;prisl.
+sedalen;-lna -o;prid.
+sedalka;-e;ž
+sedalo;-a;s
+sedanji;-a -e;prid.
+sedaj;;prisl.
+sedajle;;prisl.
+sedalen;-lna -o;prid.
+sedalka;-e;ž
+sedalo;-a;s
+sedanji;-a -e;prid.
+sedanjik;-a;m
+sedanjiški;-a -o;prid.
+sedanjost;-i;ž
+sedanjosten;-tna -o;prid.
+sedati;-am;nedov.
+sedativ;-a;m
+sedativen;-vna -o;prid.
+sedeèki;;prisl.
+sedelce;-a;s
+sedeln;-a -o;prid.
+sedelski;-a -o;prid.
+sedem;sedmih;štev.
+sedem...;;ali
+sedemdeset;-ih;štev.
+sedemdeseti;-a -o;štev.
+sedemdesetletnica;-e;ž
+sedemdesetletnik;-a;m
+sedemdesetmetrski;-a -o;prid.
+sedemdneven;-vna -o;prid.
+sedemka;-e;ž
+sedemkrat;;prisl.
+sedemleten;-tna -o;prid.
+sedemletka;-e;ž
+sedemmetrovka;-e;ž
+sedemnajst;;in
+sedemnajsti;;in
+sedemnajstleten;;in
+sedemnajstletnica;;in
+sedemnajststo;;in
+sedemosminski;-a -o;prid.
+sedemsto;;štev. neskl.
+sedemtisoèak;-a;m
+sedemuren;-rna -o;prid.
+seden;-dna -o;prid.
+sedenje;-a;s
+sedeti;-im;nedov.
+sedevati;-am;nedov.
+sedež;-a;m
+sedežen;-žna -o;prid.
+sedežnica;-e;ž
+sediment;-enta;m
+sedimentacija;-e;ž
+sedimentacijski;;tudi
+sedimentaren;-rna -o;prid.
+sedimenten;-tna -o;prid.
+sedimentirati;-am;nedov. in dov.
+sedisvakanca;-e;ž
+sedišèe;-a;s
+sedlanje;-a;s
+sedlar;-ja;m
+sedlarski;-a -o;prid.
+sedlarstvo;-a;s
+sedlast;-a -o;prid.
+sedlati;-am;nedov.
+sedlo;-a;s
+sedmer;-a -o;štev.
+sedmerec;;in
+sedmerica;-e;ž
+sedmero;;štev. neskl.
+sedmero...;;prvi del zloženk
+sedmerokotnik;-a;m
+sedmerokrak;;in
+sedmeroramen;-mna -o;prid.
+sedmerozvezdje;-a;s
+sedmi;-a -o;štev.
+sedmica;-e;ž
+sedmiè;;prisl.
+sedmina;-e;ž
+sedminar;-ja;m
+sedmorica;-e;ž
+sedmošolec;-lca;m
+sedmošolka;-e;ž
+sedmošolski;-a -o;prid.
+sednica;-e;ž
+sedum;-a;m
+sef;;tudi
+sefard;-a;m
+seganjati;-am;nedov.
+segati;-am;nedov.
+segedin;;neskl. pril.
+segedinski;-a -o;prid.
+segljaj;-a;m
+segment;-enta;m
+segmentacija;-e;ž
+segmentalen;-lna -o;prid.
+segmenten;-tna -o;prid.
+segmentirati;-am;nedov. in dov.
+segnati;-ženem;dov.
+segniti;-em;dov.
+segniti;-gnijem;dov.
+segolten;-tna -o;prid.
+segoltnež;-a;m
+segregacija;-e;ž
+segregacija;-e;ž
+segregacijski;-a -o;prid.
+segregacionist;-a;m
+segregirati;-am;nedov. in dov.
+segreti;-grejem;dov.
+segretje;-a;s
+segrevalen;-lna -o;prid.
+segrevanje;-a;s
+segrevati;-am;nedov.
+seguidilla;-e;ž
+sehlica;;in
+sehniti;ipd.;gl.
+seizmièen;-èna -o;prid.
+seizmiènost;-i;ž
+seizmograf;-a;m
+seizmografski;-a -o;prid.
+seizmogram;-a;m
+seizmolog;-a;m
+seizmologija;-e;ž
+seizmološki;-a -o;prid.
+seizmometer;-tra;m
+seja;-e;ž
+sejaè;-a;m
+sejaèa;-e;ž
+sejalec;-lca;m
+sejalen;-lna -o;prid.
+sejalka;-e;ž
+sejalnica;-e;ž
+sejalnik;-a;m
+sejanèek;-èka;m
+sejanec;-nca;m
+sejanka;-e;ž
+sejem;-jma;m
+sejemski;-a -o;prid.
+sejen;-jna -o;prid.
+sejm;;tudi
+sejmar;-ja;m
+sejmarina;-e;ž
+sejmariti;-im;nedov.
+sejmarka;-e;ž
+sejmarski;-a -o;prid.
+sejmišèe;-a;s
+sejmišèen;-èna -o;prid.
+sejmnina;-e;ž
+sejmovati;-ujem;nedov.
+sejmarski;-a -o;prid.
+sejmišèe;-a;s
+sejmišèen;-èna -o;prid.
+sejmnina;-e;ž
+sejmovati;-ujem;nedov.
+sejnina;-e;ž
+sek;seka;m
+sek;;medm.
+seka;-e;ž
+sekaè;-a;m
+sekaèa;-e;ž
+sekalce;-a;s
+sekalec;-lca;m
+sekalen;-lna -o;prid.
+sekalnica;-e;ž
+sekalnik;-a;m
+sekalo;-a;s
+sekanec;-nca;m
+sekanica;-e;ž
+sekanje;-a;s
+sekans;-a;m
+sekanta;-e;ž
+sekanten;-tna -o;prid.
+sekaški;-a -o;prid.
+sekati;-am;nedov.
+sekatura;-e;ž
+sekcija;-e;ž
+sekcijski;;tudi
+sekel;-kla;m
+sekira;-e;ž
+sekiranje;-a;s
+sekirast;-a -o;prid.
+sekirati;-am;nedov.
+sekirica;-e;ž
+sekirišèe;-a;s
+sekljaè;-a;m
+sekljanje;-a;s
+sekljati;-am;nedov.
+sekovski;-a -o;prid.
+sekrecija;-e;ž
+sekret;-a;m
+sekretar;-ja;m
+sekretariat;-a;m
+sekretarka;-e;ž
+sekretarski;-a -o;prid.
+sekretarstvo;-a;s
+sekreter;-ja;m
+seks;-a;m
+seksagezimalen;-lna -o;prid.
+seksagezimalen;-lna -o;prid.
+seksapilen;-lna -o;prid.
+seksati;-am;nedov.
+seksi;;prid. neskl.
+seksolog;-a;m
+seksologija;-e;ž
+seksološki;-a -o;prid.
+seksta;-e;ž
+sekstant;-a;m
+sekstet;-a;m
+seksualen;-lna -o;prid.
+seksualizem;-zma;m
+seksualizirati;-am;nedov. in dov.
+seksualnost;-i;ž
+seksus;-a;m
+sekt;-a;m
+sekta;-e;ž
+sektant;-a;m
+sektantski;-a -o;prid.
+sektantstvo;-a;s
+sektar;-ja;m
+sektaš;-a;m
+sektašenje;-a;s
+sektašiti;-im;nedov.
+sektaški;-a -o;prid.
+sektaštvo;-a;s
+sektor;-ja;m
+sektorski;-a -o;prid.
+sekularen;-rna -o;prid.
+sekularizacija;-e;ž
+sekularizirati;-am;dov. in nedov.
+sekulja;-e;ž
+sekunda;-e;ž
+sekundant;-a;m
+sekundaren;-rna -o;prid.
+sekundarij;-a;m
+sekundarnost;-i;ž
+sekunden;-dna -o;prid.
+sekundirati;-am;nedov.
+sekundnik;-a;m
+sekvenca;-e;ž
+sekvenèen;-èna -o;prid.
+sekvester;-tra;m
+sekvestracija;-e;ž
+sekvestrirati;-am;dov. in nedov.
+sekvoja;-e;ž
+sel;sla;m
+selcirati;-am;nedov.
+selec;-lca;m
+selekcija;-e;ž
+selekcijski;;tudi
+selekcionar;-ja;m
+selekcionirati;-am;nedov. in dov.
+selekcionist;-a;m
+selektiven;-vna -o;prid.
+selektivnost;-i;ž
+selektor;-ja;m
+selektorski;-a -o;prid.
+selen;-a;m
+selenit;-a;m
+selenografija;-e;ž
+selenografski;-a -o;prid.
+selenov;-a -o;prid.
+selenski;-a -o;prid.
+selfaktor;-ja;m
+selfmademan;-a;m
+selilen;-lna -o;prid.
+selišèe;-a;s
+selitev;-tve;ž
+seliti;selim;nedov.
+selitven;-a -o;prid.
+selivec;-vca;m
+selivka;-e;ž
+seljak;-a;m
+seljan;;in
+seljenje;-a;s
+selka;-e;ž
+selo;-a;s
+selotejp;-a;m
+selski;-a -o;prid.
+sem;;prisl.
+semafor;-ja;in
+semaforen;-rna -o;prid.
+semaforizacija;-e;ž
+semaforizirati;-am;dov. in nedov.
+semaforski;-a -o;prid.
+semanji;-a -e;prid.
+semanjski;-a -o;prid.
+semantem;-a;m
+semantièen;-èna -o;prid.
+semantika;-e;ž
+semaziologija;-e;ž
+semaziološki;-a -o;prid.
+seme;-ena;in
+semenar;;tudi
+semenarna;-e;ž
+semenarski;;in
+semenarstvo;;in
+semenarski;;in
+semenarstvo;;in
+semenat;-ata -o;prid.
+semence;;tudi
+semenèek;-èka;m
+semenèica;-e;ž
+semenènica;-e;ž
+semenènik;-a;m
+semenica;;tudi
+semenišèan;-a;m
+semenišèe;-a;s
+semenišènik;-a;m
+semeniški;-a -o;prid.
+semenitev;-tve;ž
+semeniti;-im;nedov.
+semenj;-mnja;in
+semenjak;-a;m
+semenje;-a;s
+semenjski;-a -o;prid.
+semenka;-e;ž
+semenogojec;-jca;m
+semenogojski;-a -o;prid.
+semenogojstvo;-a;s
+semenojed;-a -o;prid.
+semenovka;-e;ž
+semenovod;-oda;m
+semenski;;tudi
+semester;-tra;m
+semestralen;-lna -o;prid.
+semestrski;-a -o;prid.
+semi...;;prvi del zloženk
+semifinale;-a;m
+semifinalist;-a;m
+seminar;-ja;m
+seminarist;-a;m
+seminarski;-a -o;prid.
+semintja;;in
+semiolog;-a;m
+semiologija;-e;ž
+semiotièen;-èna -o;prid.
+semiotika;-e;ž
+semiš;-a;m
+semit;-a;m
+semitolog;-a;m
+semitski;-a -o;prid.
+semkaj;;prisl.
+semle;;prisl.
+semleti;-meljem;dov.
+semnjar;-ja;m
+sempatja;;in
+sempervivum;-a;m
+semtertja;;in
+sen;sna;m
+sena;-e;ž
+senat;-a;m
+senaten;-tna -o;prid.
+senator;-ja;m
+senatorka;-e;ž
+senatorski;-a -o;prid.
+senatski;-a -o;prid.
+senca;-e;ž
+sence;-a;in
+sencoljuben;-bna -o;prid.
+senèen;-èna -o;prid.
+senèenje;-a;s
+senèica;-e;ž
+senèilo;-a;s
+senèina;;in
+senèiti;-im;nedov.
+senèka;-e;ž
+senènat;-a -o;prid.
+senènica;-e;ž
+senèka;-e;ž
+senènat;-a -o;prid.
+senènica;-e;ž
+senènica;-e;ž
+senènik;-a;m
+senènina;-e;ž
+senènost;-i;ž
+sendviè;-a;m
+sene;sen;ž mn.
+senec;-nca;in
+senegalski;;in
+senen;-a -o;prid.
+senešal;-a;m
+senica;-e;ž
+senik;-a;m
+senilen;-lna -o;prid.
+senilnež;-a;m
+senilnost;-i;ž
+senior;-ja;m
+seniorat;-a;m
+seniorka;-e;ž
+senjak;-a;m
+senjor;;in
+senjora;;in
+senjora;;in
+senjorita;;in
+seno;-a;s
+senoseè;;in
+senosek;;in
+senov;-a -o;prid.
+senožet;-eta;m
+senožet;;in
+senski;-a -o;prid.
+sentenca;-e;ž
+sentenèen;-èna -o;prid.
+sentenènost;-i;ž
+sentiment;-enta;m
+sentimentalec;-lca;m
+sentimentalen;-lna -o;prid.
+sentimentaliti;-im;nedov.
+sentimentalizem;-zma;m
+sentimentalka;-e;ž
+sentimentalnež;-a;m
+sentimentalnost;-i;ž
+senzacija;-e;ž
+senzacijski;;tudi
+senzacionalen;-lna -o;prid.
+senzacionalistièen;-èna -o;prid.
+senzacionalizem;-zma;m
+senzacionalnost;-i;ž
+senzal;-a;m
+senzibilen;-lna -o;prid.
+senzibilizacija;-e;ž
+senzibilizator;-ja;m
+senzibilizirati;-am;dov. in nedov.
+senzibilnost;-i;ž
+senzitiven;-vna -o;prid.
+senzitivnost;-i;ž
+senzomotorièen;-èna -o;prid.
+senzor;-ja;m
+senzoren;-rna -o;prid.
+senzorièen;-èna -o;prid.
+senzualen;-lna -o;prid.
+senzualist;-a;m
+senzualistièen;-èna -o;prid.
+senzualizem;-zma;m
+senzualnost;-i;ž
+senžermenski;-a -o;prid.
+sep;sepa;m
+separacija;-e;ž
+separacijski;;tudi
+separat;-a;m
+separaten;-tna -o;prid.
+separatist;-a;m
+separatistièen;-èna -o;prid.
+separatizem;-zma;m
+separator;-ja;m
+separe;-ja;m
+separiranje;-a;s
+separirati;-am;nedov. in dov.
+sepija;-e;ž
+sepijast;-a -o;prid.
+sepsa;-e;ž
+septakord;;in
+september;-bra;m
+septembrski;-a -o;prid.
+septet;-a;m
+septièen;-èna -o;prid.
+septika;-e;ž
+septikemija;-e;ž
+septima;-e;ž
+septuaginta;-e;ž
+sepulkralen;-lna -o;prid.
+ser;-a;m
+ser;-a -o;prid.
+sera;-e;ž
+seraf;-a;m
+serafin;-a;m
+serafski;-a -o;prid.
+seraj;-a;m
+serak;-a;m
+serast;-a -o;prid.
+serbus;;medm.
+serdar;-ja;m
+serec;-rca;m
+serenada;-e;ž
+serenaden;-dna -o;prid.
+serialen;-lna -o;prid.
+serialka;-e;ž
+sericin;-a;m
+seriga;-e;ž
+serigrafija;-e;ž
+serigrafski;-a -o;prid.
+serija;-e;ž
+serijski;-a -o;prid.
+seriozen;-zna -o;prid.
+serioznost;-i;ž
+serologija;-e;ž
+serološki;-a -o;prid.
+seroterapija;-e;ž
+seroza;-e;ž
+serozen;-zna -o;prid.
+serozen;-zna -o;prid.
+serpentin;-a;m
+serpentina;-e;ž
+serpentinast;-a -o;prid.
+serum;-a;m
+serumski;-a -o;prid.
+server;;in
+servet;-a;m
+serveta;-e;ž
+servieta;-e;ž
+servietka;-e;ž
+servilen;-lna -o;prid.
+servilnost;-i;ž
+serviranje;-a;s
+servirati;-am;dov. in nedov.
+serviren;-rna -o;prid.
+servirka;-e;ž
+servis;-a;m
+servis;-a;m
+servisen;-sna -o;prid.
+serviser;-ja;m
+servisirati;-am;dov. in nedov.
+servit;-a;m
+servitut;-a;m
+servitut;-a;m
+servituten;-tna -o;prid.
+servo...;;prvi del zloženk
+servomehanizem;-zma;m
+servomotor;;in
+servus;;medm.
+serž;-a;m
+seržant;-a;m
+seržast;-a -o;prid.
+sesaè;-a;m
+sesahel;-hla -o;prid.
+sesalec;-lca;m
+sesalen;-lna -o;prid.
+sesalka;-e;ž
+sesalnik;-a;m
+sesalo;-a;s
+sesalski;-a -o;prid.
+sesanje;-a;s
+sesati;-am;nedov.
+sesec;-sca;in
+sesed;-eda;m
+sesedanje;-a;s
+sesedati se;-am se;nedov.
+sesedek;-dka;m
+sesedenica;-e;ž
+sesedenje;-a;s
+sesedlina;-e;ž
+sesek;-ska;in
+sesekati;-am;dov.
+sesekljanina;-e;ž
+sesekljati;-am;dov.
+sesen;-sna -o;in
+sesesti se;-sedem se;dov.
+sesija;-e;ž
+sesilen;-lna -o;prid.
+sesip;-a;m
+sesipanje;-a;s
+sesipati se;-am se;tudi
+sesirek;-rka;m
+sesiriti se;-im se;dov.
+sesirjati se;-am se;nedov.
+seskoèiti;-skoèim;dov.
+seskok;-oka;in
+seskov;-a -o;tudi
+sesljanje;-a;s
+sesljati;-am;nedov.
+sesljavec;-vca;m
+sestajanje;-a;s
+sestajati;-am;nedov.
+sestajati se;-am se;nedov.
+sestanek;-nka;m
+sestankar;-ja;m
+sestankariti;-im;nedov.
+sestankarski;-a -o;prid.
+sestankarstvo;-a;s
+sestankovati;-ujem;nedov.
+sestati;-stojim;nedov.
+sestati se;-stanem se;dov.
+sestav;-ava;m
+sestava;-e;ž
+sestavek;-vka;m
+sestaven;-vna -o;prid.
+sestavina;-e;ž
+sestavitelj;-a;m
+sestavitev;-tve;ž
+sestaviti;-im;dov.
+sestavljaè;-a;m
+sestavljalen;-lna -o;prid.
+sestavljalnica;-e;ž
+sestavljanje;-a;s
+sestavljanka;-e;ž
+sestavljati;-am;nedov.
+sestavljavec;-vca;m
+sestavljavka;-e;ž
+sestavljenka;-e;ž
+sestavljenost;-i;ž
+sestavljiv;-a -o;prid.
+sestavljivost;-i;ž
+sestavnica;-e;ž
+sestavnost;-i;ž
+sesterc;;tudi
+sesti;sedem;dov.
+sestoj;-oja;m
+sestop;-opa;m
+sestopanje;-a;s
+sestopati;-am;nedov.
+sestopen;-pna -o;prid.
+sestopiti;;in
+sestra;-e;stil.
+sestradanec;-nca;m
+sestradanka;-e;ž
+sestradanost;-i;ž
+sestradati;-am;dov.
+sestrana;-e;ž
+sestranec;-nca;m
+sestrašiti;-im;in
+sestrelitev;-tve;ž
+sestreliti;-im;dov.
+sestreljevati;-ujem;nedov.
+sestrgati;-am;tudi
+sestrica;;in
+sestriè;-ièa;m
+sestrièi;-strižem;dov.
+sestrièna;-e;ž
+sestrinski;-a -o;prid.
+sestrski;-a -o;prid.
+sestrstvo;-a;s
+sesukati;-am;in
+sesuljica;-e;ž
+sesušiti se;-im se;dov.
+sesuti se;-sujem se;dov.
+sesutina;-e;ž
+sesutje;-a;s
+sesuvati;-am;tudi
+sesuvati se;-am se;nedov.
+sesvaljkati;-am;in
+sesvedrati;-am;dov.
+sešitek;-tka;m
+sešiti;-šijem;dov.
+sešivati;-am;nedov.
+sešteti;-štejem;dov.
+seštevalen;-lna -o;prid.
+seštevalka;-e;ž
+seštevalnik;-a;m
+seštevalnik;-a;m
+seštevanec;-nca;m
+seštevanje;-a;s
+seštevanka;-e;ž
+seštevati;-am;nedov.
+seštevek;-vka;m
+sešteven;-vna -o;prid.
+seter;-tra;tudi
+setev;-tve;ž
+setven;-a -o;prid.
+setvenica;-e;ž
+setvina;-e;ž
+sev;-a;m
+sev;;in
+sev;-i;ž
+sevalec;-lca;m
+sevalen;-lna -o;prid.
+sevalnik;-a;m
+sevalo;-a;s
+sevanje;-a;s
+sevati;-am;nedov.
+sevdalinka;-e;ž
+seve;;prisl.
+sevdalinka;-e;ž
+seve;;prisl.
+seveda;;prisl.
+sever;-a;m
+severen;-rna -o;prid.
+severišèe;-a;s
+severnica;-e;ž
+severnik;-a;m
+severnjak;-a;m
+severnjakinja;-e;ž
+severnjaški;-a -o;prid.
+severno...;;prvi del zloženk
+severnoameriški;-a -o;prid.
+severnoevropski;-a -o;prid.
+severnonemški;-a -o;prid.
+severnoslovanski;-a -o;prid.
+severo...;;ali
+severoseverozahod;-oda;m
+severovzhod;-oda;m
+severovzhoden;-dna -o;prid.
+severovzhodnik;-a;m
+severozahod;-oda;m
+severozahoden;-dna -o;prid.
+severozahodnik;-a;m
+sevka;-e;ž
+sevnica;-e;ž
+sevnik;-a;m
+sevniti;-em;dov.
+sevrski;-a -o;prid.
+sex appeal;-a;m
+sezam;-a;m
+sezamov;-a -o;prid.
+sezati;-am;nedov.
+sezidati;;tudi
+sezija;-e;ž
+sezijski;-a -o;prid.
+seznam;;in
+seznamek;-mka;m
+seznanitev;-tve;ž
+seznaniti;;in
+seznanjanje;-a;s
+seznanjati;-am;nedov.
+seznanjenje;-a;s
+seznanjenost;-i;ž
+seznati;-am;dov.
+sezona;-e;ž
+sezonec;-nca;m
+sezonka;-e;ž
+sezonski;-a -o;prid.
+sezonstvo;-a;s
+sezoreti;-im;dov.
+sezoriti;-im;dov.
+sezuti;sezujem;dov.
+sezuvaè;-a;m
+sezuvanje;-a;s
+sezuvati;-am;nedov.
+sežagati;-am;dov.
+sežaj;-a;m
+sežemati;-am;nedov.
+seženj;-žnja;m
+seženjski;-a -o;prid.
+sežeti;-žmem;tudi
+sežetost;-i;ž
+sežgati;-žgem;dov.
+sežig;-a;m
+sežigalen;-lna -o;prid.
+sežigališèe;-a;s
+sežigalnica;-e;ž
+sežiganje;-a;s
+sežigati;-am;nedov.
+sežigen;-gna -o;prid.
+sežvrkljati;-am;dov.
+sfabricirati;-am;dov.
+sfalerit;-a;m
+sfanatizirati;-am;dov.
+sfantazirati;-am;tudi
+sfaširati;-am;dov.
+sfen;-a;m
+sfera;-e;ž
+sferen;-rna -o;prid.
+sferièen;-èna -o;prid.
+sferoid;-a;m
+sferski;-a -o;prid.
+sfiltrirati;-am;dov.
+sfinga;-e;ž
+sfingast;-a -o;prid.
+sfinkter;-ja;in
+sfižiti;-im;dov.
+sfofotati;-am;tudi
+sformalizirati;-am;dov.
+sformirati;-am;dov.
+sformulirati;-am;dov.
+sforsirati;-am;dov.
+sfragistika;-e;ž
+sfrèati;-im;dov.
+sfrèen;-a -o;prid.
+sfrfoleti;-im;dov.
+sfrfotati;-am;tudi
+sfrfotavati;-am;nedov.
+sfrfrati;-am;dov.
+sfrizirati;-am;dov.
+sfrkati;-am;dov.
+sfrkniti se;-em se;dov.
+sfrleti;-im;dov.
+sfrotirati;-am;dov.
+sfumato;-a;m
+sgraffito;-a;m
+shajališèe;-a;s
+shajanje;-a;s
+shajati;-am;nedov.
+shajati;-am;tudi
+shajati se;-am se;nedov.
+shakespearolog;-a;m
+shakespearologija;-e;ž
+shakespearoslovec;-vca;m
+shakespearski;-a -o;prid.
+shawovski;-a -o;prid.
+shema;-e;ž
+shematièen;-èna -o;prid.
+shematiènost;-i;ž
+shematika;-e;ž
+shematizacija;-e;ž
+shematizem;-zma;m
+shematiziranje;-a;s
+shematiziranje;-a;s
+shematizirati;-am;nedov. in dov.
+shematski;-a -o;prid.
+sherry;-ja;m
+shirati;ipd.;gl.
+shiteti;-im;dov.
+shizma;-e;ž
+shizmatièen;-èna -o;prid.
+shizmatik;-a;m
+shizofren;-a -o;prid.
+shizofrenièen;-èna -o;prid.
+shizofrenija;-e;ž
+shizofrenik;-a;m
+shizoiden;-dna -o;prid.
+shizotimen;-mna -o;prid.
+shladiti;-im;dov.
+shlajevati;-ujem;nedov.
+shlapeti;ipd.;gl.
+shod;shoda;in
+shoddy;;gl.
+shoden;-dna -o;prid.
+shodišèe;-a;s
+shoditi;shodim;dov.
+shodnica;-e;ž
+sholar;-ja;m
+sholarski;-a -o;prid.
+sholast;-a;m
+sholasticizem;-zma;m
+sholastièen;-èna -o;prid.
+sholastik;-a;m
+sholastika;-e;ž
+sholija;-e;ž
+shorts;;ž mn. neskl.
+short story;;ž neskl.
+show;;tudi
+shramba;-e;ž
+shramben;-bna -o;prid.
+shrambica;-e;ž
+shranek;-nka;m
+shranitev;-tve;ž
+shraniti;;in
+shranjati;-am;nedov.
+shranjevalec;-lca;m
+shranjevalen;-lna -o;prid.
+shranjevalnica;-e;ž
+shranjevanje;-a;s
+shranjevati;-ujem;nedov.
+shreban;-a -o;prid.
+shrlina;-e;ž
+shrumeti;-im;dov.
+shrustati;-am;dov.
+shuda;;prisl.
+shuditi;-im;tudi
+shujskati;-am;dov.
+shujšanje;-a;s
+shujšanost;-i;ž
+shujšati;-am;dov.
+shujšati se;-am se;dov.
+shujševalen;-lna -o;prid.
+shuliti se;-im se;dov.
+si;;m neskl.
+si;;èlenek
+sial;-a;m
+siamka;-e;ž
+siamski;-a -o;prid.
+sibarit;-a;m
+sibaritski;-a -o;prid.
+sibila;-e;ž
+sibilant;-a;m
+sibilski;-a -o;prid.
+Sibirija;-e;ž
+sibirija;-e;ž
+sibirski;-a -o;prid.
+sicer;;tudi
+siceršnji;-a -e;prid.
+sicilijanka;-e;ž
+sicilijanski;-a -o;prid.
+sièanje;-a;s
+sièati;-im;nedov.
+siènik;-a;m
+siderièen;-èna -o;prid.
+siderit;-a;m
+sideroza;-e;ž
+siderski;-a -o;prid.
+sidol;-a;m
+sidranje;-a;s
+sidrast;-a -o;prid.
+sidrati;-am;nedov. in dov.
+sidrce;-a;s
+sidrišèe;-a;s
+sidrn;-a -o;prid.
+sidro;-a;s
+siemens;;in
+Siemens-Martinov;-a -o;prid.
+siena;-e;ž
+sienit;-a;m
+sienski;-a -o;prid.
+siesta;-e;ž
+sifila;-e;ž
+sifila;-e;ž
+sifilida;-e;ž
+sifilis;-a;m
+sifilisen;-sna -o;prid.
+sifilitièen;-èna -o;prid.
+sifilitik;-a;m
+sifla;-e;ž
+sifon;-a;m
+sifonar;-ja;m
+sifonarica;-e;ž
+sifonka;-e;ž
+sifonofora;-e;ž
+sifonski;-a -o;prid.
+siga;-e;ž
+siganje;-a;s
+sigast;-a -o;prid.
+sigati;-am;nedov.
+sigav;-a -o;prid.
+sigilarija;-e;ž
+sigla;-e;ž
+sigma;-e;ž
+sigmatizem;-zma;m
+sigmatski;-a -o;prid.
+signal;-a;m
+signalen;-lna -o;prid.
+signalist;-a;m
+signalizacija;-e;ž
+signalizacijski;-a -o;prid.
+signalizator;-ja;m
+signaliziranje;-a;s
+signalizirati;-am;nedov. in dov.
+signalnik;-a;m
+signalnovarnosten;-tna -o;prid.
+signatar;-ja;m
+signatura;-e;ž
+signet;-a;m
+signifikant;-a;m
+signifikanten;-tna -o;prid.
+signifikat;-a;m
+signiranje;-a;s
+signirati;-am;dov. in nedov.
+signor;-a;tudi
+signora;;tudi
+signorija;;tudi
+sigov;-a -o;prid.
+siguren;-rna -o;prid.
+sigurnost;-i;ž
+sij;-a;m
+sijaj;-a;m
+sijaj;-a;m
+sijajen;-jna -o;prid.
+sijajina;-e;ž
+sijajnik;-a;m
+sijajnost;-i;ž
+sijalka;-e;ž
+sijanje;-a;s
+sijati;sijem;nedov.
+sik;-a;m
+sik;;in
+sika;-e;in
+sikanje;-a;s
+sikati;-am;stil.
+sikativ;-a;m
+sikav;-a -o;prid.
+sikavec;-vca;m
+sikh;-a;m
+sikniti;-em;dov.
+sikofant;-a;m
+sikomora;-e;ž
+sikomorov;-a -o;prid.
+sila;-e;ž
+sila;;prisl.
+silabar;-ja;m
+silabièen;-èna -o;prid.
+silabotonièen;-èna -o;prid.
+silak;-a;m
+silaški;-a -o;prid.
+silaštvo;-a;s
+silaža;-e;ž
+silažen;-žna -o;prid.
+sileks;-a;m
+silen;-a;m
+silen;-lna -o;prid.
+silf;-a;m
+silfa;-e;ž
+silfida;-e;ž
+silhueta;-e;ž
+silhueten;-tna -o;prid.
+silicij;-a;m
+silicijev;-a -o;prid.
+silikat;-a;m
+silikaten;-tna -o;prid.
+silikon;-a;m
+silikonski;-a -o;prid.
+silikoza;-e;ž
+silikozen;-zna -o;prid.
+siliranje;-a;s
+silirati;-am;nedov. in dov.
+silirati;-am;nedov. in dov.
+siliti;-im;nedov.
+silj;-a;m
+silje;-a;s
+siljenje;-a;s
+siljenka;-e;ž
+silnik;-a;m
+silnost;-i;ž
+silo;;prisl.
+silobran;-a;m
+silogistièen;-èna -o;prid.
+silogistika;-e;ž
+silogizem;-zma;m
+silokombajn;-a;m
+siloma;;prisl.
+silomer;-a;m
+siloreznica;-e;ž
+silos;-a;m
+silosen;-sna -o;prid.
+silostroj;-oja;m
+silovati;-ujem;nedov.
+silovit;-a -o;prid.
+silovitež;-a;m
+silovit;-a -o;prid.
+silovitež;-a;m
+silovitost;-i;ž
+silumin;-a;m
+silur;-ja;m
+silurski;-a -o;prid.
+silvanec;-nca;m
+silvatièen;-èna -o;prid.
+silvester;-tra;m
+Silvestrov;-a -o;prid.
+silvestrovanje;-a;s
+silvestrovati;-ujem;nedov.
+silvestrovo;-ega;s
+silvestrovski;-a -o;prid.
+silvestrski;-a -o;prid.
+silvin;-a;m
+simbiont;-a;m
+simbiotièen;-èna -o;prid.
+simbioza;-e;ž
+simbol;-a;m
+simbolen;-lna -o;prid.
+simbolièen;-èna -o;prid.
+simboliènost;-i;ž
+simbolièen;-èna -o;prid.
+simboliènost;-i;ž
+simbolika;-e;ž
+simbolist;-a;m
+simbolistièen;-èna -o;prid.
+simbolistika;-e;ž
+simbolizacija;-e;ž
+simbolizem;-zma;m
+simboliziranje;-a;s
+simbolizirati;-am;nedov. in dov.
+simbolnost;-i;ž
+simca;-e;ž
+simens;;gl.
+simentalka;-e;ž
+simentalski;-a -o;prid.
+simetrala;-e;ž
+simetralen;-lna -o;prid.
+simetrièen;-èna -o;prid.
+simetriènost;-i;ž
+simetrija;-e;ž
+simetrijski;-a -o;prid.
+simfonièen;-èna -o;prid.
+simfonija;-e;ž
+simfonik;-a;m
+simonija;-e;ž
+simpatetièen;-èna -o;prid.
+simpatièen;-èna -o;prid.
+simpatija;-e;ž
+simpatijski;-a -o;prid.
+simpatikus;;in
+simpatizer;-ja;m
+simpatizerka;-e;ž
+simpatizerski;-a -o;prid.
+simpatizerstvo;-a;s
+simpatiziranje;-a;s
+simpatizirati;-am;nedov.
+simpleks;-a;m
+simplificirati;-am;dov. in nedov.
+simplifikacija;-e;ž
+simplonekspres;;in
+simplonski;-a -o;prid.
+simpozij;-a;m
+simpozijski;-a -o;prid.
+simptom;-a;m
+simptomatièen;-èna -o;prid.
+simptomatika;-e;ž
+simptomatologija;-e;ž
+simptomatski;-a -o;prid.
+simptomen;-mna -o;prid.
+simulacija;-e;ž
+simulant;;in
+simulantka;-e;ž
+simulantstvo;-a;s
+simulator;-ja;m
+simuliranje;-a;s
+simulirati;-am;nedov. in dov.
+simultan;-a -o;prid.
+simultanka;-e;ž
+simultanost;-i;ž
+simultanski;-a -o;prid.
+sin;-a;stil.
+sinagoga;-e;ž
+sinantrop;;in
+sinapsa;-e;ž
+sinèek;-èka;m
+sinèiè;-a;m
+sindik;-a;m
+sindikalen;-lna -o;prid.
+sindikalist;-a;m
+sindikalistièen;-èna -o;prid.
+sindikalistka;-e;ž
+sindikalizem;-zma;m
+sindikat;-a;m
+sindikaten;-tna -o;prid.
+sindrom;-a;m
+sine;-ta;m
+sineast;;gl.
+sinedrij;-a;m
+sinek;-nka;m
+sinekdoha;-e;ž
+sinekura;-e;ž
+sinekuren;-rna -o;prid.
+sinekurist;-a;m
+sinemaskop;ipd.;gl.
+sinerama;;gl.
+sinergija;-e;ž
+sinergizem;-zma;m
+sinestetièen;-èna -o;prid.
+sinestezija;-e;ž
+singerica;-e;ž
+single;-a;m
+singonija;-e;ž
+singular;-a;m
+singularen;;tudi
+singularnost;;tudi
+sinhron;-a -o;prid.
+sinhronièen;-èna -o;prid.
+sinhronija;-e;ž
+sinhronistièen;-èna -o;prid.
+sinhronizacija;-e;ž
+sinhronizacijski;-a -o;prid.
+sinhronizem;-zma;m
+sinhronizirati;-am;dov. in nedov.
+sinhronost;-i;ž
+sinhronski;-a -o;prid.
+sinhrotron;-a;m
+sinica;-e;ž
+siniceza;-e;ž
+sinièica;-e;ž
+sinièji;-a -e;prid.
+sinièka;-e;ž
+siniti;-em;dov.
+sinj;-a;m
+sinj;-i;ž
+sinjast;-a -o;prid.
+sinjebradec;-dca;m
+sinjeok;-a -o;prid.
+sinjeti;-im;nedov.
+sinjevkast;;in
+sinji;-a -e;prid.
+sinjina;-e;ž
+sinjiti;-im;nedov.
+sinjkast;-a -o;prid.
+sinjor;ipd.;gl.
+sinklinala;-e;ž
+sinko;-a;m
+sinkolit;-a;m
+sinkopa;-e;ž
+sinkopa;-e;ž
+sinkopiran;-a -o;prid.
+sinkretièen;-èna -o;prid.
+sinkretistièen;-èna -o;prid.
+sinkretizem;-zma;m
+sinkron;ipd.;gl.
+sinoèi;;prisl.
+sinoènji;-a -e;prid.
+sinod;-a;m
+sinoda;-e;ž
+sinodalen;-lna -o;prid.
+sinodski;-a -o;prid.
+sinolog;-a;m
+sinologija;-e;ž
+sinonim;-a;m
+sinonimen;-mna -o;prid.
+sinonimika;-e;ž
+sinonimnost;-i;ž
+sinopsis;-a;m
+sinoptièen;-èna -o;prid.
+sinoptik;-a;m
+sinov;-a -o;prid.
+sinovec;;in
+sinovski;;in
+sinovstvo;;in
+sintagma;-e;ž
+sintagmatski;-a -o;prid.
+sintaksa;-e;ž
+sintaktièen;-èna -o;prid.
+sintaktik;-a;m
+sinter;-tra;m
+sintetièen;-èna -o;prid.
+sintetiènost;-i;ž
+sintetik;-a;m
+sintetika;-e;ž
+sintetizator;-ja;m
+sintetizirati;-am;nedov. in dov.
+sintetski;-a -o;prid.
+sinteza;-e;ž
+sintezen;-zna -o;prid.
+sintranje;-a;s
+sintrati;-am;nedov.
+sinus;-a;m
+sinusen;-sna -o;prid.
+sinusoida;-e;ž
+sinusov;-a -o;prid.
+sionizem;ipd.;gl.
+sip;-a;m
+sipaè;-a;m
+sipalen;-lna -o;prid.
+sipalnik;-a;m
+sipanje;-a;s
+sipast;-a -o;prid.
+sipati;-am;tudi
+sipèen;-èna -o;prid.
+sipec;-pca;m
+sipek;-pka;m
+sipek;-pka -o;prid.
+sipina;-e;ž
+sipinast;-a -o;prid.
+sipinski;-a -o;prid.
+sipišèe;-a;s
+sipka;-e;ž
+sipkast;-a -o;prid.
+sipkost;-i;ž
+sipljiv;-a -o;prid.
+sipnica;-e;ž
+siporeks;-a;m
+sir;sira;m
+sipnica;-e;ž
+siporeks;-a;m
+sir;sira;m
+sir;-a;m
+sirar;;tudi
+sirarica;-e;ž
+sirariti;-im;nedov.
+sirarna;-e;ž
+sirarnica;-e;ž
+sirarski;-a -o;prid.
+sirarstvo;-a;s
+sirast;-a -o;prid.
+sirèek;-èka;m
+sirèje;-a;s
+sirdar;-ja;m
+sirek;-rka;m
+siren;-rna -o;prid.
+sirena;-e;ž
+sirenski;-a -o;prid.
+sirijski;-a -o;prid.
+sirilo;-a;s
+siringa;-e;ž
+sirinks;-a;m
+sirišèe;-a;s
+sirišèe;-a;s
+sirišèen;-èna -o;prid.
+sirišènik;-a;m
+siriti;-im;nedov.
+sirjenje;-a;s
+sirka;-e;ž
+sirkov;-a -o;prid.
+sirkovina;;in
+sirnica;-e;ž
+sirnina;-e;ž
+siroèad;-i;ž
+siroèe;-eta;s
+siromaèe;-eta;s
+siromaèek;-èka;m
+siromaèija;-e;ž
+siromaèka;-e;ž
+siromak;-a;m
+siromašèina;-e;ž
+siromašen;-šna -o;prid.
+siromašenje;-a;s
+siromašenje;;in
+siromašeti;-im;nedov.
+siromašiti;-im;nedov.
+siromaški;-a -o;prid.
+siromaški;-a -o;prid.
+siromašnost;-i;ž
+siromaštvo;-a;s
+sirošèina;-e;ž
+siroštvo;-a;s
+sirota;-e;ž
+sirotèe;-ta;s
+sirote;-eta;s
+sirotec;-tca;m
+sirotej;-a;m
+sirotek;-tka;m
+siroten;-tna -o;prid.
+sirotenje;-a;s
+siroteti;-im;nedov.
+sirotež;-a;m
+sirotica;-e;ž
+sirotina;-e;ž
+sirotinski;-a -o;prid.
+sirotišèe;-a;s
+sirotišèe;-a;s
+sirotišnica;-e;ž
+sirotišniški;-a -o;prid.
+sirotka;-e;ž
+sirotka;-e;ž
+sirotkast;-a -o;prid.
+sirotkin;-a -o;prid.
+sirotle;-ta;s
+sirotnik;-a;m
+sirotnost;-i;ž
+sirotstvo;-a;s
+sirov;-a -o;prid.
+sirovec;-vca;m
+sirovka;-e;ž
+sirski;-a -o;prid.
+siršèe;-a;s
+sirup;-a;m
+sirupast;-a -o;prid.
+sis;-a;m
+sisal;-a;m
+sisalski;-a -o;prid.
+sistem;-a;m
+sistematièen;-èna -o;prid.
+sistematiènost;-i;ž
+sistematik;-a;m
+sistematika;-e;ž
+sistematizacija;-e;ž
+sistematiziranje;-a;s
+sistematizirati;-am;dov. in nedov.
+sistematiziranje;-a;s
+sistematizirati;-am;dov. in nedov.
+sistematski;-a -o;prid.
+sistemen;-mna -o;prid.
+sistemizacija;-e;ž
+sistemiziranje;-a;s
+sistemizirati;-am;dov. in nedov.
+sistemski;-a -o;prid.
+sistemskost;-i;ž
+sistirati;-am;dov. in nedov.
+sistola;-e;ž
+sit;sita -o;prid.
+sita;-e;ž
+sitar;-ja;m
+sitar;-ja;m
+sitarski;-a -o;prid.
+sitarstvo;-a;s
+sitast;-a -o;prid.
+sitce;-a;s
+siten;-tna -o;prid.
+sitež;-a;m
+sititi;-im;nedov.
+sitje;-a;s
+sitka;-e;ž
+sitka;-e;ž
+sitnariti;-im;nedov.
+sitnarjenje;-a;s
+sitnež;-a;m
+sitnica;-e;ž
+sitnoba;-e;ž
+sitnoben;-bna -o;prid.
+sitnost;-i;ž
+sito;-a;s
+sitost;-i;ž
+sitotisk;-a;m
+sitovec;-vca;m
+situacija;-e;ž
+situacijski;-a -o;prid.
+situiranje;-a;s
+situiranost;-i;ž
+situirati;-am;dov. in nedov.
+situla;-e;ž
+siv;-a -o;stil.
+sivèek;-èka;m
+sivec;-vca;m
+siven;-vna -o;prid.
+sivenje;-a;s
+siveti;-im;nedov.
+siveti;-im;nedov.
+sivica;-e;ž
+sivina;-e;ž
+siviti;-im;nedov.
+sivka;-e;ž
+sivkast;-a -o;prid.
+sivkin;-a -o;prid.
+sivko;-a;m
+sivkov;-a -o;prid.
+sivobrad;;in
+sivobradec;-dca;m
+sivodlak;;in
+sivoglav;;in
+sivolas;;in
+sivolasec;-sca;m
+sivook;-a -o;prid.
+sivor;-ja;m
+sivost;-i;ž
+sivota;-e;ž
+Sizifov;-a -o;prid.
+sizifovski;-a -o;prid.
+sizifovstvo;-a;s
+siže;-ja;m
+sizifovstvo;-a;s
+siže;-ja;m
+sižejski;-a -o;prid.
+skabies;-a;m
+skabioza;-e;ž
+skadenca;-e;ž
+skaditi;ipd.;gl.
+skadrirati;-am;dov.
+skafander;-dra;m
+skafandrist;-a;m
+skafandrski;-a -o;prid.
+skaj;-a;m
+skajast;-a -o;prid.
+skakaè;-a;m
+skakaèica;-e;ž
+skakalec;-lca;m
+skakalen;-lna -o;prid.
+skakalin;-a;m
+skakališèe;-a;s
+skakalka;-e;ž
+skakalnica;-e;ž
+skakanje;;in
+skakaški;-a -o;prid.
+skakaštvo;-a;s
+skakati;;in
+skakav;-ava -o;prid.
+skakavec;-vca;m
+skakljaj;-a;m
+skakljati;-am;nedov.
+skakljav;-ava -o;prid.
+skakoma;;prisl.
+skakucati;-am;nedov.
+skakun;-a;m
+skakutati;-am;nedov.
+skalar;-ja;m
+skalar;-ja;m
+skalaren;-rna -o;prid.
+skalarka;-e;ž
+skalast;-a -o;prid.
+skalaš;-a;m
+skalaški;-a -o;prid.
+skalba;-e;ž
+skald;-a;m
+skalica;-e;ž
+skalina;-e;ž
+skalica;-e;ž
+skalina;-e;ž
+skalje;-a;s
+skalkulirati;;gl.
+skalnat;-a -o;prid.
+skalnica;-e;ž
+skalnik;-a;m
+skalnjak;;tudi
+skalovec;-vca;m
+skalovit;-a -o;prid.
+skalovje;-a;s
+skalp;-a;m
+skalpel;-a;m
+skalpirati;-am;dov. in nedov.
+skamneti;-im;in
+skandij;-a;m
+skandinavistika;-e;ž
+skandinavski;-a -o;prid.
+skalp;-a;m
+skalpel;-a;m
+skalpirati;-am;dov. in nedov.
+skamneti;-im;in
+skandij;-a;m
+skandinavistika;-e;ž
+skandinavski;-a -o;prid.
+skandiranje;-a;s
+skandirati;-am;nedov.
+skansen;-a;m
+skapati;-am;in
+skapljati;-am;nedov.
+skapljati;-am;dov.
+skarabej;-a;m
+skarikirati;-am;dov.
+skašljati;-am;dov.
+skatološki;-a -o;prid.
+skavsati se;-am se;dov.
+skavt;-a;m
+skavtinja;-e;ž
+skavtizem;-zma;m
+skavtka;-e;ž
+skavtinja;-e;ž
+skavtizem;-zma;m
+skavtka;-e;ž
+skavtski;-a -o;prid.
+skavtstvo;-a;s
+skaza;-e;ž
+skazati;;tudi
+skazek;-zka;m
+skazitev;;tudi
+skaziti;-im;tudi
+skazovati;-ujem;nedov.
+skaženost;;tudi
+skeè;-a;m
+skedenj;-dnja;in
+skedenjski;-a -o;prid.
+skednjen;-a -o;prid.
+skelenje;-a;s
+skelet;-a;m
+skeleten;-tna -o;prid.
+skeleti;-im;nedov.
+skeleton;-a;m
+skelina;-e;ž
+skepitev;-tve;ž
+skepiti se;-im se;dov.
+skepljenje;-a;s
+skepsa;-e;ž
+skepticizem;-zma;m
+skeptièen;-èna -o;prid.
+skeptiènost;-i;ž
+skeptik;-a;m
+skesanec;-nca;m
+skesanost;-i;ž
+skesati se;-am se;dov.
+skesnina;-e;ž
+skezati;-am;nedov.
+skibus;-a;m
+skica;-e;ž
+skicen;-cna -o;prid.
+skiciranje;-a;s
+skicirati;-am;dov. in nedov.
+skicirka;-e;ž
+skicozen;-zna -o;prid.
+skidati;-am;dov.
+skidati;-am;in
+skif;-a;m
+skifist;-a;m
+skij&#x00F6;ring;-a;m
+skimati;-am;dov.
+skimavati;-am;nedov.
+skimovati;-ujem;nedov.
+skioptièen;-èna -o;prid.
+skioptikon;-a;m
+skip;-a;m
+skipeti;-im;dov.
+skira;-e;ž
+skirica;-e;ž
+skiro;-ja;tudi
+skisanec;-nca;m
+skisati;-am;dov.
+skisniti;-em;dov.
+skita;-e;ž
+skitalec;-lca;m
+skitalstvo;-a;s
+skitati se;-am se;nedov.
+sklad;sklada;m
+skladaè;-a;m
+skladalec;-lca;m
+skladalnica;;tudi
+skladanec;-nca;m
+skladanica;-e;ž
+skladanje;-a;s
+skladast;-a -o;prid.
+skladatelj;-a;m
+skladateljevanje;-a;s
+skladateljica;-e;ž
+skladateljski;-a -o;prid.
+skladati;-am;nedov.
+skladavnica;-e;ž
+skladba;-e;ž
+skladbica;-e;ž
+skladenjski;-a -o;prid.
+skladišèe;-a;s
+skladišèen;-èna -o;prid.
+skladišèenje;-a;s
+skladišèiti;-im;nedov.
+skladišènica;-e;ž
+skladišènik;-a;m
+skladišènina;-e;ž
+skladje;-a;s
+skladnica;-e;ž
+skladnja;-e;ž
+skladnost;-i;ž
+skladoven;;tudi
+skladovit;-a -o;prid.
+skladovje;;tudi
+skladovnica;;tudi
+sklamfati;-am;dov.
+sklanja;-e;ž
+sklamfati;-am;dov.
+sklanja;-e;ž
+sklanjanje;-a;s
+sklanjatev;-tve;ž
+sklanjati;-am;nedov.
+sklanjatven;-a -o;prid.
+sklapljanje;-a;s
+sklapljati;-am;nedov.
+sklapouhati;-am;tudi
+sklapouškati;-am;dov.
+sklasiti se;-im se;in
+sklasti;skladem;dov.
+sklat;;in
+sklati;skoljem;dov.
+sklatiti;;in
+skleca;-e;ž
+sklecavati;-am;nedov.
+sklecniti;-em;dov.
+skleèka;-e;ž
+skleda;-e;ž
+skledast;-a -o;prid.
+skledèka;-e;ž
+skledica;-e;ž
+skledièar;-ja;m
+skledièar;-ja;m
+skledièast;-a -o;prid.
+skledièka;-e;ž
+sklediènica;;tudi
+skledka;-e;ž
+sklednica;-e;ž
+sklednik;-a;m
+sklednjak;-a;m
+skledolizec;-zca;m
+skledoliznik;-a;m
+sklejiti;-im;tudi
+sklenica;;in
+sklenina;-e;ž
+skleninast;-a -o;prid.
+sklenitelj;-a;m
+sklenitev;-tve;ž
+skleniti;sklenem;dov.
+sklenjenost;-i;ž
+sklenka;-e;ž
+sklenoluskavka;-e;ž
+sklep;sklepa;m
+sklepalen;-lna -o;prid.
+sklepanec;-nca;m
+sklepanje;-a;s
+sklepati;-am;nedov.
+sklepati;sklepljem;dov.
+sklepèen;-èna -o;prid.
+sklepènost;-i;ž
+sklepec;-pca;m
+sklepen;-pna -o;prid.
+sklepetati;;gl.
+sklepnica;-e;ž
+sklepnik;-a;m
+sklerotièen;-èna -o;prid.
+sklerotiènost;-i;ž
+sklerotik;-a;m
+skleroza;-e;ž
+sklerozen;-zna -o;prid.
+sklesati;ipd.;gl.
+sklestek;-tka;m
+sklestiti;-im;dov.
+sklešèek;-èka;m
+sklic;-a;m
+sklicanje;-a;s
+sklicatelj;-a;m
+sklicati;sklièem;dov.
+sklicavati;-am;nedov.
+sklicen;-cna -o;prid.
+sklicevalec;-lca;m
+sklicevalen;-lna -o;prid.
+sklicevanje;-a;s
+sklicevati;-ujem;nedov.
+sklistirati;-am;dov.
+skliti;sklijem;dov.
+sklizast;-a -o;prid.
+sklizav;-a -o;prid.
+sklizek;-zka -o;prid.
+sklizniti;-em;dov.
+skljuèenost;-i;ž
+skljuèiti;-im;dov.
+skljuvati;-am;in
+sklobasati;-am;dov.
+sklobek;-bka;in
+sklobuštrati;-am;dov.
+sklofutati;-am;dov.
+sklokotati;-am;in
+sklon;sklona;m
+sklonilo;-a;s
+sklonina;-e;ž
+skloniti;sklonim;dov.
+skloniti se;sklonem se;dov.
+sklonjenost;-i;ž
+sklonljiv;-a -o;prid.
+sklonljivost;-i;ž
+sklonski;;tudi
+sklop;sklopa;in
+sklopec;;in
+sklopek;;gl.
+sklopen;-pna -o;prid.
+sklopitev;-tve;ž
+sklopiti;;in
+sklopka;-e;ž
+sklopljenje;-a;s
+sklopljiv;-a -o;prid.
+skoba;-e;ž
+skobacati se;-am se;dov.
+skobaliti se;-im se;dov.
+skobast;-a -o;prid.
+skobèevka;-e;ž
+skobec;-bca;m
+skobelj;-blja;m
+skobeljn;-a -o;prid.
+skobeljnica;-e;ž
+skobeljnik;-a;m
+skobljanec;-nca;m
+skobljanje;-a;s
+skobljar;-ja;m
+skobljati;-am;nedov.
+skobljiè;-a;m
+skobotovec;-vca;m
+skoèen;-èna -o;prid.
+skoèen;;tudi
+skoèimožek;-žka;m
+skoèiti;skoèim;dov.
+skoèljiv;-a -o;prid.
+skoènica;-e;ž
+skoènik;-a;m
+skoènina;-e;ž
+skoènost;;tudi
+skodela;-e;ž
+skodelica;-e;ž
+skodelièast;-a -o;prid.
+skodla;-e;ž
+skodlar;-ja;m
+skodlast;-a -o;prid.
+skodlica;-e;ž
+skodrati;-am;dov.
+skodrèati;-am;in
+skojevec;-vca;m
+skojevka;-e;ž
+skojevski;-a -o;prid.
+skok;skoka;in
+skokec;;in
+skokica;;in
+skokodakati;;gl.
+skokoma;;in
+skokonog;-a -o;prid.
+skokot;-ota;m
+skokovit;-a -o;prid.
+skokovitost;-i;ž
+skolèiti;;gl.
+skolebati se;-am se;dov.
+skolehati se;-am se;in
+skolioza;-e;ž
+skolke;skolk;ž mn.
+skolobariti se;-im se;dov.
+skomandirati;-am;dov.
+skombinirati;-am;dov.
+skomercializiranost;-i;ž
+skomercializirati;-am;dov.
+skomig;-a;m
+skomiganje;-a;s
+skomigati;-am;nedov.
+skomigniti;-em;dov.
+skomigovati;-ujem;nedov.
+skomina;-e;ž
+skominast;-a -o;prid.
+skominati;-am;nedov.
+skominav;-a -o;prid.
+skomizg;-a;m
+skomizganje;-a;s
+skomizgati;-am;nedov.
+skomizgniti;-em;dov.
+skomizgovati;-ujem;nedov.
+skomizniti;-em;dov.
+skomljati;-am;nedov.
+skomplicirati;-am;dov.
+skomponirati;-am;dov.
+skompostirati;-am;dov.
+skonca;;prisl.
+skonca;;predl.
+skoncem;;predl.
+skoncema;;prisl.
+skoncema;;predl.
+skoncentriranost;-i;ž
+skoncentrirati;-am;dov.
+skonèati;-am;dov.
+skonèavati;-am;nedov.
+skonèen;-èna -o;prid.
+skonèevati;-ujem;nedov.
+skonènica;-e;ž
+skonstruiranost;;tudi
+skonstruirati;-am;tudi
+skonto;-a;m
+skontro;-a;m
+skonvencionalizirati;-am;dov.
+skop;-a -o;stil.
+skopariti;-im;nedov.
+skoparjenje;-a;s
+skopati;;tudi
+skopati;skopljem;tudi
+skopèati;-am;dov.
+skopec;-pca;m
+skopièiti;-im;dov.
+skopirati;-am;dov.
+skopitev;-tve;ž
+skopiti;-im,;tudi
+skopljati;-am;nedov.
+skopljenec;-nca;m
+skopljenje;-a;s
+skopljenski;-a -o;prid.
+skopljenstvo;-a;s
+skopneti;-im;dov.
+skopobeseden;-dna -o;prid.
+skopolamin;-a;m
+skoporit;-a -o;prid.
+skoporitec;-tca;m
+skoporititi;-im;nedov.
+skoporitec;-tca;m
+skoporititi;-im;nedov.
+skoporitnež;-a;m
+skoporitnica;-e;ž
+skoporitnik;-a;m
+skoporitost;-i;ž
+skopost;;tudi
+skoprneti;-im;tudi
+skoprnevati;-am;tudi
+skopuh;-a;m
+skopulja;-e;ž
+skopušen;-šna -o;prid.
+skopuški;-a -o;prid.
+skopuštvo;-a;s
+skoraj;;prisl.
+skorajda;;prisl.
+skorajšnji;-a -e;prid.
+skorajžiti se;-im se;dov.
+skorbut;-a;m
+skorigirati;-am;dov.
+skorja;-e;ž
+skorjast;-a -o;prid.
+skorjevec;-vca;m
+skorjevka;-e;ž
+skorjica;-e;ž
+skoro;;prisl.
+skoroda;;prisl.
+skorš;-a;m
+skorumpiranost;-i;ž
+skorumpirati;-am;dov.
+skositi;-im;dov.
+skosteneti;-im;dov.
+skošatiti se;-im se;dov.
+skot;skota;in
+skotalikati;-am;dov.
+skotaliti;-im;dov.
+skotati;-am;in
+skotitev;-tve;ž
+skotiti;-im;dov.
+skotizem;-zma;m
+skotrljati;-am;dov.
+skovanka;-e;ž
+skovati;skujem;tudi
+skovièiti;-im;dov.
+skovik;-a;m
+skovik;;medm.
+skovikanje;-a;s
+skovikati;-am;nedov.
+skovikniti;-em;dov.
+skovir;-ja;m
+skozi;;tudi
+skozi;;tudi
+skozinskoz;;in
+skozlati;;gl.
+skoznji;-a -e;prid.
+skožnja;-e;ž
+skožuhati;-am;tudi
+skracati;-am;dov.
+skrahirati;-am;dov.
+skraja;;prisl.
+skraja;;predl.
+skrajen;-jna -o;prid.
+skrajnež;-a;m
+skrajnica;-e;ž
+skrajnik;-a;m
+skrajnji;-a -e;prid.
+skrajnost;-i;ž
+skrajnosten;-tna -o;prid.
+skrajšanje;-a;s
+skrajšanka;-e;ž
+skrajšati;-am;dov.
+skrajšava;-e;ž
+skrajševalen;-lna -o;prid.
+skrajševanje;-a;s
+skrajševati;-ujem;nedov.
+skrampati;-am;in
+skranja;-e;ž
+skratiti;-im;dov.
+skratka;;prisl.
+skrb;-i;ž
+skrben;;stil.
+skrbeti;-im;nedov.
+skrbljiv;-a -o;prid.
+skrbljivost;-i;ž
+skrbnež;-a;m
+skrbnica;-e;ž
+skrbnik;-a;m
+skrbniški;-a -o;prid.
+skrbništvo;-a;s
+skrbnost;-i;ž
+skrbstven;-a -o;prid.
+skrbstvo;-a;s
+skrèek;-èka;m
+skrèenje;-a;s
+skrèenost;-i;ž
+skrèevanje;-a;s
+skrèevati;-ujem;nedov.
+skrèitev;-tve;ž
+skrèiti;-im;dov.
+skrèka;-e;ž
+skreènik;-a;m
+skregati;-am;dov.
+skremženost;-i;ž
+skremžiti;-im;dov.
+skreniti;skrenem;dov.
+skrepenelost;-i;ž
+skrepeneti;-im;dov.
+skrepenevati;-am;nedov.
+skreper;-ja;m
+skresati;skrešem;dov.
+skrhati;-am;dov.
+skrhljati;-am;dov.
+skrièati;-im;dov.
+skril;-a;m
+skril;-i;ž
+skrila;-e;ž
+skrilast;-a -o;prid.
+skrilav;-a -o;prid.
+skrilavec;-vca;m
+skrilavost;-i;ž
+skrilen;-lna -o;prid.
+skrilje;-a;s
+skrilnat;-a -o;prid.
+skrilolom;-oma;m
+skrinja;-e;ž
+skrinjast;-a -o;prid.
+skrinjica;-e;ž
+skript;-a;m
+skripta;skript;s mn.
+skripte;skript;ž mn.
+skriptor;-ja;m
+skriptorij;-a;m
+skristalizirati;;gl.
+skriti;skrijem;dov.
+skritizirati;-am;dov.
+skritje;-a;s
+skritost;-i;ž
+skriv;;prisl.
+skrivaè;-a;m
+skrivaj;;prisl.
+skrivalec;-lca;m
+skrivalen;-lna -o;prid.
+skrivalica;-e;ž
+skrivališèe;-a;s
+skrivalka;-e;ž
+skrivalnica;-e;ž
+skrivalo;-a;s
+skrivanje;-a;s
+skrivaški;-a -o;prid.
+skrivaštvo;-a;s
+skrivati;-am;nedov.
+skriven;-vna -o;prid.
+skrivenèiti;-im;dov.
+skrivišèe;-a;s
+skriviti;-im;tudi
+skrivljenje;-a;s
+skrivljenost;-i;ž
+skrivnopis;-a;m
+skrivnopisen;-sna -o;prid.
+skrivnost;-i;ž
+skrivnosten;-tna -o;prid.
+skrivnostnež;-a;m
+skrivnostnica;-e;ž
+skrivnostnost;-i;ž
+skrivoma;;prisl.
+skrivši;;prisl.
+skrižati;-am;dov.
+skrižem;;prisl.
+skrkniti;-em;dov.
+skrknjenina;-e;ž
+skrknjenje;-a;s
+skrknjevati;-ujem;nedov.
+skrl;-a;m
+skrl;-i;ž
+skrla;-e;ž
+skrlast;-a -o;prid.
+skrlica;;tudi
+skrlup;-a;m
+skrmiti;-im;dov.
+skrnina;-e;ž
+skrninast;-a -o;prid.
+skrnoba;-e;ž
+skrnoben;-bna -o;prid.
+skrofuloza;-e;ž
+skrofulozen;-zna -o;prid.
+skrojiti;-im;dov.
+skrokan;-a -o;prid.
+skrokanost;-i;ž
+skromen;-mna -o;prid.
+skromnež;-a;m
+skromnost;-i;ž
+skrotast;-a -o;prid.
+skrotina;-e;ž
+skrotje;-a;s
+skrotovièenost;-i;ž
+skrotovièiti;-im;dov.
+skrotum;-a;m
+skrovišèe;-a;s
+skrožiti;;in
+skrpati;-am;dov.
+skrpucalo;-a;s
+skrpucati;-am;dov.
+skrtaèiti;-im;tudi
+skrumba;-e;ž
+skrun;-a;m
+skrun;-a -o;prid.
+skrunilec;-lca;m
+skrunilen;-lna -o;prid.
+skrunitelj;-a;m
+skrunitev;-tve;ž
+skruniti;-im;nedov.
+skrunjenje;-a;s
+skrunstvo;-a;s
+skrupul;-a;m
+skrupulant;;in
+skrupulozen;-zna -o;prid.
+skrupuloznost;-i;ž
+skrušenost;-i;ž
+skrušiti;;in
+skrutinator;-ja;m
+skrutinij;-a;m
+skržak;-a;m
+skržat;-a;m
+skržetati;-am;tudi
+skubec;-bca;m
+skubenje;-a;s
+skubiti;-im;nedov.
+skubljenje;-a;s
+skubsti;skubem;nedov.
+skud;-a;m
+skuha;-e;ž
+skuhati;-am;dov.
+skujati se;-am se;dov.
+skulptura;-e;ž
+skulpturalen;-lna -o;prid.
+skulpturen;-rna -o;prid.
+skultivirati;-am;dov.
+skunk;-a;m
+skunks;-a;m
+skup;-a;m
+skup;;prisl.
+skupaj;;prisl.
+skupek;-pka;m
+skupen;-pna -o;prid.
+skupina;-e;ž
+skupinica;-e;ž
+skupinovodja;-e;tudi
+skupinski;-a -o;prid.
+skupinskost;-i;ž
+skupiti;-im;dov.
+skupljati;-am;nedov.
+skupljevati;-ujem;nedov.
+skupnica;-e;ž
+skupnost;-i;ž
+skupnosten;-tna -o;prid.
+skupoma;;prisl.
+skupovati;-ujem;nedov.
+skupšèina;-e;ž
+skupšèinar;-ja;m
+skupšèinski;;in
+skurbati se;-am se;dov.
+skuren;-rna -o;prid.
+skurilen;-lna -o;prid.
+skurirati;-am;dov.
+skuriti;;in
+skusiti;-im;tudi
+skustvo;ipd.;gl.
+skuša;-e;ž
+skušati;-am;tudi
+skušnja;-e;ž
+skušnjava;-e;ž
+skušnjavec;-vca;m
+skušnjavka;-e;ž
+skušnjavski;-a -o;prid.
+skušnjavski;-a -o;prid.
+skuštranec;-nca;m
+skuštranost;-i;ž
+skuštrati;-am;dov.
+skuten;-tna -o;prid.
+skuter;-ja;m
+skuterist;-a;m
+skutin;-a -o;prid.
+skuzmati;-am;tudi
+skvaèkati;-am;dov.
+skvadra;-e;ž
+skvadrist;-a;m
+skvadristièen;-èna -o;prid.
+skvadrizem;-zma;m
+skvariti;-im;dov.
+skvarjenost;-i;ž
+skvasiti;-im;tudi
+skveèenost;-i;ž
+skveèiti;-im;dov.
+skver;-a;m
+skvo;;tudi
+skvožnja;-e;ž
+sla;sle;ž
+skvožnja;-e;ž
+sla;sle;ž
+slab;slaba -o;tudi
+slabèe;-eta;m
+slabèe;-eta;s
+slabeti;-im;nedov.
+slabiè;-ièa;m
+slabièen;-èna -o;prid.
+slabièevski;-a -o;prid.
+slabièevstvo;-a;s
+slabièka;-e;ž
+slabiènost;-i;ž
+slabikav;-a -o;prid.
+slabilec;-lca;m
+slabilen;-lna -o;prid.
+slabiški;-a -o;prid.
+slabištvo;-a;s
+slabitev;-tve;ž
+slabiti;-im;nedov.
+slabljenje;-a;s
+slabo...;;prvi del zloženk
+slaboèa;-e;ž
+slaboglasen;-sna -o;prid.
+slaboèa;-e;ž
+slaboglasen;-sna -o;prid.
+slabokrven;-vna -o;prid.
+slabokrvnost;-i;ž
+slabonameren;-rna -o;prid.
+slaborasel;-sla -o;prid.
+slaboroden;-dna -o;prid.
+slabost;-i;ž
+slabota;-e;ž
+slaboten;-tna -o;prid.
+slabotinec;-nca;m
+slabotnež;-a;m
+slabotnica;-e;ž
+slabotnik;-a;m
+slabotnost;-i;ž
+slaboumen;-mna -o;prid.
+slaboumje;-a;s
+slaboumnež;-a;m
+slaboumnica;-e;ž
+slaboumnost;-i;ž
+slaboviden;-dna -o;prid.
+slabovidnež;-a;m
+slabovidnost;-i;ž
+slabovoljen;-jna -o;prid.
+slabšalen;-lna -o;prid.
+slabšalnost;-i;ž
+slabšanje;-a;s
+slabšati;-am;nedov.
+slabši;-a -e;prid.
+slaèenje;-a;s
+slaèilen;-lna -o;prid.
+slaèilka;-e;ž
+slaèilnica;-e;ž
+slaèipunca;-e;ž
+slaèiti;-im;nedov.
+slaèje;-a;s
+slad;-a;tudi
+sladak;;gl.
+sladar;-ja;m
+sladarna;-e;ž
+sladèica;-e;ž
+sladek;;tudi
+sladeti;-im;nedov.
+sladica;-e;ž
+sladiè;-ièa;m
+sladika;-e;ž
+sladikast;-a -o;prid.
+sladilen;-lna -o;prid.
+sladikast;-a -o;prid.
+sladilen;-lna -o;prid.
+sladilo;-a;s
+sladiti;-im;nedov.
+sladkaè;-a;m
+sladkanje;-a;s
+sladkarija;-e;ž
+sladkast;-a -o;prid.
+sladkati;-am;nedov.
+sladkav;-ava -o;prid.
+sladkica;;in
+sladko;-ega;s
+sladko...;;prvi del zloženk
+sladkoba;-e;ž
+sladkoben;-bna -o;prid.
+sladkobeseden;-dna -o;prid.
+sladkobnost;-i;ž
+sladkoglasen;-sna -o;prid.
+sladkogolk;-a -o;prid.
+sladkook;-a -o;prid.
+sladkor;-orja;m
+sladkorèek;-èka;m
+sladkoren;-rna -o;prid.
+sladkorka;-e;ž
+sladkorna;-e;ž
+sladkornica;-e;ž
+sladkornik;-a;m
+sladkornina;-e;ž
+sladkosned;-a;m
+sladkosned;-a -o;prid.
+sladkosneda;-e;ž
+sladkosnedec;-dca;m
+sladkosneden;-dna -o;prid.
+sladkosnedež;-a;m
+sladkosnedka;-e;ž
+sladkosnednež;-a;m
+sladkosnednica;-e;ž
+sladkosnednost;-i;ž
+sladkost;;tudi
+sladkost;;tudi
+sladkosten;-tna -o;prid.
+sladkostrasten;-tna -o;prid.
+sladkota;-e;ž
+sladkoust;-a -o;prid.
+sladkoustiti se;-im se;nedov.
+sladkovoden;-dna -o;prid.
+sladnost;-i;ž
+sladokusec;-sca;m
+sladokusen;-sna -o;prid.
+sladokuska;-e;ž
+sladoled;-a;m
+sladoledar;-ja;m
+sladoledarna;-e;ž
+sladoleden;-dna -o;prid.
+sladostrasten;-tna -o;prid.
+sladostrastje;-a;s
+sladostrastnež;-a;m
+sladostrastnica;-e;ž
+sladostrastnik;-a;m
+slaj;-a;m
+slaja;-e;ž
+slajenje;-a;s
+slajšati;-am;nedov.
+slak;-a;m
+slakar;-ja;m
+slakota;-e;ž
+slalom;-a;m
+slalomist;-a;m
+slalomišèe;-a;s
+slalomski;-a -o;prid.
+slama;-e;ž
+slamarica;-e;ž
+slamen;-mna -o;prid.
+slamica;-e;ž
+slamica;-e;ž
+slamka;-e;ž
+slamnat;-a -o;prid.
+slamnatobarven;-vna -o;prid.
+slamnica;-e;ž
+slamnik;-a;m
+slamnikar;-ja;m
+slamnikarski;-a -o;prid.
+slamnikarstvo;-a;s
+slamnjaèa;-e;ž
+slamnjak;-a;m
+slamorezec;-zca;m
+slamorezen;-zna -o;prid.
+slamoreznica;-e;ž
+slamoreznik;-a;m
+slamovka;-e;ž
+slan;-a -o;stil.
+slana;-e;ž
+slanamurja;-e;ž
+slanast;-a -o;prid.
+slang;ipd.;gl.
+slanica;-e;ž
+slanik;-a;m
+slanikar;-ja;m
+slanikast;-a -o;prid.
+slanikov;-a -o;prid.
+slanina;-e;ž
+slaninar;-ja;m
+slaniški;-a -o;prid.
+slankast;-a -o;prid.
+slanost;-i;ž
+slanovoden;-dna -o;prid.
+slanozor;-ora;m
+slap;-a;stil.
+slapast;-a -o;prid.
+slapeè;-eèa -e;prid.
+slapiè;-ièa;in
+slapje;-a;s
+slapnik;;tudi
+slapovit;-a -o;prid.
+slapovje;-a;s
+slast;-i;ž
+slasten;-tna -o;prid.
+slastica;-e;ž
+slastiti se;-im se;nedov.
+slastnik;-a;m
+slastnost;-i;ž
+slastoustiti se;-im se;nedov.
+slašèica;-e;ž
+slašèièar;;tudi
+slašèièarka;;tudi
+slašèièarna;-e;ž
+slašèièarnica;-e;ž
+slašèièarski;;tudi
+slašèièarstvo;;tudi
+slašèièen;-èna -o;prid.
+slatina;-e;ž
+slatinar;-ja;m
+slatinar;-ja;m
+slatinast;-a -o;prid.
+slatinka;-e;ž
+slatinski;-a -o;prid.
+slatinšèak;-a;m
+slava;-e;ž
+slavèek;-èka;m
+slavèji;-a -e;prid.
+slavec;-vca;m
+slaven;-vna -o;prid.
+slaviè;-ièa;m
+slavika;-vik;s mn.
+slavilec;-lca;m
+slavilen;-lna -o;prid.
+slavilnica;-e;ž
+slavist;-a;m
+slavist;-a;m
+slavistièen;-èna -o;prid.
+slavistika;-e;ž
+slavistka;-e;ž
+slavitelj;-a;m
+slaviti;-im;nedov.
+slavizacija;-e;ž
+slavizem;-zma;m
+slavizirati;-am;nedov. in dov.
+slavjanofil;-a;m
+slavjanofilski;-a -o;prid.
+slavjanofilstvo;-a;s
+slavje;-a;s
+slavlje;-a;s
+slavljenec;-nca;m
+slavljenje;;in
+slavljenka;-e;ž
+slavnica;-e;ž
+slavnost;-i;ž
+slavnosten;-tna -o;prid.
+slavnostnost;-i;ž
+slavnoznan;;in
+slavofil;-a;m
+slavofilstvo;-a;s
+slavofilstvo;-a;s
+slavohlepen;-pna -o;prid.
+slavohlepje;-a;s
+slavohlepnež;-a;m
+slavohlepnost;-i;ž
+slavoloèen;-èna -o;prid.
+slavolok;-a;m
+slavonski;-a -o;prid.
+slavospev;;in
+slavospeven;-vna -o;prid.
+slavoželjen;-jna -o;prid.
+slavski;-a -o;prid.
+slavulja;-e;ž
+sleè;-a;m
+sleèenost;-i;ž
+sleèi;sleèem;dov.
+sleènik;-a;m
+sled;-a;m
+sled;-u;stil.
+sled;-i;ž
+sledar;-ja;m
+sledec;-dca;m
+sleden;-dna -o;prid.
+sledenje;-a;s
+sledilec;-lca;m
+sledilen;-lna -o;prid.
+sledilnik;-a;m
+sledišèe;-a;s
+sleditev;-tve;ž
+slediti;-im;nedov.
+sleditven;-a -o;prid.
+slednik;-a;m
+slednji;-a -e;prid.
+slednjiè;;prisl.
+sleduh;-a;m
+slegur;-ja;m
+sleherni;-a -o;zaim.
+slehernica;-e;ž
+slehernik;-a;m
+slehernikrat;;prisl.
+slej;;prisl.
+slejkoprej;;in
+slekati;-am;nedov.
+sleme;-ena;tudi
+slemenast;-a -o;prid.
+slemeneti;-im;nedov.
+slemenitev;-tve;ž
+slemenjak;-a;m
+slemenski;;tudi
+sleng;;tudi
+slengizem;;tudi
+slengovski;;tudi
+slep;-a -o;prid.
+slepar;-ja;m
+sleparica;-e;ž
+sleparija;-e;ž
+slepariti;-im;nedov.
+sleparjenje;-a;s
+sleparka;-e;ž
+sleparski;-a -o;prid.
+sleparstvo;-a;s
+slepèek;-èka;m
+slepèevski;-a -o;prid.
+slepec;-pca;m
+slepeti;-im;nedov.
+slepica;-e;ž
+slepiè;-a;tudi
+slepièevje;;tudi
+slepilec;-lca;m
+slepilen;-lna -o;prid.
+slepilka;-e;ž
+slepilo;-a;s
+slepitev;-tve;ž
+slepiti;-im;nedov.
+slepiv;-a -o;prid.
+slepka;-e;ž
+slepljenje;-a;s
+slepljiv;-a -o;prid.
+slepomišen;-šna -o;prid.
+slepomišenje;-a;s
+slepomišiti;-im;nedov.
+slepomiškanje;-a;s
+sleporil;-a;m
+sleporojen;;tudi
+slepost;;tudi
+slepota;-e;ž
+slez;-a;m
+slezast;-a -o;prid.
+slezena;-e;ž
+slezenovèev;-a -o;prid.
+slezenovec;-vca;m
+slezeti;-im;nedov.
+sleznica;-e;ž
+slezov;-a -o;prid.
+slièen;-èna -o;prid.
+slièica;-e;ž
+slièiti;-im;nedov.
+sliènost;-i;ž
+slika;-e;ž
+slikanica;-e;ž
+slikanje;-a;s
+slikar;-ja;m
+slikarica;-e;ž
+slikarija;-e;ž
+slikarka;-e;ž
+slikarna;-e;ž
+slikarski;-a -o;prid.
+slikarstvo;-a;s
+slikati;-am;nedov.
+slikica;-e;ž
+slikopis;-a;m
+slikopleskar;;in
+slikoven;;in
+slikovit;-a -o;prid.
+slikovitost;-i;ž
+slina;-e;ž
+slinar;-ja;m
+slinarica;-e;ž
+slinast;-a -o;prid.
+slinav;-a -o;prid.
+slinavec;-vca;m
+slinavka;-e;ž
+slinavost;-i;ž
+slinèek;-èka;m
+slinèek;-èka;m
+slinež;-a;m
+sliniti;-im;nedov.
+slinjenje;-a;s
+slip;-a;m
+slišaj;-a;m
+slišanje;-a;s
+slišati;-im;nedov. in dov.
+slišen;-šna -o;prid.
+slišnost;-i;ž
+sliva;-e;ž
+slivar;-ja;m
+slivarica;-e;ž
+slivast;-a -o;prid.
+sliven;-vna -o;prid.
+slivje;-a;s
+slivkati;-am;nedov.
+slivnik;-a;m
+slivnjak;-a;m
+slivov;-a -o;prid.
+slivovec;-vca;m
+slivovica;-e;ž
+slivovka;-e;ž
+slizek;-zka -o;prid.
+sljuda;-e;ž
+sljudast;-a -o;prid.
+sljuden;-dna -o;prid.
+sljudnat;-a -o;prid.
+sljudovec;-vca;m
+sloèiti;-im;nedov.
+slog;;in
+sloga;-e;ž
+slogan;-a;m
+slogaš;-a;m
+slogaštvo;-a;s
+slogoven;;tudi
+sloj;sloja;m
+slojast;-a -o;prid.
+slojen;;in
+slojevit;-a -o;prid.
+slojevitost;-i;ž
+slojišèe;-a;s
+slojnat;;in
+slojnica;;in
+slok;-a -o;prid.
+sloka;-e;ž
+slokast;-a -o;prid.
+slokonog;-a -o;prid.
+slokost;-i;ž
+slokost;-i;ž
+slon;slona;m
+slonar;;tudi
+slonast;-a -o;prid.
+slonèek;-èka;m
+sloneti;-im;nedov.
+slonica;;tudi
+sloniè;-ièa;m
+slonilo;-a;s
+slonji;-a -e;prid.
+slonokošèen;-a -o;prid.
+slonokošèenina;-e;ž
+slonokošèevina;-e;ž
+slonov;-a -o;prid.
+slonovina;-e;ž
+slonovinast;-a -o;prid.
+slonovski;-a -o;prid.
+slop;slopa;m
+slopen;-pna -o;prid.
+slovakistika;-e;ž
+slovanizem;-zma;m
+slovanofil;-a;m
+slovanofilski;-a -o;prid.
+slovanofilstvo;-a;s
+slovanski;-a -o;prid.
+slovanstvo;-a;s
+slovanšèina;-e;ž
+slovar;-ja;m
+slovarèek;-èka;m
+slovarnik;-a;m
+slovaropisec;-sca;m
+slovaropisen;-sna -o;prid.
+slovaropisje;-a;s
+slovaroslovje;-a;s
+slovarski;-a -o;prid.
+slovarstvo;-a;s
+slovašèina;-e;ž
+slovaški;-a -o;prid.
+slovenika;-nik;s mn.
+slovenist;-a;m
+slovenistika;-e;ž
+slovenitelj;-a;m
+slovenitev;-tve;ž
+sloveniti;-im;nedov.
+slovenizacija;-e;ž
+slovenizem;-zma;m
+slovenizirati;-am;nedov. in dov.
+slovenjenje;-a;s
+slovenještajerski;-a -o;prid.
+slovenještajerski;-a -o;prid.
+slovenji;-a -e;prid.
+slovenka;-e;ž
+slovenski;-a -o;prid.
+slovenskost;-i;ž
+slovenskoštajerski;-a -o;prid.
+slovenstvo;-a;s
+slovenšèina;-e;ž
+sloves;;tudi
+slovesen;-sna -o;prid.
+slovesnost;-i;ž
+sloveti;-im;nedov.
+slovinšèina;-e;ž
+slovit;-a -o;prid.
+slovka;-e;ž
+slovkovati;-ujem;nedov.
+slovnica;-e;ž
+slovnièar;-ja;m
+slovnièarski;-a -o;prid.
+slovnièen;-èna -o;prid.
+slovniški;-a -o;prid.
+slovo;-a;s
+slovo;-esa;s
+slovstvece;;in
+slovstven;-a -o;prid.
+slovstvenik;-a;m
+slovstvenokritièen;-èna -o;prid.
+slovstvenost;-i;ž
+slovstvenozgodovinski;-a -o;prid.
+slovstvo;-a;s
+slovstvovanje;-a;s
+slowfox;-a;m
+složen;-žna -o;prid.
+složnost;-i;ž
+sluèaj;-a;m
+sluèajen;-jna -o;prid.
+sluèajnost;-i;ž
+sluèajnosten;-tna -o;prid.
+sluga;-e;tudi
+sluginja;-e;ž
+sluh;-a;m
+sluhonemost;-i;ž
+sluhovod;-oda;m
+slum;-a;m
+slup;-a;m
+slušalka;-e;ž
+slušalo;-a;s
+slušatelj;-a;m
+slušateljica;-e;ž
+slušateljica;-e;ž
+slušateljstvo;-a;s
+slušati;-am;nedov.
+slušen;-šna -o;prid.
+slušnost;-i;ž
+slut;-a;m
+sluten;-tna -o;prid.
+slutenje;-a;s
+slutenjski;-a -o;prid.
+sluti;slovem;tudi
+slutiti;;in
+slutnja;-e;ž
+slutnjema;;prisl.
+slutnost;-i;ž
+slutoma;;prisl.
+sluz;-a;m
+sluz;-i;in
+sluza;-e;ž
+sluzast;-a -o;prid.
+sluzav;-a -o;prid.
+sluzavka;-e;ž
+sluzavost;-i;ž
+sluzek;-zka -o;prid.
+sluzen;-zna -o;prid.
+sluzeti;-im;nedov.
+sluziti;-im;nedov.
+sluznat;-a -o;prid.
+sluznica;-e;ž
+sluznièen;-èna -o;prid.
+sluznik;-a;m
+sluznina;-e;ž
+služaben;-bna -o;prid.
+služabnica;-e;ž
+služabnik;-a;m
+služabniški;-a -o;prid.
+služabništvo;-a;s
+služba;-e;ž
+služben;-a -o;prid.
+službenost;-i;ž
+službica;-e;ž
+službodajalec;-lca;m
+službovanje;-a;s
+službovati;-ujem;nedov.
+služen;-žna -o;prid.
+služenje;-a;s
+služinèad;-i;ž
+služitelj;-a;m
+služiteljica;-e;ž
+služiti;;in
+služkinja;-e;ž
+služnik;-a;m
+služnost;-i;ž
+služnosten;-tna -o;prid.
+smalta;-e;ž
+smaragd;-a;m
+smaragden;-dna -o;prid.
+smash;-a;m
+smatrati;-am;nedov.
+smederevka;-e;ž
+smeh;-a;m
+smehec;-hca;m
+smehljaj;-a;m
+smehljajèek;-èka;m
+smehljanje;-a;s
+smehljati se;-am se;nedov.
+smehljav;-ava -o;prid.
+smehoma;;prisl.
+smejaèica;;in
+smejalen;-lna -o;prid.
+smejanje;-a;s
+smejati se;smejem se;tudi
+smejav;-ava -o;prid.
+smejavec;-vca;m
+smejavka;-e;ž
+smejavost;-i;ž
+smejèkati se;-am se;nedov.
+smel;-a -o;prid.
+smelost;-i;ž
+smer;-i;ž
+smeren;-rna -o;prid.
+smerilo;-a;s
+smernica;-e;ž
+smernik;-a;m
+smerodajen;-jna -o;prid.
+smerokaz;-aza;m
+smešek;-ška;m
+smešen;-šna -o;prid.
+smešenje;-a;s
+smešilec;-lca;m
+smešiti;-im;nedov.
+smeškati se;-am se;nedov.
+smešnež;-a;m
+smešnica;-e;ž
+smešnost;-i;ž
+smet;-i;ž
+smetana;-e;ž
+smetanast;-a -o;prid.
+smetanov;-a -o;prid.
+smetar;-ja;m
+smetarina;-e;ž
+smetarnica;-e;ž
+smetarski;-a -o;prid.
+smeten;-tna -o;tudi
+smeti;smem;nedov.
+smetišèe;-a;s
+smetišèen;-èna -o;prid.
+smetišnica;-e;ž
+smetiti;-im;nedov.
+smetje;-a;tudi
+smetlika;-e;ž
+smetljiv;-a -o;prid.
+smetnjak;-a;m
+smicati;-am;nedov.
+smièen;-èna -o;prid.
+smila;-e;ž
+smileèen;-èna -o;prid.
+smiliti se;-im se;nedov.
+smilj;-a;m
+smilje;-a;s
+smiljica;-e;ž
+smiljka;-e;ž
+smilovati se;-ujem se;dov.
+smirek;-rka;m
+smirenski;-a -o;prid.
+smirkati;-am;nedov.
+smirkov;-a -o;prid.
+smirna;;neskl. pril.
+smisel;-sla;m
+smiseln;-a -o;prid.
+smiselnost;-i;ž
+smithsonit;;in
+smod;-a;m
+smodišèe;-a;s
+smoditi;-im;nedov.
+smodka;;gl.
+smodnik;-a;m
+smodnikov;-a -o;prid.
+smodniški;-a -o;prid.
+smodnišnica;-e;ž
+smog;-a;m
+smoj;-a;m
+smoja;-e;ž
+smojka;-e;ž
+smoking;-a;m
+smokulja;-e;ž
+smokva;-e;ž
+smokvica;-e;ž
+smokvin;-a -o;prid.
+smokvovec;-vca;m
+smokvovec;-vca;m
+smola;-e;ž
+smolar;-ja;m
+smolar;-ja;m
+smolariti;-im;nedov.
+smolarjenje;-a;s
+smolarski;-a -o;prid.
+smolast;-a -o;prid.
+smolec;-lca;m
+smolen;-lna -o;prid.
+smolen;-a -o;prid.
+smolenec;-nca;m
+smolenica;-e;ž
+smolenjak;-a;m
+smolež;-a;m
+smolika;-e;ž
+smolikav;-a -o;prid.
+smolikavost;-i;ž
+smolina;-e;ž
+smoliti;-im;nedov.
+smoljenje;-a;s
+smolnat;-a -o;prid.
+smolnica;-e;ž
+smolnik;-a;m
+smolnjak;-a;m
+smolovec;-vca;m
+smolovina;-e;ž
+smoter;-tra;m
+smotka;-e;ž
+smotlaka;-e;ž
+smotra;-e;ž
+smotrn;-a -o;prid.
+smotrnost;-i;ž
+smotrnosten;-tna -o;prid.
+smrad;-u;in
+smraden;-dna -o;prid.
+smraditi;-im;nedov.
+smradljiv;-a -o;prid.
+smradljivec;-vca;m
+smradljivka;-e;ž
+smradnica;-e;ž
+smraduh;-a;m
+smraja;-e;ž
+smrèa;-e;ž
+smrèaè;-a;m
+smrèanje;-a;s
+smrèati;-im;nedov.
+smrèavec;-vca;m
+smrèavka;-e;ž
+smrèek;-èka;m
+smrèuh;-a;m
+smrde;-eta;m
+smrde;-eta;s
+smrdelika;-e;ž
+smrdeti;-im;nedov.
+smrdljika;-e;ž
+smrdljiv;-a -o;prid.
+smrdljivec;-vca;m
+smrdljivka;-e;ž
+smrdljivost;-i;ž
+smrdokavra;-e;ž
+smrduh;-a;m
+smrduha;-e;ž
+smrdulja;-e;ž
+smreèen;-èna -o;prid.
+smreèevje;-a;s
+smreèica;-e;ž
+smreèina;;in
+smreèje;-a;s
+smreèji;-a -e;prid.
+smreèka;-e;ž
+smreènat;-a -o;prid.
+smreka;-e;ž
+smrekica;-e;ž
+smrekov;-a -o;prid.
+smrekovec;-vca;m
+smrekovina;;in
+smrekovje;-a;s
+smrk;-a;m
+smrka;-e;ž
+smrkanje;-a;s
+smrkati;-am;nedov.
+smrkav;-a -o;prid.
+smrkavèek;-èka;m
+smrkavec;-vca;m
+smrkavka;-e;ž
+smrkavost;-i;ž
+smrkelj;-klja;m
+smrkež;-a;m
+smrklja;-e;ž
+smrkljast;-a -o;prid.
+smrkljica;-e;ž
+smrkniti;-em;dov.
+smrkolin;-a;m
+smrkolinèek;-èka;m
+smrkolinka;-e;ž
+smrkolinski;-a -o;prid.
+smrkovje;;tudi
+smrlinje;-a;s
+smršèati;-im;nedov.
+smrt;-i;ž
+smrten;-tna -o;prid.
+smrtljiv;-a -o;prid.
+smrtnica;-e;ž
+smrtnik;-a;m
+smrtnina;-e;ž
+smrtnjak;-a;m
+smrtnost;-i;ž
+smrtoglavec;-vca;m
+smrtonosen;-sna -o;prid.
+smrtovnica;-e;ž
+smuè;-a;m
+smuè;-i;ž
+smuèa;-e;ž
+smuèanje;-a;s
+smuèar;-ja;m
+smuèarija;-e;ž
+smuèarka;-e;ž
+smuèarski;-a -o;prid.
+smuèarstvo;-a;s
+smuèati;-am;nedov.
+smuèen;-èna -o;prid.
+smuèina;-e;ž
+smuèišèe;-a;s
+smuèka;-e;ž
+smuèkati se;-am se;nedov.
+smuk;-a;m
+smuk;;medm.
+smuka;-e;ž
+smukaè;-a;m
+smukanje;-a;s
+smukaški;-a -o;prid.
+smukati;-am;tudi
+smuke;smuk;ž mn.
+smukec;-kca;m
+smukljati;-am;nedov.
+smukniti;-em;dov.
+smuliti se;-im se;nedov.
+smuški;-a -o;prid.
+snack bar;snack bara;m
+snaga;-e;ž
+snagoljuben;-bna -o;prid.
+snaha;-e;ž
+snajperka;-e;ž
+snast;-i;ž
+snažen;-žna -o;prid.
+snaženje;-a;s
+snažilec;-lca;m
+snažilen;-lna -o;prid.
+snažilka;-e;ž
+snažiti;-im;nedov.
+snažnost;-i;ž
+sned;-i;ž
+sneda;-e;ž
+snedati;-am;nedov.
+sneden;-a -o;prid.
+sneden;-dna -o;prid.
+snedenec;-nca;m
+snedenost;-i;ž
+snedež;-a;m
+sneduh;-a;m
+sneg;-a;m
+snegobran;-a;m
+snegolom;-oma;m
+snegolov;-ova;m
+snegolovec;-vca;m
+snegomer;-a;m
+snegovje;-a;s
+snemalec;-lca;m
+snemalen;-lna -o;prid.
+snemališèe;-a;s
+snemalnica;-e;ž
+snemalnik;-a;m
+snemalski;-a -o;prid.
+snemanje;-a;s
+snemati;-am;nedov.
+snemen;-mna -o;prid.
+snemljiv;-a -o;prid.
+snesti;snem;dov.
+snet;-i;ž
+sneti;snamem;dov.
+snetiv;-a -o;prid.
+snetivost;-i;ž
+snetjav;-ava -o;prid.
+snetjavost;-i;ž
+snetje;-a;s
+snetje;-a;in
+snetljiv;-a -o;prid.
+snetljivost;-i;ž
+snežak;-a;m
+snežec;-žca;m
+snežek;-žka;m
+snežen;-žna -o;prid.
+snežen;-a -o;prid.
+sneženje;-a;s
+sneženka;-e;ž
+snežina;-e;ž
+snežinka;-e;ž
+snežišèe;-a;s
+snežišèe;-a;s
+snežiti;-im;nedov.
+snežka;-e;ž
+snežnat;-a -o;prid.
+snežnica;-e;ž
+snežnik;-a;m
+snežniški;-a -o;prid.
+snežnjak;-a;m
+snièav;-a -o;prid.
+snidenje;-a;s
+snimek;-mka;m
+sniti se;snidem se;dov.
+snivati;-am;nedov.
+snob;-a;m
+snobistièen;-èna -o;prid.
+snobizem;-zma;m
+snobok;-oka;tudi
+snobovski;-a -o;prid.
+snobovstvo;-a;s
+snobski;-a -o;prid.
+snobstvo;-a;s
+snoèi;;prisl.
+snoènji;-a -e;prid.
+snohodec;-dca;m
+snohodka;-e;ž
+snop;snopa;m
+snopar;-ja;m
+snoparski;-a -o;prid.
+snopast;-a -o;prid.
+snopec;-pca;m
+snopek;-pka;m
+snopiè;-a;tudi
+snopiè;;tudi
+snopje;-a;s
+snopoma;;prisl.
+snopoveznica;-e;ž
+snopoveznik;-a;m
+snopovje;-a;s
+snov;-i;ž
+snovalec;-lca;m
+snovalen;-lna -o;prid.
+snovalka;-e;ž
+snovalnica;-e;ž
+snovanje;-a;s
+snovatelj;-a;m
+snovati;snujem;nedov.
+snoven;-vna -o;prid.
+snovnost;-i;ž
+snovnosten;-tna -o;prid.
+snubaè;-a;m
+snubaèica;;in
+snubaèka;-e;ž
+snubaški;-a -o;prid.
+snubec;-bca;m
+snubilec;-lca;m
+snubitev;-tve;ž
+snubiti;;in
+snubitven;-a -o;prid.
+snubljenje;-a;s
+snubljenka;-e;ž
+snubok;-oka;m
+snuditi;-im;nedov.
+snutek;-tka;m
+snuti;snujem;nedov.
+snutkovina;-e;ž
+so;;m neskl.
+so...;;predpona v sestavljenkah
+soareja;-e;ž
+soavtor;-ja;m
+soavtorstvo;-a;s
+soba;-e;ž
+sobana;-e;ž
+sobar;-ja;m
+sobarica;-e;ž
+soben;-bna -o;prid.
+sobesedilen;-lna -o;prid.
+sobesedilo;-a;s
+sobesednica;-e;ž
+sobesednik;-a;m
+sobica;-e;ž
+sobitje;-a;s
+sobivanje;-a;s
+sobivati;-am;nedov.
+sobnica;-e;ž
+sobojevnica;-e;ž
+sobojevnik;-a;m
+sobojevništvo;-a;s
+sobolj;;in
+soboljevina;-e;ž
+sobolji;-a -e;prid.
+soboljina;-e;ž
+sobolnik;-a;m
+sobopleskar;;in
+soborec;-rca;m
+soborka;-e;ž
+soboslikar;-ja;m
+soboslikarski;-a -o;prid.
+soboslikarstvo;-a;s
+sobota;-e;ž
+soboten;-tna -o;prid.
+sobotnik;-a;m
+sobranje;-a;s
+sobrat;-brata;m
+socesar;-arja;m
+sociabilen;-lna -o;prid.
+sociabilnost;-i;ž
+sociala;-e;ž
+socialdemokracija;-e;ž
+socialdemokrat;-a;m
+socialdemokratièen;-èna -o;prid.
+socialdemokratski;-a -o;prid.
+socialec;-lca;m
+socialen;-lna -o;prid.
+socialist;-a;m
+socialistièen;-èna -o;prid.
+socialistka;-e;ž
+socializacija;-e;ž
+socializacijski;-a -o;prid.
+socializem;-zma;m
+socializiranje;-a;s
+socializirati;-am;nedov. in dov.
+socialno...;;prvi del zloženk
+socialnodemokratièen;-èna -o;prid.
+socialnodemokratski;-a -o;prid.
+socialnoekonomski;-a -o;prid.
+socialnoetièen;-èna -o;prid.
+socialnopolitièen;-èna -o;prid.
+socialnopsihološki;-a -o;prid.
+socialnorealistièen;-èna -o;prid.
+socialnorevolucionaren;-rna -o;prid.
+socialnoskrbstven;-a -o;prid.
+socialnost;-i;ž
+socialnovarstven;-a -o;prid.
+socialnovzgojen;-jna -o;prid.
+socialnozdravstven;-a -o;prid.
+socialnozgodovinski;-a -o;prid.
+socialpatriot;-a;m
+socij;-a;m
+socio...;;ali
+sociografija;-e;ž
+sociolingvistièen;-èna -o;prid.
+sociolingvistika;-e;ž
+sociolog;-a;m
+sociologija;-e;ž
+sociologinja;-e;ž
+sociologistièen;-èna -o;prid.
+sociologizem;-zma;m
+sociologiziranje;-a;s
+sociologizirati;-am;nedov. in dov.
+sociološki;-a -o;prid.
+sociometrièen;-èna -o;prid.
+sociometrija;-e;ž
+socrealistièen;-èna -o;prid.
+socrealizem;-zma;m
+socvetje;-a;s
+soèasen;-sna -o;prid.
+soèasje;-a;s
+soèasnik;-a;m
+soèasnost;-i;ž
+soèelen;-lna -o;prid.
+soèen;-èna -o;prid.
+soèiti;-im;tudi
+soèiven;-vna -o;prid.
+soèivje;-a;s
+soèivnjak;;in
+soèlan;-a;m
+soèlovek;-eka;m ed. in dv.
+soènat;-a -o;prid.
+soènica;-e;ž
+soènost;-i;ž
+soèustvo;-a;s
+soèustvovanje;-a;s
+soèustvovanje;-a;s
+soèustvovati;-ujem;nedov.
+soèustvovati;-ujem;nedov.
+soèuten;-tna -o;prid.
+soèutenje;;in
+soèutiti;;in
+soèutje;-a;s
+soèutnost;-i;ž
+sod;-a -o;prid.
+soda;-e;ž
+sodar;-ja;m
+sodariti;-im;nedov.
+sodarna;-e;ž
+sodarski;-a -o;prid.
+sodarstvo;-a;s
+sodast;-a -o;prid.
+sodav;-a -o;prid.
+sodavica;-e;ž
+sodavièar;-ja;m
+sodba;-e;ž
+sodben;-a -o;prid.
+sodèast;-a -o;prid.
+sodèek;-èka;m
+sodèkast;-a -o;prid.
+sodèek;-èka;m
+sodèkast;-a -o;prid.
+sodediè;-a;m
+sodejavnik;-a;m
+sodelavec;-vca;m
+sodelavec;-vca;m
+sodelaven;-vna -o;prid.
+sodelavka;-e;ž
+sodeležnik;-a;m
+sodelo;-a;s
+sodelovalen;-lna -o;prid.
+sodelovanje;-a;s
+sodelovati;-ujem;nedov.
+soden;-dna -o;prid.
+sodeželan;;in
+sodilo;-a;s
+sodin;-a;m
+sodišèe;-a;s
+soditi;;in
+sodnica;-e;ž
+sodnica;-e;ž
+sodnija;-e;ž
+sodnica;-e;ž
+sodnica;-e;ž
+sodnija;-e;ž
+sodnijski;-a -o;prid.
+sodnik;-a;m
+sodnikov;-a -o;prid.
+sodnikovati;-ujem;nedov.
+sodnikovka;-e;ž
+sodniški;-a -o;prid.
+sodništvo;-a;s
+sodnomedicinski;-a -o;prid.
+sodnost;-i;ž
+sodnozdravniški;-a -o;prid.
+sodoben;-bna -o;prid.
+sodobnica;-e;ž
+sodobnik;-a;m
+sodobnost;-i;ž
+sodolina;;in
+sodoloèati;-am;nedov.
+sodolžnik;-a;m
+Sodoma;-e;ž
+sodoma;-e;ž
+sodomija;-e;ž
+sodomit;-a;m
+sodomski;-a -o;prid.
+sodoprst;-a;m
+sodoprst;-a -o;prid.
+sodost;-i;ž
+sodoživeti;-im;dov.
+sodoživljanje;-a;s
+sodoživljati;-am;nedov.
+sodra;-e;ž
+sodrast;-a -o;prid.
+sodrga;-e;ž
+sodrug;-a;m
+sodruga;-e;ž
+sodružica;-e;ž
+sodržavljan;;in
+sodstvo;-a;s
+sofinancer;;in
+sofinanciranje;;in
+sofinancirati;-am;in
+sofist;-a;m
+sofisterija;-e;ž
+sofistièen;-èna -o;prid.
+sofistika;-e;ž
+sofistovski;-a -o;prid.
+sofita;-e;ž
+sofizem;-zma;m
+sofizem;-zma;m
+sofora;-e;ž
+softver;;tudi
+soglasen;-sna -o;prid.
+soglasiti;-im;in
+soglasje;-a;s
+soglasnik;-a;m
+soglasniški;-a -o;prid.
+soglasnost;-i;ž
+soglašanje;-a;s
+soglašati;-am;nedov.
+soglav;;tudi
+sogolten;-tna -o;prid.
+sogornik;-a;m
+sogost;-gosta;m
+sogovorec;;in
+sogovornica;-e;ž
+sogovornik;-a;m
+sograditelj;-a;m
+soha;;in
+sohica;;in
+soigra;-e;ž
+soigralec;-lca;m
+soigralka;-e;ž
+soimenjak;-a;m
+soinvestitor;-ja;m
+soizdajatelj;-a;m
+soizmerljiv;-a -o;prid.
+soizvajalec;-lca;m
+soja;-e;ž
+sojenica;-e;ž
+sojenje;-a;s
+sojetnik;-a;m
+sojin;-a -o;prid.
+sojnik;-a;m
+sok;-a;m
+sokandidat;-a;m
+sokaznjenec;-nca;m
+sokol;-ola;m
+sokolar;;tudi
+sokolariti;-im;nedov.
+sokolarstvo;;tudi
+sokolica;-e;ž
+sokoliè;-ièa;m
+sokoliti;-im;in
+sokolji;;in
+sokolski;-a -o;prid.
+sokolstvo;-a;s
+sokolski;-a -o;prid.
+sokolstvo;-a;s
+sokot;-a;m
+sokoven;-vna -o;prid.
+sokovnik;-a;m
+sokratièen;-èna -o;prid.
+sokratik;-a;m
+sokratika;-e;ž
+sokratski;-a -o;prid.
+sokriv;-a -o;prid.
+sokrivda;-e;ž
+sokrivec;-vca;m
+sokrivka;-e;ž
+sokrven;-vna -o;prid.
+sokrvica;;tudi
+sokrvièen;;tudi
+sokrvje;-a;s
+sokrvnost;-i;ž
+sol;-a;m
+sol;;m neskl.
+sol;-i;ž
+solanin;-a;m
+solar;-ja;m
+solaren;-rna -o;prid.
+solarij;-a;m
+solarizacija;-e;ž
+solarna;-e;ž
+solarstvo;-a;s
+solastnica;-e;ž
+solastnik;-a;m
+solastnina;-e;ž
+solastninski;-a -o;prid.
+solastništvo;-a;s
+solata;-e;ž
+solatar;-ja;m
+solatarica;-e;ž
+solaten;-tna -o;prid.
+solatica;-e;ž
+solatka;-e;ž
+solatnica;-e;ž
+solatnik;-a;m
+solèavski;-a -o;prid.
+sold;-a;m
+soldan;;gl.
+soldašèina;-e;ž
+soldaški;-a -o;prid.
+soldat;-a;m
+soldatek;-tka;m
+soldateska;-e;ž
+soldateska;-e;ž
+soldek;-dka;m
+soldnik;-a;m
+solecizem;-zma;m
+solen;-lna -o;prid.
+soletnik;-a;m
+soležen;-žna -o;prid.
+solfatara;-e;ž
+solfeggio;-a;m
+solicitator;-ja;m
+solid;;gl.
+solidaren;-rna -o;prid.
+solidarizem;-zma;m
+solidarizirati se;-am se;dov. in nedov.
+solidarnost;-i;ž
+solidarnosten;-tna -o;prid.
+soliden;-dna -o;prid.
+solidnež;-a;m
+solidnost;-i;ž
+solidus;;in
+solina;-e;ž
+solinar;-ja;m
+solinarstvo;-a;s
+solinski;-a -o;prid.
+solinski;-a -o;prid.
+solipsist;-a;m
+solipsistièen;-èna -o;prid.
+solipsizem;-zma;m
+solist;-a;m
+solistièen;-èna -o;prid.
+solistka;-e;ž
+solistovski;-a -o;prid.
+solišèe;-a;s
+solitaren;-rna -o;prid.
+soliter;-tra;m
+soliter;-ja;m
+soliti;-im;nedov.
+solitrast;-a -o;prid.
+solitrn;-a -o;prid.
+soljenec;-nca;m
+soljenje;-a;s
+soljudje;-ljudi;m mn.
+solmizacija;-e;ž
+solnat;-a -o;prid.
+solnica;-e;ž
+solnik;-a;m
+solnjak;-a;m
+solnograški;-a -o;prid.
+solnograški;-a -o;prid.
+solo;-a;m
+solo;;prisl.
+solo...;;prvi del zloženk
+soloakcija;-e;ž
+soloigra;;in
+solopetje;;in
+solopevski;-a -o;prid.
+soloples;;in
+soloplesalec;;in
+soloplesalka;;in
+soloprodor;;in
+solospev;;in
+solotoèka;;in
+solsticij;-a;m
+solucija;-e;ž
+solunec;-nca;m
+solunski;-a -o;prid.
+solventen;-tna -o;prid.
+solventnost;-i;ž
+solza;-e;tudi
+solzav;-ava -o;prid.
+solzavec;-vca;m
+solzavka;-e;ž
+solzavost;-i;ž
+solzen;;tudi
+solzenje;-a;s
+solzeti;-im;nedov.
+solzica;-e;ž
+solzica;;in
+solzilen;-lna -o;prid.
+solzilo;-a;s
+solziti se;-im se;nedov.
+solziv;-a -o;prid.
+solzivec;-vca;m
+solzivka;-e;ž
+solzljiv;-a -o;prid.
+solznica;-e;ž
+solznik;-a;m
+solznodolinski;-a -o;prid.
+solznodolinstvo;-a;s
+solzovod;-oda;m
+som;soma;m
+soman;-a;m
+somaševanje;-a;s
+somaševati;-ujem;nedov.
+somatièen;-èna -o;prid.
+somatologija;-e;ž
+somatski;-a -o;prid.
+sombrero;-a;m
+someglica;-e;ž
+someren;-rna -o;prid.
+somerje;-a;s
+somernica;-e;ž
+somernina;-e;ž
+somernost;-i;ž
+somešèan;;in
+somica;;tudi
+somiè;-ièa;m
+somišljenec;-nca;m
+somišljenica;-e;ž
+somišljenik;-a;m
+somišljeništvo;-a;s
+somiznik;-a;m
+somnambulen;-lna -o;prid.
+somnambulist;-a;m
+somnambulizem;-zma;m
+somoren;-rna -o;prid.
+somornica;;tudi
+somovka;-e;ž
+somraèen;;in
+somraèje;;in
+somraènica;;in
+somraènik;;in
+somraènik;;in
+somraènost;;in
+somrak;;in
+son;-a;m
+sonant;-a;m
+sonar;;tudi
+sonarodnjak;-a;m
+sonarski;;tudi
+sonata;-e;ž
+sonaten;-tna -o;prid.
+sonatina;-e;ž
+sonce;-a;s
+sonèarica;-e;ž
+sonèava;-e;ž
+sonèece;-a;s
+sonèek;-èka;m
+sonèen;-èna -o;prid.
+sonèenje;-a;s
+sonèev;-a -o;prid.
+sonèišèe;-a;s
+sonèiti;-im;nedov.
+sonènat;-a -o;prid.
+sonènica;-e;ž
+sonènièen;-èna -o;prid.
+sonènik;-a;m
+sonènost;-i;ž
+sonda;-e;ž
+sondaža;-e;ž
+sondažen;-žna -o;prid.
+sonden;-dna -o;prid.
+sondiranje;-a;s
+sondirati;-am;nedov. in dov.
+sonet;-a;m
+soneten;-tna -o;prid.
+sonetist;-a;m
+song;;tudi
+sonoren;-rna -o;prid.
+sonosilec;-lca;m
+sonožen;-žna -o;prid.
+soobèan;;in
+soobèutiti;;in
+soobèutje;-a;s
+soobdolženec;-nca;m
+sooblikovalec;-lca;m
+sooblikovalka;-e;ž
+sooblikovati;-ujem;nedov.
+soobsojenec;-nca;m
+soobstajanje;-a;s
+soobstajati;-am;nedov.
+soobstoj;-oja;m
+soobtoženec;-nca;m
+soobtožiti;;in
+sooèanje;-a;s
+sooèati;-am;nedov.
+sooèenec;-nca;m
+sooèenje;-a;s
+sooèevati;-ujem;nedov.
+sooèiti;-im;dov.
+soodgovoren;-rna -o;prid.
+soodgovornost;-i;ž
+soodloèanje;-a;s
+soodloèati;-am;nedov.
+soodloèevati;-ujem;nedov.
+soodloèilen;-lna -o;prid.
+soodnos;-osa;m
+soodnosen;-sna -o;prid.
+soodnosje;-a;s
+soodnosnica;-e;ž
+soodnosnost;-i;ž
+soodvisen;-sna -o;prid.
+soodvisnost;-i;ž
+soosen;;tudi
+sopar;-a;m
+sopara;-e;ž
+soparica;-e;ž
+soparièen;-èna -o;prid.
+soparnost;-i;ž
+sopenje;-a;s
+sopeti;-im;nedov.
+sopevec;-vca;m
+sopež;-a;m
+sopih;-a;m
+sopihanje;-a;s
+sopihati;-am;nedov.
+sopihniti;-em;dov.
+sopilo;-a;s
+sopilot;-a;m
+sopišnjak;-a;m
+sopivec;-vca;m
+soplemenjak;-a;m
+soplesalec;-lca;m
+soplesalka;-e;ž
+soplezalec;-lca;m
+soplezalka;-e;ž
+sopljaj;-a;m
+soplodje;-a;s
+sopniti;-em;tudi
+soplodje;-a;s
+sopniti;-em;tudi
+sopodpis;-a;m
+sopodpisati;;in
+sopodpisnica;-e;ž
+sopodpisnik;-a;m
+sopodpisovati;-ujem;nedov.
+sopogodbenica;-e;ž
+sopogodbenik;-a;m
+sopojav;-ava;m
+sopomen;-ena;m
+sopomenka;-e;ž
+sopomenski;-a -o;prid.
+soporoèevalec;-lca;m
+soporok;;tudi
+soposestnik;-a;m
+sopostavljanje;-a;s
+sopot;-a;in
+sopotnica;-e;ž
+sopotnik;-a;m
+sopotništvo;-a;s
+sopovzroèitelj;-a;m
+sopovzroèiti;-im;dov.
+sopran;-a;m
+sopranèek;-èka;m
+sopranist;-a;m
+sopranistka;-e;ž
+sopranski;-a -o;prid.
+sopraznik;;tudi
+sopredlagatelj;-a;m
+sopredsednica;-e;ž
+sopredsednik;-a;m
+soprisežnik;-a;m
+soprispevati;-am;dov. in nedov.
+soprispevek;-vka;m
+soprog;-a;m
+soproga;-e;ž
+sopsti;sopem;nedov.
+sopuh;-a;m
+sora;-e;ž
+sorazmeren;-rna -o;prid.
+sorazmerje;-a;s
+sorazmernost;-i;ž
+sorazmernosten;-tna -o;prid.
+sorazmeroma;;prisl.
+sorbet;;in
+sorbit;-a;m
+sordina;-e;ž
+sordiniran;-a -o;prid.
+sordino;-a;m
+soredje;-a;s
+sornik;-a;m
+soroèen;;in
+sorod;-a;m
+soroden;-dna -o;prid.
+sorodnica;-e;ž
+sorodnik;-a;m
+sorodniški;-a -o;prid.
+sorodnost;-i;ž
+sorodovina;-e;ž
+sorodovinec;-nca;m
+sorodstven;-a -o;prid.
+sorodstvo;-a;s
+sorojak;-a;m
+sorojenec;-nca;m
+sorta;-e;ž
+sorten;-tna -o;prid.
+sortiment;-enta;m
+sortimenten;-tna -o;prid.
+sortiranje;-a;s
+sortirati;-am;nedov. in dov.
+sortirec;-rca;m
+sortiren;-rna -o;prid.
+sortirka;-e;ž
+sortirnica;-e;ž
+sortirnik;-a;m
+sortnost;-i;ž
+soržen;-žna -o;prid.
+soržica;-e;ž
+soržièen;-èna -o;prid.
+SOS;;m neskl.
+soseben;;tudi
+soseèka;-e;ž
+sosed;;in
+soseda;-e;ž
+soseden;-dna -o;prid.
+sosedin;-a -o;prid.
+sosedinja;-e;ž
+sosednja;-e;ž
+sosednji;-a -e;prid.
+sosedov;-a -o;prid.
+sosedovati;-ujem;nedov.
+sosedovski;-a -o;prid.
+sosedski;-a -o;prid.
+sosedstvo;-a;s
+soseska;-e;ž
+soseskin;-a -o;prid.
+sosestra;-e;ž
+sosešèan;-a;m
+sosešèan;-a;m
+sosešèina;-e;ž
+soseški;-a -o;prid.
+soskladje;-a;s
+sosledica;-e;ž
+sosledje;-a;s
+sosonce;-a;s
+sospalec;-lca;m
+sosreden;-dna -o;prid.
+sosrediti;-im;dov.
+sostanovalec;-lca;m
+sostanovalka;-e;ž
+sostanovalski;-a -o;prid.
+sostav;-ava;m
+sostenuto;;prisl.
+sostorilec;-lca;m
+sostorilstvo;-a;s
+sosvet;-eta;m
+sosvodnica;-e;ž
+sošen;-šna -o;prid.
+sošica;;tudi
+soški;-a -o;prid.
+sošolec;-lca;m
+sošolka;-e;ž
+sotekmovalec;-lca;m
+sotekmovalka;-e;ž
+soteriološki;-a -o;prid.
+soteska;-e;ž
+soteskast;-a -o;prid.
+sotiš;-a;m
+sotoèje;-a;s
+sotoènica;-e;ž
+sotovariš;-a;m
+sotožnik;-a;m
+sotrpeti;-im;nedov.
+sotrpin;-a;m
+sotrpinka;-e;ž
+sotrpljenje;-a;s
+sotrudnica;-e;ž
+sotrudnik;-a;m
+sotrudništvo;-a;s
+sotvorec;-rca;m
+sou;-ja;m
+souèenec;-nca;m
+souèenka;-e;ž
+souèinkovanje;-a;s
+souèinkovati;-ujem;nedov.
+soudeležba;-e;ž
+soudeleženec;;tudi
+soudeleženka;;tudi
+soudeleženost;;in
+soudeleževati se;-ujem se;nedov.
+soudeležiti se;-im se;dov.
+soudeležnik;-a;m
+soujetnik;;tudi
+souporaba;-e;ž
+souporabljati;-am;nedov.
+souporabnik;-a;m
+soupoštevati;-am;nedov. in dov.
+soupravièenec;-nca;m
+soupravljanje;-a;s
+soupravljati;-am;nedov.
+soupravljavec;-vca;m
+sourednik;;tudi
+sourejati;-am;nedov.
+sousmeriti;-im;dov.
+soustanovitelj;-a;m
+soustanoviteljica;-e;ž
+soustanoviteljstvo;-a;s
+soustvariti;-im;dov.
+soustvarjalec;-lca;m
+soustvarjalen;-lna -o;prid.
+soustvarjalka;-e;ž
+soustvarjalnost;-i;ž
+soustvarjalnost;-i;ž
+soustvarjanje;-a;s
+soustvarjati;-am;nedov.
+soutemeljitelj;-a;m
+souvenir;;gl.
+souživalec;-lca;m
+souživati;-am;nedov.
+sova;-e;ž
+sovaruh;-a;m
+sovast;-a -o;prid.
+sovašèan;;in
+sovašèanka;-e;ž
+sovdan;;tudi
+sovec;-vca;m
+sovedec;-dca;m
+sovednost;-i;ž
+sovereign;;tudi
+sovernik;-a;m
+sovhoz;-a;m
+sovhozen;-zna -o;prid.
+sovikati;-am;nedov.
+sovinjon;;gl.
+sovir;-ja;m
+sovisen;-sna -o;prid.
+sovislost;-i;ž
+sovisnost;-i;ž
+sovjet;-a;m
+sovjetija;-e;ž
+sovjetizacija;-e;ž
+sovjetizirati;-am;nedov. in dov.
+sovjetski;-a -o;prid.
+sovji;-a -e;prid.
+sovka;-e;ž
+sovkanje;-a;s
+sovkati;-am;nedov.
+sovladanje;-a;s
+sovladar;-ja;m
+sovladarica;-e;ž
+sovladati;-am;nedov.
+sovladje;-a;s
+sovlaganje;-a;s
+sovodenj;-dnji;ž
+sovodje;-a;s
+sovozaè;-a;m
+sovoznica;-e;ž
+sovoznik;-a;m
+sovpad;-ada;m
+sovpadanje;-a;s
+sovpadati;-am;nedov.
+sovpadnost;-i;ž
+sovpasti;-padem;dov.
+sovplivanje;-a;s
+sovplivati;-am;nedov.
+sovprega;-e;ž
+sovprežen;-žna -o;prid.
+sovra;-e;ž
+sovrag;-a;m
+sovraštvo;-a;s
+sovraž;;prid. neskl.
+sovražen;-žna -o;prid.
+sovražiti;;in
+sovražnica;-e;ž
+sovražnik;-a;m
+sovražnikov;-a -o;prid.
+sovražniški;-a -o;prid.
+sovražnost;-i;ž
+sovrin;;gl.
+sovrsten;-tna -o;prid.
+sovrstnica;-e;ž
+sovrstnik;-a;m
+sovršen;-šna -o;prid.
+sovzdrževati;-ujem;nedov.
+sovzrok;-oka;m
+sozaklep;-epa;m
+sozakriviti;-im;dov.
+sozakupnik;-a;m
+sozaložnica;-e;ž
+sozaložnik;-a;m
+sozapornik;-a;m
+sozarotnik;-a;m
+sozavarovati;-ujem;tudi
+sozd;-a;m
+sozemljan;;in
+soznaèen;-èna -o;prid.
+soznaèica;-e;ž
+soznaènica;-e;ž
+sozvanjanje;-a;s
+sozvanjati;-am;nedov.
+sozvenenje;-a;s
+sozveneti;-im;nedov.
+sozvezdje;-a;s
+sozvoèen;-èna -o;prid.
+sozvoèje;-a;s
+sozvok;-a;m
+sožalen;-lna -o;prid.
+sožalje;-a;s
+sožalnica;-e;ž
+sožitje;-a;s
+sožitje;-a;s
+soživeti;-im;nedov.
+spacati;-am;dov.
+spacialen;-lna -o;prid.
+spacij;-a;m
+spackati;-am;dov.
+spaèek;-èka;m
+spaèenec;-nca;m
+spaèenka;-e;ž
+spaèenost;-i;ž
+spaèiti;-im;dov.
+spaènik;-a;m
+spadati;-am;nedov.
+spah;spaha;m
+spahalnik;-a;m
+spahi;-ja;m
+spahija;-e;tudi
+spahniti;;in
+spahniti se;;in
+spahnjenica;-e;ž
+spahovati;-ujem;nedov.
+spahovati se;-ujem se;tudi
+spajalen;-lna -o;prid.
+spajalnik;-a;m
+spajalo;-a;s
+spajalnik;-a;m
+spajalo;-a;s
+spajanje;-a;s
+spajati;-am;nedov.
+spajdašiti se;-im se;dov.
+spajka;-e;ž
+spajkalen;-lna -o;prid.
+spajkalnik;-a;m
+spajkalo;-a;s
+spajkanje;-a;s
+spajkati;-am;nedov.
+spak;spaka;m
+spaka;-e;ž
+spakarija;-e;ž
+spakast;-a -o;prid.
+spakec;-kca;m
+spakedranka;-e;ž
+spakedranost;-i;ž
+spakedranšèina;-e;ž
+spakedrati;-am;dov.
+spakica;-e;ž
+spakirati;-am;dov.
+spakljiv;-a -o;prid.
+spakljivka;-e;ž
+spakljivost;-i;ž
+spakovalec;-lca;m
+spakovanje;-a;s
+spakovati se;-ujem se;nedov.
+spalèiti;-im;dov.
+spalec;-lca;m
+spalen;-lna -o;prid.
+spaliti;;in
+spalna;-e;ž
+spalnica;-e;ž
+spalnik;-a;m
+spametiti;-im;dov.
+spametovanje;-a;s
+spametovati;-ujem;dov.
+spanèek;-èka;m
+spanèkati;-am;nedov.
+spanec;-nca;m
+spanjaè;-a;m
+spanje;-a;s
+spanjšèica;-e;ž
+sparcelirati;-am;dov.
+sparen;-rna -o;prid.
+sparica;-e;ž
+sparcelirati;-am;dov.
+sparen;-rna -o;prid.
+sparica;-e;ž
+sparièen;-èna -o;prid.
+sparina;-e;ž
+sparing;;neskl. pril.
+sparitev;-tve;ž
+spariti;-im;dov.
+spariti;-im;in
+sparoma;;prisl.
+spartakiada;-e;ž
+spartakist;-a;m
+spartakovec;-vca;m
+spartanski;ipd.;gl.
+spas;-a;m
+spasirati;-am;dov.
+spasti;spadem;dov.
+spasti;spasem;dov.
+spastièen;-èna -o;prid.
+spašnik;-a;m
+spati;spim;nedov.
+spavaè;-a;m
+spavališèe;-a;s
+spavati;-am;nedov.
+spavperizirati;-am;dov.
+spazem;-zma;m
+spaziti;;in
+spazmatièen;-èna -o;prid.
+specialen;-lna -o;prid.
+specialist;-a;m
+specialistièen;-èna -o;prid.
+specialistka;-e;ž
+specialistovstvo;-a;s
+specialiteta;;tudi
+specializacija;-e;ž
+specializant;-a;m
+specializantka;-e;ž
+specializiranje;-a;s
+specializiranost;-i;ž
+specializirati;-am;nedov. in dov.
+specialka;-e;ž
+specialka;;tudi
+specialnost;-i;ž
+species;;ž neskl.
+specificirati;-am;dov. in nedov.
+specifièen;-èna -o;prid.
+specifiènost;-i;ž
+specifika;-e;ž
+specifikacija;-e;ž
+specifikum;-a;m
+specimen;-mna;m
+speèati;-am;dov.
+speèavati;-am;nedov.
+speèi;speèem;dov.
+speènost;-i;ž
+spedicija;ipd.;gl.
+speedway;-a;m
+speedwayist;-a;m
+speedwayski;-a -o;prid.
+speh;-a;m
+spehanost;-i;ž
+spehati;-am;dov.
+spehati;-am;dov.
+speketati;-am;tudi
+spektakel;;tudi
+spektakelski;;tudi
+spektakularen;-rna -o;prid.
+spektakularnost;-i;ž
+spekter;-tra;in
+spektralen;-lna -o;prid.
+spektro...;;ali
+spektrofotometer;-tra;m
+spektrograf;-a;m
+spektrografski;-a -o;prid.
+spektrogram;-a;m
+spektrometer;-tra;m
+spektroskop;;tudi
+spektroskopija;-e;ž
+spektroskopski;-a -o;prid.
+spekulacija;-e;ž
+spekulativen;-vna -o;prid.
+spekulativnost;-i;ž
+spekulirati;-am;nedov.
+speleo...;;ali
+speleolog;-a;m
+speleologija;-e;ž
+speleološki;-a -o;prid.
+speljaj;-a;m
+speljanèek;;gl.
+speljati;speljem;tudi
+speljava;-e;ž
+speljavanje;-a;s
+speljavati;-am;nedov.
+speljevanje;-a;s
+speljevati;-ujem;nedov.
+spenec;;tudi
+speniti;-im;dov.
+spenjaè;-a;m
+spenjaèa;-e;ž
+spenjalen;-lna -o;prid.
+spenjanje;-a;s
+spenjavka;-e;ž
+spenjenost;-i;ž
+spentljati;-am;dov.
+spereti;-im;dov.
+sperma;-e;ž
+spermalen;-lna -o;prid.
+spermatozoid;-a;m
+spermatozoj;;in
+spermij;-a;m
+spesniti;-em;dov.
+spesniti;-im;dov.
+spestiti;-im;dov.
+spestovanèek;;in
+spestovanka;;in
+spestovati;-ujem;in
+spešen;-šna -o;prid.
+spešiti;-im;nedov.
+spešnost;-i;ž
+speštati;-am;dov.
+spet;;prisl.
+speteliniti se;-im se;dov.
+speten;;in
+speteliniti se;-im se;dov.
+speten;;in
+speti;spem;nedov.
+speti;spnem;dov.
+speti se;spnem se;dov.
+spetka;-e;ž
+spetljati;-am;dov.
+spetost;-i;ž
+spev;;in
+spevati;-am;nedov.
+speven;-vna -o;prid.
+spevnost;-i;ž
+spevoigra;-e;ž
+spezdeti se;-im se;dov.
+sphati;spham;stil.
+spihati;-am;dov.
+spihniti;-em;dov.
+spiker;;tudi
+spikerka;;tudi
+spiliti;-im;dov.
+spin;-a;m
+spinaker;-ja;m
+spinalen;-lna -o;prid.
+spinel;;tudi
+spinet;;tudi
+spinozizem;-zma;m
+spipati;;gl.
+spirala;;tudi
+spiralast;;tudi
+spiralen;;tudi
+spiranje;-a;s
+spirant;-a;m
+spirati;-am;nedov.
+spireja;-e;ž
+spiril;-a;m
+spirila;-e;ž
+spiritist;-a;m
+spiritistièen;-èna -o;prid.
+spiritizem;-zma;m
+spiritizirati;-am;nedov.
+spiritual;-a;m
+spiritualen;-lna -o;prid.
+spiritualist;-a;m
+spiritualistièen;-èna -o;prid.
+spiritualizem;-zma;m
+spiritualnost;-i;ž
+spirituoza;;in
+spiritus agens;spiritusa agensa;m
+spiroheta;-e;ž
+spiroheta;-e;ž
+spirometer;-tra;m
+spis;-a;m
+spisatelj;-a;m
+spisati;;in
+spisek;-ska;m
+spisen;-sna -o;prid.
+spisje;-a;s
+spisovalec;-lca;m
+spisovanje;-a;s
+spisovatelj;-a;m
+spisovati;-ujem;nedov.
+spisoven;-vna -o;prid.
+spisovnica;-e;ž
+spisovnik;-a;m
+spitati;-am;tudi
+spitfire;-ja;m
+spiti;;gl.
+splaèati;ipd.;gl.
+splahneti;-im;dov.
+splahnevati;-am;nedov.
+splahniti;;in
+splahovati;-ujem;nedov.
+splahutati;-am;in
+splahutavati;-am;nedov.
+splajhati;-am;dov.
+splakniti;ipd.;gl.
+splameneti;-im;dov.
+splanirati;-am;dov.
+splapolati;-am;dov.
+splapolavati;-am;nedov.
+splastiti;-im;in
+splašenost;;tudi
+splašiti;;in
+splati;;gl.
+splav;;in
+splav;-i;ž
+splavar;;in
+splavariti;-im;nedov.
+splavarjenje;-a;s
+splavarski;;in
+splavarstvo;;in
+splavati;-am;dov.
+splavek;-vka;m
+splavilo;-a;s
+splavišèe;-a;s
+splavitev;-tve;ž
+splaviti;-im;tudi
+splavitev;-tve;ž
+splaviti;-im;tudi
+splaviti;-im;tudi
+splavljanje;-a;s
+splavljati;-am;nedov.
+splavljati;-am;tudi
+splavljenec;;tudi
+splavnica;-e;ž
+splavuša;-e;ž
+splaziti se;;in
+spleen;-a;m
+splendiden;-dna -o;prid.
+splesati;;gl.
+splesneti;-im;dov.
+splesniti;-im;dov.
+splesniveti;-im;dov.
+splesti;spletem;dov.
+splet;spleta;m
+spletanje;-a;s
+spletati;-am;nedov.
+spletek;-tka;m
+spletenica;-e;ž
+spletenièiti;-im;dov.
+spletenka;;tudi
+spletenost;-i;ž
+spletièna;-e;ž
+spletka;-e;ž
+spletkar;;in
+spletkarica;;in
+spletkarija;-e;ž
+spletkariti;-im;nedov.
+spletkarjenje;-a;s
+spletkarka;;in
+spletkarski;;tudi
+spletkarstvo;;tudi
+splezati;-am;dov.
+splitveti;-im;dov.
+splitviti se;-im se;tudi
+spljuzniti;-em;dov.
+sploditi;-im;dov.
+sploh;;prisl.
+splošèati;-am;nedov.
+splošèenje;;tudi
+splošèenost;;tudi
+splošèevati;-ujem;nedov.
+splošèiti;-im;tudi
+splošen;-šna -o;prid.
+splošnica;-e;ž
+splošnoèloveški;-a -o;prid.
+splošnodržaven;-vna -o;prid.
+splošnoizobrazben;-a -o;prid.
+splošnoizobraževalen;-lna -o;prid.
+splošnoljudski;-a -o;prid.
+splošnonaroden;-dna -o;prid.
+splošnoslovanski;-a -o;prid.
+splošnost;-i;ž
+splovitev;-tve;ž
+sploviti;-im;tudi
+splunkati;-am;dov.
+spluti;splovem;in
+splužiti;-im;tudi
+spoèasniti;-im;in
+spoèelo;-a;s
+spoèenjati;-am;nedov.
+spoèetek;-tka;m
+spoèeten;-tna -o;prid.
+spoèeti;-ènem;dov.
+spoèetje;-a;s
+spoèetka;;prisl.
+spoèetnik;-a;m
+spoèiniti;-em;dov.
+spoèetnik;-a;m
+spoèiniti;-em;dov.
+spoèitek;-tka;m
+spoèiti se;spoèijem se;dov.
+spoèitost;-i;ž
+spoèivati se;-am se;nedov.
+spod;;prisl.
+spod;;predl., gl.
+spod...;;ali
+spodaj;;prisl.
+spodbadati;-am;tudi
+spodbeliti;;in
+spodbirati;-am;nedov.
+spodbiti;ipd.;gl.
+spodboèki;;prisl.
+spodbosti;-bodem;tudi
+spodbuda;-e;ž
+spodbuden;-dna -o;prid.
+spodbudilo;-a;s
+spodbuditev;-tve;ž
+spodbuditi;-im;tudi
+spodbudljiv;;tudi
+spodbudnica;-e;ž
+spodbudnik;-a;m
+spodbudnost;-i;ž
+spodbuja;-e;ž
+spodbujanje;;tudi
+spodbujati;-am;tudi
+spodbujevalec;-lca;m
+spodbujevalen;-lna -o;prid.
+spodbujevalnik;-a;m
+spodek;-dka;m
+spodglodati;;gl.
+spodgniti;-gnijem;dov.
+spodgristi;;gl.
+spoditi;-im;dov.
+spodjesti;ipd.;gl.
+spodkidati;-am;dov.
+spodkopati;ipd.;gl.
+spodkositi;-im;dov.
+spodkrepeliti;-im;tudi
+spodlesti;ipd.;gl.
+spodlet;;tudi
+spodletavati;-am;tudi
+spodleteti;-im;tudi
+spodmakniti;;in
+spodmikati;-am;in
+spodminirati;-am;dov.
+spodmleti;-meljem;tudi
+spodmlevati;-am;tudi
+spodmol;-ola;m
+spodmolat;-ata -o;prid.
+spodmuliti se;-im se;dov.
+spodneben;;gl.
+spodnesti;ipd.;gl.
+spodnjak;-a;m
+spodnje...;;prvi del zloženk
+spodnjeèeljusten;-tna -o;prid.
+spodnještajerski;-a -o;prid.
+spodnji;-a -e;prid.
+spodnjica;-e;ž
+spodnjice;-dnjic;ž mn.
+spodoba;-e;ž
+spodoben;-bna -o;prid.
+spodobiti se;-im se;nedov.
+spodobje;-a;s
+spodobnež;-a;m
+spodobnica;-e;ž
+spodobnost;-i;ž
+spodoèki;;prisl.
+spodorati;-orjem;in
+spodoravati;-am;nedov.
+spodrast;-i;in
+spodrasti;-rastem;in
+spodrašèati;-am;tudi
+spodrec;;in
+spodrecati;-am;in
+spodrecavati;-am;in
+spodrediti;-im;dov.
+spodrepiti;;gl.
+spodrezati;ipd.;gl.
+spodriniti;ipd.;gl.
+spodriti;;gl.
+spodrkljaj;-a;m
+spodrkniti;-em;dov.
+spodrkovati;-ujem;nedov.
+spodrs;-a;m
+spodrsavanje;-a;s
+spodrsavati;-am;nedov.
+spodrsek;-ska;m
+spodrseti;-im;dov.
+spodrsevati;-am;nedov.
+spodrsljaj;-a;m
+spodrsljiv;-a -o;prid.
+spodrsniti;-em;dov.
+spodrsovati;-ujem;nedov.
+spodsekati;ipd.;gl.
+spodsuti se;-sujem se;dov.
+spodvezati;;in
+spodvihati;-am;dov.
+spodvihavati;-am;nedov.
+spodvihek;-hka;m
+spodvihniti;-em;dov.
+spodvihovati;-ujem;nedov.
+spodviti;-vijem;dov.
+spodvraèati se;-am se;nedov.
+spodžagati;;gl.
+spodžgati;-žgem;dov.
+spodžigati;-am;nedov.
+spodžreti;ipd.;gl.
+spoetizirati;-am;dov.
+spogled;-eda;m
+spogledati se;-am se;dov.
+spogledavati se;-am se;nedov.
+spogledljaj;-a;m
+spogledljiv;-a -o;prid.
+spogledljivec;-vca;m
+spogledljivka;-e;ž
+spogledljivost;-i;ž
+spogledovanje;-a;s
+spogledovati se;-ujem se;nedov.
+spogniti;spognem;tudi
+spoj;spoja;m
+spojati se;;gl.
+spojek;-jka;m
+spojen;-jna -o;prid.
+spojenost;-i;ž
+spojilo;-a;s
+spojina;-e;ž
+spojišèe;-a;s
+spojitev;-tve;ž
+spojiti;-im;dov.
+spojka;-e;ž
+spojler;-ja;m
+spojljiv;-a -o;prid.
+spojnica;-e;ž
+spojnik;-a;m
+spokati;-am;dov.
+spokati;-am;dov.
+spoklina;-e;ž
+spokoj;-oja;in
+spokojen;-jna -o;prid.
+spokojenost;-i;ž
+spokojiti;-im;dov.
+spokojnost;-i;ž
+spokonèiti;-im;dov.
+spokoren;-rna -o;prid.
+spokoritev;-tve;ž
+spokoriti se;-im se;dov.
+spokoriti se;-im se;dov.
+spokorjenec;-nca;m
+spokorjenje;-a;s
+spokornica;-e;ž
+spokornik;-a;m
+spokorniški;-a -o;prid.
+spokorništvo;-a;s
+spokornost;-i;ž
+spol;spola;m
+spolen;-lna -o;prid.
+spoliirati;-am;dov. in nedov.
+spolirati;-am;dov.
+spolitirati;-am;dov.
+spolitizirati;-am;dov.
+spolnik;-a;m
+spolniti;ipd.;gl.
+spolnost;-i;ž
+spoloverec;-rca;m
+spolovilo;-a;s
+spolovina;-e;ž
+spolovinar;-ja;m
+spolovinarski;-a -o;prid.
+spolovinarstvo;-a;s
+spolstiti;-im;tudi
+spolzek;-zka -o;prid.
+spolzeti;-im;dov.
+spolzkost;-i;ž
+spolzniti;-em;dov.
+spomagati;-am,;in
+spomenica;-e;ž
+spomenièar;-ja;m
+spomenik;-a;m
+spomeniški;-a -o;prid.
+spomeniškovarstven;-a -o;prid.
+spomigniti;-em;dov.
+spomin;-a;m
+spominèek;-èka;m
+spominèica;-e;ž
+spominèièast;-a -o;prid.
+spominek;-nka;m
+spominjanje;-a;s
+spominjati;-am;nedov.
+spominkar;-ja;m
+spominkarski;-a -o;prid.
+spominkarstvo;-a;s
+spominski;-a -o;prid.
+spomlad;-i;ž
+spomladanèek;-èka;m
+spomladanec;-nca;m
+spomladanji;-a -e;prid.
+spomladanski;-a -o;prid.
+spomladen;-dna -o;prid.
+spomladi;;prisl.
+spomniti;-im;dov.
+spona;-e;ž
+sponašati;-am;nedov.
+spondej;-a;m
+sponesti;-nesem;dov.
+spongin;-a;m
+sponka;-e;ž
+sponsor;;gl.
+spontan;-a -o;prid.
+spontanost;-i;ž
+spontanski;-a -o;prid.
+sponzor;;tudi
+spopad;-ada;m
+spopadanje;-a;s
+spopadati se;-am se;nedov.
+spopaden;-dna -o;prid.
+spopadljiv;-a -o;prid.
+spopasti se;-padem se;dov.
+spopolniti;ipd.;gl.
+spoprijateljiti se;-im se;in
+spoprijazniti se;-im se;dov.
+spoprijem;-ema;m
+spoprijemati se;-am se;tudi
+spoprijeti se;-primem se;dov.
+spor;spora;m
+spora;-e;ž
+sporadièen;-èna -o;prid.
+sporadiènost;-i;ž
+sporangij;-a;m
+sporazum;-a;m
+sporazumarski;-a -o;prid.
+sporazumarstvo;-a;s
+sporazumaški;-a -o;prid.
+sporazumaštvo;-a;s
+sporazumen;-mna -o;prid.
+sporazumeti se;-umem se;dov.
+sporazumevalen;-lna -o;prid.
+sporazumevanje;-a;s
+sporazumevati se;-am se;nedov.
+sporazumljenje;-a;s
+sporazumljevalen;-lna -o;prid.
+sporazumnost;-i;ž
+sporèek;-èka;m
+sporeèi se;-reèem se;dov.
+spored;-eda;m
+sporeden;-dna -o;prid.
+sporediti;-im;dov.
+sporednica;-e;ž
+sporednost;-i;ž
+sporejati;-am;nedov.
+sporek;-eka;m
+sporekati se;-am se;nedov.
+sporiš;-a;m
+spornost;-i;ž
+sporoèanje;-a;s
+sporoèati;-am;nedov.
+sporoèevalec;-lca;m
+sporoèevalen;-lna -o;prid.
+sporoèilce;-a;s
+sporoèilen;-lna -o;prid.
+sporoèilnost;-i;ž
+sporoèilo;-a;s
+sporoèitev;-tve;ž
+sporoèiti;-im;dov.
+sporoèljiv;-a -o;prid.
+sporofit;-a;m
+sposoben;-bna -o;prid.
+sposobnež;-a;m
+sposobnost;-i;ž
+sposobnosten;-tna -o;prid.
+sposobnost;-i;ž
+sposobnosten;-tna -o;prid.
+sposoditi;ipd.;gl.
+spostavitev;-tve;ž
+spostaviti;-im;dov.
+spostavljati;-am;nedov.
+spostiti;;gl.
+spoševiti;-im;dov.
+spoštljiv;-a -o;prid.
+spoštljivost;-i;ž
+spoštovalec;-lca;m
+spoštovanje;-a;s
+spoštovati;-ujem;nedov.
+spot;-a;m
+spotakljiv;-a -o;prid.
+spotakniti;;in
+spotegniti;;in
+spotegnjenec;-nca;m
+spotegovati;-ujem;nedov.
+spotekniti;;gl.
+spoten;-tna -o;prid.
+spoti;;in
+spotik;-a;m
+spotika;-e;ž
+spotikanje;-a;s
+spotikati;-am;nedov.
+spotikljaj;;stil.
+spotikljiv;-a -o;prid.
+spotiti;-im;dov.
+spotjo;;in
+spotom;;in
+spotoma;;prisl.
+spoved;-i;ž
+spovedanec;-nca;m
+spovedanka;-e;ž
+spovedati;spovem;dov.
+spoveden;-dna -o;prid.
+spovednica;-e;ž
+spovednik;-a;m
+spovedovati;-ujem;nedov.
+spovitek;-tka;m
+spoviti;-vijem;dov.
+spovitje;-a;s
+spovraèanje;-a;s
+spovraèati;-am;nedov.
+spovreèi;-vržem;dov.
+spovrniti se;;in
+spozaba;;tudi
+spozabiti se;;in
+spozabljati se;-am se;tudi
+spozabljenje;;tudi
+spozabljiv;-a -o;prid.
+spoznanje;-a;s
+spoznanjski;-a -o;prid.
+spoznatek;-tka;m
+spoznaten;-tna -o;prid.
+spoznatev;-tve;ž
+spoznati;-znam;dov.
+spoznatnost;-i;ž
+spoznava;-e;ž
+spoznavalec;-lca;m
+spoznavalen;-lna -o;prid.
+spoznavanje;-a;s
+spoznavati;-am;nedov.
+spoznaven;-vna -o;prid.
+spoznavnokritièen;-èna -o;prid.
+spoznavnost;-i;ž
+spoznavnoteoretièen;-èna -o;prid.
+spoznavnoteoretski;-a -o;prid.
+spoznavosloven;-vna -o;prid.
+spoznavoslovje;-a;s
+spozniti se;-im se;dov.
+sprasen;-sna -o;prid.
+spraskati;-am;dov.
+sprasketati;-am;tudi
+sprašati;ipd.;gl.
+sprašèati;-am;nedov.
+sprašitev;-tve;ž
+sprašiti;-im;dov.
+sprašiti;-im;dov.
+sprat;-a;m
+sprati;sperem;dov.
+sprava;-e;ž
+spraven;-vna -o;prid.
+spravilen;-lna -o;prid.
+spravilo;-a;s
+spravišèe;-a;s
+spraviti;-im;dov.
+spravljaè;-a;m
+spravljalnik;-a;m
+spravljanje;-a;s
+spravljati;-am;nedov.
+spravljenost;-i;ž
+spravljièiti;-im;dov.
+spravljiv;-a -o;prid.
+spravljivec;-vca;m
+spravljivost;-i;ž
+spravnina;-e;ž
+spray;;in
+sprazniti;ipd.;gl.
+spražiti;-im;dov.
+sprdniti se;-em se;dov.
+sprebirati;-am;tudi
+sprebiti;-bijem;dov.
+sprebrati;-berem;tudi
+spreèi;ipd.;gl.
+spred;;prisl.
+spred;;predl., gl.
+spredaj;;prisl.
+spredati;-am;nedov.
+spredek;-dka;m
+sprednik;-a;m
+sprednjaèa;-e;ž
+sprednjenožec;-žca;m
+sprednji;-a -e;prid.
+sprednjik;-a;m
+sprega;-e;ž
+spreganje;-a;s
+spregatev;-tve;ž
+spregati;-am;nedov.
+spregatven;-a -o;prid.
+spregled;;tudi
+spregledati;-am;tudi
+spregledljiv;-a -o;prid.
+spregledovati;-ujem;tudi
+spregovarjati;-am;nedov.
+spregovoriti;-im;tudi
+sprehajalec;-lca;m
+sprehajalen;-lna -o;prid.
+sprehajališèe;-a;s
+sprehajalka;-e;ž
+sprehajalnica;-e;ž
+sprehajanje;-a;s
+sprehajati se;-am se;tudi
+sprehod;;in
+sprehodek;-dka;m
+sprehoden;;tudi
+sprehoditi se;-hodim se;tudi
+sprej;;gl.
+sprejem;-ema;m
+sprejemalec;-lca;m
+sprejemališèe;-a;s
+sprejemanje;-a;s
+sprejemati;-am;nedov.
+sprejemen;-mna -o;prid.
+sprejemljiv;-a -o;prid.
+sprejemljivost;-i;ž
+sprejemnica;-e;ž
+sprejemnik;-a;m
+sprejeti;sprejmem;dov.
+sprejetje;-a;s
+sprejoh;;medm.
+spreklati se;-am se;dov.
+sprekleti;-kolnem;dov.
+sprekoma;;prisl.
+sprekrižan;;tudi
+sprelep;-a -o;tudi
+sprelet;-eta;m
+spreletati;-am;tudi
+spreletavanje;-a;s
+spreletavati;-am;tudi
+spreleteti;-im;tudi
+spreletovati;-ujem;nedov.
+spreliti se;-lijem se;dov.
+sprememba;;tudi
+spremen;-ena;m
+spremen;-mna -o;prid.
+spremena;-e;ž
+spremenitev;;tudi
+spremeniti;-im;tudi
+spremenjenje;-a;s
+spremenjenost;;tudi
+spremenljiv;-a -o;prid.
+spremenljivka;-e;ž
+spremenljivost;-i;ž
+spremešanost;;tudi
+spremešati;;tudi
+spremešavati;-am;tudi
+spremetati;-am;nedov.
+spremetati;-meèem;dov.
+spremetavati;-am;nedov.
+spremin;-a;m
+spreminjanje;;tudi
+spreminjast;;tudi
+spreminjati;-am;tudi
+spreminjav;-ava -o;prid.
+spreminjava;-e;ž
+spreminjavèek;;tudi
+spreminjavost;-i;ž
+spreminjevalec;-lca;m
+spreminjevalen;-lna -o;prid.
+spremisliti;-im;dov.
+spremiti;;in
+spremljanje;-a;s
+spremljati;-am;nedov.
+spremljava;-e;ž
+spremljavec;-vca;m
+spremljevalec;-lca;m
+spremljevalen;-lna -o;prid.
+spremljevalka;-e;ž
+spremljevanje;-a;s
+spremljevati;-ujem;nedov.
+spremnica;-e;ž
+spremnik;-a;m
+spremstvo;-a;s
+sprenašati;-am;nedov.
+spreneveda;-e;ž
+sprenevedanje;-a;s
+sprenevedast;-a -o;prid.
+sprenevedati se;-am se;nedov.
+sprenevedav;-a -o;prid.
+sprenevedavost;-i;ž
+Sprengerjev;-a -o;prid.
+spreobleèi;-obleèem;dov.
+spreobraèanje;;tudi
+spreobraèati;-am;tudi
+spreobraèevalec;-lca;m
+spreobrnitev;;tudi
+spreobrniti;;in
+spreobrnjenec;;tudi
+spreobrnjenje;;tudi
+sprepereti;-im;dov.
+spreplesti;-pletem;tudi
+spreplet;-eta;m
+spreplet;-eta;m
+sprepletati;-am;tudi
+sprepletenost;-i;ž
+sprepresti;-predem;in
+spreprostiti;-im;dov.
+spreprošèati;-am;nedov.
+spresti;spredem;in
+sprešati;-am;dov.
+spreten;-tna -o;prid.
+spretnež;-a;m
+spretnjak;-a;m
+spretnjakar;-ja;m
+spretnjakoviè;-a;m
+spretnjaštvo;-a;s
+spretnost;-i;ž
+spretnosten;-tna -o;prid.
+spreumeti;-umem;stil.
+sprevajati;-am;nedov.
+sprevažati;-am;nedov.
+sprevedriti;-im;dov.
+sprevezati;;in
+sprevid;-a;m
+sprevidenje;-a;s
+sprevid;-a;m
+sprevidenje;-a;s
+sprevideti;-im;tudi
+sprevidevati;-am;tudi
+sprevidevnost;-i;ž
+sprevidnost;;tudi
+sprevijati;-am;nedov.
+spreviti;-vijem;dov.
+sprevod;;tudi
+sprevoden;-dna -o;prid.
+sprevodnica;-e;ž
+sprevodnik;-a;m
+sprevodniški;-a -o;prid.
+sprevraèanje;;tudi
+sprevraèati;-am;tudi
+sprevreèi;-vržem;tudi
+sprevrgljiv;-a -o;prid.
+sprevrniti;;in
+sprevrnjenost;-i;ž
+sprevrženec;;tudi
+sprevrženost;;tudi
+sprhati;-am;dov.
+sprhlina;-e;ž
+sprhnelost;-i;ž
+sprhneti;-im;dov.
+sprhnina;-e;ž
+sprhutati;-am;dov.
+sprhutavati;-am;nedov.
+sprièevalo;-a;s
+sprièevati;ipd.;gl.
+sprièkati se;-am se;dov.
+sprièo;;in
+spriditi;ipd.;gl.
+sprijateljevati se;-ujem se;nedov.
+sprijateljiti se;-im se;in
+sprijaznitev;-tve;ž
+sprijazniti se;-im se;dov.
+sprijaznjenje;-a;s
+sprijaznjenost;-i;ž
+sprijaznjevati se;-ujem se;nedov.
+sprijem;-ema;m
+sprijemanje;-a;s
+sprijemati se;-am se;tudi
+sprijemek;-mka;m
+sprijemen;-mna -o;prid.
+sprijemkast;-a -o;prid.
+sprijemljiv;-a -o;prid.
+sprijemljivost;-i;ž
+sprijemljiv;-a -o;prid.
+sprijemljivost;-i;ž
+sprijemnost;-i;ž
+sprijeti;sprimem;dov.
+sprijeti se;sprimem se;dov.
+sprijetost;-i;ž
+sprimek;-mka;m
+sprimitivizirati;-am;dov.
+sprimkast;-a -o;prid.
+spring;-a;m
+sprint;;tudi
+sprintati;-am;tudi
+sprinter;;tudi
+sprinterica;;tudi
+sprinterka;;tudi
+sprinterski;;tudi
+sprivatizirati;-am;dov.
+sprofanirati;-am;dov.
+sprofesionalizirati;-am;dov.
+sprojektirati;-am;dov.
+sproletarizirati;-am;dov.
+sprositi;;gl.
+sprostilen;-lna -o;prid.
+sprostirati;-am;nedov.
+sprostitev;-tve;ž
+sprostiti;-im;dov.
+sprostituirati se;-am se;dov.
+sprostreti;-strem;dov.
+sprošèanje;-a;s
+sprošèati;-am;nedov.
+sprošèenje;-a;s
+sprošèenost;-i;ž
+sprošèevalen;-lna -o;prid.
+sprošèevanje;-a;s
+sprošèevati;-ujem;nedov.
+sproten;-tna -o;prid.
+sproti;;prisl.
+sprotnost;-i;ž
+sprotoletje;-a;s
+sprovajati;-am;nedov.
+sprovesti;-vedem;dov.
+sprovocirati;-am;dov.
+sprožanje;-a;s
+sprožanje;;tudi
+sprožati;-am;nedov.
+sprožati;-am;tudi
+sproženje;-a;s
+sproževati;-ujem;nedov.
+sprožilec;-lca;m
+sprožilen;-lna -o;prid.
+sprožilo;-a;s
+sprožitelj;-a;m
+sprožitev;-tve;ž
+sprožitev;;tudi
+sprožiti;;in
+sprožiti;;in
+sprožljiv;-a -o;prid.
+sprožnik;-a;m
+sprsteneti;-im;dov.
+sprstenina;-e;ž
+sprsteninast;-a -o;prid.
+spršiti se;-im se;dov.
+sprtija;-e;ž
+sprtost;-i;ž
+sprva;;prisl.
+spufati se;-am se;dov.
+spuhteti;ipd.;gl.
+spuliti;ipd.;gl.
+spuntati;-am;dov.
+spurt;-a;m
+spust;-a;m
+spusten;-tna -o;prid.
+spustiti;-im;dov.
+spustljiv;-a -o;prid.
+spustnica;-e;ž
+spušèaj;ipd.;gl.
+spušèalen;-lna -o;prid.
+spušèališèe;-a;s
+spušèalka;-e;ž
+spušèalo;-a;s
+spušèanje;-a;s
+spušèati;-am;nedov.
+sputnik;-a;m
+sputum;-a;m
+spužva;-e;ž
+spužvast;-a -o;prid.
+squaw;;gl.
+srab;-a;m
+sraèiti se;-im se;nedov.
+sraèji;-a -e;prid.
+sraèka;-e;ž
+sraèkati;-am;nedov.
+sraga;-e;ž
+srajca;-e;ž
+srajèen;-èna -o;prid.
+srajèica;-e;ž
+srajèka;-e;ž
+srajènik;-a;m
+sraka;-e;ž
+srakoper;;in
+srakoperec;;in
+srakoperka;;in
+sram;-a;tudi
+sram;-u;tudi
+sramežljiv;-a -o;prid.
+sramežljivec;-vca;m
+sramežljivka;-e;ž
+sramežljivost;-i;ž
+sramnica;-e;ž
+sramota;-e;ž
+sramoten;-tna -o;prid.
+sramotenje;-a;s
+sramotilec;-lca;m
+sramotilen;-lna -o;prid.
+sramotilka;-e;ž
+sramotišèe;-a;s
+sramotitev;-tve;ž
+sramotiti;-im;nedov.
+sramotnica;-e;ž
+sramotnik;-a;m
+sramotnost;-i;ž
+sramovanje;-a;s
+sramotnik;-a;m
+sramotnost;-i;ž
+sramovanje;-a;s
+sramovati se;-ujem se;nedov.
+sranje;-a;s
+srati;serjem;nedov.
+srbec;-bca;m
+srbeèica;-e;ž
+srbenje;-a;s
+srbeti;-im;nedov.
+srbež;-a;m
+srbistika;-e;ž
+srbizem;-zma;m
+srbljiv;-a -o;prid.
+srbofil;-a;m
+srbohrvašèina;-e;ž
+srbohrvaški;-a -o;prid.
+srbohrvatist;-a;m
+srbohrvatistika;-e;ž
+srbohrvatizem;-zma;m
+srbohrvatski;-a -o;prid.
+srborit;-a -o;prid.
+srboritež;-a;m
+srborititi;-im;nedov.
+srboritka;-e;ž
+srboritnež;-a;m
+srboritnica;-e;ž
+srboritost;-i;ž
+srbski;-a -o;prid.
+srbskohrvaški;-a -o;prid.
+srbskohrvatski;-a -o;prid.
+srbstvo;-a;s
+srbšèina;-e;ž
+srce;-a;s
+srce;-ta;s
+srèanka;-e;ž
+srèast;-a -o;prid.
+srèastolisten;-tna -o;prid.
+srèece;-a;s
+srèek;-èka;m
+srèev;-a -o;prid.
+srèevina;-e;ž
+srèica;-e;ž
+srèika;;tudi
+srèiti;-im;nedov.
+srèkan;-a -o;prid.
+srèkanje;-a;s
+srèkanost;-i;ž
+srèkanje;-a;s
+srèkanost;-i;ž
+srèkast;-a -o;prid.
+srèkati;-am;nedov.
+srènica;-e;ž
+srènost;-i;ž
+srd;-a;m
+srdit;-a -o;prid.
+srditež;-a;m
+srditi;-im,;tudi
+srditost;-i;ž
+srdorit;-a -o;prid.
+srebanje;-a;s
+srebati;-am;tudi
+srebkati;-am;nedov.
+srebljaj;-a;m
+srebljati;-am;nedov.
+srebniti;-em;dov.
+srebrar;-ja;m
+srebrast;-a -o;prid.
+srebrc;-a;m
+srebrenka;-e;ž
+srebreti;-im;nedov.
+srebrikast;-a -o;prid.
+srebrikati se;-am se;nedov.
+srebrina;-e;ž
+srebriti;-im;nedov.
+srebrn;-a -o;prid.
+srebrnast;-a -o;prid.
+srebrnica;-e;ž
+srebrnik;-a;m
+srebrnikast;-a -o;prid.
+srebrnina;-e;ž
+srebrninar;-ja;m
+srebrniti;-im;nedov.
+srebrnjak;-a;m
+srebrnkast;-a -o;prid.
+srebrno...;;prvi del zloženk
+srebrnolas;;in
+srebrnolist;-a -o;prid.
+srebrnolisten;-tna -o;prid.
+srebro;-a;s
+srebro...;;prvi del zloženk
+srebronosen;-sna -o;prid.
+srebrov;-a -o;prid.
+srebrovina;-e;ž
+sreèa;-e;ž
+sreèanec;-nca;m
+sreèanje;-a;s
+sreèati;-am;dov.
+sreèavališèe;-a;s
+sreèavanje;-a;s
+sreèavati;-am;nedov.
+sreèelov;-ova;m
+sreèelovec;-vca;m
+sreèen;-èna -o;prid.
+sreèenosec;-sca;m
+sreèenosen;-sna -o;prid.
+sreèevališèe;-a;s
+sreèevanje;-a;s
+sreèevati;-ujem;nedov.
+sreèica;-e;ž
+sreèka;-e;ž
+sreèkanje;-a;s
+sreèkati;-am;nedov.
+sreèko;-a;m
+sreènež;-a;m
+sreènica;-e;ž
+sreènik;-a;m
+sreènost;-i;ž
+sreèolov;-ova;m
+sreèolovec;-vca;m
+sreèonosec;-sca;m
+sreèonosen;-sna -o;prid.
+sred;;in
+sreda;-e;ž
+sredi;;prisl.
+sredi;;predl.
+sredica;-e;ž
+sredilen;-lna -o;prid.
+sredin;-a -o;prid.
+sredina;-e;ž
+sredinec;-nca;m
+sredinski;-a -o;prid.
+sredinstvo;-a;s
+središèe;-a;s
+središèen;-èna -o;prid.
+središènica;-e;ž
+središènost;-i;ž
+srednica;-e;ž
+srednik;-a;m
+srednjak;;tudi
+srednje...;;ali
+srednjedebeln;-a -o;prid.
+srednjeevropski;-a -o;prid.
+srednjegorski;-a -o;prid.
+srednjekrilnik;-a;m
+srednjeleten;-tna -o;prid.
+srednjekrilnik;-a;m
+srednjeleten;-tna -o;prid.
+srednjemedicinski;-a -o;prid.
+srednjeneben;-bna -o;prid.
+srednjenemški;-a -o;prid.
+srednjeprogaš;-a;m
+srednjeroèen;-èna -o;prid.
+srednješolec;-lca;m
+srednješolka;-e;ž
+srednješolski;-a -o;prid.
+srednjetlaèen;-èna -o;prid.
+srednjevaloven;-vna -o;prid.
+srednjeveški;-a -o;prid.
+srednjeveštvo;-a;s
+srednjevisokonemški;-a -o;prid.
+srednjevrsten;-tna -o;prid.
+srednji;-a -e;prid.
+srednjica;-e;ž
+srednjik;-a;m
+sredobežen;-žna -o;prid.
+sredobežnost;-i;ž
+sredogorje;-a;s
+sredogorski;-a -o;prid.
+sredoprsje;-a;s
+sredotežen;-žna -o;prid.
+sredotežnost;-i;ž
+sredotoèen;-èna -o;prid.
+sredotoèiti;-im;nedov.
+sredotoèje;-a;s
+sredovozen;-zna;m
+sredozemec;-mca;m
+sredozemski;-a -o;prid.
+sredozimec;-mca;m
+sredposten;-tna -o;prid.
+sredstven;-a -o;prid.
+sredstvo;-a;s
+sren;-a;m
+srenast;-a -o;prid.
+srenec;-nca;m
+srenišèe;-a;s
+srenja;-e;ž
+srenjan;;in
+srenjski;-a -o;prid.
+srenski;-a -o;prid.
+srep;-a -o;tudi
+srepeti;-im;nedov.
+srepogled;-a -o;prid.
+srepook;-a -o;prid.
+srepost;;in
+srepota;-e;ž
+sreski;-a -o;prid.
+sretena;-e;ž
+srez;-a;m
+srež;-a;m
+srežast;-a -o;prid.
+srežen;-a -o;prid.
+srežiti se;-im se;nedov.
+srežnat;-a -o;prid.
+srh;-a;m
+srhek;-hka -o;prid.
+srhel;-hla -o;prid.
+srhkodlakav;-a -o;prid.
+srhkolistnica;-e;ž
+srhlina;-e;ž
+srhljiv;-a -o;prid.
+srhljivka;-e;ž
+srk;-a;m
+srkalen;-lna -o;prid.
+srkalica;-e;ž
+srkanje;-a;s
+srkati;-am;nedov.
+srkljaj;-a;m
+srkljati;-am;nedov.
+srkniti;-em;dov.
+srna;-e;ž
+srnica;-e;ž
+srnin;-a -o;prid.
+srnina;-e;ž
+srnjaèek;-èka;m
+srnjaèji;-a -e;prid.
+srnjad;-i;ž
+srnjak;-a;m
+srnjeok;-a -o;prid.
+srnji;-a -e;prid.
+srnook;-a -o;prid.
+srobot;;tudi
+srobotast;-a -o;prid.
+srobotina;-e;ž
+srobotje;-a;s
+srobotovina;-e;ž
+srp;-a;m
+srp;-a -o;tudi
+srpaèa;-e;ž
+srpan;-ana;tudi
+srparna;-e;ž
+srpast;-a -o;prid.
+srpat;-ata -o;prid.
+srpek;-pka;m
+srpeti;-im;nedov.
+srpeti;-im;nedov.
+srpica;-e;ž
+srpiè;-ièa;m
+sršaj;-a;m
+sršast;-a -o;prid.
+sršat;-ata -o;prid.
+sršati;-im;nedov.
+sršav;-ava -o;prid.
+sršen;;in
+sršenar;-ja;m
+sršenast;-a -o;prid.
+sršeniti;-im;nedov.
+sršenjak;-a;m
+sršenje;-a;s
+sršenji;-a -e;prid.
+sršenov;-a -o;prid.
+sršeti;-im;nedov.
+sršiti;-im;nedov.
+srt;-a;m
+srt;-i;ž
+srž;-i;tudi
+st;;medm.
+stabilen;-lna -o;prid.
+stabilizacija;-e;ž
+stabilizacijski;;tudi
+stabilizator;-ja;m
+stabilizatorski;-a -o;prid.
+stabiliziranje;-a;s
+stabilizirati;-am;dov. in nedov.
+stabilnost;-i;ž
+stabilnosten;-tna -o;prid.
+staccato;;prisl.
+stacionaren;-rna -o;prid.
+stacioniranje;-a;s
+stacionirati;-am;dov. in nedov.
+stadij;-a;m
+stadij;;in
+stadion;;tudi
+stadionski;;tudi
+stafilokok;-a;m
+stagflacija;-e;ž
+stagnacija;-e;ž
+stagnanten;-tna -o;prid.
+stagne;-gen;ž mn.
+stagnirati;-am;nedov.
+stahanovec;-vca;m
+stahanovski;-a -o;prid.
+stahanovstvo;-a;s
+staja;-e;ž
+staja;-e;ž
+stajališèe;-a;s
+stajati;-am;dov.
+stajica;-e;ž
+stajski;-a -o;prid.
+stakati;-am;nedov.
+stakljiv;;tudi
+stakljivec;;tudi
+stakniti;;in
+stakniti;;in
+stalagmit;-a;m
+stalaktit;-a;m
+stalaktiten;-tna -o;prid.
+stalen;-lna -o;prid.
+stalež;-a;m
+stalilen;-lna -o;prid.
+stalinist;-a;m
+stalinistièen;-èna -o;prid.
+stalinizem;-zma;m
+Stalinov;-a -o;prid.
+stalinski;-a -o;prid.
+stališèe;-a;s
+stalitev;-tve;ž
+staliti;-im;dov.
+staliti;-im;dov.
+staljiv;-a -o;prid.
+stalnica;-e;ž
+stalnost;-i;ž
+stalnosten;-tna -o;prid.
+stalo;-a;s
+stan;-a;m
+stan;-u;m
+stan;-a;in
+stanarina;-e;ž
+stanca;-e;ž
+standard;-a;m
+standard;;tudi
+standarden;-dna -o;prid.
+standardizacija;-e;ž
+standardiziranje;-a;s
+standardizirati;-am;dov. in nedov.
+standardnost;-i;ž
+stanica;-e;ž
+stanièen;-èna -o;prid.
+stanièevina;-e;ž
+stanièje;;tudi
+staniènina;-e;ž
+staniol;-a;m
+staniolen;-lna -o;prid.
+staniolski;-a -o;prid.
+stanišèe;-a;s
+staniti;-im;tudi
+stanjšanje;;tudi
+stanjšati;-am;tudi
+stanodajalec;-lca;m
+stanodajalka;-e;ž
+stanovalec;-lca;m
+stanovališèe;-a;s
+stanovalka;-e;ž
+stanovanjce;-a;s
+stanovanje;-a;s
+stanovanjski;-a -o;prid.
+stanovati;-ujem;nedov.
+stanovišèe;-a;s
+stanovit;-a -o;prid.
+stanoviten;-tna -o;prid.
+stanovitnež;-a;m
+stanovitnost;-i;ž
+stanovnik;-a;m
+stanovniški;-a -o;prid.
+stanovski;-a -o;prid.
+stapljanje;-a;s
+stanovski;-a -o;prid.
+stapljanje;-a;s
+stapljati;-am;nedov.
+star;-ja;tudi
+star;stara -o;stil.
+staranje;-a;s
+starati;-am;nedov.
+starèe;-eta;tudi
+starèe;-eta;tudi
+starèek;-èka;m
+starèevski;-a -o;prid.
+starèevstvo;-a;s
+starec;-rca;m
+starejši;-a -e;prid.
+starešina;-e;tudi
+starešinka;-e;ž
+starešinski;-a -o;prid.
+starešinstvo;-a;s
+stareti;-im;nedov.
+starica;-e;ž
+stariha;-e;tudi
+starikast;-a -o;prid.
+starikav;-a -o;prid.
+starikavec;-vca;m
+starikavost;-i;ž
+starin;-a;m
+starina;-e;m
+starina;-e;ž
+starinar;-ja;m
+starinarka;-e;ž
+starinarna;-e;ž
+starinarnica;-e;ž
+starinarski;-a -o;prid.
+starinarstvo;-a;s
+starinec;-nca;m
+starinokop;-opa;m
+starinoslovec;-vca;m
+starinoslovje;-a;s
+starinski;-a -o;prid.
+starinskost;-i;ž
+starinstvo;-a;s
+stariti;-im;nedov.
+starka;-e;ž
+staro...;;ali
+staroavstrijski;-a -o;prid.
+starobiten;-tna -o;prid.
+starocerkvenoslovanski;-a -o;prid.
+starocerkvenoslovanšèina;-e;ž
+staroèastitljiv;;tudi
+staroèastitljiv;;tudi
+staroèeh;-a;m
+starodaven;-vna -o;prid.
+starodavnik;-a;m
+starodavnost;-i;ž
+starodeden;-dna -o;prid.
+starodeviški;-a -o;prid.
+starodoben;-bna -o;prid.
+staroegipèanski;-a -o;prid.
+staroegiptovski;-a -o;prid.
+starogorski;;in
+starogrški;-a -o;prid.
+staroindijski;-a -o;prid.
+staroitalski;-a -o;prid.
+starojugoslovanski;-a -o;prid.
+starokatolièan;;in
+starokatolik;-a;m
+starokatoliški;-a -o;prid.
+staroklasièen;-èna -o;prid.
+starokopiten;-tna -o;prid.
+starokopitnež;-a;m
+starokopitnica;-e;ž
+starokopitnik;-a;m
+starokopitnost;-i;ž
+starokrajski;-a -o;prid.
+starokršèanski;-a -o;prid.
+staroleten;-tna -o;prid.
+staromesten;-tna -o;prid.
+staromoden;-dna -o;prid.
+staromodnost;-i;ž
+staronaseljenec;-nca;m
+staronemški;-a -o;prid.
+staroobredec;-dca;m
+staroobrednik;-a;m
+starorimski;-a -o;prid.
+staroruski;-a -o;prid.
+staroselec;-lca;m
+staroselski;-a -o;prid.
+staroslaven;-vna -o;prid.
+staroslovanski;-a -o;prid.
+staroslovenec;-nca;m
+staroslovenski;-a -o;prid.
+staroslovenšèina;-e;ž
+starosrbski;-a -o;prid.
+starost;;stil.
+starosta;-e;tudi
+starosten;;stil.
+starostnica;;tudi
+starostnik;;tudi
+starosveten;-tna -o;prid.
+starosvetnost;-i;ž
+starošegen;;in
+staroupokojenec;;in
+staroupokojenka;;in
+staroverec;-rca;m
+staroverski;-a -o;prid.
+staroveški;-a -o;prid.
+starovièen;-èna -o;prid.
+staroviden;-dna -o;prid.
+starovidnost;-i;ž
+starovisokonemški;-a -o;prid.
+starozakonski;-a -o;prid.
+starozavezen;-zna -o;prid.
+staroznan;;in
+starožiten;-tna -o;prid.
+starožitnost;-i;ž
+starševski;-a -o;prid.
+starševstvo;-a;s
+starši;-ev;m mn.
+start;;in
+startanje;;in
+startati;-am;in
+starten;;in
+starter;;in
+starter;;in
+startnina;;in
+staruh;-a;m
+staruha;-e;ž
+staruhast;-a -o;prid.
+staruška;-e;ž
+stas;-a;m
+stasit;-a -o;prid.
+stasitost;-i;ž
+stater;-ja;m
+stati;stojim;nedov.
+statièen;-èna -o;prid.
+statiènost;-i;ž
+statik;-a;m
+statika;-e;ž
+statiranje;-a;s
+statirati;-am;nedov.
+statist;-a;m
+statistièar;-ja;m
+statistièen;-èna -o;prid.
+statistik;-a;m
+statistika;-e;ž
+statistka;-e;ž
+stativ;-a;m
+statistka;-e;ž
+stativ;-a;m
+stativa;-e;ž
+statolit;-a;m
+stator;-ja;m
+statorski;-a -o;prid.
+statua;-e;ž
+statuarièen;-èna -o;prid.
+statueta;-e;ž
+statuirati;-am;dov. in nedov.
+statura;-e;ž
+status;-a;m
+statusen;-sna -o;prid.
+status quo;statusa quo;m
+statut;-a;m
+statutaren;-rna -o;prid.
+statuten;-tna -o;prid.
+statva;-e;ž
+statve;statev;ž mn.
+Staufferjev;-a -o;prid.
+stav;-a;m
+stava;-e;ž
+stavba;-e;ž
+stavbar;;tudi
+stavbarnica;-e;ž
+stavbarniški;-a -o;prid.
+stavbarski;-a -o;prid.
+stavbarstvo;-a;s
+stavben;-bna -o;in
+stavbenik;-a;m
+stavbeništvo;-a;s
+stavbica;-e;ž
+stavbinec;-nca;m
+stavbinski;-a -o;prid.
+stavbinstvo;-a;s
+stavbišèe;-a;s
+stavèek;-èka;m
+stavèen;-èna -o;prid.
+stavènofonetièen;-èna -o;prid.
+stavec;-vca;m
+stavek;-vka;m
+staven;-vna -o;prid.
+stavišèe;-a;s
+stavitelj;-a;m
+staviti;-im;dov. in nedov.
+stavka;-e;ž
+stavkar;-ja;m
+stavkati;-am;nedov.
+stavkokaštvo;-a;s
+stavkokaštvo;-a;s
+stavkokaz;-aza;m
+stavkoven;-vna -o;prid.
+stavkoven;;in
+stavkujoè;-a -e;prid.
+stavljati;-am;nedov.
+stavljenje;-a;s
+stavnica;-e;ž
+stavnik;-a;m
+stavski;-a -o;prid.
+staž;-a;m
+stažiranje;-a;s
+stažirati;-am;nedov.
+stažist;-a;m
+stažistka;-e;ž
+steak;;in
+stearin;-a;m
+stearinski;-a -o;prid.
+steatit;-a;m
+stebelce;-a;s
+stebeln;-a -o;prid.
+stebelnica;-e;ž
+steber;-bra;tudi
+steblast;-a -o;prid.
+steblièevje;-a;s
+steblièje;-a;s
+steblika;-e;ž
+steblikast;-a -o;prid.
+stebliti se;-im se;nedov.
+steblo;-a;s
+steblovje;-a;s
+stebrast;-a -o;prid.
+stebrc;-a;m
+stebren;-a -o;prid.
+stebrenik;-a;m
+stebriè;-ièa;m
+stebrièar;-ja;m
+stebrièast;-a -o;prid.
+stebrièek;-èka;m
+stebrièen;-èna -o;prid.
+stebrièevje;-a;s
+stebrièje;-a;s
+stebrièkast;-a -o;prid.
+stebrišèe;-a;s
+stebrišèen;-èna -o;prid.
+stebrn;-a -o;prid.
+stebrnik;-a;m
+stebroven;-vna -o;prid.
+stebrovje;-a;s
+stebrski;-a -o;prid.
+steèaj;-a;m
+steèajen;-jna -o;prid.
+steèajnik;-a;m
+steèek;-èka;m
+steèina;;tudi
+steèišèe;-a;s
+steèkati;-am;dov.
+stega;-e;ž
+stegence;-a;s
+stegenski;-a -o;prid.
+stegna;-gen;in
+stegne;-gen;in
+stegnenica;-e;ž
+stegnjen;-a -o;prid.
+stegnjenec;-nca;m
+stegno;-a;s
+stegovati;ipd.;gl.
+stegozaver;-vra;m
+stehnizirati;-am;dov.
+stehtati;-am;dov.
+stek;steka;m
+stehnizirati;-am;dov.
+stehtati;-am;dov.
+stek;steka;m
+stekališèe;-a;s
+stekanje;-a;s
+stekati se;-am se;nedov.
+stekel;stekla -o;prid.
+stekelce;-a;s
+steklaè;-a;m
+steklar;-ja;m
+steklarna;-e;ž
+steklarski;-a -o;prid.
+steklarstvo;-a;s
+steklast;-a -o;prid.
+steklen;-a -o;prid.
+steklenast;-a -o;prid.
+steklenec;-nca;m
+stekleneti;-im;nedov.
+steklenica;-e;ž
+steklenièast;-a -o;prid.
+steklenièen;-èna -o;prid.
+steklenièenje;-a;s
+steklenièica;-e;ž
+steklenièiti;-im;nedov.
+steklenièiti;-im;nedov.
+steklenièka;-e;ž
+steklenik;-a;m
+steklenina;-e;ž
+steklenjak;-a;m
+steklenka;-e;ž
+steklenost;-i;ž
+steklina;-e;ž
+stekliti;-im;nedov.
+steklo;-a;s
+steklobrusaè;-a;m
+steklobrusec;-sca;m
+steklobrusilec;-lca;m
+steklopihaè;-a;m
+steklopihalec;-lca;m
+steklopihaški;-a -o;prid.
+steklopihaštvo;-a;s
+steklorezec;-zca;m
+stekloslikar;-ja;m
+stekloslikarstvo;-a;s
+steklost;-i;ž
+steklovina;-e;ž
+stekniti;;gl.
+stela;-e;ž
+stelaža;-e;ž
+stelit;-a;m
+steliti se;-im se;dov.
+stelja;-e;ž
+steljariti;-im;nedov.
+steljarjenje;-a;s
+steljènica;-e;ž
+steljeraja;-e;ž
+steljivo;-a;s
+steljka;-e;ž
+steljnica;-e;ž
+steljnik;-a;m
+steljnjak;-a;m
+stelovaditi se;-im se;dov.
+stemneti;-im;dov.
+stemnitev;-tve;ž
+stemniti se;-im se;dov.
+stena;-e;ž
+stenast;-a -o;prid.
+stenèas;-a;m
+stenica;-e;ž
+stenica;-e;ž
+stenièast;-a -o;prid.
+stenièav;-a -o;prid.
+stenièjak;-a;m
+stenièji;-a -e;prid.
+stenik;-a;m
+stenj;-a;m
+stenjast;-a -o;prid.
+stenodaktilograf;-a;m
+stenodaktilografija;-e;ž
+stenodaktilografka;-e;ž
+stenodaktilografski;-a -o;prid.
+stenograf;-a;m
+stenografija;-e;ž
+stenografinja;-e;ž
+stenografirati;-am;nedov. in dov.
+stenografka;-e;ž
+stenografski;-a -o;prid.
+stenogram;-a;m
+stenokardija;-e;ž
+stenotipist;-a;m
+stenotipistka;-e;ž
+stenoza;-e;ž
+stenski;-a -o;prid.
+stentorski;-a -o;prid.
+step;-a;m
+step;stepa;m
+step;-i;ž
+stepa;-e;ž
+stepalen;-lna -o;prid.
+stepalnik;-a;m
+stepalo;-a;s
+stepanje;-a;s
+stepati;-am;nedov.
+stepavati;-am;nedov.
+stepen;-pna -o;prid.
+stepnik;-a;m
+stepski;-a -o;prid.
+stepsti;stepem;dov.
+steptati;-am;dov.
+stereo...;;ali
+stereofonija;-e;ž
+stereofonski;-a -o;prid.
+stereofotografija;-e;ž
+stereofotogrametrija;-e;ž
+stereografski;-a -o;prid.
+stereogramofon;-a;m
+stereokamera;-e;ž
+stereokemija;-e;ž
+stereomagnetofon;-a;m
+stereometrièen;-èna -o;prid.
+stereometrija;-e;ž
+stereoplošèa;;in
+stereoposnetek;;in
+stereoskop;;tudi
+stereoskopski;-a -o;prid.
+stereosprejem;;in
+stereostudio;-a;m
+stereotip;-a;m
+stereotipen;-pna -o;prid.
+stereotiper;-ja;m
+stereotipija;-e;ž
+stereotipirati;-am;nedov. in dov.
+stereotipiziranje;-a;s
+stereotipizirati;-am;nedov. in dov.
+stereotipnost;-i;ž
+steri;-i;ž mn.
+sterilen;-lna -o;prid.
+sterilizacija;-e;ž
+sterilizacijski;-a -o;prid.
+sterilizator;-ja;m
+steriliziranje;-a;s
+sterilizirati;-am;nedov. in dov.
+sterilnost;-i;ž
+Sternbergov;-a -o;prid.
+sterol;-a;m
+sterorizirati;-am;dov.
+stesati;stešem;tudi
+stesniti;-im;dov.
+stesnjevati;-ujem;nedov.
+steti se;stmem se;tudi
+stetje;-a;s
+stetoskop;;tudi
+stevard;-a;m
+stevardesa;-e;ž
+steward;;in
+stewardesa;;in
+steza;-e;in
+stezati;-am;nedov.
+stezen;-zna -o;prid.
+stezica;-e;ž
+steznik;-a;m
+stezosledec;-dca;m
+stežaj;-a;m
+stežajen;-jna -o;prid.
+stežiti;-im;dov.
+stežka;;in
+stežkoma;;in
+stièen;-èna -o;prid.
+stièišèe;-a;s
+stiènica;-e;ž
+stiènost;-i;ž
+stiden;-dna -o;prid.
+stiditi se;-im se;nedov.
+stiditi se;-im se;nedov.
+stigma;-e;ž
+stigmatizacija;-e;ž
+stigmatizirati;-am;dov. in nedov.
+stih;-a;m
+stiha;;prisl.
+stihija;-e;ž
+stihijen;-jna -o;prid.
+stihijnost;-i;ž
+stihijski;-a -o;prid.
+stihomitija;-e;ž
+stihoslovje;-a;s
+stihotapiti;-im;dov.
+stihotvorec;-rca;m
+stihotvoren;-rna -o;prid.
+stik;-a;m
+stikaè;;tudi
+stikalec;-lca;m
+stikalen;-lna -o;prid.
+stikališèe;-a;s
+stikalnik;-a;m
+stikalo;-a;s
+stikanje;-a;s
+stikanje;;tudi
+stikati;-am;nedov.
+stikati;-am;tudi
+stikavt;;tudi
+stikljiv;;tudi
+stikoma;;prisl.
+stikovati;-ujem;nedov.
+stikovati;-ujem;tudi
+stil;-a;m
+stilem;-a;m
+stilen;-lna -o;prid.
+stilet;-a;m
+stilist;-a;m
+stilistièen;-èna -o;prid.
+stilistika;-e;ž
+stilit;-a;m
+stilizacija;-e;ž
+stilizem;-zma;m
+stiliziranje;-a;s
+stiliziranost;-i;ž
+stilizirati;-am;nedov. in dov.
+stilnokritièen;-èna -o;prid.
+stilnost;-i;ž
+stilski;-a -o;prid.
+stimul;;in
+stimulacija;-e;ž
+stimulacijski;-a -o;prid.
+stimulans;-a;m
+stimulant;-a;m
+stimulativen;-vna -o;prid.
+stimulativnost;-i;ž
+stimulator;-ja;m
+stimuliranje;-a;s
+stimulirati;-am;nedov. in dov.
+stipkati;-am;dov.
+stipulirati;-am;dov. in nedov.
+stiren;-a;m
+stiropor;-a;m
+stis;-a;m
+stisk;-a;m
+stiska;-e;ž
+stiskaè;-a;m
+stiskalec;-lca;m
+stiskalen;-lna -o;prid.
+stiskalka;-e;ž
+stiskalnica;-e;ž
+stiskalnièar;-ja;m
+stiskalnik;-a;m
+stiskalo;-a;s
+stiskanec;-nca;m
+stiskanje;-a;s
+stiskaški;-a -o;prid.
+stiskaštvo;-a;s
+stiskav;-ava -o;prid.
+stiskavost;-i;ž
+stiskavt;-a;m
+stiskljaj;-a;m
+stisljiv;-a -o;prid.
+stisljivost;-i;ž
+stisniti;-em;dov.
+stisnjenec;-nca;m
+stisnjenje;-a;s
+stisnjenost;-i;ž
+stišati;-am;dov.
+stišavati;-am;nedov.
+stišèati;-im;dov.
+stišèek;-èka;m
+stiševati;-ujem;nedov.
+stiški;-a -o;prid.
+stiva;-e;ž
+stjuard;ipd.;gl.
+stkati;stkem;dov.
+stlaèiti;-im,;in
+stlati;steljem;nedov.
+stleti;stlim;tudi
+stlati;steljem;nedov.
+stleti;stlim;tudi
+sto;stotih;štev.
+sto...;;ali
+stoa;-e;ž
+stobarven;-vna -o;prid.
+stoèišèe;-a;s
+stoèiti;stoèim;dov.
+stoèiti;-im;dov.
+stoèje;-a;s
+stodinarski;-a -o;prid.
+stoenka;-e;ž
+stog;-a;m
+stogla;-e;ž
+stoglasen;-sna -o;prid.
+stoglav;;in
+stogotiti;-im;tudi
+stogovje;-a;s
+stoicizem;-zma;m
+stoièen;-èna -o;prid.
+stoiènost;-i;ž
+stoik;-a;m
+stoiški;-a -o;prid.
+stoj;-te;medm.
+stoja;-e;ž
+stojalce;-a;s
+stojalo;-a;s
+stojèkati;-am;nedov.
+stojeèki;;prisl.
+stojen;-jna -o;prid.
+stojišèe;-a;s
+stojišèen;-èna -o;prid.
+stojka;-e;ž
+stojnica;-e;ž
+stojnina;-e;ž
+stojniški;-a -o;prid.
+stojnost;-i;ž
+stok;-a;m
+stok;stoka;m
+stokanje;-a;s
+stokati;-am;stil.
+stokav;-a -o;prid.
+stokavec;-vca;m
+stokilogramski;-a -o;prid.
+stokilometrski;-a -o;prid.
+stokilski;-a -o;prid.
+stoklasa;-e;ž
+stokniti;-em;dov.
+stokovec;-vca;m
+stokrat;;prisl.
+stokraten;;tudi
+stol;stola;m
+stolar;-ja;m
+stolarna;-e;ž
+stolba;-e;ž
+stolèek;-èka;m
+stolèi;stolèem;dov.
+stolèkar;-ja;m
+stolec;-lca;m
+stolen;-lna -o;prid.
+stoleten;-tna -o;prid.
+stoleten;-tna -o;prid.
+stoletje;-a;s
+stoletnica;-e;ž
+stoletnik;-a;m
+stolica;-e;ž
+stolica;-e;ž
+stolièek;-èka;m
+stolièka;-e;ž
+stolist;-a -o;prid.
+stolisten;-tna -o;prid.
+stolistnica;-e;ž
+stolmaèiti;-im;dov.
+stolnièen;-èna -o;prid.
+stolnik;-a;m
+stolniški;-a -o;prid.
+stoloravnatelj;-a;m
+stolovati;-ujem;nedov.
+stolp;stolpa;m
+stolpast;-a -o;prid.
+stolpec;-pca;m
+stolpek;-pka;m
+stolpen;-pna -o;prid.
+stolpiè;-ièa;m
+stolpièast;-a -o;prid.
+stolpièek;-èka;m
+stolpièiti se;-im se;nedov.
+stolpièje;-a;s
+stolpnica;-e;ž
+stolpnièar;-ja;m
+stolpovje;-a;s
+stomatolog;-a;m
+stomatologija;-e;ž
+stomatološki;-a -o;prid.
+stometraš;-a;m
+stomatologija;-e;ž
+stomatološki;-a -o;prid.
+stometraš;-a;m
+stometrski;-a -o;prid.
+stomilijonina;-e;ž
+stomilijoninka;-e;ž
+stomilijonski;-a -o;prid.
+stonog;-a -o;prid.
+stonoga;;tudi
+stoodstoten;-tna -o;prid.
+stook;-a -o;prid.
+stop;-a;m
+stop;;medm.
+stopa;-e;ž
+stopa;;tudi
+stopaj;-a;m
+stopajnica;-e;ž
+stopal;-i;ž
+stopalce;-a;s
+stopalen;-lna -o;prid.
+stopalka;-e;ž
+stopalnica;-e;ž
+stopalnik;-a;m
+stopalnica;-e;ž
+stopalnik;-a;m
+stopalo;-a;s
+stopanje;-a;s
+stopanje;;in
+stopar;;tudi
+stoparka;;tudi
+stopati;-am;in
+stopen;-pna -o;prid.
+stopenjski;-a -o;prid.
+stopica;-e;ž
+stopicanje;-a;s
+stopicati;-am;nedov.
+stopicljanje;-a;s
+stopicljati;-am;nedov.
+stopicniti;-em;dov.
+stopinja;-e;ž
+stopinjica;-e;ž
+stopinjski;-a -o;prid.
+stopitev;-tve;ž
+stopiti;-im;dov.
+stopinjica;-e;ž
+stopinjski;-a -o;prid.
+stopitev;-tve;ž
+stopiti;-im;dov.
+stopiti;;in
+stopliti se;-im se;dov.
+stopljenost;-i;ž
+stopnica;-e;ž
+stopnièast;-a -o;prid.
+stopnièen;-èna -o;prid.
+stopnièenje;-a;s
+stopnièiti;-im;nedov.
+stopnièka;-e;ž
+stopnišèe;-a;s
+stopnišèen;-èna -o;prid.
+stopniški;-a -o;prid.
+stopnja;-e;ž
+stopnjast;-a -o;prid.
+stopnjema;;prisl.
+stopnjevalen;-lna -o;prid.
+stopnjevanje;-a;s
+stopnjevanost;-i;ž
+stopnjevati;-ujem;nedov.
+stopnjevina;-e;ž
+stopnjevinast;-a -o;prid.
+stopnjevit;-a -o;prid.
+stopnjevitost;-i;ž
+stoprav;;prisl.
+stoprocenten;;in
+stoprv;;prisl.
+stoprviè;;prisl.
+storija;-e;ž
+storilèev;-a -o;in
+storilec;-lca;m
+storilen;-lna -o;prid.
+storilka;-e;ž
+storilnost;-i;ž
+storilnosten;-tna -o;prid.
+storitev;-tve;ž
+storiti;-im;dov.
+storitven;-a -o;prid.
+storjati;-am;nedov.
+storjica;-e;ž
+stornirati;-am;dov. in nedov.
+storno;-a;m
+storok;-a -o;prid.
+storž;storža;m
+storžast;-a -o;prid.
+storžek;-žka;m
+storžje;-a;s
+storžnjak;-a;m
+stostolp;-olpa -o;prid.
+stosveèen;-èna -o;prid.
+stot;-a;tudi
+stotaèek;-èka;m
+stotak;-a;m
+stoter;-a -o;štev.
+stoteren;-rna -o;prid.
+stotero;;štev. neskl.
+stoterokrat;;prisl.
+stoti;-a -o;štev.
+stotica;-e;ž
+stotiè;;prisl.
+stotina;-e;ž
+stotinka;-e;ž
+stotinski;-a -o;prid.
+stotisoèak;-a;m
+stotisoèer;-a -o;štev.
+stotisoèero;;štev. neskl.
+stotisoèglav;;in
+stotisoèi;-ev;m mn.
+stotisoèi;-a -e;štev.
+stotisoèina;-e;ž
+stotisoèinka;-e;ž
+stotisoèinka;-e;ž
+stotisoèkrat;;prisl.
+stotisoèletje;-a;s
+stotnica;-e;ž
+stotnija;-e;ž
+stotnijski;-a -o;prid.
+stotnik;-a;m
+stovaten;-tna -o;prid.
+stovoriti;-im;tudi
+stožèast;;tudi
+stožec;;tudi
+stožer;;tudi
+stožeren;;tudi
+stožernica;;tudi
+stožina;-e;ž
+stožiti se;;in
+stožje;-a;s
+stožka;-e;ž
+stožkast;;tudi
+stožnica;;in
+stožnik;-a;m
+strabizem;-zma;m
+strad;-a;m
+stradaè;-a;m
+stradalec;-lca;m
+stradalen;-lna -o;prid.
+stradanje;;tudi
+stradar;-ja;m
+stradati;-am;nedov.
+stradavec;-vca;m
+stradelj;-dlja;in
+stradež;-a;m
+stradivarka;-e;ž
+stragula;-e;ž
+strah;-u;stil.
+strahljiv;-a -o;prid.
+strahljivec;-vca;m
+strahoma;;prisl.
+strahopet;;in
+strahopetec;-tca;m
+strahopeten;-tna -o;prid.
+strahopetka;-e;ž
+strahopetljiv;-a -o;prid.
+strahopetnež;-a;m
+strahopetnica;-e;ž
+strahopetnik;-a;m
+strahopetnost;-i;ž
+strahopetstvo;-a;s
+strahopezdljiv;-a -o;prid.
+strahopezdljivec;-vca;m
+strahopezdljivost;-i;ž
+strahospoštovanje;-a;s
+strahota;-e;ž
+strahoten;-tna -o;prid.
+strahotnost;-i;ž
+strahovalec;-lca;m
+strahovalen;-lna -o;prid.
+strahovalka;-e;ž
+strahovanje;-a;s
+strahovati;-ujem;nedov.
+strahoven;;tudi
+strahovit;-a -o;prid.
+strahovlada;-e;ž
+strakoš;-a;m
+stramin;-a;m
+stran;-i;ž
+stran;;prisl.
+stranèica;-e;ž
+stranèica;-e;ž
+stranec;-nca;m
+strangulacija;-e;ž
+strani;;prisl.
+stranica;-e;ž
+stranièar;-ja;m
+stranièen;-èna -o;prid.
+stranišèarica;-e;ž
+stranišèe;-a;s
+stranišèen;-èna -o;prid.
+stranišènica;-e;ž
+stranišènik;-a;m
+straniv;-a -o;prid.
+stranka;-e;ž
+strankar;-ja;m
+strankarski;-a -o;prid.
+strankarstvo;-a;s
+strankin;-a -o;prid.
+stranpot;-i;ž
+stranpotica;-e;ž
+stranski;-a -o;prid.
+stranskovezen;-zna -o;prid.
+stranšèica;-e;ž
+strapati;-am;dov.
+strapiti;-im;dov.
+strast;-i;ž
+strasten;-tna -o;prid.
+strastljiv;-a -o;prid.
+strastnež;-a;m
+strastnost;-i;ž
+strastven;-a -o;prid.
+strastvenost;-i;ž
+strašanski;-a -o;prid.
+strašen;;stil.
+strašen;;in
+strašenje;;in
+strašilast;-a -o;prid.
+strašilen;-lna -o;prid.
+strašilo;-a;s
+strašiti;-im;in
+strašiti se;-im se;nedov.
+strašljiv;-a -o;prid.
+strašljivec;-vca;m
+strašljivost;-i;ž
+strašnica;-e;ž
+strašnost;;in
+strateg;-a;m
+strategièen;-èna -o;prid.
+strategija;-e;ž
+strateški;-a -o;prid.
+stratificirati;-am;dov. in nedov.
+stratifikacija;-e;ž
+stratigrafija;-e;ž
+stratigrafski;-a -o;prid.
+stratiot;-a;m
+stratokumulus;-a;m
+stratosfera;-e;ž
+stratosferen;-rna -o;prid.
+stratosferski;-a -o;prid.
+stratovulkan;-a;m
+stratum;-a;m
+stratus;-a;m
+strava;-e;ž
+straž;-i;ž
+straža;-e;ž
+stražar;-ja;m
+stražarèiti;-im;nedov.
+stražariti;-im;nedov.
+stražarjenje;-a;s
+stražarka;-e;ž
+stražarna;-e;ž
+stražarnica;-e;ž
+stražarski;-a -o;prid.
+stražarstvo;-a;s
+stražen;-žna -o;prid.
+straženje;-a;s
+stražišèe;-a;s
+stražiti;-im,;in
+stražmešter;-tra;m
+stražmojster;-tra;m
+stražnica;-e;ž
+stražnik;-a;m
+stražniški;-a -o;prid.
+strèati;-im;nedov.
+strd;-i;ž
+strda;;prisl.
+strdek;-dka;m
+strdel;;in
+strden;-a -o;prid.
+strdenec;-nca;m
+strdenica;-e;ž
+strdenje;;in
+strdina;-e;ž
+strdišèe;-a;s
+strditev;-tve;ž
+strditi;-im,;in
+strdljiv;-a -o;prid.
+strdljivost;-i;ž
+strebiti;ipd.;gl.
+streèi;strežem;nedov.
+strega;-e;ž
+streha;-e;ž
+strehar;;in
+streharica;-e;ž
+strehast;-a -o;prid.
+strehica;-e;ž
+strel;-a;m
+strela;-e;ž
+strelak;-a;m
+strelast;-a -o;prid.
+strelba;-e;ž
+strelec;-lca;m
+strelen;-lna -o;prid.
+strelica;;in
+strelicija;-e;ž
+strelina;-e;ž
+strelišèe;-a;s
+streliški;-a -o;prid.
+streliven;-vna -o;prid.
+strelivnik;-a;m
+strelivo;-a;s
+streljaè;-a;m
+streljaèa;-e;ž
+streljaj;-a;m
+streljanje;;in
+streljarna;-e;ž
+streljarnica;-e;ž
+streljati;;in
+streljava;-e;ž
+streljavec;-vca;m
+streljavkanje;-a;s
+streljavkati;-am;nedov.
+strelka;-e;ž
+strelnica;-e;ž
+strelnina;-e;ž
+strelovit;-a -o;prid.
+strelovod;-oda;m
+strelovoden;-dna -o;prid.
+strelski;-a -o;prid.
+strelstvo;-a;s
+streme;-ena;s
+stremen;-ena;m
+stremence;-a;s
+stremenica;-e;ž
+stremenka;-e;ž
+stremeti;-im;nedov.
+stremiti;-im;nedov.
+stremljenje;-a;s
+stremljiv;-a -o;prid.
+stremljivec;-vca;m
+stremljivost;-i;ž
+stremuh;-a;m
+stremuhinja;-e;ž
+stremuški;-a -o;prid.
+stremuštvo;-a;s
+stremuški;-a -o;prid.
+stremuštvo;-a;s
+streniranost;-i;ž
+strenirati;-am;dov.
+strepati;ipd.;gl.
+strepetati;-am;in
+strepetavati;-am;nedov.
+strepniti;-em;dov.
+streptokok;-a;m
+streptomicin;-a;m
+stres;-a;m
+stres;stresa;m
+stresaj;-a;m
+stresalen;-lna -o;prid.
+stresalka;-e;ž
+stresalnik;-a;m
+stresanje;-a;s
+stresati;-am;nedov.
+stresavati;-am;nedov.
+stresljaj;-a;m
+stresniti;-em;dov.
+stresovati;-ujem;nedov.
+stresti;stresem;dov.
+stresovati;-ujem;nedov.
+stresti;stresem;dov.
+strešen;-šna -o;prid.
+strešica;-e;ž
+strešina;-e;ž
+strešje;-a;s
+strešnica;-e;ž
+strešnik;-a;m
+strešnja;-e;ž
+streti;strem;tudi
+strezav;-a -o;prid.
+streznitev;;tudi
+strezniti;-im;tudi
+streznjenje;;tudi
+streznjenost;;tudi
+streznjevati;-ujem;tudi
+streža;-e;ž
+strežaè;-a;m
+strežaj;-a;m
+strežajka;-e;ž
+strežajski;-a -o;prid.
+strežba;-e;ž
+streže;-eta;m
+strežen;-žna -o;prid.
+streženje;-a;s
+strežnica;-e;ž
+strežnik;-a;m
+strežniški;-a -o;prid.
+strežništvo;-a;s
+strgaè;-a;m
+strgaèa;-e;ž
+strgalce;-a;s
+strgalen;-lna -o;prid.
+strgalka;-e;ž
+strgalnik;-a;m
+strgalo;-a;s
+strganec;-nca;m
+strganina;-e;ž
+strganje;-a;s
+strgar;-ja;m
+strgati;-am;tudi
+strgati;-am;stil.
+strgljati;-am;nedov.
+strgulja;-e;ž
+strhel;-hla -o;prid.
+strhleneti;-im;dov.
+strhlenina;-e;ž
+stric;-a;m
+strièek;-èka;m
+strièev;-a -o;prid.
+strièevski;-a -o;prid.
+strièevstvo;-a;s
+strièi;-ja;m
+strièi;strižem;nedov.
+strièko;-a;m
+striènica;-e;ž
+striènik;-a;m
+strig;-a;m
+striga;-e;ž
+strigalica;-e;ž
+strigniti;-em;dov.
+strigoš;-a;m
+strigulja;-e;ž
+strihnin;-a;m
+strikten;-tna -o;prid.
+striktnost;-i;ž
+strina;-e;ž
+striniè;-a;tudi
+strinjanje;-a;s
+strinjati;-am;nedov.
+strip;-a;m
+stripovski;-a -o;prid.
+striptiz;;tudi
+striptizeta;-e;ž
+stritarjanski;-a -o;prid.
+striža;-e;ž
+strižec;-žca;m
+striženje;-a;s
+striženka;-e;ž
+strižina;-e;ž
+strižnica;-e;ž
+strjati se;-am se;nedov.
+strjenina;-e;ž
+strjenka;-e;ž
+strjevalen;-lna -o;prid.
+strjevanje;-a;s
+strjevati;-ujem;nedov.
+strkati;-am;dov.
+strkavati;-am;nedov.
+strkljati;-am;dov.
+strm;-i;ž
+strm;-a -o;tudi
+strmal;-i;ž
+strmec;-mca;m
+strmen;;in
+strmenje;-a;s
+strmeno;-ega;s
+strmeti;-im;nedov.
+strmeno;-ega;s
+strmeti;-im;nedov.
+strmica;-e;ž
+strmina;-e;ž
+strminast;-a -o;prid.
+strminski;-a -o;prid.
+strmoglav;;in
+strmoglav;;in
+strmoglavec;-vca;m
+strmoglaven;-vna -o;prid.
+strmoglaviti;-im;dov.
+strmoglavljanje;-a;s
+strmoglavljati;-am;nedov.
+strmoglavljenje;-a;s
+strmoleti;-im;nedov.
+strmorinec;-nca;m
+strmost;-i;ž
+strmovit;-a -o;prid.
+strn;-a;m
+strn;-i;ž
+strn;-a -o;prid.
+strnabica;-e;ž
+strnad;-a;m
+strnen;-a -o;prid.
+strniè;;tudi
+strnièna;-e;ž
+strnina;-e;ž
+strnišèast;-a -o;prid.
+strnišèe;-a;s
+strnišèen;-èna -o;prid.
+strnišènica;-e;ž
+strniški;-a -o;prid.
+strnitev;-tve;ž
+strniti;;in
+strnjati se;-am se;nedov.
+strnjenje;-a;s
+strnjenka;-e;ž
+strnjenost;-i;ž
+strnjevanje;-a;s
+strnjevati;-ujem;nedov.
+strnljiv;-a -o;prid.
+stroboskop;;tudi
+stroboskopski;-a -o;prid.
+stroèek;-èka;m
+stroèiti se;-im se;nedov.
+stroèje;-a;s
+stroèji;-a -e;prid.
+stroènat;-a -o;prid.
+stroènica;-e;ž
+strofa;-e;ž
+strofiènost;-i;ž
+strog;-a -o;prid.
+strogoreden;-dna -o;prid.
+strogorednost;-i;ž
+strogost;;tudi
+strohljiv;-a -o;prid.
+strohneti;-im;dov.
+stroj;stroja;m
+stroj;stroja;m
+strojar;-ja;m
+strojarija;-e;ž
+strojarski;-a -o;prid.
+strojarstvo;-a;s
+strojèek;-èka;m
+strojegradnja;-e;ž
+strojen;-jna -o;prid.
+strojenje;;tudi
+strojepis;-a;m
+strojepisec;-sca;m
+strojepisen;-sna -o;prid.
+strojepisje;-a;s
+strojepiska;-e;ž
+strojepisnica;-e;ž
+strojepiska;-e;ž
+strojepisnica;-e;ž
+strojeslovje;-a;s
+strojevodja;-e;tudi
+strojevodski;-a -o;prid.
+strojilen;-lna -o;prid.
+strojilnica;-e;ž
+strojilo;-a;s
+strojiti;-im;nedov.
+strojiti;-im;tudi
+strojnica;;in
+strojnièar;;in
+strojnièen;;in
+strojnik;;in
+strojniški;;in
+strojništvo;;in
+strok;stroka;m
+stroka;-e;ž
+strokec;-kca;m
+strokoven;-vna -o;prid.
+strokovnièar;-ja;m
+strokovnjak;-a;m
+strokovnjakar;-ja;m
+strokovnjakarski;-a -o;prid.
+strokovnjakarski;-a -o;prid.
+strokovnjakarstvo;-a;s
+strokovnjakinja;-e;ž
+strokovnjaški;-a -o;prid.
+strokovnjaštvo;-a;s
+strokovnost;-i;ž
+strokovnošolski;-a -o;prid.
+stroncij;-a;m
+strop;stropa;m
+stropen;-pna -o;prid.
+stropnik;;in
+stropnjak;-a;m
+stropovje;-a;s
+strositi;;in
+strošek;-ška;m
+stroškoven;-vna -o;prid.
+stroškovnik;-a;m
+strpati;-am;dov.
+strpen;-pna -o;prid.
+strpeti;-im;dov.
+strpinèiti;-im;tudi
+strpljen;-ena -o;prid.
+strpljenje;-a;s
+strpljiv;-a -o;prid.
+strpljivost;-i;ž
+strpnež;-a;m
+strpnost;-i;ž
+strpoleti;-im;dov.
+stršati;-im;nedov.
+strtje;-a;s
+strtost;-i;ž
+struditi;;in
+strug;-a;m
+struga;-e;ž
+strugaè;-a;m
+strugaèa;-e;ž
+strugalen;-lna -o;prid.
+strugalnica;-e;ž
+strugalnik;-a;m
+strugalo;-a;s
+struganje;-a;s
+strugar;-ja;m
+strugarna;-e;ž
+strugarnica;-e;ž
+strugarski;-a -o;prid.
+strugarstvo;-a;s
+strugati;-am;nedov.
+strugica;-e;ž
+struglja;-e;ž
+strugotina;-e;ž
+struja;-e;ž
+strujanje;-a;s
+strujar;-ja;m
+strujarski;-a -o;prid.
+strujarstvo;-a;s
+strujati;-am;nedov.
+strujen;-jna -o;prid.
+strujenje;-a;s
+strujiti;-im;nedov.
+struktura;-e;ž
+strukturalen;-lna -o;prid.
+strukturalist;-a;m
+strukturalistièen;-èna -o;prid.
+strukturalizem;-zma;m
+strukturen;-rna -o;prid.
+strukturiranje;-a;s
+strukturiranost;-i;ž
+strukturirati;-am;dov. in nedov.
+strukturnost;-i;ž
+struma;-e;ž
+strumen;-mna -o;prid.
+strumnost;-i;ž
+struna;-e;ž
+strunar;-ja;m
+strunast;-a -o;prid.
+strunek;-nka;m
+strunjak;-a;m
+strunski;-a -o;prid.
+strup;-a;m
+strupar;-ja;m
+struparica;-e;ž
+strupen;-pna -o;prid.
+strupen;-a -o;prid.
+strupenec;-nca;m
+strupenica;-e;ž
+strupenina;-e;ž
+strupenjaèa;-e;ž
+strupenjak;-a;m
+strupenka;-e;ž
+strupenost;-i;ž
+strupenski;-a -o;prid.
+strupiti;-im;nedov.
+strupnica;-e;ž
+strupnik;-a;m
+strupnina;-e;ž
+stružec;-žca;m
+stružek;-žka;m
+stružen;-žna -o;prid.
+struženje;-a;s
+struženka;-e;ž
+stružica;-e;ž
+stružilo;-a;s
+stružiti;-im;nedov.
+stružnica;-e;ž
+stružnik;-a;m
+stržek;-žka;m
+stržen;-a;m
+strženar;-ja;m
+strženast;-a -o;prid.
+strženov;-a -o;prid.
+strženski;-a -o;prid.
+stržiti;;gl.
+stuartski;-a -o;prid.
+stud;-a;m
+studen;-dna -o;prid.
+studen;-ena -o;in
+studenèar;-ja;m
+studenèek;-èka;m
+studenèen;-èna -o;prid.
+studenèina;-e;ž
+studenènica;-e;ž
+studenènina;-e;ž
+studenec;-nca;m
+studijski;-a -o;prid.
+studio;-a;m
+studiozen;-zna -o;prid.
+studioznost;-i;ž
+studiozus;-a;m
+studiti se;-im se;nedov.
+studljiv;-a -o;prid.
+studoma;;prisl.
+stuhtati;;gl.
+stuliti se;-im se;dov.
+stupa;-e;ž
+stupiden;-dna -o;prid.
+stupor;-ja;m
+stuširati;-am;dov.
+stvar;-i;ž
+stvarca;-e;ž
+stvarèica;-e;ž
+stvaren;-rna -o;prid.
+stvarilen;-lna -o;prid.
+stvarilnost;-i;ž
+stvaritelj;-a;m
+stvariteljen;-jna -o;prid.
+stvariteljica;-e;ž
+stvariteljnost;-i;ž
+stvariteljski;-a -o;prid.
+stvariteljstvo;-a;s
+stvaritev;-tve;ž
+stvariti;-im;dov.
+stvarjalec;-lca;m
+stvarjalen;-lna -o;prid.
+stvarjalnost;-i;ž
+stvarjanje;-a;s
+stvarjati;-am;nedov.
+stvarjenje;-a;s
+stvarnež;-a;m
+stvarnica;-e;ž
+stvarnik;-a;m
+stvarniški;-a -o;prid.
+stvarništvo;-a;s
+stvarnost;-i;ž
+stvarskost;-i;ž
+stvarstvo;-a;s
+stvesti;stvezem;in
+stvor;stvora;m
+stvoriti;-im;dov.
+su;;medm.
+sub;;medm.
+sub...;;ali
+subakuten;-tna -o;prid.
+subalpinski;-a -o;prid.
+subalpski;-a -o;prid.
+subalpski;-a -o;prid.
+subalteren;-rna -o;prid.
+subarktièen;-èna -o;prid.
+subdiakon;-a;m
+subdominanta;-e;ž
+subdominanten;-tna -o;prid.
+subfebrilen;-lna -o;prid.
+subjekt;-a;m
+subjekten;-tna -o;prid.
+subjektiven;-vna -o;prid.
+subjektivirati;-am;dov. in nedov.
+subjektivist;-a;m
+subjektivistièen;-èna -o;prid.
+subjektiviteta;-e;ž
+subjektivizacija;-e;ž
+subjektivizem;-zma;m
+subjektivizirati;-am;dov. in nedov.
+subjektivnost;-i;ž
+subjektnost;-i;ž
+subkontinent;-enta;in
+subkultura;-e;ž
+subkutan;-a -o;prid.
+sublimacija;-e;ž
+sublimacijski;-a -o;prid.
+sublimat;-a;m
+sublimen;-mna -o;prid.
+sublimiranje;-a;s
+sublimirati;-am;nedov. in dov.
+subliteratura;-e;ž
+submikroskopski;-a -o;prid.
+subnormala;-e;ž
+suborbitalen;-lna -o;prid.
+subordinacija;-e;ž
+subordinirati;-am;dov. in nedov.
+subpanonski;-a -o;prid.
+subpolaren;-rna -o;prid.
+subreta;-e;ž
+subretka;-e;ž
+subsidiaren;-rna -o;prid.
+subsistem;-a;m
+subskribent;-enta;in
+subskribirati;-am;dov. in nedov.
+subskripcija;-e;ž
+subskripcijski;;tudi
+subspecialist;-a;m
+substanca;-e;ž
+substancialen;-lna -o;prid.
+substancialnost;-i;ž
+substanèen;-èna -o;prid.
+substandard;-a;m
+substantiv;-a;m
+substantiven;-vna -o;prid.
+substantivirati;-am;dov. in nedov.
+substantivizirati;-am;dov. in nedov.
+substitucija;-e;ž
+substitucijski;-a -o;prid.
+substituirati;-am;dov. in nedov.
+substitut;-a;m
+substrat;-a;m
+subsumirati;-am;dov. in nedov.
+subtilen;-lna -o;prid.
+subtilnost;-i;ž
+subtrahend;-a;in
+subtrakcija;-e;ž
+subtraktiven;-vna -o;prid.
+subtropièen;-èna -o;prid.
+subtropski;-a -o;prid.
+subvencija;-e;ž
+subvencijski;-a -o;prid.
+subvencioniranje;-a;s
+subvencionirati;-am;nedov. in dov.
+subverzija;-e;ž
+subverziven;-vna -o;prid.
+suèek;-èka;m
+suèen;-èna -o;prid.
+sufi;-ja;m
+suficit;;in
+suficitaren;-rna -o;prid.
+suficiten;-tna -o;prid.
+sufiks;-a;m
+sufle;-ja;m
+sufler;-ja;m
+suflerka;-e;ž
+suflerski;-a -o;prid.
+sufleza;-e;ž
+suflirati;-am;nedov. in dov.
+sufragan;-a;m
+sufraganski;-a -o;prid.
+sufražetka;-e;ž
+sugerirati;-am;nedov. in dov.
+sugestibilen;-lna -o;prid.
+sugestibilnost;-i;ž
+sugestija;-e;ž
+sugestiven;-vna -o;prid.
+sugestivnost;-i;ž
+sugestor;-ja;m
+suh;-a -o;tudi
+suhaè;-a;m
+suhcen;-a -o;prid.
+suhec;-hca;m
+suhica;-e;ž
+suhlja;-e;ž
+suhljad;-i;ž
+suhljat;-ata -o;prid.
+suhljatost;-i;ž
+suhljav;-ava -o;prid.
+suho;-ega;s
+suho...;;prvi del zloženk
+suhoba;-e;ž
+suhoben;-bna -o;prid.
+suhocvetnica;-e;ž
+suhomesen;-sna -o;prid.
+suhomrazica;-e;ž
+suhoparen;-rna -o;prid.
+suhoparnež;-a;m
+suhoparnost;-i;ž
+suhopet;;in
+suhopetec;-tca;m
+suhor;-ja;m
+suhoreber;;in
+suhoritec;-tca;m
+suhorobar;-ja;m
+suhorobarski;-a -o;prid.
+suhorobarstvo;-a;s
+suhorok;-a -o;prid.
+suhost;;tudi
+suhota;-e;ž
+suhoten;-tna -o;prid.
+suhotina;-e;ž
+suhotnost;-i;ž
+suhozemec;-mca;m
+suhozemen;-mna -o;prid.
+suhozemski;-a -o;prid.
+suicid;-a;m
+suita;-e;ž
+suiten;-tna -o;prid.
+sukaè;-a;m
+sukalec;-lca;m
+sukalen;-lna -o;prid.
+sukalka;-e;ž
+sukalnica;-e;ž
+sukalo;-a;s
+sukanèarna;-e;ž
+sukanèast;-a -o;prid.
+sukanèek;-èka;m
+sukanec;-nca;m
+sukanje;;tudi
+sukati;-am;in
+sukanje;;tudi
+sukati;-am;in
+sukcesija;-e;ž
+sukcesiven;-vna -o;prid.
+sukljanka;-e;ž
+sukljati;-am;nedov.
+suknar;-ja;m
+suknariti;-im;nedov.
+suknarna;-e;ž
+suknarski;-a -o;prid.
+suknarstvo;-a;s
+suknen;-a -o;prid.
+sukniti;-em;dov.
+suknja;-e;ž
+suknjaè;-a;m
+suknjica;-e;ž
+suknjiè;-a;m
+sukno;-a;s
+sukulent;-enta;in
+sukulenta;-e;ž
+sukulenten;-tna -o;prid.
+sukus;-a;m
+sulèar;-ja;m
+sulec;-lca;m
+sulec;-lca;m
+sulf...;;prvi del zloženk
+sulfamid;-a;m
+sulfamiden;-dna -o;prid.
+sulfat;-a;m
+sulfaten;-tna -o;prid.
+sulfid;-a;m
+sulfiden;-dna -o;prid.
+sulfit;-a;m
+sulfiten;-tna -o;prid.
+sulfo...;;ali
+sulfonamid;-a;m
+sulfonamiden;-dna -o;prid.
+sulfonirati;-am;nedov. in dov.
+sulfonski;-a -o;prid.
+sulica;-e;ž
+sulièar;-ja;m
+sulièarka;-e;ž
+sulièast;-a -o;prid.
+sulièastolisten;-tna -o;prid.
+sulièica;-e;ž
+suliènik;-a;m
+sultan;-a;m
+sultanat;-a;m
+sultanat;-a;m
+sultanina;-e;ž
+sultanka;-e;ž
+sultanski;-a -o;prid.
+sum;-a;m
+suma;-e;ž
+sumacija;-e;ž
+sumand;-a;m
+sumaren;-rna -o;prid.
+sumarièen;-èna -o;prid.
+sumen;-mna -o;prid.
+sumerski;-a -o;prid.
+sumiranje;-a;s
+sumirati;-am;nedov. in dov.
+sumiti;-im;nedov.
+sumljiv;-a -o;prid.
+sumljivec;-vca;m
+sumljivež;-a;m
+sumljivost;-i;ž
+sumnièav;-a -o;tudi
+sumnièavost;;tudi
+sumnièenje;-a;s
+sumnièiti;-im;nedov.
+sumnja;-e;ž
+sumnja;-e;ž
+sumnjati;-am;nedov.
+sumnjiv;-a -o;prid.
+suna;-e;ž
+sunek;-nka;m
+sunit;-a;m
+suniti;-em;dov.
+sunkoma;;prisl.
+sunkoven;-vna -o;prid.
+sunkovit;-a -o;prid.
+sunkovitost;-i;ž
+sunljaj;-a;m
+supe;-ja;m
+super;-ja;tudi
+super;;prid. neskl.
+super...;;ali
+superarbitrirati;-am;dov. in nedov.
+superavtomatièen;-èna -o;prid.
+superavtomatski;-a -o;prid.
+superbomba;-e;ž
+supercivilizacija;-e;ž
+superego;-a;m
+superfinale;-a;m
+superfosfat;-a;m
+superga;-e;ž
+superintendent;-enta;in
+superior;-ja;m
+superior;-ja;m
+superioren;-rna -o;prid.
+superiornost;-i;ž
+superlativ;-a;m
+superlativen;-vna -o;prid.
+supermarket;-a;m
+supermoderen;-rna -o;prid.
+supernova;-e;ž
+superoksid;;in
+superponirati se;-am se;nedov. in dov.
+superpozicija;-e;ž
+superprevoden;-dna -o;prid.
+superprevodnost;-i;ž
+superprofit;;gl.
+superrevizija;;tudi
+supersila;-e;ž
+supersonik;-a;m
+superstruktura;-e;ž
+supertanker;-ja;m
+supertrdnjava;-e;ž
+supervizor;-ja;m
+supin;-a;m
+supirati;-am;nedov. in dov.
+suplement;-enta;m
+suplementaren;-rna -o;prid.
+suplenca;-e;ž
+suplent;-enta;in
+suplentka;;in
+suplentski;;in
+suplentura;-e;ž
+supletiven;-vna -o;prid.
+supliranje;-a;s
+suplirati;-am;nedov. in dov.
+suponirati;-am;nedov. in dov.
+suport;-a;m
+supozicija;-e;ž
+supozitorij;-a;m
+supra...;;predpona v sestavljenkah
+supranaturalistièen;-èna -o;prid.
+supranaturalizem;-zma;m
+supraprevoden;-dna -o;prid.
+supraprevodnost;-i;ž
+supremacija;-e;ž
+supremat;-a;m
+sura;-e;ž
+surdopedagog;-a;m
+surdopedagogika;-e;ž
+surf;-a;m
+surfati;-am;nedov.
+surka;-e;ž
+surogat;-a;m
+surogaten;-tna -o;prid.
+surov;-ova -o;prid.
+surovec;-vca;m
+suroveti;-im;nedov.
+surovež;-a;m
+surovina;-e;ž
+suroviniti;-im;nedov.
+surovinski;-a -o;prid.
+surovost;-i;ž
+surrealist;-a;m
+surrealistièen;-èna -o;prid.
+surrealizem;-zma;m
+suslik;-a;m
+suspendirati;-am;dov. in nedov.
+suspenz;-a;m
+suspenzija;;in
+suspenzijski;;tudi
+suspenziven;-vna -o;prid.
+suspenzorij;-a;m
+suš;-i;ž
+suša;-e;ž
+sušaè;-a;m
+sušava;-e;ž
+sušèev;-a -o;prid.
+sušec;-šca;m
+sušen;-šna -o;prid.
+sušenje;-a;s
+sušica;;in
+sušica;-e;ž
+sušièast;;in
+sušièav;;in
+sušièen;;in
+sušiènik;;in
+sušilec;-lca;m
+sušilen;-lna -o;prid.
+sušilnica;-e;ž
+sušilnièar;-ja;m
+sušilnik;-a;m
+sušilo;-a;s
+sušina;-e;ž
+sušišèe;-a;s
+sušiti;-im;nedov.
+sušje;-a;s
+sušljiv;-a -o;prid.
+sušnat;-a -o;prid.
+sušnik;;in
+sušnost;-i;ž
+sutana;-e;ž
+suteren;-a;m
+suterenski;-a -o;prid.
+suti;sujem;nedov.
+sutje;-a;s
+suvalen;-lna -o;prid.
+suvalnica;-e;ž
+suvanje;;in
+suvati;-am;tudi
+suvenir;;in
+suveren;-a;m
+suveren;-a -o;prid.
+suvereniteta;-e;ž
+suverenost;-i;ž
+suverenski;-a -o;prid.
+suzeren;-a;m
+suzuki;-ja;m
+suženj;-žnja;m
+suženjski;-a -o;prid.
+suženjstvo;-a;s
+sužnja;-e;ž
+sužnjelastniški;-a -o;prid.
+sužnjeposestniški;-a -o;prid.
+sužnjevati;-ujem;nedov.
+sužnji;-a -e;prid.
+sužnjica;-e;ž
+sužnjik;-a;m
+sužnjiti;-im;nedov.
+sužnost;-i;ž
+svaditi;-im;nedov.
+svahili;-ja;m
+svaja;-e;ž
+svajevati se;-ujem se;nedov.
+svak;-a;m
+svakinja;-e;ž
+svaljèica;-e;ž
+svaljek;-jka;m
+svaljkast;-a -o;prid.
+svaljkati;-am;in
+svarilec;-lca;m
+svarilen;-lna -o;prid.
+svarilo;-a;s
+svaritelj;-a;m
+svaritev;-tve;ž
+svariti;-im;nedov.
+svarjenje;-a;s
+svastika;-e;ž
+svaštvo;-a;s
+svat;svata;m
+svat;svata;m
+svatba;-e;ž
+svatben;-a -o;prid.
+svatevca;-e;ž
+svatica;-e;ž
+svatovalec;-lca;m
+svatovalka;-e;ž
+svatovanje;-a;s
+svatovati;-ujem;nedov.
+svatovec;-vca;m
+svatovka;-e;ž
+svatovski;-a -o;prid.
+svatovšèina;-e;ž
+svatski;-a -o;prid.
+sveèa;-e;ž
+sveèan;;tudi
+sveèan;-a -o;prid.
+sveèanost;-i;ž
+sveèanov;;tudi
+sveèar;;tudi
+sveèarna;-e;ž
+sveèarstvo;-a;s
+sveèava;-e;ž
+sveèen;-èna -o;prid.
+sveèenica;-e;ž
+sveèenik;-a;m
+sveèeniški;-a -o;prid.
+sveèeništvo;-a;s
+sveèica;-e;ž
+sveèka;-e;ž
+sveènica;-e;ž
+sveènik;-a;m
+sveder;-dra;m
+svedoèba;-e;ž
+svedoèiti;-im;nedov.
+svedok;;in
+svedraè;-a;m
+svedranje;-a;s
+svedrast;-a -o;prid.
+svedrati;-am;nedov.
+svedrc;-a;m
+svedrèek;-èka;m
+svedriti;-im;tudi
+svedrovec;-vca;m
+svedrski;-a -o;prid.
+svepetati;-am;in
+svest;-i;tudi
+svest;-a -o;prid.
+svest;-i;tudi
+svest;-a -o;prid.
+svesten;-tna -o;prid.
+svet;-a;m
+svet;sveta;m
+svet;-a -o;prid.
+svetec;-tca;m
+svetek;-tka;m
+svetel;;tudi
+sveten;-tna -o;prid.
+svetenje;-a;s
+svetešnji;;tudi
+svetilèen;-èna -o;prid.
+svetilèica;-e;ž
+svetilec;-lca;m
+svetilen;-lna -o;prid.
+svetilka;-e;ž
+svetilkar;-ja;m
+svetilkarna;-e;ž
+svetilkica;-e;ž
+svetilnica;-e;ž
+svetilnièar;-ja;m
+svetilnik;-a;m
+svetilniški;-a -o;prid.
+svetilnost;-i;ž
+svetilo;-a;s
+svetinja;-e;ž
+svetinjica;-e;ž
+svetišèe;-a;s
+svetišèen;-èna -o;prid.
+svetiti;;in
+svetiti se;-im se;nedov.
+svetivo;-a;s
+svetkovati;-ujem;nedov.
+svetlenje;-a;s
+svetleti;-im;nedov.
+svetlica;-e;ž
+svetlikanje;-a;s
+svetlikast;-a -o;prid.
+svetlikati se;-am se;stil.
+svetlikav;-a -o;prid.
+svetlilen;-lna -o;prid.
+svetlin;-a;m
+svetlina;-e;ž
+svetlišèe;-a;s
+svetliti;-im;nedov.
+svetljenje;-a;s
+svetloba;-e;ž
+svetloba;-e;ž
+svetlobarven;-vna -o;prid.
+svetloben;-bna -o;prid.
+svetlobnica;-e;ž
+svetlobnost;-i;ž
+svetloèuten;-tna -o;prid.
+svetlodlak;;in
+svetloglav;;in
+svetlogled;-a -o;prid.
+svetlogriv;-a -o;prid.
+svetlokožen;-žna -o;prid.
+svetlokril;-a -o;prid.
+svetlolas;;in
+svetlolasec;-sca;m
+svetlolaska;-e;ž
+svetlolist;-a -o;prid.
+svetlomer;-a;m
+svetlook;-a -o;prid.
+svetlopolt;-a -o;prid.
+svetlorep;;in
+svetlost;;tudi
+svetlost;-i;ž
+svetlosten;;tudi
+svetlotisk;-a;m
+svetlotisk;-a;m
+svetnica;-e;ž
+svetnica;-e;ž
+svetnièiti se;-im se;nedov.
+svetnik;-a;m
+svetnik;-a;m
+svetniški;-a -o;prid.
+svetništvo;-a;s
+svetništvo;-a;s
+svetnjak;-a;m
+svetnost;-i;ž
+svetobežen;-žna -o;prid.
+svetobežnost;-i;ž
+svetobolen;-lna -o;prid.
+svetobolje;-a;s
+svetohlinec;-nca;m
+svetohliniti;-im;nedov.
+svetohlinka;-e;ž
+svetohlinski;-a -o;prid.
+svetohlinstvo;-a;s
+svetoivanski;-a -o;prid.
+svetoleten;-tna -o;prid.
+svetomrzen;-zna -o;prid.
+svetoleten;-tna -o;prid.
+svetomrzen;-zna -o;prid.
+svetonoèen;-èna -o;prid.
+svetopetec;-tca;m
+svetopetka;-e;ž
+svetopisemski;-a -o;prid.
+svetosavski;-a -o;prid.
+svetoskrunec;-nca;m
+svetoskrunski;-a -o;prid.
+svetoskrunstvo;-a;s
+svetost;;in
+svetost;-i;ž
+svetosten;-tna -o;prid.
+svetoštefanski;-a -o;prid.
+svetotajstven;-a -o;prid.
+svetotajstvo;-a;s
+svetovalec;-lca;m
+svetovalen;-lna -o;prid.
+svetovalka;-e;ž
+svetovalnica;-e;ž
+svetovalski;-a -o;prid.
+svetovalstvo;-a;s
+svetovanec;;in
+svetovanje;;in
+svetovati;-ujem;in
+svetoven;-vna -o;prid.
+svetovje;-a;s
+svetovljan;;in
+svetovljanka;-e;ž
+svetovljanski;-a -o;prid.
+svetovljanstvo;-a;s
+svetovnjak;-a;m
+svetovnjaški;-a -o;prid.
+svetovnonazoren;-rna -o;prid.
+svetovnonazorski;-a -o;prid.
+svetovnopolitièen;-èna -o;prid.
+svetovnost;-i;ž
+svetovnozgodovinski;-a -o;prid.
+svetozor;-ora;m
+svetožalen;-lna -o;prid.
+svetožalje;-a;s
+svetski;-a -o;prid.
+svetskost;-i;ž
+svež;-a -e;prid.
+svežec;-žca;m
+sveženj;-žnja;m
+sveženjèek;-èka;m
+svežilen;-lna -o;prid.
+svežina;-e;ž
+svežiti;-im;tudi
+svežnjiè;-a;m
+svežost;-i;ž
+sviba;-e;ž
+svidenje;-a;s
+svila;-e;ž
+svilar;-ja;m
+svilarna;-e;ž
+svilarski;-a -o;prid.
+svilarstvo;-a;s
+svilast;-a -o;prid.
+svilaš;-a;m
+svilen;-lna -o;prid.
+svilen;-a -o;prid.
+svilenast;-a -o;prid.
+svilenina;-e;ž
+svilenkast;-a -o;prid.
+svilnat;-a -o;prid.
+svilnica;-e;ž
+svilogojec;-jca;m
+svilogojnica;-e;ž
+svilogojstvo;-a;s
+svilopreja;-e;ž
+sviloprejec;-jca;m
+sviloprejka;-e;ž
+sviloprejkin;-a -o;prid.
+sviloprejstvo;-a;s
+sviloreja;-e;ž
+svilorejec;-jca;m
+svilotisk;-a;m
+svinèar;-ja;m
+svinèarna;-e;ž
+svinèe;-ta;s
+svinèen;-a -o;prid.
+svinèenec;-nca;m
+svinèenje;-a;s
+svinèenka;-e;ž
+svinèenost;-i;ž
+svinèev;-a -o;prid.
+svinèiti;-im;nedov.
+svinènica;-e;ž
+svinènik;-a;m
+svine;-eta;s
+svinec;-nca;m
+svinetina;;in
+svinina;;in
+svinja;-e;ž
+svinjaèek;-èka;m
+svinjak;-a;m
+svinjak;-a;m
+svinjak;-a;m
+svinjanje;-a;s
+svinjar;-ja;m
+svinjarica;-e;ž
+svinjarija;-e;ž
+svinjariti;-im;nedov.
+svinjarna;-e;ž
+svinjarski;-a -o;prid.
+svinjati;-am;nedov.
+svinjereja;-e;ž
+svinjerejec;-jca;m
+svinjerejski;-a -o;prid.
+svinjica;-e;ž
+svinjkanje;-a;s
+svinjkati;-am;in
+svinjski;-a -o;prid.
+svinjstvo;-a;s
+sviraè;-a;m
+sviralka;-e;ž
+sviralo;-a;s
+svirati;-am;nedov.
+svirel;-i;ž
+sviriliriti;-im;nedov.
+svirel;-i;ž
+sviriliriti;-im;nedov.
+svirka;-e;ž
+svisla;-sel;s mn.
+svisli;-i;ž mn.
+svisniti;-em;dov.
+svist;-a;m
+svistenje;-a;s
+svisteti;-im;nedov.
+svistniti;-em;dov.
+svišèati;-im;nedov.
+svit;-a;m
+svita;-e;ž
+svitanice;-nic;ž mn.
+svitanje;-a;s
+svitati se;-am se;nedov.
+svitek;-tka;m
+sviter;-tra;m
+svitice;svitic;ž mn.
+svitkast;-a -o;prid.
+svitnice;svitnic;ž mn.
+sviter;-tra;m
+svitice;svitic;ž mn.
+svitkast;-a -o;prid.
+svitnice;svitnic;ž mn.
+svitoglav;-ava;m
+svizec;-zca;m
+sviž;-a;m
+svižèev;-a -o;prid.
+svižec;-žca;m
+svoboda;-e;ž
+svoboden;-dna -o;prid.
+svobodica;-e;ž
+svobodin;-a;m
+svobodnica;-e;ž
+svobodnik;-a;m
+svobodniški;-a -o;prid.
+svobodnjak;-a;m
+svobodnjakar;-ja;m
+svobodnjaški;-a -o;prid.
+svobodnjaštvo;-a;s
+svobodnost;-i;ž
+svobodoljub;-a;m
+svobodoljuben;-bna -o;prid.
+svobodoljubje;-a;s
+svobodoljubje;-a;s
+svobodoljubnež;-a;m
+svobodoljubnost;-i;ž
+svobodomiseln;-a -o;prid.
+svobodomiselnost;-i;ž
+svobodomiselstvo;-a;s
+svobodomislec;-a;m
+svobodoumen;-mna -o;prid.
+svobodoumje;-a;s
+svobodoumnik;-a;m
+svobodoumnost;-i;ž
+svobošèina;;in
+svod;svoda;m
+svodast;-a -o;prid.
+svoden;-dna -o;prid.
+svodovje;-a;s
+svoj;svoja -e;zaim.
+svojak;-a;m
+svojat;-i;ž
+svojèas;;in
+svojec;-jca;m
+svojeèasen;-sna -o;prid.
+svojeglav;;in
+svojeglavec;-vca;m
+svojeglaven;-vna -o;prid.
+svojeglaviti;-im;nedov.
+svojeglavka;-e;ž
+svojeglavnež;-a;m
+svojeglavnost;-i;ž
+svojeglavost;-i;ž
+svojepraven;-vna -o;prid.
+svojeroèen;;in
+svojevoljen;-jna -o;prid.
+svojevoljnost;-i;ž
+svojevrsten;-tna -o;prid.
+svojevrstnež;-a;m
+svojevrstnost;-i;ž
+svojilen;-lna -o;prid.
+svojina;-e;ž
+svojiti si;-im si;nedov.
+svojost;-i;ž
+svojski;-a -o;prid.
+svojskost;-i;ž
+svojstven;-a -o;prid.
+svojstvenost;-i;ž
+svojstvo;-a;s
+svojta;-e;ž
+svora;-e;ž
+svornik;-a;m
+svrha;-e;ž
+svršnica;-e;ž
+svršnik;-a;m
+svrž;-i;ž
+swing;-a;m

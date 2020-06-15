@@ -1,0 +1,3895 @@
+v;;m neskl.
+v;;predl.
+v...;;predpona
+vaba;-e;ž
+vabec;-bca;m
+vaben;-bna -o;prid.
+vabiè;-a;m
+vabilce;-a;s
+vabilec;-lca;m
+vabilen;-lna -o;prid.
+vabilo;-a;s
+vabitelj;-a;m
+vabiti;;in
+vabljenec;-nca;m
+vabljenica;-e;ž
+vabljenik;-a;m
+vabljenje;-a;s
+vabljiv;-a -o;prid.
+vabljivost;-i;ž
+vabnica;-e;ž
+vabnik;-a;m
+vabovec;-vca;m
+vada;-e;ž
+vadba;-e;ž
+vadben;-a -o;prid.
+vademekum;-a;m
+vadenje;-a;s
+vadi;-ja;m
+vadij;-a;m
+vadišèe;-a;s
+vaditelj;-a;m
+vaditeljica;-e;ž
+vaditeljski;-a -o;prid.
+vaditi;-im;nedov.
+vadlja;-e;ž
+vadljati;-am;in
+vadnica;-e;ž
+vadniški;-a -o;prid.
+vadozen;-zna -o;prid.
+vafel;-fla;m
+vafelj;-flja;tudi
+vaga;-e;ž
+vagabund;-a;m
+vagabundirati;-am;nedov.
+vagabundski;-a -o;prid.
+vagabundstvo;-a;s
+vagan;-ana;m
+vagant;-a;m
+vaganten;-tna -o;prid.
+vagantski;-a -o;prid.
+vagati;-am;nedov.
+vagina;-e;ž
+vaginalen;-lna -o;prid.
+vagon;-a;m
+vagonèek;-èka;m
+vagonet;-a;m
+vagonski;-a -o;prid.
+vahnja;-e;ž
+vahti;-ov;m mn.
+vahtiè;-a;tudi
+vahtnica;-e;ž
+vaja;-e;ž
+vajen;-a -o;prid.
+vajenèek;-èka;m
+vajenec;-nca;m
+vajeniški;-a -o;prid.
+vajenka;-e;ž
+vajenost;-i;ž
+vajenski;-a -o;prid.
+vajet;-a;m
+vajet;-i;ž
+vajeten;-tna -o;prid.
+vajevec;-vca;m
+vajgelija;-e;ž
+vajin;-a -o;zaim.
+vakanca;-e;ž
+vakance;-kanc;ž mn.
+vakanten;-tna -o;prid.
+vakati;-am;nedov.
+vakcina;-e;ž
+vakcinacija;-e;ž
+vakcinirati;-am;nedov. in dov.
+vakum;ipd.;gl.
+vakuola;-e;ž
+vakuum;-a;m
+vakuumirati;-am;nedov. in dov.
+vakuumski;-a -o;prid.
+val;-a;m
+valah;-a;m
+valat;-a;m
+valcer;-ja;m
+valèkov;-a -o;prid.
+valdenz;-a;m
+valek;-a;m
+valenca;-e;ž
+valenèen;-èna -o;prid.
+valenten;-tna -o;prid.
+valentnost;-i;ž
+valenten;-tna -o;prid.
+valentnost;-i;ž
+valer;;tudi
+valeriana;-e;ž
+valet;-a;m
+valeta;-e;ž
+valeur;;gl.
+validnost;-i;ž
+valilen;-lna -o;prid.
+valilnica;-e;ž
+valilnik;-a;m
+valisnerija;-e;ž
+vališèe;-a;s
+valitev;-tve;ž
+valivka;-e;ž
+valiž;-a;m
+valj;-a;m
+valjalen;-lna -o;prid.
+valjalnica;-e;ž
+valjalnik;-a;m
+valjanec;-nca;m
+valjalen;-lna -o;prid.
+valjalnica;-e;ž
+valjalnik;-a;m
+valjanec;-nca;m
+valjanje;;tudi
+valjar;-ja;m
+valjar;-ja;m
+valjarèek;-èka;m
+valjarna;-e;ž
+valjarniški;-a -o;prid.
+valjast;-a -o;prid.
+valjati;-am;nedov.
+valjavec;-vca;m
+valjavka;-e;ž
+valjèast;-a -o;prid.
+valjèek;-èka;m
+valjèen;-èna -o;prid.
+valje;;prisl.
+valjec;-jca;m
+valjek;-jka;m
+valjen;-jna -o;prid.
+valjev;-a -o;prid.
+valjkati;-am;nedov.
+valjev;-a -o;prid.
+valjkati;-am;nedov.
+valkira;-e;ž
+valobran;-a;m
+valolom;-oma;m
+valoma;;prisl.
+valorizacija;-e;ž
+valorizacijski;-a -o;prid.
+valorizirati;-am;dov. in nedov.
+valovanje;-a;s
+valovati;-ujem;nedov.
+valoven;-vna -o;prid.
+valovenje;-a;s
+valoveti;-im;nedov.
+valovit;-a -o;prid.
+valoviti;-im;nedov.
+valovitka;-e;ž
+valovitost;-i;ž
+valovje;-a;s
+valovljenje;-a;s
+valovnica;-e;ž
+valovod;-oda;m
+valpet;-pta;m
+valptov;-a -o;prid.
+valter;;tudi
+valuta;-e;ž
+valutaren;-rna -o;prid.
+valuten;-tna -o;prid.
+vamp;-a;m
+vamp;vampa;m
+vampaè;-a;m
+vampast;-a -o;prid.
+vampek;-pka;m
+vampež;-a;m
+vampir;-ja;m
+vampirski;-a -o;prid.
+vampirstvo;-a;s
+vanadij;-a;m
+vandal;-a;m
+vandalizem;-zma;m
+vandalski;-a -o;prid.
+vandalstvo;-a;s
+vandranje;-a;s
+vandrati;-am;nedov.
+vandrovèek;-èka;m
+vandrovec;-vca;m
+vandrovski;-a -o;prid.
+vanilin;-a;m
+vanilja;;in
+vanilja;;in
+vaniljev;;in
+vaniljevec;;in
+vaniljin;;in
+vapiti;-ja;m
+varalica;-e;ž
+varan;-a;m
+varanje;-a;s
+varant;-a;m
+varati;-am;nedov.
+varav;-a -o;in
+varavec;-vca;m
+varèen;-èna -o;prid.
+varèevalec;-lca;m
+varèevalen;-lna -o;prid.
+varèevalka;-e;ž
+varèevanje;-a;s
+varèevati;-ujem;nedov.
+varèljiv;-a -o;prid.
+varènež;-a;m
+varènost;-i;ž
+vardar;;ž neskl.
+varènež;-a;m
+varènost;-i;ž
+vardar;;ž neskl.
+vardevati;-am;nedov.
+varek;-rka;m
+varekina;-e;ž
+varen;-rna -o;prid.
+variabilen;-lna -o;prid.
+variabilnost;-i;ž
+variabla;-e;ž
+variacija;-e;ž
+variacijski;-a -o;prid.
+varianca;-e;ž
+varianta;-e;ž
+varianten;-tna -o;prid.
+variantnost;-i;ž
+variator;-ja;m
+varica;-e;ž
+variete;-ja;m
+varietejski;-a -o;prid.
+varieteta;-e;ž
+variiranje;-a;s
+variirati;-am;nedov. in dov.
+varikina;-e;ž
+varilec;-lca;m
+varilen;-lna -o;prid.
+varilka;-e;ž
+varilnica;-e;ž
+varilnik;-a;m
+varilski;-a -o;prid.
+varilstvo;-a;s
+variola;-e;ž
+variometer;-tra;m
+varišèe;-a;s
+variti;-im;tudi
+variti;-im;nedov.
+variv;-a -o;prid.
+varivo;-a;s
+varivost;-i;ž
+varjenec;-nca;m
+varjenje;;in
+varjenje;-a;s
+varljiv;-a -o;prid.
+varljivka;-e;ž
+varljivost;-i;ž
+varnica;-e;ž
+varnica;-e;ž
+varnost;-i;ž
+varnica;-e;ž
+varnost;-i;ž
+varnosten;-tna -o;prid.
+varnostnik;-a;m
+varovalec;-lca;m
+varovalen;-lna -o;prid.
+varovališèe;-a;s
+varovalka;-e;ž
+varovalo;-a;s
+varovanèek;;in
+varovanec;;in
+varovanje;;in
+varovanka;;in
+varovati;-ujem;in
+varpa;-e;ž
+varstven;-a -o;prid.
+varstvenik;-a;m
+varstvo;-a;s
+varšavjanka;-e;ž
+varšavski;-a -o;prid.
+varšèina;-e;ž
+varšèinski;-a -o;prid.
+varuh;-a;m
+varuhinja;-e;ž
+varuška;-e;ž
+varuški;-a -o;prid.
+varuštvo;-a;s
+varžet;-a;m
+vas;-i;ž
+vasezaljubljenost;-i;ž
+vasezaverovanost;;in
+vasica;-e;ž
+vaskularen;-rna -o;prid.
+vasovalec;-lca;m
+vasovalka;-e;ž
+vasovalski;-a -o;prid.
+vasovanje;-a;s
+vasovati;-ujem;nedov.
+vaš;vaša -e;zaim.
+vašèan;;in
+vašèanka;-e;ž
+vašèanski;-a -o;prid.
+vat;;tudi
+vata;-e;ž
+vatast;-a -o;prid.
+vatel;-tla;m
+vatelin;-a;m
+vatel;-tla;m
+vatelin;-a;m
+vaten;-a -o;prid.
+vaterpolist;-a;m
+vaterpolo;-a;m
+vaterpolski;-a -o;prid.
+vatikanolog;-a;m
+vatikanski;;in
+vatirati;-am;dov. in nedov.
+vatlar;-ja;m
+vatmeter;;tudi
+vatsekunda;;tudi
+vaudeville;ipd.;gl.
+vavèer;;tudi
+vavtara;-e;ž
+vaza;-e;ž
+vazal;-a;m
+vazalen;-lna -o;prid.
+vazalski;-a -o;prid.
+vazalstvo;-a;s
+vazektomija;-e;ž
+vazelin;-a;m
+vazelina;-e;ž
+vazelin;-a;m
+vazelina;-e;ž
+vazelinski;-a -o;prid.
+vazen;-zna -o;prid.
+vazica;-e;ž
+vazomotoren;-rna -o;prid.
+vazomotorièen;-èna -o;prid.
+važa;-e;ž
+važen;-žna -o;prid.
+važiè;-a;m
+važiti se;-im se;nedov.
+važnjakoviè;-a;m
+važnost;-i;ž
+vbadalo;-a;s
+vbadanje;-a;s
+vbadati;-am;nedov.
+vbetonirati;-am;dov.
+vbijati;-am;nedov.
+vbiti;vbijem;dov.
+vboèenost;-i;ž
+vboèiti;-im;dov.
+vbod;vboda;tudi
+vboden;-dna -o;prid.
+vbodina;-e;ž
+vbodlina;-e;ž
+vbodljaj;-a;m
+vbodnina;-e;ž
+vbogajme;;prisl.
+vbokel;-kla -o;prid.
+vboklina;-e;ž
+vboklost;-i;ž
+vbokniti;-em;dov.
+vbosti;vbodem;dov.
+vbrizg;-a;m
+vbrizgalen;-lna -o;prid.
+vbrizgalka;-e;ž
+vbrizgalnik;-a;m
+vbrizganina;-e;ž
+vbrizganje;-a;s
+vbrizgati;-am;dov.
+vbrizgavanje;-a;s
+vbrizgavati;-am;nedov.
+vbrizgnina;-e;ž
+vbrizgniti;-em;dov.
+vbrusiti;;in
+vcepišèe;-a;s
+vcepitev;-tve;ž
+vcepiti;;in
+vcepljanje;-a;s
+vcepljati;-am;nedov.
+vèas;;prisl.
+vèasi;;prisl.
+vèasi;;prisl.
+vèasih;;prisl.
+vèeraj;;prisl.
+vèerajšnji;-a -e;prid.
+vèerajšnjik;-a;m
+vèerajšnjost;-i;ž
+vèeranji;-a -e;prid.
+vèlanitev;-tve;ž
+vèlaniti;-im;dov.
+vèlanjenje;-a;s
+vèlanjenost;-i;ž
+vèlanjevanje;-a;s
+vèlanjevati;-ujem;nedov.
+vèlenitev;-tve;ž
+vèleniti;-im;dov.
+vèlenjati;-am;nedov.
+vèlenjenost;-i;ž
+vèlenjevati;-ujem;nedov.
+vèrtati;-am;dov.
+vèustvovanje;-a;s
+vèustvovati se;-ujem se;dov.
+vèutenje;-a;s
+vèutiti se;;in
+vdahniti;;in
+vdaja;-e;ž
+vdajanje;-a;s
+vdajati se;-am se;nedov.
+vdanost;-i;ž
+vdanosten;-tna -o;prid.
+vdati se;vdam se;dov., 2. mn.
+vdeb;;gl.
+vdelati;-am;dov.
+vdelava;-e;ž
+vdelavati;-am;nedov.
+vdelovati;-ujem;nedov.
+vdeti;vdenem;dov.
+vdevalec;-lca;m
+vdevalka;-e;ž
+vdevanje;-a;s
+vdevati;-am;tudi
+vdih;-a;m
+vdihati;-am;dov.
+vdihati;-am;stil.
+vdihavanje;-a;s
+vdihavati;-am;nedov.
+vdihljaj;-a;m
+vdihniti;-em;dov.
+vdihovati;-ujem;nedov.
+vdilj;;prisl.
+vdiljen;;prisl.
+vdiralec;-lca;m
+vdiranje;-a;s
+vdirati;-am;nedov.
+vdolbek;-bka;m
+vdolbenka;-e;ž
+vdolbenost;-i;ž
+vdolbina;-e;ž
+vdolbinast;-a -o;prid.
+vdolbinica;-e;ž
+vdolbsti;vdolbem;dov.
+vdor;vdora;m
+vdoren;;in
+vdova;-e;ž
+vdovec;-vca;m
+vdoveti;-im;dov.
+vdovica;-e;ž
+vdovica;;in
+vdovin;-a -o;prid.
+vdovji;-a -e;prid.
+vdovnina;-e;ž
+vdovski;-a -o;prid.
+vdovstvo;-a;s
+vdovšèina;-e;ž
+vdreti;vdrem;tudi
+vdrgniti;-em;dov.
+vdrugiè;;prisl.
+vdrugo;;in
+ve;;medm.
+vece;-ja;m
+veè;;prisl.
+veè...;;ali
+veèa;-e;ž
+veèalen;-lna -o;prid.
+veèanje;-a;s
+veèanje;-a;s
+veèati;-im;nedov.
+veèbarven;-vna -o;prid.
+veèbeseden;-dna -o;prid.
+veèbrazden;-dna -o;prid.
+veècelièen;-èna -o;prid.
+veèceven;-vna -o;prid.
+veècilindrski;-a -o;prid.
+veècveten;-tna -o;prid.
+veèèlanski;-a -o;prid.
+veèceven;-vna -o;prid.
+veècilindrski;-a -o;prid.
+veècveten;-tna -o;prid.
+veèèlanski;-a -o;prid.
+veèèlenski;-a -o;prid.
+veèdelen;-lna -o;prid.
+veèdimenzionalen;-lna -o;prid.
+veèdimenzionalnost;-i;ž
+veèdneven;-vna -o;prid.
+veèe;-a;s
+veèen;-èna -o;prid.
+veèer;-a;m
+veèer;;tudi
+veèeren;-rna -o;prid.
+veèeriti se;-im se;nedov.
+veèerja;-e;ž
+veèerjati;-am;nedov.
+veèerjica;-e;ž
+veèerka;-e;ž
+veèernica;-e;ž
+veèernièar;-ja;m
+veèernik;-a;m
+veèerniški;-a -o;prid.
+veèfazen;-zna -o;prid.
+veèglasen;-sna -o;prid.
+veèglasje;-a;s
+veèglasnost;-i;ž
+veèidel;;prisl.
+veèimenski;-a -o;prid.
+veèina;-e;ž
+veèinoma;;prisl.
+veèinski;-a -o;prid.
+veèizmenski;-a -o;prid.
+veèjezièen;-èna -o;prid.
+veèjeziènost;-i;ž
+veèji;-a -e;prid.
+veèkanalen;-lna -o;prid.
+veèkrat;;prisl.
+veèkraten;-tna -o;prid.
+veèkratnik;-a;m
+veèleten;-tna -o;prid.
+veèletnica;-e;ž
+veèlisten;-tna -o;prid.
+veèmeseèen;-èna -o;prid.
+veèmesten;-tna -o;prid.
+veèmilijonkrat;;prisl.
+veèmilijonski;-a -o;prid.
+veèmotoren;-rna -o;prid.
+veènacionalen;-lna -o;prid.
+veènadstropen;-pna -o;prid.
+veènamenski;-a -o;prid.
+veènaroden;-dna -o;prid.
+veènarodnosten;-tna -o;prid.
+veènik;-a;m
+veènost;-i;ž
+veènosten;-tna -o;prid.
+veèpasoven;-vna -o;prid.
+veèpasovnica;-e;ž
+veèplasten;-tna -o;prid.
+veèplastnost;-i;ž
+veèpolen;-lna -o;prid.
+veèpomenski;-a -o;prid.
+veèpomenskost;-i;ž
+veèpotezen;-zna -o;prid.
+veèpoteznik;-a;m
+veèrazreden;-dna -o;prid.
+veèrazrednica;-e;ž
+veèreden;-dna -o;prid.
+veèsedežen;-žna -o;prid.
+veèslojen;;in
+veèsmeren;-rna -o;prid.
+veèsoben;-bna -o;prid.
+veèstanovanjski;-a -o;prid.
+veèstavèen;-èna -o;prid.
+veèstezen;-zna -o;prid.
+veèstokrat;;prisl.
+veèstoleten;-tna -o;prid.
+veèstopenjski;-a -o;prid.
+veèstrankarski;-a -o;prid.
+veèstranski;-a -o;prid.
+veètedenski;-a -o;prid.
+veètiren;-rna -o;prid.
+veètisoèglav;;in
+veètisoèleten;-tna -o;prid.
+veèuren;-rna -o;prid.
+veèvalenten;-tna -o;prid.
+veèvaljen;-jna -o;prid.
+veèvednost;-i;ž
+veèvreden;-dna -o;prid.
+veèvrednost;-i;ž
+veèvrednosten;-tna -o;prid.
+veèvrsten;-tna -o;prid.
+veèvrsten;-tna -o;prid.
+veèzborje;-a;s
+veèzložen;-žna -o;prid.
+veèzložnica;-e;ž
+veèzvezdje;-a;s
+veèžilen;-lna -o;prid.
+vedanec;;in
+vedec;-dca;m
+vedeè;-eèa -e;prid.
+vedeèen;-èna -o;prid.
+vedeènost;-i;ž
+vedenje;-a;s
+vedenje;-a;s
+vedenjski;-a -o;prid.
+veder;vedra;in
+vedeštvo;-a;s
+vedeta;-e;ž
+vedeti;vem;nedov.
+vedevejevec;-vca;m
+vedež;-a;m
+vedežen;-žna -o;prid.
+vedeževalec;-lca;m
+vedeževalen;-lna -o;prid.
+vedeževalka;-e;ž
+vedeževalski;-a -o;prid.
+vedeževanje;-a;s
+vedeževati;-ujem;nedov.
+vedeževalka;-e;ž
+vedeževalski;-a -o;prid.
+vedeževanje;-a;s
+vedeževati;-ujem;nedov.
+vedno;;prisl.
+vednost;-i;ž
+vednosten;-tna -o;prid.
+vedoma;;prisl.
+vedomec;;tudi
+vedomen;-mna -o;prid.
+vedoslovje;-a;s
+vedoželjen;-jna -o;prid.
+vedoželjnež;-a;m
+vedoželjnost;-i;ž
+vedra;;tudi
+vedrce;;tudi
+vedrica;-e;ž
+vedrilec;-lca;m
+vedrina;-e;ž
+vedrišèe;-a;s
+vedriti;-im;nedov.
+vedrn;;tudi
+vedrnik;;tudi
+vedrnik;-a;m
+vedro;-a;s
+vedrost;;in
+vedrovka;;tudi
+vedski;-a -o;prid.
+veduta;-e;ž
+veduten;-tna -o;prid.
+vegast;-a -o;prid.
+vegati;-am;nedov.
+vegav;-a -o;prid.
+vegavost;-i;ž
+vegetabilen;-lna -o;prid.
+vegetabilije;-lij;ž mn.
+vegetacija;-e;ž
+vegetacijski;-a -o;prid.
+vegetarijanec;-nca;m
+vegetarijanski;-a -o;prid.
+vegetarijanstvo;-a;s
+vegetativen;-vna -o;prid.
+vegetiranje;-a;s
+vegetirati;-am;nedov.
+vehast;-a -o;prid.
+vehati;-am;nedov.
+vehavec;-vca;m
+vehemenca;-e;ž
+vehavec;-vca;m
+vehemenca;-e;ž
+vehementen;-tna -o;prid.
+vehementnost;-i;ž
+vehikel;-kla;m
+veja;-e;ž
+vejaèa;-e;ž
+vejalnica;-e;ž
+vejalnik;-a;m
+vejanje;-a;s
+vejarica;-e;ž
+vejast;-a -o;prid.
+vejat;-ata -o;prid.
+vejati;-am;nedov.
+vejati se;-am se;nedov.
+vejavec;;in
+vejavica;-e;ž
+vejen;-jna -o;prid.
+vejevina;-e;ž
+vejevje;-a;s
+vejevnik;-a;m
+vejica;-e;ž
+vejicat;-a -o;prid.
+vejièast;-a -o;prid.
+vejièje;;in
+vejiti se;-im se;in
+vejnat;-a -o;prid.
+vejnik;-a;m
+veka;-e;ž
+vekaè;-a;m
+vekanje;;tudi
+vekapebe;-ja;m
+vekarica;-e;ž
+vekati;-am;nedov.
+vekav;-a -o;in
+veko;-a;s
+vekomaj;;prisl.
+vekotrajen;-jna -o;prid.
+vekoveèen;-èna -o;prid.
+vekoven;;in
+vekovit;-a -o;prid.
+vektor;-ja;m
+vektorski;-a -o;prid.
+vel;-a;m
+vel;;in
+velar;-a;m
+velaren;-rna -o;prid.
+velb;velba;m
+velaren;-rna -o;prid.
+velb;velba;m
+velblod;-a;m
+velblodar;-ja;m
+velblodica;-e;ž
+velblodji;-a -e;prid.
+velebanka;-e;ž
+veleblagovnica;-e;ž
+veleburžoazija;-e;ž
+velecenjen;-a -o;prid.
+velecveten;-tna -o;prid.
+veledelo;-a;s
+veledogodek;-dka;m
+veledržava;-e;ž
+veledušen;-šna -o;prid.
+velefilm;-a;m
+velegorje;-a;s
+veleimeniten;-tna -o;prid.
+veleindustrialec;-lca;m
+veleindustrija;-e;ž
+veleindustrijec;-jca;m
+veleimeniten;-tna -o;prid.
+veleindustrialec;-lca;m
+veleindustrija;-e;ž
+veleindustrijec;-jca;m
+veleizdaja;-e;ž
+veleizdajalec;-lca;m
+veleizdajalski;-a -o;prid.
+veleizdajnik;-a;m
+veleizdajstvo;-a;s
+velejadro;-a;s
+velekapital;-a;m
+velekapitalist;-a;m
+velekapitalistièen;-èna -o;prid.
+velekušèar;-ja;m
+velelen;-lna -o;prid.
+velelisten;-tna -o;prid.
+velelnica;-e;ž
+velelnik;-a;m
+velelniški;-a -o;prid.
+velemesten;-tna -o;prid.
+velemesto;-a;s
+velemešèan;;in
+velemojster;-tra;m
+velemojstrski;-a -o;prid.
+velemolekula;-e;ž
+velenemec;-mca;m
+velenemški;-a -o;prid.
+velenemštvo;-a;s
+velenjèan;;tudi
+velenjski;;tudi
+veleobrat;-ata;m
+veleobrt;-i;tudi
+veleodjem;-ema;m
+veleodjemalec;-lca;m
+veleparnik;-a;m
+velepodjetje;-a;s
+velepodjetnik;-a;m
+velepomemben;-bna -o;prid.
+veleposest;-i;ž
+veleposestnik;-a;m
+veleposestniški;-a -o;prid.
+veleposestvo;-a;s
+veleposlanica;-e;ž
+veleposlanik;-a;m
+veleposlaništvo;-a;s
+velepotezen;-zna -o;prid.
+veleprodaja;-e;ž
+veleproizvajalec;-lca;m
+veleproizvodnja;-e;ž
+veleproizvodnja;-e;ž
+velereka;-e;ž
+velerilec;-lca;m
+veleroden;-dna -o;prid.
+velesa;-e;ž
+velesejem;-jma;m
+velesejemski;-a -o;prid.
+velesila;-e;ž
+veleslalom;-a;m
+veleslalomist;-a;m
+veleslalomski;-a -o;prid.
+veleslaven;-vna -o;prid.
+velespektakel;;tudi
+velespoštovan;-a -o;prid.
+velesrbski;-a -o;prid.
+velesrbstvo;-a;s
+velešpektakel;;gl.
+veletatvina;-e;ž
+veleti;-im;dov.
+veletoè;;tudi
+veletok;-a;m
+veletovarna;-e;ž
+veletovarnar;-ja;m
+veletrgovec;-vca;m
+veletrgovina;-e;ž
+veletržec;-žca;m
+veletržnica;-e;ž
+veleturist;-a;m
+veleturnir;-ja;m
+veleuèen;-ena -o;prid.
+veleugleden;-dna -o;prid.
+veleum;-a;m
+veleumen;-mna -o;prid.
+veleumetnina;-e;ž
+veleumnost;-i;ž
+velevanje;-a;s
+velevati;-am;nedov.
+velevažen;-žna -o;prid.
+velezanimiv;-a -o;prid.
+velezaslužen;-žna -o;prid.
+veleznaèilen;-lna -o;prid.
+veleznamenit;-a -o;prid.
+velièajen;-jna -o;prid.
+velièanje;-a;s
+velièanski;-a -o;prid.
+velièanstven;-a -o;prid.
+velièanstvenost;-i;ž
+velièanstvo;-a;s
+velièast;-i;ž
+velièasten;-tna -o;prid.
+velièastje;-a;s
+velièastnost;-i;ž
+velièastven;-a -o;prid.
+velièastvenost;-i;ž
+velièastvo;-a;s
+velièati;-am;nedov.
+velièav;-ava -o;stil.
+velièava;-e;ž
+velièavost;;stil.
+velièina;-e;ž
+velièinski;-a -o;prid.
+velièiti se;-im se;nedov.
+velièje;-a;s
+velik;-ika -o;prid.
+velikan;-a;m
+velikanka;-e;ž
+velikanski;-a -o;prid.
+velikanskost;-i;ž
+velikanstvo;-a;s
+velikaš;-a;m
+velikašinja;-e;ž
+velikaški;-a -o;prid.
+velikaštvo;-a;s
+veliki;-a -o;prid.
+veliko;;prisl.
+velikobesednost;-i;ž
+velikobolgarski;-a -o;prid.
+velikobritanski;-a -o;prid.
+velikocveten;-tna -o;prid.
+velikodržaven;-vna -o;prid.
+velikodušen;-šna -o;prid.
+velikodušje;-a;s
+velikodušnost;-i;ž
+velikokalibrski;-a -o;prid.
+velikokrat;;prisl.
+velikolep;-a -o;prid.
+velikolepen;-pna -o;prid.
+velikolepje;-a;s
+velikolisten;-tna -o;prid.
+velikomesten;-tna -o;prid.
+velikomešèan;;in
+velikonemec;-mca;m
+velikonemški;-a -o;prid.
+velikonoèen;-èna -o;prid.
+velikonoènica;-a;ž
+velikopotezen;-zna -o;prid.
+velikopoteznost;-i;ž
+velikonoènica;-a;ž
+velikopotezen;-zna -o;prid.
+velikopoteznost;-i;ž
+velikoprodajen;-jna -o;prid.
+velikoruski;-a -o;prid.
+velikoserijski;-a -o;prid.
+velikosoboten;-tna -o;prid.
+velikosrbski;-a -o;prid.
+velikost;-i;ž
+velikosten;-tna -o;prid.
+velikosvetski;-a -o;prid.
+velikrat;;prisl.
+velitelj;-a;m
+veljak;-a;m
+veljaški;-a -o;prid.
+veljaštvo;-a;s
+veljati;-am;nedov.
+veljava;-e;ž
+veljaven;-vna -o;prid.
+veljavnost;-i;ž
+veljavnosten;-tna -o;prid.
+velmož;;tudi
+velmožen;;tudi
+velnica;-e;ž
+velnik;-a;m
+velo;-a;s
+velociped;-a;m
+velodrom;-a;m
+velost;-i;ž
+velški;;gl.
+velter;;tudi
+velterski;-a -o;prid.
+veltlinec;-nca;m
+velum;-a;m
+velur;-ja;m
+veluren;-rna -o;prid.
+velvet;-a;m
+velveton;-a;m
+ven;;prisl.
+vena;-e;ž
+venèast;-a -o;prid.
+venèati;;in
+venèek;-èka;m
+venèen;-èna -o;prid.
+venènjak;-a;m
+vendan;;in
+vendar;;prisl.
+vendarle;;prisl.
+vendski;-a -o;prid.
+vendšèina;-e;ž
+venec;-nca;m
+venecijanka;-e;ž
+venecijanski;-a -o;prid.
+venenje;-a;s
+venerièen;-èna -o;prid.
+venerin;-a -o;prid.
+venerolog;-a;m
+venerološki;-a -o;prid.
+veneti;-im;nedov.
+venetski;-a -o;prid.
+venetšèina;-e;ž
+venge;veng;ž mn.
+veninven;;in
+veniti;-em;nedov.
+venkaj;;prisl.
+venomer;;tudi
+venomeren;-rna -o;prid.
+venozen;-zna -o;prid.
+ventil;-a;m
+ventilacija;-e;ž
+ventilacijski;-a -o;prid.
+ventilator;-ja;m
+ventilatorski;-a -o;prid.
+ventilen;-lna -o;prid.
+ventilen;-lna -o;prid.
+ventilirati;-am;nedov. in dov.
+ventilski;-a -o;prid.
+ventralen;-lna -o;prid.
+ventrikel;-kla;m
+ventrikularen;-rna -o;prid.
+veper;-pra;m
+vera;-e;ž
+veranda;-e;ž
+veranden;-dna -o;prid.
+verbalen;-lna -o;prid.
+verbalist;-a;m
+verbalistièen;-èna -o;prid.
+verbalizacija;-e;ž
+verbalizem;-zma;m
+verbalizirati;-am;dov. in nedov.
+verbena;-e;ž
+verbotonalen;-lna -o;prid.
+verbum;-a;m
+vereja;-e;ž
+verificirati;-am;dov. in nedov.
+verificirka;-e;ž
+verifikabilen;-lna -o;prid.
+verificirka;-e;ž
+verifikabilen;-lna -o;prid.
+verifikacija;-e;ž
+verifikacijski;-a -o;prid.
+veriga;-e;ž
+verigar;-ja;m
+verigarna;-e;ž
+verigast;-a -o;prid.
+verist;-a;m
+veristièen;-èna -o;prid.
+veriti se;-im se;nedov.
+verizem;-zma;m
+verižen;-žna -o;prid.
+verižica;-e;ž
+verižiti;-im;nedov.
+verižkati;-am;nedov.
+verižniški;-a -o;prid.
+verižništvo;-a;s
+verjeten;-tna -o;prid.
+verjeti;-jamem;nedov. in dov.
+verjetje;-a;s
+verižništvo;-a;s
+verjeten;-tna -o;prid.
+verjeti;-jamem;nedov. in dov.
+verjetje;-a;s
+verjetnica;-e;ž
+verjetnost;-i;ž
+verjetnosten;-tna -o;prid.
+vermaht;;tudi
+verman;;tudi
+vermanski;-a -o;prid.
+vermanšaft;-a;m
+vermut;-a;m
+vernalizacija;-e;ž
+vernica;-e;ž
+vernik;-a;m
+verniški;-a -o;prid.
+verodostojen;-jna -o;prid.
+verodostojnost;-i;ž
+veroizpoved;-i;ž
+veroizpovedanje;-a;s
+verolomen;-mna -o;prid.
+verolomnež;-a;m
+verolomnica;-e;ž
+verolomnež;-a;m
+verolomnica;-e;ž
+verolomnik;-a;m
+verolomnost;-i;ž
+verolomstvo;-a;s
+veronal;-a;m
+veronauk;-a;m
+veroslovje;-a;s
+verouèen;-èna -o;prid.
+verouèitelj;-a;m
+verouk;-a;m
+verovanje;;in
+verovanjski;;in
+verovati;-ujem;in
+veroven;-vna -o;prid.
+verovnost;-i;ž
+versajski;-a -o;prid.
+verski;-a -o;prid.
+versko...;;prvi del zloženk
+verskoobreden;-dna -o;prid.
+verskovzgojen;-jna -o;prid.
+verstven;-a -o;prid.
+verstvo;-a;s
+verthajm;-a;m
+verthajmovka;-e;ž
+verthajmski;-a -o;prid.
+vertikala;-e;ž
+vertikalen;-lna -o;prid.
+vertikalnost;-i;ž
+verva;-e;ž
+verz;-a;m
+verzalka;-e;ž
+verzen;-zna -o;prid.
+verzet;-a;m
+verzificiranje;-a;s
+verzificirati;-am;dov. in nedov.
+verzifikacija;-e;ž
+verzifikacijski;-a -o;prid.
+verzifikator;-ja;m
+verzifikatorski;-a -o;prid.
+verzifikatorstvo;-a;s
+verzija;-e;ž
+verzikel;-kla;m
+verziran;-a -o;prid.
+verziranost;-i;ž
+verzologija;-e;ž
+verzološki;-a -o;prid.
+ves;vsa vse;zaim.
+vesa;-e;ž
+vesel;-a -o;prid.
+veselica;-e;ž
+veselièen;-èna -o;prid.
+veselièka;-e;ž
+veselišèe;-a;s
+veseliti;-im;nedov.
+veseljaèenje;-a;s
+veseljaèiti;-im;nedov.
+veseljak;-a;m
+veseljakinja;-e;ž
+veseljaški;-a -o;prid.
+veseljaštvo;-a;s
+veseljce;-a;s
+veselje;-a;s
+veseln;-a -o;prid.
+veselnica;-e;ž
+veselnik;-a;m
+veseloigra;-e;ž
+veseloigrica;-e;ž
+veselost;;tudi
+veselosten;;tudi
+vesen;-sna -o;prid.
+vesina;-e;ž
+vesiti;-im;nedov.
+veslaè;-a;m
+veslaè;-a;m
+veslaèa;-e;ž
+veslaèica;-e;ž
+veslaj;-a;m
+veslalen;-lna -o;prid.
+veslanje;-a;s
+veslar;;tudi
+veslarica;;tudi
+veslariti;-im;nedov.
+veslarski;;tudi
+veslast;-a -o;prid.
+veslaški;-a -o;prid.
+veslati;-am;nedov.
+veslavec;-vca;m
+veslavka;-e;ž
+veslica;-e;ž
+veslina;-e;ž
+vesljaj;-a;m
+veslo;-a;s
+veslonožec;-žca;m
+vesna;-e;ž
+vesoljan;;in
+vesolje;-a;s
+vesoljec;-jca;m
+vesoljen;-jna -o;prid.
+vesoljka;-e;ž
+vesoljnost;-i;ž
+vesoljski;-a -o;prid.
+vesoljstven;-a -o;prid.
+vesoljstvo;-a;s
+vespa;-e;ž
+vespist;-a;m
+vestalka;-e;ž
+vestalski;-a -o;prid.
+vestern;;in
+vestfalski;-a -o;prid.
+vesti;vedem;nedov.
+vesti;vezem;in
+vestibul;-a;m
+vestibularen;-rna -o;prid.
+vestièar;-ja;m
+vestija;;in
+vestnik;-a;m
+vestnost;-i;ž
+veston;-a;m
+vešalo;-a;s
+vestnik;-a;m
+vestnost;-i;ž
+veston;-a;m
+vešalo;-a;s
+vešè;-a -e;prid.
+vešèa;-e;ž
+vešèak;-a;m
+vešèakinja;-e;ž
+vešèec;-a;m
+vešèica;-e;ž
+vešèica;;tudi
+vešèina;-e;ž
+vešèost;-i;ž
+vešda;;in
+veter;-tra;m
+veteran;-a;m
+veteranec;-nca;m
+veteranka;-e;ž
+veteranski;-a -o;prid.
+veterina;-e;ž
+veterinar;-ja;m
+veterinarka;-e;ž
+veterinarski;-a -o;prid.
+veterinarstvo;-a;s
+veti;vejem;nedov.
+vetje;-a;s
+veto;-a;m
+vetrc;-a;m
+vetrèek;-èka;m
+vetren;-a -o;prid.
+vetrenje;-a;s
+vetriè;-a;m
+vetrièek;-èka;m
+vetrih;-a;m
+vetrilen;-lna -o;prid.
+vetrilnik;-a;m
+vetrilo;-a;s
+vetriti;-im;nedov.
+vetrn;-a -o;prid.
+vetrnica;-e;ž
+vetrnik;-a;m
+vetrnjaèa;-e;ž
+vetrnjak;-a;m
+vetrnjakinja;-e;ž
+vetrnjaški;-a -o;prid.
+vetrnjaštvo;-a;s
+vetrobran;-a;m
+vetrobranski;-a -o;prid.
+vetrocvetka;-e;ž
+vetrogonèiè;-a;m
+vetrokaz;-aza;m
+vetrolom;-oma;m
+vetrolov;-ova;m
+vetrolovka;-e;ž
+vetromer;-a;m
+vetrov;-a -o;prid.
+vetroven;-vna -o;prid.
+vetrovit;-a -o;prid.
+vetrovje;-a;s
+vetrovka;-e;ž
+vetrovnica;-e;ž
+vetrovnik;-a;m
+vetrovnost;-i;ž
+veverica;-e;ž
+veverièji;-a -e;prid.
+veverièka;-e;ž
+veverièkati se;-am se;nedov.
+veverka;-e;ž
+vez;-a;m
+vez;-i;ž
+veza;-e;ž
+vezaè;-a;m
+vezaj;-a;m
+vezalec;-lca;m
+vezalen;-lna -o;prid.
+vezalka;-e;ž
+vezanje;-a;s
+vezanka;-e;ž
+vezanost;-i;ž
+vezatev;-tve;ž
+vezati;;in
+vezava;-e;ž
+vezen;-zna -o;prid.
+vezenina;-e;ž
+vezeninski;-a -o;prid.
+vezenje;;in
+vezica;-e;ž
+vezilec;-lca;m
+vezilja;-e;ž
+veziljski;-a -o;prid.
+vezilnica;-e;ž
+vezilo;-a;s
+vezilski;-a -o;prid.
+vezilstvo;-a;s
+vezir;-ja;m
+vezirski;-a -o;prid.
+vezirstvo;-a;s
+vezist;-a;m
+vezirstvo;-a;s
+vezist;-a;m
+vezišèe;-a;s
+vezivast;-a -o;prid.
+veziven;-vna -o;prid.
+vezivka;-e;ž
+vezivnost;-i;ž
+vezivo;-a;s
+vezje;-a;s
+vezljivost;-i;ž
+veznica;-e;ž
+veznièen;-èna -o;prid.
+veznik;-a;m
+vezniški;-a -o;prid.
+vezovati;-ujem;nedov.
+veža;-e;stil.
+vežba;-e;ž
+vežbalen;-lna -o;prid.
+vežbališèe;-a;s
+vežbanje;-a;s
+vežbati;-am;nedov.
+vežen;;in
+vežica;-e;ž
+vežiti se;-im se;nedov.
+vglabljanje;-a;s
+vglabljati se;-am se;nedov.
+vglobiti se;-im se;dov.
+vgnesti;vgnetem;dov.
+vgozditi;-im;in
+vgraditev;-tve;ž
+vgraditi;-im;dov.
+vgradnja;-e;ž
+vgrajevanje;-a;s
+vgrajevati;-ujem;nedov.
+vgravirati;-am;dov.
+vgrebsti;vgrebem;dov.
+vhod;vhoda;m
+vhoden;-dna -o;prid.
+vhodišèe;-a;s
+vi;ve ve;zaim.
+via;;prisl.
+viadukt;-a;m
+via facti;;prisl.
+viba;-e;ž
+vibast;-a -o;prid.
+vibracija;-e;ž
+vibracijski;-a -o;prid.
+vibrafon;-a;m
+vibrafonist;-a;m
+vibram;-a;m
+vibrato;-a;m
+vibrator;-ja;m
+vibrion;-a;m
+vibriranje;-a;s
+vibrirati;-am;nedov.
+vibriren;-rna -o;prid.
+vibrovaljar;;in
+vic;-a;m
+vicati;-am;nedov.
+vice;vic;ž mn.
+vice...;;ali
+viceadmiral;-a;m
+vicedom;-a;m
+vicedomski;-a -o;prid.
+viceguverner;-ja;m
+vicekonzul;-a;m
+vicešampion;-a;m
+vice versa;;prisl.
+vicinalen;-lna -o;prid.
+vid;-a;m
+Vid;-a;m
+videc;-dca;m
+videm;-dma;m
+videnje;-a;s
+video;-a;m
+video...;;ali
+videofon;-a;m
+videokaseta;-e;ž
+videorekorder;-ja;m
+videotehnik;-a;m
+videotehnika;-e;ž
+videoteks;-a;m
+videotekst;-a;m
+videotelefon;-a;m
+videti;-im;nedov. in dov.
+videvati;-am;nedov.
+videz;-a;m
+videzen;-zna -o;prid.
+videž;-a;m
+vidia;;neskl. pril.
+vidik;-a;m
+vidikon;-a;m
+vidimirati;-am;dov. in nedov.
+vidirati;-am;dov. in nedov.
+vidkinja;-e;ž
+vidljiv;-a -o;prid.
+vidkinja;-e;ž
+vidljiv;-a -o;prid.
+vidljivost;-i;ž
+vidnost;-i;ž
+vidoma;;prisl.
+vidov;-a -o;prid.
+vidovdanski;-a -o;prid.
+vidovica;-e;ž
+vidovin;-a;m
+vidovit;-a -o;prid.
+vidovitost;-i;ž
+vidra;-e;ž
+vidrar;-ja;m
+vidrast;-a -o;prid.
+vidrin;-a -o;prid.
+vidrovina;-e;ž
+vidrovka;-e;ž
+vidski;-a -o;prid.
+vidva;vedve;tudi
+vietkongovec;-vca;m
+vietnamski;-a -o;prid.
+vietnamšèina;-e;ž
+vigenj;-gnja;m
+vigenjc;-a;m
+vigilija;-e;ž
+vigonj;-a;m
+vigonjka;-e;ž
+vigred;-i;ž
+vigreden;-dna -o;prid.
+vigredi;;prisl.
+vigvam;-a;m
+vihalo;-a;s
+vihanje;-a;s
+vihar;-ja;m
+viharèek;-èka;m
+viharen;-rna -o;prid.
+vihariti;-im;nedov.
+viharnica;-e;ž
+viharnik;-a;m
+viharniški;-a -o;prid.
+viharništvo;-a;s
+viharnost;-i;ž
+vihati;-am;nedov.
+viher;-hra;m
+vihljati;-am;nedov.
+vihra;-e;ž
+vihraè;-a;m
+vihranje;-a;s
+vihrast;-a -o;prid.
+vihrati;-am;nedov.
+vihrav;-ava -o;prid.
+vihravec;-vca;m
+vihravka;-e;ž
+vihravost;-i;ž
+vihrica;-e;ž
+vihrn;-a -o;prid.
+vihrovit;-a -o;prid.
+vihtenje;-a;s
+vihteti;-im;nedov.
+vihtiti;-im;nedov.
+vija;;medm.
+vijaèa;-e;ž
+vijaèek;-èka;m
+vijaèen;-èna -o;prid.
+vijaèenje;-a;s
+vijaèiti;-im;nedov.
+vijaènica;-e;ž
+vijaènik;-a;m
+vijak;-a;m
+vijakar;-ja;m
+vijakarna;-e;ž
+vijakast;-a -o;prid.
+vijakov;-a -o;prid.
+vija vaja ven;;prisl.
+vija vaja ven;;medm.
+vijavica;-e;ž
+vijec;-jca;m
+vijeglavka;-e;ž
+vijola;-e;ž
+vijolica;-e;ž
+vijolièast;-a -o;prid.
+vijolièen;-èna -o;prid.
+vijuga;-e;ž
+vijuganje;-a;s
+vijugast;-a -o;prid.
+vijugati;-am;nedov.
+vijugav;-a -o;prid.
+vijugavica;-e;ž
+vijugavost;-i;ž
+vik;-a;m
+vika;-e;ž
+vikar;-ja;m
+vikariat;-a;m
+vikarij;-a;m
+vikati;-am;nedov.
+vikati;-am;tudi
+vikend;;tudi
+vikendar;-ja;m
+vikend;;tudi
+vikendar;-ja;m
+vikendaš;-a;m
+vikendski;-a -o;prid.
+vikinški;-a -o;prid.
+vikniti;-em;dov.
+vikont;-a;m
+vikontesa;-e;ž
+viktorija;-e;ž
+viktorijanec;-nca;m
+viktorijanski;-a -o;prid.
+vikunja;-e;ž
+vilaja;-e;ž
+vilajet;-a;m
+vilar;-ja;m
+vilast;-a -o;prid.
+vile;vil;ž mn.
+vileda;-e;ž
+vilenjak;-a;m
+vilice;-lic;ž mn.
+vilièar;-ja;m
+vilièarist;-a;m
+vilièast;-a -o;prid.
+vilièarist;-a;m
+vilièast;-a -o;prid.
+vilièen;-èna -o;prid.
+vilièenje;;in
+vilièiti se;;in
+vilièke;-lièk;ž mn.
+vilinji;-a -e;prid.
+vilinski;-a -o;prid.
+vilja;-e;ž
+viljamovka;-e;ž
+vilovina;-e;ž
+vilski;-a -o;prid.
+vim;-a;m
+vimèek;-èka;m
+vime;-na;s
+vimenjak;-a;m
+vimenski;-a -o;prid.
+vimperg;-a;m
+vinar;-ja;m
+vinar;-ja;m
+vinarna;-e;ž
+vinarski;-a -o;prid.
+vinarstvo;-a;s
+vinaz;-a;m
+vincar;-ja;m
+vince;-a;s
+vincentinka;-e;ž
+vinèece;-a;s
+vinèek;-èka;m
+vinèestrka;;in
+vinèkar;-ja;m
+vindicirati;-am;dov. in nedov.
+vindišarski;-a -o;prid.
+vindiški;-a -o;prid.
+vinièar;-ja;m
+vinièarija;-e;ž
+vinièariti;-im;nedov.
+vinièarka;-e;ž
+vinièarski;-a -o;prid.
+vinièarstvo;-a;s
+vinifikacija;-e;ž
+vinika;;in
+vinil;-a;m
+vinilen;-lna -o;prid.
+vinilklorid;-a;m
+vinjak;-a;m
+vinjak;;tudi
+vinjen;-a -o;prid.
+vinjenost;-i;ž
+vinjenost;-i;ž
+vinjeta;-e;ž
+vinjeten;-tna -o;prid.
+vinkalica;-e;ž
+vinkulacija;-e;ž
+vinkulirati;-am;dov. in nedov.
+vino;-a;s
+vinogorski;-a -o;prid.
+vinograd;-a;m
+vinograden;;tudi
+vinogradnik;-a;m
+vinogradniški;-a -o;prid.
+vinogradništvo;-a;s
+vinogradski;;tudi
+vinopivec;-vca;m
+vinoroden;-dna -o;prid.
+vinoteka;-e;ž
+vinotoè;;tudi
+vinotok;-oka;m
+vinotržec;-žca;m
+vinovod;-oda;m
+vinski;-a -o;prid.
+vinskost;-i;ž
+vinstvo;-a;s
+vinšèak;-a;m
+vint;-a;m
+vinta;-e;ž
+vintati;-am;nedov.
+vintgar;-ja;m
+viola;-e;ž
+viola da gamba;viole da gamba;ž
+viola d'amore;viole d'amore;ž
+violeten;-tna -o;prid.
+violina;-e;ž
+violinist;-a;m
+violinistka;-e;ž
+violinski;-a -o;prid.
+violist;-a;m
+violonèelist;-a;m
+violonèelo;-a;m
+vipavec;-vca;m
+vipavski;-a -o;prid.
+virèek;-èka;m
+virginski;-a -o;prid.
+virh;-a;m
+virilen;-lna -o;prid.
+virilist;-a;m
+virje;-a;s
+virilist;-a;m
+virje;-a;s
+virman;;in
+virmanski;;in
+virmirati;-am;dov. in nedov.
+virolog;-a;m
+virologija;-e;ž
+virološki;-a -o;prid.
+viroslovje;-a;s
+viroza;-e;ž
+virozen;-zna -o;prid.
+virtualen;-lna -o;prid.
+virtualnost;-i;ž
+virtuoz;-a;m
+virtuozen;-zna -o;prid.
+virtuozinja;-e;ž
+virtuoznost;-i;ž
+virulenca;-e;ž
+virulenten;-tna -o;prid.
+virulentnost;-i;ž
+virus;-a;m
+virusen;-sna -o;prid.
+virusologija;-e;ž
+viržinka;-e;ž
+vis;-a;m
+vis;;m neskl.
+vis-a-vis;;tudi
+vis-a-vis;;tudi
+visceralen;-lna -o;prid.
+viselnice;-nic;ž mn.
+visenje;-a;s
+viseti;-im;nedov.
+viskaèa;-e;ž
+viski;;tudi
+viskont;-a;m
+viskoza;-e;ž
+viskozen;-zna -o;prid.
+viskozimeter;-tra;m
+viskoziteta;-e;ž
+viskoznost;-i;ž
+viskoznosten;-tna -o;prid.
+visli;-i;ž mn.
+vislice;-lic;ž mn.
+visliški;-a -o;prid.
+vislo;-a;s
+vis maior;;ž neskl.
+visoèanstvo;-a;s
+visoèina;-e;ž
+visok;-oka -o;prid.
+visoko...;;ali
+visokodebeln;-a -o;prid.
+visokoenergetski;-a -o;prid.
+visokofrekvenèen;-èna -o;prid.
+visokogorje;-a;s
+visokogorski;-a -o;prid.
+visokokrilec;-lca;m
+visokokrilnik;-a;m
+visokokvalificiran;-a -o;prid.
+visokoleteè;-eèa -e;prid.
+visokomeren;-rna -o;prid.
+visokomernost;-i;ž
+visokomolekularen;-rna -o;prid.
+visokomorski;-a -o;prid.
+visokonapetosten;-tna -o;prid.
+visokonemški;-a -o;prid.
+visokonog;-a -o;prid.
+visokonos;-a -o;prid.
+visokooktanski;-a -o;prid.
+visokopet;;in
+visokopetnik;;tudi
+visokopritlièen;-èna -o;prid.
+visokorasel;-sla -o;prid.
+visokoroden;-dna -o;prid.
+visokoroden;-dna -o;prid.
+visokorodnost;-i;ž
+visokost;;in
+visokost;-i;ž
+visokostebeln;-a -o;prid.
+visokosten;-tna -o;prid.
+visokošolec;-lca;m
+visokošolka;-e;ž
+visokošolski;-a -o;prid.
+visokotemperaturen;-rna -o;prid.
+visokotlaèen;-èna -o;prid.
+visokotonski;-a -o;prid.
+visokoumen;-mna -o;prid.
+vist;;in
+vistavizijski;-a -o;prid.
+vistra;-e;ž
+viš;-a;m
+viš;;medm.
+višaj;-a;m
+višanje;-a;s
+višati;-am;nedov.
+višava;-e;ž
+višavje;-a;s
+višavski;-a -o;prid.
+višek;-ška;m
+višina;-e;ž
+višinomer;-a;m
+višinski;-a -o;prid.
+višje...;;prvi del zloženk
+višjegimnazijec;-jca;m
+višjereden;-dna -o;prid.
+višješolec;-lca;m
+višješolka;-e;ž
+višješolski;-a -o;prid.
+viškati;-am;nedov.
+višnja;-e;ž
+višnjev;-a -o;prid.
+višnjevec;-vca;m
+višnjevkast;;in
+višnjevost;-i;ž
+višnji;-a -e;prid.
+vita;-e;ž
+vitalen;-lna -o;prid.
+vitalist;-a;m
+vitalistièen;-èna -o;prid.
+vitaliteta;-e;ž
+vitalizem;-zma;m
+vitalnež;-a;m
+vitalnost;-i;ž
+vitamin;-a;m
+vitaminizirati;-am;nedov. in dov.
+vitaminozen;-zna -o;prid.
+vitaminski;-a -o;prid.
+vitek;-tka -o;prid.
+vitel;-tla;m
+viteški;-a -o;prid.
+viteštvo;-a;s
+vitez;-a;m
+vitezov;-a -o;prid.
+vitica;-e;ž
+vitièast;-a -o;prid.
+vitièevje;;tudi
+vitièje;-a;s
+vitiènjak;-a;m
+vitje;-a;s
+vitkonog;-a -o;prid.
+vitkost;-i;ž
+vitkostas;;in
+vitla;-e;ž
+vitlar;-ja;m
+vitlati;-am;nedov.
+vitlo;-a;s
+vitorog;-a -o;prid.
+vitra;-e;ž
+vitraj;;tudi
+vitra;-e;ž
+vitraj;;tudi
+vitrast;-a -o;prid.
+vitraž;-a;m
+vitraža;-e;ž
+vitražen;-žna -o;prid.
+vitrih;-a;m
+vitrina;-e;ž
+vitriol;-a;m
+vitrit;-a;m
+vivace;;prisl.
+vivarij;-a;m
+vivat;;medm.
+vivèek;-èka;m
+vivek;-vka;m
+vivipar;-a;m
+vivipar;-a -o;prid.
+viviparen;-rna -o;prid.
+vivisekcija;-e;ž
+vivisektor;-ja;m
+vivkati;-am;nedov.
+viza;-e;ž
+vizavi;;gl.
+vizija;-e;ž
+vizijski;-a -o;prid.
+vizionar;-ja;m
+vizionaren;-rna -o;prid.
+vizionarka;-e;ž
+vizionarnost;-i;ž
+vizionarski;-a -o;prid.
+vizionarstvo;-a;s
+vizir;-ja;m
+viziranje;-a;s
+vizirati;-am;nedov. in dov.
+viziren;-rna -o;prid.
+vizita;-e;ž
+vizitacija;-e;ž
+vizitacijski;-a -o;prid.
+vizitator;-ja;m
+viziten;-tna -o;prid.
+vizitirati;-am;nedov. in dov.
+vizitka;-e;ž
+vizitnica;-e;ž
+vizualen;-lna -o;prid.
+vizualizacija;-e;ž
+vizualizirati;-am;dov. in nedov.
+vizualnost;-i;ž
+vizum;-a;m
+vizura;-e;ž
+viža;-e;ž
+vižar;-ja;m
+vižati;-am;nedov.
+vižla;-e;ž
+vjedati se;-am se;nedov.
+vjesti se;vjem se;dov.
+vkalkulirati;-am;dov.
+vkapati;-am;in
+vkapljati;-am;dov.
+vklad;vklada;m
+vklada;-e;ž
+vkladati;-am;nedov.
+vklapljanje;-a;s
+vklapljati;-am;nedov.
+vklenitev;-tve;ž
+vkleniti;vklenem;dov.
+vklenjenec;-nca;m
+vklenjenost;-i;ž
+vklepati;-am;nedov.
+vklesati;vklešem;dov.
+vklesavati;-am;nedov.
+vkliniti se;-im se;dov.
+vkljub;;prisl.
+vkljub;;predl.
+vkljuèek;-èka;m
+vkljuèenost;-i;ž
+vkljuèevanje;-a;s
+vkljuèevati;-ujem;nedov.
+vkljuèitev;-tve;ž
+vkljuèiti;-im;dov.
+vkljuèno;;prisl.
+vklop;vklopa;in
+vklopen;-pna -o;prid.
+vklopitev;-tve;ž
+vklopiti;;in
+vklopljenje;-a;s
+vknjižba;-e;ž
+vknjiževati;-ujem;nedov.
+vknjižiti;-im;dov.
+vkomponirati;-am;dov.
+vkop;vkopa;m
+vkopati;vkopljem;tudi
+vkopavanje;-a;s
+vkopavati;-am;nedov.
+vkorakanje;-a;s
+vkorakati;-am;dov.
+vkovati;vkujem;dov.
+vkraj;;in
+vkraju;;in
+vkrcališèe;-a;s
+vkrcanje;-a;s
+vkrcati;-am;dov.
+vkrcavanje;-a;s
+vkrcavati;-am;nedov.
+vkrcevalec;-lca;m
+vkrcevalen;-lna -o;prid.
+vkrcevališèe;-a;s
+vkrcevanje;-a;s
+vkrcevati;-ujem;nedov.
+vkreber;;prisl.
+vkriž;;prisl.
+vkuhati;-am;dov.
+vkuhavanje;-a;s
+vkuhavati;-am;nedov.
+vkup;;prisl.
+vkupaj;;prisl.
+vkupe;;prisl.
+vkupen;-pna -o;prid.
+vkupnost;-i;ž
+vkvaèkati;-am;dov.
+vlaèa;-e;ž
+vlaèek;-èka;m
+vlaèen;-èna -o;prid.
+vlaèenica;-e;ž
+vlaèenje;-a;s
+vlaèilec;-lca;m
+vlaèilen;-lna -o;prid.
+vlaèilka;-e;ž
+vlaèiti;;in
+vlaèljiv;-a -o;prid.
+vlaèljivost;-i;ž
+vlaènica;-e;ž
+vlaènik;-a;m
+vlaèuga;-e;ž
+vlaèuganje;-a;s
+vlaèugar;-ja;m
+vlaèugarica;-e;ž
+vlaèugariti se;-im se;nedov.
+vlaèugarski;-a -o;prid.
+vlaèugarstvo;-a;s
+vlaèugati se;-am se;nedov.
+vlaèugica;-e;ž
+vlaèulje;-èulj;ž mn.
+vlada;-e;ž
+vladalec;-lca;m
+vladanje;-a;s
+vladar;-ja;m
+vladarica;-e;ž
+vladariti;-im;nedov.
+vladarjev;-a -o;prid.
+vladarski;-a -o;prid.
+vladarstvo;-a;s
+vladati;-am;nedov.
+vladavina;-e;ž
+vladen;-dna -o;prid.
+vladika;-e;tudi
+vladikovina;-e;ž
+vladin;-a -o;prid.
+vladinovec;-vca;m
+vladohlepen;-pna -o;prid.
+vladohlepnost;-i;ž
+vladoželjen;-jna -o;prid.
+vladoželjnost;-i;ž
+vlaga;-e;ž
+vlagalec;-lca;m
+vlagalen;-lna -o;prid.
+vlagalka;-e;ž
+vlagalnik;-a;m
+vlaganje;-a;s
+vlagatelj;-a;m
+vlagati;-am;nedov.
+vlagoljuben;-bna -o;prid.
+vlagomer;-a;m
+vlak;-a;m
+vlaka;-e;ž
+vlakar;-ja;m
+vlakec;-kca;m
+vlakence;-a;s
+vlaknast;-a -o;prid.
+vlaknat;-a -o;prid.
+vlaknen;-a -o;prid.
+vlaknenka;-e;ž
+vlaknina;-e;ž
+vlakno;-a;s
+vlaknovina;-e;ž
+vlakoven;;in
+vlakovodja;-e;tudi
+vlamljanje;-a;s
+vlamljati;-am;nedov.
+vlas;-u;in
+vlasovec;-vca;m
+vlastelin;-a;m
+vlastodržec;-žca;m
+vlasulja;-e;ž
+vlaški;-a -o;prid.
+vlat;-i;ž
+vlažen;-žna -o;prid.
+vlaženje;;tudi
+vlažilec;-lca;m
+vlažilen;-lna -o;prid.
+vlažilnik;-a;m
+vlažiti;-im;tudi
+vlažnost;-i;ž
+vlažnosten;-tna -o;prid.
+vleèen;-èna -o;prid.
+vleèenje;-a;s
+vleèi;vleèem;nedov.
+vleèka;-e;ž
+vleèkar;-ja;m
+vleèljiv;-a -o;prid.
+vleèljivost;-i;ž
+vleènica;-e;ž
+vlek;vleka;m
+vleka;-e;ž
+vlekaè;-a;m
+vlepiti;;in
+vlepljati;-am;nedov.
+vlesti se;vlezem se;dov.
+vlikati;-am;dov.
+vliti;vlijem;dov.
+vliv;-a;m
+vlivanec;-nca;m
+vlivanje;-a;s
+vlivati;-am;nedov.
+vlivek;-vka;m
+vljuden;-dna -o;prid.
+vljudnost;-i;ž
+vljudnosten;-tna -o;prid.
+vlogica;-e;ž
+vlom;vloma;m
+vlomen;-mna -o;prid.
+vlomilec;-lca;m
+vlomilen;-lna -o;prid.
+vlomilka;-e;ž
+vlomilski;-a -o;prid.
+vlomiti;vlomim;dov.
+vložek;-žka;m
+vložišèe;-a;s
+vložitev;-tve;ž
+vložiti;-im;dov.
+vložljiv;-a -o;prid.
+vložnica;;tudi
+vložnica;-e;ž
+vložnik;-a;m
+vmes;;prisl.
+vmesen;-sna -o;prid.
+vmesiti;;in
+vložnik;-a;m
+vmes;;prisl.
+vmesen;-sna -o;prid.
+vmesiti;;in
+vmesje;-a;s
+vmesnik;-a;m
+vmesnost;-i;ž
+vmešati;;tudi
+vmešavanje;-a;s
+vmešavati;-am;nedov.
+vmisliti se;-im se;dov.
+vmišljati se;-am se;nedov.
+vmontirati;-am;dov.
+vnanjepolitièen;-èna -o;prid.
+vnanji;-a -e;prid.
+vnanjost;-i;ž
+vnanjšèina;-e;ž
+vnaprej;;prisl.
+vnaprejšnji;-a -e;prid.
+vnaprejšnjost;-i;ž
+vnašanje;-a;s
+vnašati;-am;nedov.
+vnazaj;;prisl.
+vnebohod;-oda;in
+vnebohoden;-dna -o;prid.
+vnebovpijoè;;tudi
+vnebovzetje;-a;s
+vnema;-e;ž
+vnemanje;-a;s
+vnemar;;tudi
+vnemaren;;tudi
+vnemarnost;;tudi
+vnemati;-am;nedov.
+vnesek;-ska;m
+vnesti;vnesem;dov.
+vneten;-tna -o;prid.
+vnetež;-a;m
+vneti;vnamem;dov.
+vnetica;-e;ž
+vnetina;-e;ž
+vnetišèe;-a;s
+vnetje;-a;s
+vnetljiv;-a -o;prid.
+vnetljivost;-i;ž
+vnetost;-i;ž
+vnic;;prisl.
+vnicati;-am;nedov.
+vnièdevanje;;tudi
+vnikati;-am;nedov.
+vnikljiv;-a -o;prid.
+vnikniti;-em;dov.
+vniti;vnidem;dov.
+vniz;;prisl.
+vnos;vnosa;m
+vnov;;in
+vnoviè;;prisl.
+vnovièen;-èna -o;prid.
+vnovo;;in
+vnožati se;-am se;nedov.
+vnuèa;-e;ž
+vnuèad;-i;ž
+vnuèek;-èka;m
+vnuèica;-e;ž
+vnuèka;-e;ž
+vnuk;-a;m
+vnukec;-kca;m
+vnukinja;-e;ž
+voajerizem;;gl.
+voal;-a;m
+vobèe;;prisl.
+vobler;-ja;m
+voèigled;;gl.
+vod;voda;m
+voèigled;;gl.
+vod;voda;m
+voda;-e;tudi
+vodar;-ja;m
+vodarina;-e;ž
+vodarna;-e;ž
+vodeb;-a;m
+vodec;;in
+voden;-dna -o;prid.
+voden;-dna -o;prid.
+voden;-a -o;prid.
+vodenast;-a -o;prid.
+vodenec;-nca;m
+vodeneti;-im;nedov.
+vodenica;-e;ž
+vodenièar;-ja;m
+vodenièen;-èna -o;prid.
+vodeniènik;-a;m
+vodeniènost;-i;ž
+vodenika;-e;ž
+vodeniti;-im;nedov.
+vodenje;-a;s
+vodenka;-e;ž
+vodenoglavec;-vca;m
+vodenoglavost;-i;ž
+vodenost;-i;ž
+vodica;;in
+vodiè;-ièa;m
+vodièka;-e;ž
+vodik;-a;m
+vodikov;-a -o;prid.
+vodilen;-lna -o;prid.
+vodilja;-e;ž
+vodilka;-e;ž
+vodilnica;-e;ž
+vodilnik;-a;m
+vodilnost;-i;ž
+vodilo;-a;s
+vodina;-e;ž
+vodir;-ja;m
+voditelj;-a;m
+voditeljica;-e;ž
+voditeljski;-a -o;prid.
+voditeljstvo;-a;s
+voditi;vodim;nedov.
+voditi;-im;nedov.
+vodja;-e;in
+vodka;-e;ž
+vodka;;tudi
+vodljiv;-a -o;prid.
+vodljivost;-i;ž
+vodnar;-ja;m
+vodnat;-ata -o;tudi
+vodnatost;-i;ž
+vodnica;-e;ž
+vodnik;-a;m
+vodnik;-a;m
+vodnikovski;-a -o;prid.
+vodniški;-a -o;prid.
+vodništvo;-a;s
+vodnjak;-a;m
+vodnjakar;-ja;m
+vodnjakast;-a -o;prid.
+vodnogospodarski;-a -o;prid.
+vodo...;;prvi del zloženk
+vodocementen;-tna -o;prid.
+vodoceven;-vna -o;prid.
+vododržen;-žna -o;prid.
+vodogradben;-a -o;prid.
+vodohran;-a;m
+vodoinštalacijski;;in
+vodokaz;-aza;m
+vodoljuba;-e;ž
+vodoljuba;-e;ž
+vodoljuben;-bna -o;prid.
+vodomec;-mca;m
+vodomer;-a;m
+vodomeren;-rna -o;prid.
+vodomet;-eta;m
+vodometen;-tna -o;prid.
+vodonosec;-sca;m
+vodonosen;-sna -o;prid.
+vodonoša;-e;tudi
+vodopad;-ada;m
+vodopisje;-a;s
+vodopivec;-vca;m
+vodoprepusten;-tna -o;prid.
+vodoraven;-vna -o;prid.
+vodoravnica;-e;ž
+vodoravnost;-i;ž
+vodostaj;-a;m
+vodotesen;-sna -o;prid.
+vodotoè;;tudi
+vodotoèen;-èna -o;prid.
+vodotok;-oka;m
+vodotopen;-pna -o;prid.
+vodovje;-a;s
+vodovje;-a;s
+vodovod;-oda;m
+vodovodar;-ja;m
+vodovoden;-dna -o;prid
+vodozbiren;-rna -o;prid.
+vodoznanstvo;-a;s
+vodozvezdnica;-e;ž
+vodstven;-a -o;prid.
+vodstvo;-a;s
+vodvil;;tudi
+vodvilski;;tudi
+vogal;-a;m
+vogalèek;-èka;m
+vogalen;-lna -o;prid.
+vogel;-gla;m
+vogeln;-a -o;prid.
+vogelnik;-a;m
+voglar;-ja;m
+voglariti;-im;nedov.
+voglarjenje;-a;s
+voglat;-ata -o;prid.
+voh;-a;m
+vohaè;-a;m
+vohalen;-lna -o;prid.
+vohalo;-a;s
+vohanje;-a;s
+vohati;-am;nedov.
+vohavs;-a;m
+vohljaè;-a;m
+vohljanje;-a;s
+vohljaški;-a -o;prid.
+vohljati;-am;nedov.
+vohnjati;-am;nedov.
+vohun;-a;m
+vohuniti;-im;nedov.
+vohunjenje;-a;s
+vohunka;-e;ž
+vohunski;-a -o;prid.
+vohunstvo;-a;s
+voj;voja;in
+vojaèek;-èka;m
+vojaèiti;-im;nedov.
+vojak;-a;m
+vojakinja;-e;ž
+vojakovati;-ujem;nedov.
+vojarin;-a;m
+vojarinka;-e;ž
+vojašèina;-e;ž
+vojaški;-a -o;prid.
+vojašnica;-e;ž
+vojašniški;-a -o;prid.
+vojaštvo;-a;s
+vojen;-jna -o;prid.
+vojenina;-e;ž
+vojevanje;-a;s
+vojevati se;-ujem se;nedov.
+vojka;-e;ž
+vojna;-e;ž
+vojnik;-a;m
+vojno...;;ali
+vojnohujskaški;-a -o;prid.
+vojnopošten;-tna -o;prid.
+vojnopraven;-vna -o;prid.
+vojnozgodovinski;-a -o;prid.
+vojska;-e;ž
+vojskar;-ja;m
+vojsken;-kna -o;prid.
+vojskin;-a -o;prid.
+vojskovališèe;-a;s
+vojskovanje;-a;s
+vojskovati se;-ujem se;nedov.
+vojskovodja;-e;tudi
+vojskovoj;-oja;m
+vojstvo;-a;s
+vojšèak;-a;m
+vojvoda;-e;tudi
+vojvodina;-e;ž
+vojvodinja;-e;ž
+vojvodski;-a -o;prid.
+vojvodstvo;-a;s
+vokabular;-ja;m
+vokal;-a;m
+vokalen;-lna -o;prid.
+vokalist;-a;m
+vokalizacija;-e;ž
+vokalizem;-zma;m
+vokalizirati;-am;dov. in nedov.
+vokativ;-a;m
+voki-toki;;gl.
+vol;vola;m
+volana;-e;ž
+volanèek;-èka;m
+volanica;-e;ž
+volapik;;tudi
+volar;-ja;m
+volèica;-e;ž
+volèiè;-ièa;m
+volar;-ja;m
+volèica;-e;ž
+volèiè;-ièa;m
+volèièen;-èna -o;prid.
+volèin;-a;m
+volèina;-e;ž
+volèjak;-a;m
+volèji;-a -e;prid.
+volènica;-e;ž
+vole;-eta;m
+vole;-eta;s
+volej;;tudi
+volek;-a;in
+volek;-lka;m
+voley;;gl.
+volfram;-a;m
+volframit;-a;m
+volframov;-a -o;prid.
+volga;-e;ž
+volhek;-hka -o;prid.
+volhkost;-i;ž
+voliè;-ièa;m
+volièek;-èka;m
+voliera;;tudi
+volilen;-lna -o;prid.
+volilnica;-e;ž
+volilnik;-a;m
+volilnost;-i;ž
+volilo;-a;s
+volišèe;-a;s
+volitev;-tve;ž
+voliti;volim;nedov. in dov.
+volitiven;-vna -o;prid.
+volitven;-a -o;prid.
+volivec;-vca;m
+volivka;-e;ž
+volja;-e;ž
+voljen;-jna -o;prid.
+voljen;;in
+voljera;;gl.
+voljica;-e;ž
+voljiv;-a -o;prid.
+voljivost;-i;ž
+voljnost;-i;ž
+volk;-a;m
+volkaè;-a;m
+volkec;-kca;m
+volkodlak;-a;m
+volkodlaštvo;-a;s
+volkswagen;;gl.
+volkulja;-e;ž
+volna;-e;ž
+volnar;-ja;m
+volnarski;-a -o;prid.
+volnarstvo;-a;s
+volnast;-a -o;prid.
+volnat;-a -o;prid.
+volnen;-a -o;prid.
+volnenina;-e;ž
+volnenka;-e;ž
+volnina;-e;ž
+volnolas;;in
+volonter;-ja;m
+volonterka;-e;ž
+volonterski;-a -o;prid.
+volonterstvo;-a;s
+volook;-a -o;prid.
+volovec;-vca;m
+volovji;-a -e;prid.
+volovski;-a -o;prid.
+volt;-a;m
+voltairjanec;-nca;m
+voltairjanski;-a -o;prid.
+voltairovski;-a -o;prid.
+voltairovski;-a -o;prid.
+voltamper;-a;m
+voltaža;-e;ž
+voltmeter;-tra;m
+voltsekunda;-e;ž
+voluhar;-ja;m
+voluharica;-e;ž
+volumen;-mna;m
+volumenski;-a -o;prid.
+volumetrièen;-èna -o;prid.
+voluminozen;-zna -o;prid.
+voluminoznost;-i;ž
+volumski;-a -o;prid.
+voluntaristièen;-èna -o;prid.
+voluntarizem;-zma;m
+voluntativen;-vna -o;prid.
+voluta;-e;ž
+voluten;-tna -o;prid.
+volvo;-a;m
+volvoks;-a;m
+vombat;-a;m
+vonj;-a;m
+vonjalen;-lna -o;prid.
+vonjati;-am;nedov.
+vonjav;-ava -o;prid.
+vonjava;-e;ž
+vonjaven;-vna -o;prid.
+vonjiv;-a -o;prid.
+vonjivost;-i;ž
+vonjski;-a -o;prid.
+vonljiv;-a -o;prid.
+vos;-a;m
+vos;-i;ž
+vosat;-ata -o;prid.
+vosek;-ska;m
+voskanje;-a;s
+voskar;-ja;m
+voskarica;-e;ž
+voskarstvo;-a;s
+voskast;-a -o;prid.
+voskati;-am;nedov.
+voskoven;;in
+voskovnica;;in
+vosovec;-vca;m
+vosovski;-a -o;prid.
+vošèen;-a -o;prid.
+vošèenica;-e;ž
+vošèenina;-e;ž
+vošèenje;-a;s
+vošèenje;;tudi
+vošèenka;-e;ž
+vošèevati;-ujem;nedov.
+vošèilce;-a;s
+vošèilec;-lca;m
+vošèilen;-lna -o;prid.
+vošèilka;-e;ž
+vošèilnica;-e;ž
+vošèilo;-a;s
+votant;-a;m
+votek;-tka;m
+votel;-tla -o;stil.
+votirati;-am;dov. in nedov.
+votiven;-vna -o;prid.
+votkati;-am;nedov.
+votkov;-a -o;prid.
+votkoven;;in
+votkovina;-e;ž
+votlak;-a;m
+votlica;-e;ž
+votliè;-ièa;m
+votlikav;-a -o;prid.
+votlikavost;-i;ž
+votlina;-e;ž
+votlikavost;-i;ž
+votlina;-e;ž
+votlinast;-a -o;prid.
+votlinica;-e;ž
+votlinièast;-a -o;prid.
+votlinski;-a -o;prid.
+votliti;-im;nedov.
+votlogled;-a -o;prid.
+votlook;-a -o;prid.
+votlost;-i;ž
+votum;-a;m
+voucher;;gl.
+voyeurizem;;tudi
+voz;-a;m
+voza;-e;ž
+vozaè;-a;m
+vozaèica;-e;ž
+vozal;-a;m
+vozalèek;-èka;m
+vozar;-ja;m
+vozara;-e;ž
+vozarina;-e;ž
+vozariti;-im;nedov.
+vozarjenje;-a;s
+vozarna;-e;ž
+vozarski;-a -o;prid.
+vozarstvo;-a;s
+vozaški;-a -o;prid.
+vozataj;-a;m
+vozek;-zka;m
+vozel;-zla;m
+vozelèek;-èka;m
+vozeln;-a -o;prid.
+vozen;;in
+vozgrivec;-vca;m
+vozica;-e;ž
+voziè;-ièa;m
+vozièek;-èka;m
+vozikati;-am;nedov.
+vozilce;-a;s
+vozilo;-a;s
+vozišèe;-a;s
+voziti;vozim;nedov.
+vozlanje;-a;s
+vozlanka;-e;ž
+vozlast;-a -o;prid.
+vozlat;-ata -o;prid.
+vozlati;-am;nedov.
+vozliè;-ièa;m
+vozliè;-ièa;m
+vozlièast;-a -o;prid.
+vozlièek;-èka;m
+vozlišèe;-a;s
+vozlišèen;-èna -o;prid.
+vozlovje;-a;s
+vozlovka;-e;ž
+voznica;-e;ž
+voznik;-a;m
+voznikov;-a -o;prid.
+voznina;-e;ž
+vozniški;-a -o;prid.
+vozništvo;-a;s
+voznoreden;-dna -o;prid.
+voznost;-i;ž
+vozotaj;-a;m
+vozovje;-a;s
+vozovnica;-e;ž
+vož;-i;ž
+vože;-a;s
+voženje;-a;s
+vožinec;-nca;m
+vožje;-a;s
+vožinec;-nca;m
+vožje;-a;s
+vožnja;-e;ž
+vpad;vpada;m
+vpadati;-am;nedov.
+vpaden;-dna -o;prid.
+vpadišèe;-a;s
+vpadišènica;-e;ž
+vpadljiv;-a -o;prid.
+vpadljivost;-i;ž
+vpadnica;-e;ž
+vpadnik;-a;m
+vpahniti;;in
+vpasti;vpadem;dov.
+vpeèi;vpeèem;dov.
+vpeljanost;-i;ž
+vpeljati;vpeljem;tudi
+vpeljava;-e;ž
+vpeljavanje;-a;s
+vpeljavati;-am;nedov.
+vpeljevanje;-a;s
+vpeljevati;-ujem;nedov.
+vpenjalen;-lna -o;prid.
+vpenjalo;-a;s
+vpenjanje;-a;s
+vpenjati;-am;nedov.
+vperiti;-im;dov.
+vpeti;vpnem;dov.
+vpetje;-a;s
+vpetost;-i;ž
+vpièiti;-im;dov.
+vpihati;-am;dov.
+vpihavanje;-a;s
+vpihavati;-am;nedov.
+vpihniti;-em;dov.
+vpihovati;-ujem;nedov.
+vpijanje;-a;s
+vpijat;-a;m
+vpijati;-am;nedov.
+vpikniti;-em;dov.
+vpiliti;-im;dov.
+vpis;-a;m
+vpisanec;-nca;m
+vpisati;;in
+vpisen;-sna -o;prid.
+vpisnica;-e;ž
+vpisnik;-a;m
+vpisnina;-e;ž
+vpisovalec;-lca;m
+vpisovalen;-lna -o;prid.
+vpisovanje;-a;s
+vpisovati;-ujem;nedov.
+vpitje;-a;s
+vplaèati;;in
+vplaèevanje;-a;s
+vplaèevati;-ujem;nedov.
+vplaèilen;-lna -o;prid.
+vplaèilo;-a;s
+vplaèljiv;-a -o;prid.
+vplaènik;-a;m
+vplesti;vpletem;dov.
+vplet;-eta;m
+vpletanje;-a;s
+vpletati;-am;nedov.
+vpletek;-tka;m
+vpletenost;-i;ž
+vpliv;-a;m
+vplivanec;-nca;m
+vplivanje;-a;s
+vplivati;-am;nedov.
+vpliven;-vna -o;prid.
+vplivnež;-a;m
+vplivnik;-a;m
+vplivnež;-a;m
+vplivnik;-a;m
+vplivnost;-i;ž
+vplivnosten;-tna -o;prid.
+vpluti;vplovem;in
+vplutje;-a;s
+vpogled;-eda;m
+vpoj;-oja;m
+vpojen;-jna -o;prid.
+vpojljiv;-a -o;prid.
+vpojnost;-i;ž
+vpoklic;-a;m
+vpoklicanec;-nca;m
+vpoklicati;-klièem;dov.
+vpoklicen;-cna -o;prid.
+vpoklicevati;-ujem;nedov.
+vponka;-e;ž
+vpotegljiv;-a -o;prid.
+vpotegniti;;in
+vpraskati;-am;dov.
+vprašaj;-a;m
+vprašalec;-lca;m
+vprašalen;-lna -o;prid.
+vprašalnica;-e;ž
+vprašalnik;-a;m
+vprašanec;-nca;m
+vprašanjce;-a;s
+vprašanje;-a;s
+vprašanka;-e;ž
+vprašati;;tudi
+vpraševalec;-lca;m
+vpraševalen;-lna -o;prid.
+vpraševalka;-e;ž
+vpraševanec;-nca;m
+vpraševanje;-a;s
+vpraševati;-ujem;nedov.
+vprašljiv;-a -o;prid.
+vprašljivost;-i;ž
+vprav;;prisl.
+vpreèi;vprežem;dov.
+vprega;-e;ž
+vpreganje;-a;s
+vpregati;-am;nedov.
+vprek;;prisl.
+vprek;;predl.
+vpresti;vpredem;in
+vprezati;-am;nedov.
+vprežen;-žna -o;prid.
+vpreženec;-nca;m
+vpreženje;-a;s
+vpreženost;-i;ž
+vprežnica;-e;ž
+vprièen;-èna -o;prid.
+vprièo;;prisl.
+vprièo;;in
+vprviè;;prisl.
+vprvo;;in
+vpust;-a;m
+vpustiti;-im;dov.
+vrabèek;-èka;m
+vrabèevka;-e;ž
+vrabèji;-a -e;prid.
+vrabec;-bca;m
+vrabica;-e;ž
+vrabiè;-ièa;tudi
+vrabièji;-a -e;prid.
+vrabulja;-e;ž
+vraè;-a;m
+vraèaj;-a;m
+vraèalen;-lna -o;prid.
+vraèalka;-e;ž
+vraèanje;-a;s
+vraèar;-ja;m
+vraèarica;-e;ž
+vraèarski;-a -o;prid.
+vraèarstvo;-a;s
+vraèati;-am;nedov.
+vraèevati;-ujem;nedov.
+vraèiti;-im;nedov.
+vraèljiv;-a -o;prid.
+vraènik;-a;m
+vraèunati;-am;dov.
+vraèunavati;-am;nedov.
+vraèunljiv;-a -o;prid.
+vrag;-a;m
+vragec;-gca;m
+vragolija;-e;ž
+vragoljast;-a -o;prid.
+vragomet;-eta;m
+vragometen;-tna -o;prid.
+vragomolec;-lca;m
+vragov;-a -o;prid.
+vragovka;-e;ž
+vragsigavedi;;in
+vragulja;-e;ž
+vragvedi;;in
+vragovka;-e;ž
+vragsigavedi;;in
+vragulja;-e;ž
+vragvedi;;in
+vran;-a;m
+vran;-a -o;prid.
+vrana;-e;ž
+vranè;-a;m
+vranèek;-èka;m
+vranec;-nca;m
+vranglovec;-vca;m
+vranica;-e;ž
+vranièen;-èna -o;prid.
+vraniènik;-a;m
+vranjelas;;in
+vranji;-a -e;prid.
+vrasel;-sla -o;tudi
+vraska;-e;ž
+vraslost;-i;ž
+vrast;-i;ž
+vrasti se;vrastem se;tudi
+vrašèanje;-a;s
+vrašèati se;-am se;nedov.
+vrašèenost;-i;ž
+vraštvo;-a;s
+vrat;-u;in
+vrata;vrat;s mn.
+vratar;-ja;m
+vratarica;-e;ž
+vratariti;-im;nedov.
+vratarjev;-a -o;prid.
+vratarka;-e;ž
+vratarna;-e;ž
+vratarnica;-e;ž
+vratarski;-a -o;prid.
+vratca;vratc;s mn.
+vratek;-tka;m
+vrati;-i;ž mn.
+vratiè;-ièa;m
+vratilo;-a;s
+vratina;-e;ž
+vratnica;-e;ž
+vratnik;-a;m
+vratnik;;tudi
+vratnica;-e;ž
+vratnik;-a;m
+vratnik;;tudi
+vratnik;-a;m
+vratolom;-oma;m
+vratolomen;-mna -o;prid.
+vratolomnost;-i;ž
+vratovina;-e;ž
+vraziti;-im;dov.
+vrazovstvo;-a;s
+vraža;-e;ž
+vražar;-ja;m
+vražarica;-e;ž
+vražarija;-e;ž
+vražarka;-e;ž
+vražarski;-a -o;prid.
+vražarstvo;-a;s
+vražast;-a -o;prid.
+vraževerec;-rca;m
+vraževeren;-rna -o;prid.
+vražast;-a -o;prid.
+vraževerec;-rca;m
+vraževeren;-rna -o;prid.
+vraževerje;-a;s
+vraževernež;-a;m
+vraževernost;-i;ž
+vraževerski;-a -o;prid.
+vraževerstvo;-a;s
+vražica;;in
+vražiè;-ièa;in
+vražièek;-èka;m
+vražiti;;in
+vražji;-a -e;prid.
+vrba;-e;ž
+vrbaèa;-e;ž
+vrbica;-e;ž
+vrbièevje;-a;s
+vrbièje;-a;s
+vrbina;-e;ž
+vrbinje;-a;s
+vrbje;-a;s
+vrbji;-a -e;prid.
+vrbinje;-a;s
+vrbje;-a;s
+vrbji;-a -e;prid.
+vrbogojstvo;-a;s
+vrbopletarstvo;-a;s
+vrbov;-a -o;prid.
+vrbovec;-vca;m
+vrbovica;-e;ž
+vrbovina;-e;ž
+vrbovje;-a;s
+vrbovka;-e;ž
+vrbovolisten;-tna -o;prid.
+vrè;-a;m
+vrèast;-a -o;prid.
+vrèati;-im;nedov.
+vrèek;-èka;m
+vrèica;-e;ž
+vrdevati;-am;nedov.
+vrebati;-am;nedov.
+vreèa;-e;ž
+vreèar;-ja;m
+vreèarica;-e;ž
+vreèast;-a -o;prid.
+vreèevina;-e;ž
+vreèevinast;-a -o;prid.
+vreèi;vržem;dov.
+vreèica;-e;ž
+vreèka;-e;ž
+vred;;prisl.
+vreden;-dna -o;prid.
+vrednik;-a;m
+vrednost;-i;ž
+vrednosten;-tna -o;prid.
+vrednota;-e;ž
+vrednoten;-tna -o;prid.
+vrednotenje;-a;s
+vrednotenjski;-a -o;prid.
+vrednotiti;-im;nedov.
+vrednotnica;-e;ž
+vrel;;in
+vrelèen;-èna -o;prid.
+vrelec;-lca;m
+vrelen;-lna -o;prid.
+vrelišèe;-a;s
+vrelišèen;-èna -o;prid.
+vrelnica;-e;ž
+vrelo;-a;s
+vreme;-ena;s
+vremenar;-ja;m
+vremenarski;-a -o;prid.
+vremenik;-a;m
+vremeniti;-im;nedov.
+vremenjak;-a;m
+vremenokaz;-aza;m
+vremenoslovec;-vca;m
+vremenosloven;-vna -o;prid.
+vremenoslovje;-a;s
+vremenoslovski;-a -o;prid.
+vremenotvoren;-rna -o;prid.
+vremenoznanstvo;-a;s
+vremenski;-a -o;prid.
+vremšèina;-e;ž
+vrenje;-a;s
+vres;-a;m
+vresa;-e;ž
+vresišèe;-a;s
+vresje;-a;s
+vresk;vreska;in
+vreskniti;-em;in
+vresnat;-a -o;prid.
+vresnica;-e;ž
+vresniti;-em;in
+vresovka;-e;ž
+vrešèaè;-a;m
+vrešèaj;-a;m
+vrešèalo;-a;s
+vrešèanje;-a;s
+vrešèati;-im;nedov.
+vrešèav;-ava -o;prid.
+vretenar;-ja;m
+vretenast;-a -o;prid.
+vretence;-a;s
+vretenèar;;in
+vretenèarski;;in
+vretenèast;-a -o;prid.
+vretenèen;;in
+vretenec;-nca;m
+vretenica;-e;ž
+vretenik;-a;m
+vreteniti se;-im se;nedov.
+vretenjak;-a;m
+vreteno;-a;s
+vretenski;;in
+vreti;vrem;nedov.
+vretica;-e;ž
+vretina;-e;ž
+vretje;-a;s
+vrez;vreza;m
+vrezati;vrežem;dov.
+vrezavati;-am;nedov.
+vrezen;-zna -o;prid.
+vrezina;-e;ž
+vrezljati;-am;dov.
+vrezovalec;-lca;m
+vrezovalen;-lna -o;prid.
+vrezovanje;-a;s
+vrezovati;-ujem;nedov.
+vreža;-e;ž
+vrh;-a;stil.
+vrh;;predl.
+vrhaè;-a;m
+vrhat;-ata -o;prid.
+vrhati;-am;nedov.
+vrhek;-hka;m
+vrhhleven;-vna -o;prid.
+vrhkleten;-tna -o;prid.
+vrhnjak;-a;m
+vrhnje;-a;s
+vrhnji;-a -e;prid.
+vrhnjica;-e;ž
+vrholeti;-im;nedov.
+vrholièiti;-im;nedov.
+vrhoma;;prisl.
+vrhovat;-ata -o;prid.
+vrhovat;-ata -o;prid.
+vrhovati;-ujem;nedov.
+vrhovatiti;-im;nedov.
+vrhovec;-vca;m
+vrhoven;-vna -o;prid.
+vrhovina;-e;ž
+vrhovje;-a;s
+vrhovnost;-i;ž
+vrhovnosten;-tna -o;prid.
+vrhovski;-a -o;prid.
+vrhu;;prisl.
+vrhu;;predl.
+vrhun;-a;m
+vrhunec;-nca;m
+vrhunski;-a -o;prid.
+vriezeja;-e;ž
+vrij;-a;m
+vrinek;-nka;m
+vriniti;-em;dov.
+vrinjati;-am;nedov.
+vrinjenec;-nca;m
+vrinjenka;-e;ž
+vris;-a;m
+vrisati;vrišem;dov.
+vrisavati;-am;nedov.
+vriskaè;-a;m
+vriskanje;;tudi
+vriskati;-am;nedov.
+vriskniti;-em;dov.
+vrisniti;-em;dov.
+vrisovati;-ujem;nedov.
+vrišè;-a;m
+vrišèati;-im;nedov.
+vrišèav;-ava -o;prid.
+vritmepiši;;tudi
+vrivanje;-a;s
+vrivati;-am;nedov.
+vrivek;-vka;m
+vrl;-a -o;prid.
+vrlo;;prisl.
+vrlost;-i;ž
+vrnica;-e;ž
+vrnila;-e;ž
+vrnilo;-a;s
+vrnitev;-tve;ž
+vrniti;;in
+vrnila;-e;ž
+vrnilo;-a;s
+vrnitev;-tve;ž
+vrniti;;in
+vrnitven;-a -o;prid.
+vrnjenec;-nca;m
+vrnuh;-a;m
+vroè;;tudi
+vroèanje;-a;s
+vroèati;-am;nedov.
+vroèe...;;prvi del zloženk
+vroèeglav;;tudi
+vroèeglavec;-vca;m
+vroèeglavost;-i;ž
+vroèekrven;-vna -o;prid.
+vroèekrvnež;-a;m
+vroèekrvnost;-i;ž
+vroèevalec;-lca;m
+vroèevati;-ujem;nedov.
+vroèevod;-oda;m
+vroèevoden;-dna -o;prid.
+vroèica;-e;ž
+vroèièen;-èna -o;prid.
+vroèiènost;-i;ž
+vroèiènost;-i;ž
+vroèilen;-lna -o;prid.
+vroèilnica;-e;ž
+vroèina;-e;ž
+vroèinski;-a -o;prid.
+vroèitelj;-a;m
+vroèitev;-tve;ž
+vroèiti;-im;dov.
+vroèitven;-a -o;prid.
+vroènica;-e;ž
+vroèost;-i;ž
+vrojen;;tudi
+vrsk;;medm.
+vrst;-i;ž
+vrsta;-e;ž
+vrsten;-tna -o;prid.
+vrsten;;in
+vrstenje;-a;s
+vrstica;-e;ž
+vrstica;;in
+vrstièar;-ja;m
+vrstièen;-èna -o;prid.
+vrstièka;-e;ž
+vrstiènik;-a;m
+vrstilen;-lna -o;prid.
+vrstilnik;-a;m
+vrstitev;-tve;ž
+vrstiti;-im;nedov.
+vrstnat;-ata -o;prid.
+vrstnica;-e;ž
+vrstnik;-a;m
+vrstoma;;prisl.
+vrstomer;-a;m
+vrša;-e;ž
+vršac;-a;m
+vršaj;-a;m
+vršanje;-a;s
+vršati;-im;nedov.
+vršèati;-im;nedov.
+vršelo;-a;s
+vršen;-šna -o;prid.
+vršeti;-im;nedov.
+vršiè;-ièa;m
+vršièek;-èka;m
+vršièiti;-im;nedov.
+vršeti;-im;nedov.
+vršiè;-ièa;m
+vršièek;-èka;m
+vršièiti;-im;nedov.
+vršièje;-a;s
+vršièkanje;-a;s
+vršièkati;-am;nedov.
+vršilec;-lca;m
+vršilka;-e;ž
+vršina;-e;ž
+vršitelj;-a;m
+vrt;-a;m
+vrtaè;-a;m
+vrtaèa;-e;ž
+vrtaèast;-a -o;prid.
+vrtalec;-lca;m
+vrtalen;-lna -o;prid.
+vrtalka;-e;ž
+vrtalnik;-a;m
+vrtalo;-a;s
+vrtanec;-nca;m
+vrtanek;-nka;m
+vrtalo;-a;s
+vrtanec;-nca;m
+vrtanek;-nka;m
+vrtanik;-a;m
+vrtanina;-e;ž
+vrtanje;-a;s
+vrtati;-am;nedov.
+vrtavèen;-èna -o;prid.
+vrtavka;-e;ž
+vrtavkast;-a -o;prid.
+vrtek;-tka;m
+vrtelj;-a;m
+vrteljec;-jca;m
+vrten;-tna -o;prid.
+vrtenica;-e;ž
+vrtenina;-e;ž
+vrtenje;-a;s
+vrteti;-im;nedov.
+vrtež;-a;m
+vrtežen;;tudi
+vrtiè;-ièa;m
+vrtièek;-èka;m
+vrtièkar;-ja;m
+vrtièek;-èka;m
+vrtièkar;-ja;m
+vrtièkarica;-e;ž
+vrtièkarski;-a -o;prid.
+vrtièkarstvo;-a;s
+vrtilec;-lca;m
+vrtilen;-lna -o;prid.
+vrtiljak;-a;m
+vrtiljakar;-ja;m
+vrtilka;-e;ž
+vrtilnica;-e;ž
+vrtilo;-a;s
+vrtina;-e;ž
+vrtinèar;-ja;m
+vrtinèast;-a -o;prid.
+vrtinèek;-èka;m
+vrtinèen;-èna -o;prid.
+vrtinèenje;-a;s
+vrtinèiti;-im;nedov.
+vrtinec;-nca;m
+vrtišèe;-a;s
+vrtiti;-im;nedov.
+vrtljaj;-a;m
+vrtljiv;-a -o;prid.
+vrtnar;-ja;m
+vrtnarica;-e;ž
+vrtnarija;-e;ž
+vrtnariti;-im;nedov.
+vrtnarjenje;-a;s
+vrtnarski;-a -o;prid.
+vrtnarstvo;-a;s
+vrtnica;-e;ž
+vrtnièen;-èna -o;prid.
+vrtnik;-a;m
+vrtnik;-a;m
+vrtnina;-e;ž
+vrtoglav;;in
+vrtoglavec;-vca;m
+vrtoglavica;-e;ž
+vrtoglaviti;-im;nedov.
+vrtoglavka;-e;ž
+vrtoglavost;-i;ž
+vrtorepec;-pca;m
+vrtorepiti;-im;nedov.
+vrtorepka;-e;ž
+vrtulja;-e;ž
+vrulja;-e;ž
+vrv;-i;ž
+vrvar;-ja;m
+vrvar;-ja;m
+vrvarna;-e;ž
+vrvarski;-a -o;prid.
+vrvarstvo;-a;s
+vrvast;-a -o;prid.
+vrvca;;gl.
+vrven;-vna -o;prid.
+vrven;-a -o;prid.
+vrvenica;-e;ž
+vrvenje;-a;s
+vrveti;-im;nedov.
+vrvež;-a;m
+vrvežav;-ava -o;prid.
+vrvežavost;-i;ž
+vrvica;;in
+vrvièast;;tudi
+vrvièen;;tudi
+vrvišèe;-a;s
+vrvivec;-vca;m
+vrvivka;-e;ž
+vrvje;-a;tudi
+vrvnat;-a -o;prid.
+vrvnica;-e;ž
+vrvnjak;-a;m
+vrvohodec;-dca;m
+vrvohodka;-e;ž
+vrvohodski;-a -o;prid.
+vrvohodstvo;-a;s
+vrvranje;-a;s
+vrvrati;-am;nedov.
+vrzel;-i;ž
+vrzela;-e;ž
+vrzelast;-a -o;prid.
+vrzeljak;-a;m
+vržek;-žka;m
+vrženost;-i;ž
+vsad;vsada;m
+vsaditev;-tve;ž
+vsaditi;-im;dov.
+vsaj;;prisl.
+vsajanje;-a;s
+vsajati;-am;nedov.
+vsak;-a -o;zaim.
+vsakateri;-a -o;zaim.
+vsakdan;-a;m
+vsakdanjež;-a;m
+vsakdanji;-a -e;prid.
+vsakdanjik;-a;m
+vsakdanjost;-i;ž
+vsakdanjšèina;-e;ž
+vsakdo;vsakogar;zaim.
+vsakiè;;prisl.
+vsakikrat;;prisl.
+vsako...;;ali
+vsakoèasen;-sna -o;prid.
+vsakodneven;-vna -o;prid.
+vsakodnevnost;-i;ž
+vsakogaršen;-šna -o;zaim.
+vsakogaršnji;-a -e;zaim.
+vsakojak;-a -o;prid.
+vsakokrat;;prisl.
+vsakokraten;-tna -o;prid.
+vsakoleten;-tna -o;prid.
+vsakomeseèen;-èna -o;prid.
+vsakonoèen;-èna -o;prid.
+vsakotedenski;-a -o;prid.
+vsakoveèeren;-rna -o;prid.
+vsakovrsten;-tna -o;prid.
+vsakrat;;prisl.
+vsakršen;-šna -o;zaim.
+vsakseben;-bna -o;prid.
+vsaksebi;;prisl.
+vsakteri;-a -o;zaim.
+vse;;prisl.
+vse...;;ali
+vseafriški;-a -o;prid.
+vseameriški;-a -o;prid.
+vsearabski;-a -o;prid.
+vsebina;-e;ž
+vsebinski;-a -o;prid.
+vsebinskost;-i;ž
+vsebiti;-im;dov.
+vsebljati;-am;nedov.
+vsebnik;-a;m
+vsebnost;-i;ž
+vseboštvo;-a;s
+vsebovanje;-a;s
+vsebovati;-ujem;nedov.
+vseèez;;prisl.
+vseèlovek;-eka;m ed. in dv.
+vseèloveški;-a -o;prid.
+vsedneven;-vna -o;prid.
+vsednji;-a -e;prid.
+vsedober;-dobra -o;prid.
+vsedržaven;-vna -o;prid.
+vseeno;;prisl.
+vseenost;-i;ž
+vseevropski;-a -o;prid.
+vsegamogoèen;-èna -o;prid.
+vsegamogoènost;-i;ž
+vsegaveden;-dna -o;prid.
+vsegavednost;-i;ž
+vsegrški;-a -o;prid.
+vsejati;vsejem;dov.
+vsejed;-a -e;prid.
+vsejedec;-dca;m
+vsejugoslovanski;-a -o;prid.
+vsek;vseka;m
+vsekako;;tudi
+vsekakor;;in
+vsekati;-am;dov.
+vsekavati;-am;nedov.
+vsekdar;;tudi
+vsekrižem;;in
+vselej;;prisl.
+vselejšnji;-a -e;prid.
+vseleten;-tna -o;prid.
+vselitev;-tve;ž
+vseliti;vselim;dov.
+vselitven;-a -o;prid.
+vseljenec;-nca;m
+vseljevanje;-a;s
+vseljevati;-ujem;nedov.
+vseljiv;-a -o;prid.
+vseljivost;-i;ž
+vseljudski;-a -o;prid.
+vsemir;-a;m
+vsemirje;-a;s
+vsemirski;-a -o;prid.
+vsemoè;-i;in
+vsemoèen;-èna -o;prid.
+vsemoder;-dra -o;prid.
+vsemodrost;-i;ž
+vsemogoè;;tudi
+vsemogoèen;-èna -o;prid.
+vsemogoènež;-a;m
+vsemogoènost;-i;ž
+vsemožen;-žna -o;prid.
+vsenaokoli;;in
+vsenaokrog;;in
+vsenaprej;;in
+vsenaroden;-dna -o;prid.
+vsenavzkriž;;in
+vsenavzkrižem;;in
+vsenavzkrižen;-žna -o;prid.
+vsenavzoènost;-i;ž
+vsenemec;-mca;m
+vsenemški;-a -o;prid.
+vsenemštvo;-a;s
+vsenoèen;-èna -o;prid.
+vseobèen;-èna -o;prid.
+vseobèi;-a -o;prid.
+vseobènost;-i;ž
+vseobjemajoè;;tudi
+vseobsegajoè;;tudi
+vseobsežen;-žna -o;prid.
+vseobsežnost;-i;ž
+vseobvezen;-zna -o;prid.
+vseobvladujoè;;tudi
+vseodpušèajoè;;tudi
+vseodpušèanje;-a;s
+vseodrešujoè;;tudi
+vseokoli;;prisl.
+vseokrog;;prisl.
+vseoživljajoè;;tudi
+vsepoèez;;prisl.
+vsepovprek;;prisl.
+vsepovsod;;prisl.
+vsepovsodi;;prisl.
+vsepovsodnji;-a -e;prid.
+vsepoživljajoè;;tudi
+vseprediren;-rna -o;prid.
+vseprek;;prisl.
+vseprešinjajoè;;tudi
+vseprièujoè;;tudi
+vseprièujoènost;-i;ž
+vseprisoten;-tna -o;prid.
+vseprisotnost;-i;ž
+vseprodiren;-rna -o;prid.
+vserazumevajoè;;tudi
+vserod;;prisl.
+vseruski;-a -o;prid.
+vsesalen;-lna -o;prid.
+vsesanje;-a;s
+vsesati;-am;dov.
+vsesavanje;-a;s
+vsesavati;-am;nedov.
+vseskozen;-zna -o;prid.
+vseskozi;;tudi
+vseslovan;-a;m
+vseslovanski;-a -o;prid.
+vseslovanstvo;-a;s
+vseslovanšèina;-e;ž
+vseslovenski;-a -o;prid.
+vsesmeren;-rna -o;prid.
+vsesokolski;-a -o;prid.
+vsesplošen;-šna -o;prid.
+vsesplošnost;-i;ž
+vsestranost;-i;ž
+vsestranski;-a -o;prid.
+vsestranskost;-i;ž
+vsesveten;;in
+vsesvetnica;;in
+vsesvetski;-a -o;prid.
+vsešir;-a;m
+vseuèilišèe;-a;s
+vseuèilišèen;-èna -o;prid.
+vseuèilišènik;-a;m
+vseuèiliški;-a -o;prid.
+vseum;-a;m
+vseunièujoè;;tudi
+vseusmiljen;-a -o;prid.
+vsevdilj;;prisl.
+vseveèen;-èna -o;prid.
+vseved;-a;m
+vsevedec;-dca;m
+vseveden;-dna -o;prid.
+vsevedež;-a;m
+vsevedka;-e;ž
+vsevednež;-a;m
+vsevednost;-i;ž
+vsevedoè;;tudi
+vsevid;-a;m
+vsevidec;-dca;m
+vseviden;-dna -o;prid.
+vsevidnost;-i;ž
+vsevišnji;-a -e;prid.
+vsevprek;;prisl.
+vsevrsten;-tna -o;prid.
+vsezaverodomcesarjevstvo;-a;s
+vsezavezujoè;;tudi
+vsezbil;-ila;m
+vsezdružujoè;;tudi
+vsezmožen;-žna -o;prid.
+vseznal;-ala;m
+vseznal;-ala -o;prid.
+vseznalec;-lca;m
+vseznalost;-i;ž
+vseznalstvo;-a;s
+vseznanje;-a;s
+vsezvelièaven;-vna -o;prid.
+vsezvezen;-zna -o;prid.
+vsikdar;;tudi
+vsiliti;-im;dov.
+vsiljenec;-nca;m
+vsiljenka;-e;ž
+vsiljenost;-i;ž
+vsiljevanje;-a;s
+vsiljevati;-ujem;nedov.
+vsiljiv;-a -o;prid.
+vsiljivec;-vca;m
+vsiljivka;-e;ž
+vsiljivost;-i;ž
+vsip;-a;m
+vsipaè;-a;m
+vsipališèe;-a;s
+vsipanje;-a;s
+vsipati;-am;tudi
+vsipavati;-am;nedov.
+vsipek;-pka;m
+vsipen;-pna -o;prid.
+vskoèiti;vskoèim;dov.
+vskok;vskoka;in
+vsled;;predl.
+vsota;-e;ž
+vsoten;-tna -o;prid.
+vsotica;-e;ž
+vsrebati;-am;tudi
+vsrkati;-am;dov.
+vsrkavanje;-a;s
+vsrkavati;-am;nedov.
+vsrkljiv;-a -o;prid.
+vsrkniti;-em;dov.
+vsrkovalen;-lna -o;prid.
+vsrkovanje;-a;s
+vsrkovati;-ujem;nedov.
+vstaja;-e;ž
+vstajaè;-a;m
+vstajalec;-lca;m
+vstajanje;-a;s
+vstajati;-am;nedov.
+vstajenje;-a;s
+vstajenjski;-a -o;prid.
+vstajnik;-a;m
+vstajniški;-a -o;prid.
+vstanèkati;-am;dov.
+vstanek;-nka;m
+vstaš;-a;m
+vstati;vstanem;dov.
+vstava;-e;ž
+vstavek;-vka;m
+vstavitev;-tve;ž
+vstaviti;-im;dov.
+vstavitven;-a -o;prid.
+vstavljalnica;-e;ž
+vstavljanje;-a;s
+vstavljati;-am;nedov.
+vstavljiv;-a -o;prid.
+vstop;vstopa;m
+vstop;vstopa;m
+vstopanje;-a;s
+vstopati;-am;nedov.
+vstopen;-pna -o;prid.
+vstopišèe;-a;s
+vstopiti;;in
+vstopnica;-e;ž
+vstopnik;-a;m
+vstopnina;-e;ž
+vstran;;in
+vstrelen;-lna -o;prid.
+vstrelina;-e;ž
+vsuti;vsujem;dov.
+vš;;medm., klic manjši živali
+všc;;medm.
+všeè;-i;ž
+všeè;;prisl.
+všeèen;-èna -o;prid.
+všeènost;-i;ž
+všitek;-tka;m
+všiti;všijem;dov.
+všitje;-a;s
+všiv;-a;m
+všivati;-am;nedov.
+všivek;-vka;m
+všolanje;-a;s
+všolanost;-i;ž
+všolati;-am;dov.
+všteti;vštejem;dov.
+vštetje;-a;s
+vštevati;-am;nedov.
+všteven;-vna -o;prid.
+vštrcati;-am;dov.
+vštrcniti;-em;dov.
+vštric;;prisl.
+vštric;;predl.
+vštricen;-cna -o;prid.
+vštriènik;-a;m
+vštuliti;-im;dov.
+vtakniti;;in
+vtaliti;-im;dov.
+vtekati;-am;nedov.
+vtekniti;ipd.;gl.
+vtem;;in
+vtepanje;-a;s
+vtepati;-am;nedov.
+vtepavati;-am;nedov.
+vtepsti;vtepem;dov.
+vteptati;-am;dov.
+vtetovirati;-am;dov.
+vtiè;vtièa;m
+vtièen;-èna -o;prid.
+vtiènica;-e;ž
+vtihotapiti;-im;dov.
+vtihotapljanje;-a;s
+vtihotapljati;-am;nedov.
+vtik;-a;m
+vtikaè;-a;m
+vtikalo;-a;s
+vtikanje;-a;s
+vtikati;-am;nedov.
+vtikljiv;-a -o;prid.
+vtikljivost;-i;ž
+vtikovati;-ujem;nedov.
+vtipkati;-am;dov.
+vtiranje;-a;s
+vtirati;-am;nedov.
+vtis;-a;m
+vtisen;-sna -o;prid.
+vtisk;-a;m
+vtiskanje;-a;s
+vtiskati;-am;nedov.
+vtiskavanje;-a;s
+vtiskavati;-am;nedov.
+vtiskovalen;-lna -o;prid.
+vtiskovanje;-a;s
+vtiskovati;-ujem;nedov.
+vtisnina;-e;ž
+vtisniti;-em;dov.
+vtisnjenje;-a;s
+vtkati;vtkem;dov.
+vtlaèiti;-im,;in
+vtoèen;-èna -o;prid.
+vtoèiti;vtoèim;dov.
+vtok;vtoka;m
+vtolèi;vtolèem;dov.
+vtovarjanje;-a;s
+vtovarjati;-am;nedov.
+vtovoriti;-im;tudi
+vtoževati;-ujem;nedov.
+vtreti;vtrem;tudi
+vtretjiè;;prisl.
+vtrošnik;-a;m
+vuga;-e;ž
+vugava;-e;ž
+vulfenija;-e;ž
+vulfenit;;tudi
+vulgaren;-rna -o;prid.
+vulgarizacija;-e;ž
+vulgarizator;-ja;m
+vulgarizatorski;-a -o;prid.
+vulgarizem;-zma;m
+vulgariziranje;-a;s
+vulgarizirati;-am;nedov. in dov.
+vulgarnež;-a;m
+vulgarnost;-i;ž
+vulgata;-e;ž
+vulgo;;prisl.
+vulkan;-a;m
+vulkanièen;-èna -o;prid.
+vulkanit;-a;m
+vulkanizacija;-e;ž
+vulkanizem;-zma;m
+vulkanizer;-ja;m
+vulkaniziranje;-a;s
+vulkanizirati;-am;nedov. in dov.
+vulkanolog;-a;m
+vulkanologija;-e;ž
+vulkanološki;-a -o;prid.
+vulkanski;-a -o;prid.
+vulva;-e;ž
+vuzem;-zma;m
+vuzemnica;-e;ž
+vuzemski;-a -o;prid.
+vuzmenka;-e;ž
+vz...;;predpona
+vzad;;prisl.
+vzadaj;;prisl.
+vzadi;;prisl.
+vzadnjiè;;prisl.
+vzajemen;-mna -o;prid.
+vzajemnost;-i;ž
+vzbesneti;-im;dov.
+vzblesteti;-im;dov.
+vzblestevati;-am;nedov.
+vzboèek;-èka;m
+vzboèenost;-i;ž
+vzboèina;-e;ž
+vzboèiti;-im;dov.
+vzbok;vzboka;m
+vzbokel;-kla -o;prid.
+vzboklina;-e;ž
+vzboklost;-i;ž
+vzbokniti;-em;dov.
+vzbrneti;-im;dov.
+vzbrst;-i;ž
+vzbrsteti;-im;dov.
+vzbruhniti;-em;dov.
+vzbuditev;-tve;ž
+vzbuditi;-im;dov.
+vzbuh;-a;m
+vzbuhavati;-am;nedov.
+vzbuhel;-hla -o;prid.
+vzbuhniti;-em;dov.
+vzbujalen;-lna -o;prid.
+vzbujanje;-a;s
+vzbujati;-am;nedov.
+vzbujevalen;-lna -o;prid.
+vzbujevalnik;-a;m
+vzbukniti;-em;dov.
+vzbuna;-e;ž
+vzbuniti;-im;dov.
+vzburiti;-im;dov.
+vzburjanje;-a;s
+vzburjati;-am;nedov.
+vzburjenje;-a;s
+vzburjenost;-i;ž
+vzburkanost;-i;ž
+vzburkati;-am;dov.
+vzburkavati;-am;nedov.
+vzburljiv;-a -o;prid.
+vzburljivost;-i;ž
+vzcvesti;;tudi
+vzcvetati;-am;nedov.
+vzcveteti;-im;dov.
+vzcvetevati;-am;nedov.
+vzdahniti;;in
+vzdajati;-am;nedov.
+vzdarje;-a;s
+vzdati;vzdam;dov.
+vzdeti;vzdenem;dov.
+vzdevati;-am;nedov.
+vzdevek;-vka;m
+vzdig;-a;m
+vzdigati;-am;nedov.
+vzdigavati;-am;nedov.
+vzdigniti;-em;dov.
+vzdigovalen;-lna -o;prid.
+vzdigovanje;-a;s
+vzdigovati;-ujem;nedov.
+vzdih;-a;m
+vzdihanje;-a;s
+vzdihati;-am;stil.
+vzdihavati;-am;nedov.
+vzdihljaj;;stil.
+vzdihniti;-em;dov.
+vzdihoma;;prisl.
+vzdihovanje;-a;s
+vzdihovati;-ujem;nedov.
+vzdivjati;-am;dov.
+vzdižen;-žna -o;prid.
+vzdižnica;-e;ž
+vzdolnjik;;tudi
+vzdolž;;prisl.
+vzdolž;;predl.
+vzdolžen;-žna -o;prid.
+vzdolžnik;-a;m
+vzdramiti;;in
+vzdramljati;-am;nedov.
+vzdraženje;-a;s
+vzdraženost;-i;ž
+vzdražiti;;in
+vzdražljiv;-a -o;prid.
+vzdražljivost;-i;ž
+vzdrgetati;-am;tudi
+vzdrgetavati;-am;nedov.
+vzdrhteti;-im;dov.
+vzdrhtevati;-am;nedov.
+vzdržanost;-i;ž
+vzdržati;-im;dov.
+vzdržavati;-am;nedov.
+vzdržema;;prisl.
+vzdržen;-žna -o;prid.
+vzdrževalec;-lca;m
+vzdrževalen;-lna -o;prid.
+vzdrževalka;-e;ž
+vzdrževalnina;-e;ž
+vzdrževanec;-nca;m
+vzdrževanje;-a;s
+vzdrževanka;-e;ž
+vzdrževatelj;-a;m
+vzdrževati;-ujem;nedov.
+vzdržljiv;-a -o;prid.
+vzdržljivost;-i;ž
+vzdržnež;-a;m
+vzdržnost;-i;ž
+vzduh;-a;m
+vzdušen;-šna -o;prid.
+vzdušje;-a;s
+vzdušnica;-e;ž
+vzdvomiti;-im,;in
+vzemek;-mka;m
+vzetek;-tka;m
+vzeti;vzamem;dov.
+vzetje;-a;s
+vzfrfotati;-am;tudi
+vzfrfotavati;-am;nedov.
+vzgajališèe;-a;s
+vzgajanec;-nca;m
+vzgajanje;-a;s
+vzgajati;-am;nedov.
+vzganjati se;-am se;nedov.
+vzgib;-a;m
+vzgibati;-am;in
+vzgibavati;-am;nedov.
+vzgibljaj;-a;m
+vzglasje;-a;s
+vzglaven;-vna -o;prid.
+vzglavje;-a;s
+vzglavnica;-e;ž
+vzglavnik;-a;m
+vzgled;vzgleda;m
+vzgleden;-dna -o;prid.
+vzglednik;-a;m
+vzglednost;-i;ž
+vzgledovati se;-ujem se;nedov.
+vzgoja;-e;ž
+vzgojen;-jna -o;prid.
+vzgojenost;-i;ž
+vzgojeslovec;-vca;m
+vzgojesloven;-vna -o;prid.
+vzgojeslovje;-a;s
+vzgojevalec;-lca;m
+vzgojevalen;-lna -o;prid.
+vzgojevalen;-lna -o;prid.
+vzgojevališèe;-a;s
+vzgojevalnica;-e;ž
+vzgojevati;-ujem;nedov.
+vzgojilo;-a;s
+vzgojitelj;-a;m
+vzgojiteljica;-e;ž
+vzgojiteljski;-a -o;prid.
+vzgojiteljstvo;-a;s
+vzgojitev;-tve;ž
+vzgojiti;-im;dov.
+vzgojljiv;-a -o;prid.
+vzgojljivost;-i;ž
+vzgojnik;-a;m
+vzgojnina;-e;ž
+vzgojniški;-a -o;prid.
+vzgojnost;-i;ž
+vzgojstven;-a -o;prid.
+vzgojstvo;-a;s
+vzgon;vzgona;m
+vzgonski;-a -o;prid.
+vzgoreti;-im;dov.
+vzgornjik;;tudi
+vzhajalen;-lna -o;prid.
+vzhajališèe;-a;s
+vzhajanec;-nca;m
+vzhièen;-a -o;prid.
+vzhièenje;-a;s
+vzhièenost;-i;ž
+vzhit;-a;m
+vzhiteti;-im;dov.
+vzhod;vzhoda;m
+vzhoden;-dna -o;prid.
+vzhodišèe;-a;s
+vzhodnik;-a;m
+vzhodnjak;-a;m
+vzhodnjakinja;-e;ž
+vzhodnjaški;-a -o;prid.
+vzhodno...;;prvi del zloženk
+vzhodnoazijski;-a -o;prid.
+vzhodnoevropski;-a -o;prid.
+vzhodnonemški;-a -o;prid.
+vzhodnorimski;-a -o;prid.
+vzhodnosirski;-a -o;prid.
+vzhodnoslovanski;-a -o;prid.
+vzhodnoslovenski;-a -o;prid.
+vzhodnorimski;-a -o;prid.
+vzhodnosirski;-a -o;prid.
+vzhodnoslovanski;-a -o;prid.
+vzhodnoslovenski;-a -o;prid.
+vzhodnoštajerski;-a -o;prid.
+vzidati;;tudi
+vzidava;-e;ž
+vzidavati;-am;nedov.
+vzidek;-dka;m
+vzidljiv;-a -o;prid.
+vzigrati;-am;dov.
+vzigravati;-am;nedov.
+vzkaliti;-im;dov.
+vzkip;-a;m
+vzkipenje;-a;s
+vzkipeti;-im;dov.
+vzkipevati;-am;nedov.
+vzkipljiv;-a -o;prid.
+vzkipljivost;-i;ž
+vzklic;-a;m
+vzklicati;vzklièem;dov.
+vzklicen;-cna -o;prid.
+vzklicevati;-ujem;nedov.
+vzklicen;-cna -o;prid.
+vzklicevati;-ujem;nedov.
+vzklièen;-èna -o;prid.
+vzklik;-a;m
+vzklikanje;-a;s
+vzklikati;-am;nedov.
+vzklikniti;-em;dov.
+vzkliti;vzklijem;dov.
+vzklitje;-a;s
+vzklon;vzklona;m
+vzkloniti;vzklonim;dov.
+vzkoprneti;-im;dov.
+vzkratiti;-im;dov.
+vzkresniti;-em,;tudi
+vzkrik;-a;m
+vzkrikati;-am;nedov.
+vzkrikniti;-em;dov.
+vzkrikovati;-ujem;nedov.
+vzkriliti;-im;dov.
+vzkriž;;prisl.
+vzkrižen;-žna -o;prid.
+vzkrvaveti;-im;dov.
+vzlekniti se;-em se;dov.
+vzlepetati;-am;tudi
+vzlet;vzleta;m
+vzletanje;-a;s
+vzletati;-am;nedov.
+vzletavanje;-a;s
+vzletavati;-am;nedov.
+vzleten;-tna -o;prid.
+vzleteti;-im;dov.
+vzletišèe;-a;s
+vzlic;;predl.
+vzljubiti;;in
+vzljubljati;-am;nedov.
+vzmah;vzmaha;m
+vzmahniti;-em,;in
+vzmet;vzmeta;m
+vzmet;-i;ž
+vzmeten;-tna -o;prid.
+vzmetenje;;in
+vzmetiti;-im;in
+vzmetnica;-e;ž
+vzmik;-a;m
+vzmikati;-am;stil.
+vzmnožiti;-im;dov.
+vzmoèi;vzmorem;dov.
+vznak;;prisl.
+vznašati;-am;nedov.
+vznejevoljiti;-im;dov.
+vznemiriti;-im;dov.
+vznemirjanje;-a;s
+vznemirjati;-am;nedov.
+vznemirjenje;-a;s
+vznemirjenost;-i;ž
+vznemirjevalec;-lca;m
+vznemirjevalen;-lna -o;prid.
+vznemirjevati;-ujem;nedov.
+vznemirljiv;-a -o;prid.
+vznemirljivost;-i;ž
+vznesen;-ena -o;prid.
+vznesenost;-i;ž
+vznesti;vznesem;dov.
+vznetljiv;-a -o;prid.
+vznevoljiti;-im;dov.
+vznik;-a;m
+vznikati;-am;nedov.
+vznikniti;-em;dov.
+vznos;vznosa;m
+vznosit;-a -o;prid.
+vznožek;-žka;m
+vznožen;-žna -o;prid.
+vznožje;-a;s
+vznožnik;-a;m
+vzoèi;;prisl.
+vzoèi;;predl.
+vzor;vzora;m
+vzorèar;-ja;m
+vzorèast;-a -o;prid.
+vzorèek;-èka;m
+vzorèen;-èna -o;prid.
+vzorèenje;-a;s
+vzorèevati;-ujem;nedov.
+vzorèiti;-im;nedov.
+vzorec;-rca;m
+vzoren;-rna -o;prid.
+vzornica;-e;ž
+vzornik;-a;m
+vzorniški;-a -o;prid.
+vzornost;-i;ž
+vzorovanje;-a;s
+vzorovati se;-ujem se;nedov.
+vzpeniti;-im;dov.
+vzpenjaèa;-e;ž
+vzpenjanje;-a;s
+vzpenjati se;-am se;nedov.
+vzpenjavka;-e;ž
+vzpeteliniti se;-im se;dov.
+vzpeti se;vzpnem se;dov.
+vzpetina;-e;ž
+vzpetinica;-e;ž
+vzpetost;-i;ž
+vzplahutati;-am;in
+vzplahutavati;-am;nedov.
+vzplameneti;-im;dov.
+vzplamenevati;-am;nedov.
+vzplamenitev;-tve;ž
+vzplamteti;-im;dov.
+vzplamtevati;-am;nedov.
+vzplapolanje;-a;s
+vzplapolati;-am;dov.
+vzplapolavanje;-a;s
+vzplapolavati;-am;nedov.
+vzplati;vzpoljem;dov.
+vzplavati;-am;dov.
+vzpluti;vzplovem;in
+vzpodbadati;-am;nedov.
+vzpodbosti;-bodem;dov.
+vzpodbuda;-e;ž
+vzpodbuden;-dna -o;prid.
+vzpodbuditi;-im;dov.
+vzpodbujanje;-a;s
+vzpodbujati;-am;nedov.
+vzpon;vzpona;m
+vzponski;-a -o;prid.
+vzpora;-e;ž
+vzpored;-eda;m
+vzpored;;prisl.
+vzporedba;-e;ž
+vzporeden;-dna -o;prid.
+vzporeditev;-tve;ž
+vzporediti;-im;dov.
+vzporedje;-a;s
+vzporednica;-e;ž
+vzporednik;-a;m
+vzporednost;-i;ž
+vzporejanje;-a;s
+vzporejati;-am;nedov.
+vzpostava;-e;ž
+vzpostavitev;-tve;ž
+vzpostaviti;-im;dov.
+vzpostavljanje;-a;s
+vzpostavljati;-am;nedov.
+vzprasketati;-am;tudi
+vzprejem;-ema;m
+vzprejeti;vzprejmem;dov.
+vzprhniti;-em;dov.
+vzprhutati;-am;dov.
+vzprhutavati;-am;nedov.
+vzprhutniti;-em;dov.
+vzprièo;;in
+vzradostiti;-im;dov.
+vzradošèenost;-i;ž
+vzradovati;-ujem;dov.
+vzrast;-i;in
+vzrastek;-tka;m
+vzrasti;vzrastem;in
+vzrašèati;-am;nedov.
+vzrat;-i;in
+vzravnanost;-i;ž
+vzravnati;-am;dov.
+vzravnava;-e;ž
+vzravnavati;-am;nedov.
+vzreditelj;-a;m
+vzrediti;-im;dov.
+vzreja;-e;ž
+vzrejališèe;-a;s
+vzrejanje;-a;s
+vzrejati;-am;nedov.
+vzrejen;-jna -o;prid.
+vzrejevalec;-lca;m
+vzrejevališèe;-a;s
+vzrepenèiti se;-im se;dov.
+vzroèen;-èna -o;prid.
+vzroèenje;-a;s
+vzroèiti;-im;dov.
+vzroènik;;in
+vzroènost;-i;ž
+vzrohneti;-im;dov.
+vzrojiti;-im;stil.
+vzrojljiv;-a -o;prid.
+vzrok;vzroka;m
+vzrokovanje;-a;s
+vzrokovati;-ujem;nedov. in dov.
+vzropotati;-am;tudi
+vzšumeti;-im;dov.
+vztleti;-im;dov.
+vztoèen;-èna -o;prid.
+vztok;vztoka;m
+vztrajanje;-a;s
+vztrajati;-am;nedov.
+vztrajen;-jna -o;prid.
+vztrajnež;-a;m
+vztrajnik;-a;m
+vztrajnost;-i;ž
+vztrajnosten;-tna -o;prid.
+vztrepet;-eta;m
+vztrepetati;-am;in
+vztrepetavanje;-a;s
+vztrepetavati;-am;nedov.
+vzvalovanost;-i;ž
+vzvalovati;-ujem;dov.
+vzvalovitev;-tve;ž
+vzvaloviti;-im;dov.
+vzvelièati;-am;dov.
+vzveseliti;-im;dov.
+vzvih;-a;m
+vzvihariti;-im;dov.
+vzvihati;-am;dov.
+vzvihniti;-em;dov.
+vzvihrati;-am;dov.
+vzvihravati;-am;nedov.
+vzvišek;-ška;m
+vzvišen;-a -o;prid.
+vzvišenec;-nca;m
+vzvišenina;-e;ž
+vzvišenost;-i;ž
+vzviševati;-ujem;nedov.
+vzvišina;-e;ž
+vzviti se;vzvijem se;dov.
+vzvod;vzvoda;m
+vzvoden;-dna -o;prid.
+vzvoden;-dna -o;prid.
+vzvodje;-a;s
+vzvoj;vzvoja;m
+vzvojen;-jna -o;prid.
+vzvrat;vzvrata;m
+vzvraten;-tna -o;prid.
+vzvrniti;;in
+vzvrteti;-im;dov.
+vzvrtinèiti;-im;dov.
+vzžareti;-im;dov.
+vzžarevati;-am;nedov.
+vzžuboreti;-im;dov.
+vžig;-a;m
+vžigaè;-a;m
+vžigalen;-lna -o;prid.
+vžigalica;-e;ž
+vžigalièen;-èna -o;prid.
+vžigalka;-e;ž
+vžigalnik;-a;m
+vžigalica;-e;ž
+vžigalièen;-èna -o;prid.
+vžigalka;-e;ž
+vžigalnik;-a;m
+vžigen;-gna -o;prid.
+vživeti se;-im se;dov.
+vživetje;-a;s
+vživetost;-i;ž
+vživljanje;-a;s
+vživljati se;-am se;nedov.
+vžreti se;vžrem se;dov.
+vžvrkljati;-am;dov.

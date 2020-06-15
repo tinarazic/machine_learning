@@ -1,0 +1,953 @@
+ž;X;X
+žabar;-ja;m
+žabarija;-e;ž
+žabariti;-im;nedov.
+žabarka;-e;ž
+žabarski;-a -o;prid.
+žabast;-a -o;prid.
+žabec;-bca;m
+žabica;-e;ž
+žabièen;-èna -o;prid.
+žabjak;-a;m
+žabjelasovka;-e;ž
+žabji;-a -e;prid.
+žabo;;gl.
+žabogolt;-a;m
+žabon;-a;m
+žabura;-e;ž
+žad;-a;m
+žadast;-a -o;prid.
+žadeit;-a;m
+žaden;-dna -o;prid.
+žadov;-a -o;prid.
+žafran;-a;m
+žafranast;-a -o;prid.
+žafranov;-a -o;prid.
+žaga;-e;ž
+žagalnica;-e;ž
+žaganica;-e;ž
+žaganje;-a;s
+žagar;-ja;m
+žagarica;-e;ž
+žagarski;-a -o;prid.
+žagarstvo;-a;s
+žagast;-a -o;prid.
+žagati;-am;nedov.
+žagen;-gna -o;prid.
+žagica;-e;ž
+žagin;-a -o;prid.
+žagovec;-vca;m
+žagovina;;in
+žagovodja;-e;tudi
+žagrad;-a;m
+žajbelj;-blja;tudi
+žajbljev;-a -o;prid.
+žajbljevec;-vca;m
+žajfa;-e;ž
+žajfnica;-e;ž
+žakar;-ja;in
+žakaren;-rna -o;in
+žakarski;;in
+žakelj;-klja;m
+žakeljc;-a;m
+žakeljèek;-èka;m
+žakerija;;tudi
+žaket;-a;m
+žakljevina;-e;ž
+žakljevinast;-a -o;prid.
+žakljiè;-a;m
+žal;-i;ž
+žal;;prid. neskl.
+žal;;prisl.
+žalar;-ja;m
+žale;žal;ž mn.
+žalec;-lca;m
+žalen;-lna -o;prid.
+žali;-a -o;prid.
+žalibog;;prisl.
+žalibože;;prisl.
+žalik žena;žalik žene;ž
+žalilen;-lna -o;prid.
+žalitelj;-a;m
+žalitev;-tve;ž
+žaliti;;in
+žalivec;-vca;m
+žaliti;;in
+žalivec;-vca;m
+žalje;-a;s
+žaljenec;-nca;m
+žaljenje;;in
+žaljiv;-a -o;prid.
+žaljivka;-e;ž
+žalnica;-e;ž
+žaloben;-bna -o;prid.
+žalobnost;-i;ž
+žaloigra;-e;ž
+žalost;-i;ž
+žalosten;-tna -o;prid.
+žalostinka;-e;ž
+žalostiti;-im;nedov.
+žalostnica;-e;ž
+žalovalec;-lca;m
+žalovalka;-e;ž
+žalovanje;-a;s
+žalovati;-ujem;nedov.
+žaltav;-a -o;prid.
+žaltavina;;in
+žaltavost;-i;ž
+žalujka;-e;ž
+žaluzija;-e;ž
+žaluzijski;-a -o;prid.
+žal žena;žal žene;ž
+žamanje;-a;s
+žamarica;-e;ž
+žamati;-am;nedov.
+žamet;-a;m
+žametast;-a -o;prid.
+žameten;-tna -o;prid.
+žametnica;-e;ž
+žametov;-a -o;prid.
+žametovka;-e;ž
+žandar;-ja;m
+žandarm;-a;m
+žandarmerija;-e;ž
+žandarmerijski;-a -o;prid.
+žandarski;-a -o;prid.
+žanjec;-jca;in
+žanjevec;-vca;m
+žanjica;-e;ž
+žanr;-a;m
+žanrist;-a;m
+žanrski;-a -o;prid.
+žar;-a;in
+žara;-e;ž
+žarèen;-èna -o;prid.
+žarèenje;-a;s
+žarèiti;-im;nedov.
+žardinjera;-e;ž
+žareèina;-e;ž
+žarek;-rka;m
+žarenje;-a;s
+žareti;-im;nedov.
+žargon;-a;m
+žargonizem;-zma;m
+žargonski;-a -o;prid.
+žarilec;-lca;m
+žarilen;-lna -o;prid.
+žarilnica;-e;ž
+žarilo;-a;s
+žarina;-e;ž
+žarišèe;-a;s
+žarišèen;-èna -o;prid.
+žarišènica;-e;ž
+žariti;-im;tudi
+žarja;-e;ž
+žarjava;-e;ž
+žarišènica;-e;ž
+žariti;-im;tudi
+žarja;-e;ž
+žarjava;-e;ž
+žarjenje;-a;s
+žarkast;-a -o;prid.
+žarkoven;;tudi
+žarkovit;-a -o;prid.
+žarkovje;;tudi
+žarnica;-e;ž
+žarnogrobišèen;-èna -o;prid.
+žarnook;-a -o;prid.
+žaromet;-eta;m
+žarometen;-tna -o;prid.
+žarovit;-a -o;prid.
+žarovitost;-i;ž
+žatlaka;-e;ž
+žav;;medm.
+žavba;-e;ž
+žbica;-e;ž
+žbièevec;-vca;m
+žbrinca;-e;ž
+ždanovski;-a -o;prid.
+žbrinca;-e;ž
+ždanovski;-a -o;prid.
+ždanovšèina;-e;ž
+ždenje;-a;s
+ždeti;ždim;nedov.
+že;;in
+žebelj;-blja;in
+žebica;;gl.
+žebljanje;-a;s
+žebljar;-ja;m
+žebljariti;-im;nedov.
+žebljarna;-e;ž
+žebljarski;-a -o;prid.
+žebljarstvo;-a;s
+žebljast;-a -o;prid.
+žebljati;-am;nedov.
+žebljica;-e;ž
+žebljièek;-èka;m
+žebranje;-a;s
+žebrati;-am;nedov.
+žega;-e;ž
+žegen;-gna;m
+žegnanèek;-èka;m
+žegnanje;-a;s
+žegnanjski;-a -o;prid.
+žegnati;-am;nedov. in dov.
+žehta;-e;ž
+žehtar;;in
+žehtati;-am;nedov.
+žehtenje;-a;s
+žehteti;-im;nedov.
+žehtnik;-a;m
+žehtnjak;;in
+žeja;-e;ž
+žejati;-am;nedov.
+žejen;-jna -o;prid.
+žekno;-a;tudi
+želar;-ja;m
+želarija;-e;ž
+želarka;-e;ž
+želarski;-a -o;prid.
+želat;-ata -o;prid.
+želatina;-e;ž
+želatinast;-a -o;prid.
+želatinirati;-am;nedov. in dov.
+želatinozen;-zna -o;prid.
+želatinski;-a -o;prid.
+žele;-ja;m
+želelen;-lna -o;prid.
+želelnik;-a;m
+želenje;-a;s
+želeti;-im;nedov.
+železar;-ja;m
+železarna;-e;ž
+železarski;-a -o;prid.
+železarstvo;-a;s
+železce;-a;s
+železek;-zka;m
+železen;-zna -o;prid.
+železje;-a;s
+železnat;-a -o;prid.
+železnica;-e;ž
+železnièar;-ja;m
+železnièarka;-e;ž
+železnièarski;-a -o;prid.
+železnièen;-èna -o;prid.
+železnik;-a;m
+železnina;-e;ž
+železninar;-ja;m
+železniški;-a -o;prid.
+železnocesten;-tna -o;prid.
+železnodoben;-bna -o;prid.
+železo;-a;s
+železo...;;prvi del zloženk
+železobeton;-a;m
+železobetonski;-a -o;prid.
+železokrivec;-vca;m
+železokrivnica;-e;ž
+železokrivski;-a -o;prid.
+železolivar;-ja;m
+železolivarna;-e;ž
+železomašnik;-a;m
+železostrugar;-ja;m
+železov;-a -o;prid.
+železovec;-vca;m
+želirati;-am;nedov. in dov.
+želja;-e;tudi
+željèen;-èna -o;prid.
+željen;;in
+željica;-e;ž
+željnost;-i;ž
+želo;-a;s
+želod;-oda;m
+želodast;-a -o;prid.
+želodèek;-èka;m
+želodèen;-èna -o;prid.
+želodèev;-a -o;prid.
+želodec;-dca;m
+želodek;-dka;m
+želoden;-dna -o;prid.
+želodov;-a -o;prid.
+želva;-e;ž
+želvast;-a -o;prid.
+želvin;-a -o;prid.
+želvji;-a -e;prid.
+želvovina;-e;ž
+želvovinast;-a -o;prid.
+žemeljn;-a -o;prid.
+žemlja;-e;ž
+žemljast;-a -o;prid.
+žemljevka;-e;ž
+žemljica;-e;ž
+žemper;-ja;m
+žena;-e;tudi
+ženevski;-a -o;prid.
+ženica;-e;ž
+ženièica;-e;ž
+ženièka;-e;ž
+ženij;ipd.;gl.
+ženijski;-a -o;prid.
+ženikelj;-klja;m
+ženilja;-e;ž
+ženilo;-a;s
+ženin;-a;m
+ženin;-a -o;prid.
+ženinèek;-èka;m
+ženinov;-a -o;prid.
+ženirati se;-am se;nedov.
+ženišèe;-a;s
+ženitba;-e;ž
+ženitben;-a -o;prid.
+ženiten;-tna -o;prid.
+ženitev;-tve;ž
+ženiti se;ženim se;nedov.
+ženitnina;-e;ž
+ženitovanje;-a;s
+ženitovanjski;-a -o;prid.
+ženitovati;-ujem;nedov.
+ženitven;-a -o;prid.
+ženka;-e;ž
+ženkica;-e;ž
+ženomrzec;-zca;m
+ženska;-e;ž
+ženskar;-ja;m
+ženskariti;-im;nedov.
+ženskarjenje;-a;s
+ženskarski;-a -o;prid.
+ženskarstvo;-a;s
+ženskast;-a -o;prid.
+ženski;-a -o;prid.
+ženskica;-e;ž
+ženskost;-i;ž
+ženstven;-a -o;prid.
+ženstvenost;-i;ž
+ženstvo;-a;stil.
+ženstvo;-a;in
+ženšèad;-i;ž
+ženšèak;-a;m
+ženšèe;-eta;tudi
+ženšèica;-e;ž
+ženšèina;-e;ž
+ženšèura;-e;ž
+ženšen;;tudi
+žep;žepa;m
+žepar;-ja;m
+žeparica;-e;ž
+žeparka;-e;ž
+žeparski;-a -o;prid.
+žepast;-a -o;prid.
+žepek;-pka;m
+žepek;-pka;in
+žepen;-pna -o;prid.
+žepiè;-ièa;tudi
+žepkov;-a -o;prid.
+žepkov;-a -o;prid.
+žepnica;-e;ž
+žepnina;-e;ž
+žepovina;-e;ž
+žeravec;-vca;m
+žerjav;-ava;m
+žerjavar;-ja;m
+žerjaven;-vna -o;prid.
+žerjavica;-e;ž
+žerjavist;-a;m
+žerjavji;-a -e;prid.
+žerjavka;-e;ž
+žerjavnica;-e;ž
+žerjavnik;-a;m
+žerjavovodja;-e;tudi
+žerka;-e;ž
+žernada;-e;ž
+žeruh;-a;m
+žerun;-a;m
+žetev;-tve;ž
+žeti;žanjem;nedov.
+žeti;žmem;stil.
+žetje;-a;s
+žeton;-a;m
+žetven;-a -o;prid.
+žezlo;-a;s
+žezlonosec;-sca;m
+žeželj;-žlja;m
+žežnjati;-am;nedov.
+žgalec;-lca;m
+žgalen;-lna -o;prid.
+žgalina;-e;ž
+žgalnica;-e;ž
+žgalnik;-a;m
+žgalo;-a;s
+žganèek;-èka;m
+žganèevka;-e;ž
+žganec;-nca;m
+žganek;-nka;m
+žganina;-e;ž
+žganjar;-ja;m
+žganjar;;in
+žganjarèek;-èka;m
+žganjarija;-e;ž
+žganjariti;-im;nedov.
+žganjarna;-e;ž
+žganjarnica;-e;ž
+žganjarski;-a -o;prid.
+žganjarski;;in
+žganjarstvo;;in
+žganjce;-a;tudi
+žganjèe;-a;s
+žganje;-a;s
+žganje;-a;tudi
+žganjekuha;-e;ž
+žganjepitje;-a;s
+žganjepivec;-vca;m
+žganjetoè;;tudi
+žganjica;;in
+žgati;žgem;nedov.
+žgeèkanje;-a;s
+žgeèkati;-am;nedov.
+žgeèkljiv;-a -o;prid.
+žgolenje;-a;s
+žgoleti;-im;nedov.
+žica;-e;ž
+žicanje;-a;s
+žicar;-ja;m
+žicarski;-a -o;prid.
+žicati;-am;nedov.
+žièar;-ja;m
+žièar;-ja;m
+žièarna;-e;ž
+žièast;-a -o;prid.
+žièen;-èna -o;prid.
+žièevje;-a;s
+žièka;-e;ž
+žiènat;-a -o;prid.
+žiènica;-e;ž
+žiènièar;-ja;m
+žiènièarski;-a -o;prid.
+žiènièarstvo;-a;s
+žiènik;-a;m
+žièniški;-a -o;prid.
+žid;-a;m
+žida;-e;ž
+židan;-a -o;prid.
+židek;-dka;m
+židek;-dka -o;prid.
+židinja;-e;ž
+židkost;-i;ž
+židov;-a;m
+židovka;-e;ž
+židovski;-a -o;prid.
+židovstvo;-a;s
+žig;-a;m
+žigažaga;;in
+žigec;-gca;m
+žignina;-e;ž
+žigolo;-a;m
+žigosanje;-a;s
+žigosati;-am;nedov. in dov.
+žigovina;-e;ž
+žiher;;prisl.
+žila;-e;ž
+žilast;-a -o;prid.
+žilav;-a -o;prid.
+žilaviti;-im;tudi
+žilavka;-e;ž
+žilavost;-i;ž
+žilen;-lna -o;prid.
+žiletka;-e;ž
+žilica;-e;ž
+žilièast;-a -o;prid.
+žiliti;-im;nedov.
+žilje;-a;s
+žiljka;-e;ž
+žilnat;-a -o;prid.
+žilnatost;-i;ž
+žilnica;-e;ž
+žilnina;-e;ž
+žima;-e;ž
+žimarski;-a -o;prid.
+žimarstvo;-a;s
+žimast;-a -o;prid.
+žimavec;-vca;m
+žimnat;-a -o;prid.
+žimnica;-e;ž
+žimnièar;-ja;m
+žimovina;-e;ž
+žingati;-am;nedov.
+žinjati;-am;nedov.
+žir;-a;m
+žirafa;-e;ž
+žirafast;-a -o;prid.
+žirant;-a;m
+žirardi;-ja;m
+žirija;-e;ž
+žirijski;-a -o;prid.
+žirirati;-am;dov. in nedov.
+žiriti;-im;nedov.
+žiro;;prid. neskl.
+žirobus;;gl.
+žirokompas;;gl.
+žironda;-e;ž
+žirondist;-a;m
+žiroskop;ipd.;gl.
+žirov;-a -o;prid.
+žitar;-ja;m
+žitar;-ja;m
+žitarec;-rca;m
+žitarica;-e;ž
+žitarstvo;-a;s
+žitek;-tka;m
+žiten;-tna -o;prid.
+žiti;žijem;nedov.
+žitišèe;;in
+žitje;-a;s
+žitnica;-e;ž
+žitnièar;-ja;m
+žito;-a;s
+žitomerec;-rca;m
+žitoroden;-dna -o;prid.
+živ;-i;ž
+živ;-a -o;stil.
+živ;;in
+živad;-i;ž
+živahen;-hna -o;prid.
+živahnost;-i;ž
+žival;-i;ž
+živalca;;tudi
+živalen;-lna -o;prid.
+živalnost;-i;ž
+živaloslovje;-a;s
+živalski;-a -o;prid.
+živalskost;-i;ž
+živalstvo;-a;s
+živana;-e;ž
+živcirati;-am;nedov.
+živèen;-èna -o;prid.
+živèevje;-a;s
+živènež;-a;m
+živènik;-a;m
+živènina;-e;ž
+živènost;-i;ž
+živec;-vca;m
+živel;-a -o;medm.
+živelj;-vlja;m
+živen;-vna -o;prid.
+živeti;-im;nedov.
+živež;-a;m
+živežen;-žna -o;prid.
+živica;-e;ž
+živijo;;gl.
+živika;-e;ž
+živikast;-a -o;prid.
+živilar;-ja;m
+živilec;-lca;m
+živilo;-a;s
+živilski;-a -o;prid.
+živilskopredelovalen;-lna -o;prid.
+živina;-e;ž
+živinèe;-ta;s
+živinica;-e;ž
+živinoreja;-e;ž
+živinorejec;-jca;m
+živinorejski;-a -o;prid.
+živinozdravnik;-a;m
+živinozdravniški;-a -o;prid.
+živinozdravstvo;-a;s
+živinski;-a -o;prid.
+živinstvo;-a;s
+živio;;tudi
+živiti;-im;nedov.
+življenje;-a;s
+življenjepis;-a;m
+življenjepisec;-sca;m
+življenjepisen;-sna -o;prid.
+življenjepisje;-a;s
+življenjeslovec;-vca;m
+življenjesloven;-vna -o;prid.
+življenjeslovje;-a;s
+življenjski;-a -o;prid.
+življenjskost;-i;ž
+živnost;-i;ž
+živobarven;-vna -o;prid.
+živobarvnost;-i;ž
+živobojen;-jna -o;prid.
+živoèuten;-tna -o;prid.
+živoder;;in
+živook;-a -o;prid.
+živopisec;-sca;m
+živopisen;-sna -o;prid.
+živopisnost;-i;ž
+živoroden;-dna -o;prid.
+živorodka;-e;ž
+živorodnost;-i;ž
+živorojen;;tudi
+živoskalen;-lna -o;prid.
+živosrebrn;-a -o;prid.
+živosrebrov;-a -o;prid.
+živost;-i;ž
+život;-ota;m
+životariti;-im;nedov.
+životarjenje;-a;s
+životec;-tca;m
+životek;-tka;m
+životec;-tca;m
+životek;-tka;m
+životen;-tna -o;prid.
+životnik;-a;m
+životnost;-i;ž
+životopis;-a;m
+životvoren;-rna -o;prid.
+živoveren;-rna -o;prid.
+živožaren;-rna -o;prid.
+živžav;-a;m
+žižek;-žka;m
+žlabudra;-e;ž
+žlabudranje;-a;s
+žlabudrati;-am;nedov.
+žlabudrav;-ava -o;prid.
+žlahèiè;-a;m
+žlahta;-e;ž
+žlahtati se;-am se;nedov.
+žlahten;-tna -o;prid.
+žlahtiti;-im;dov.
+žlahtnica;-e;ž
+žlahtniè;-a;m
+žlahtnik;-a;m
+žlahtnina;-e;ž
+žlahtnitelj;-a;m
+žlahtniti;-im;dov.
+žlahtnjenje;-a;s
+žlahtnost;-i;ž
+žlahtovec;-vca;m
+žlajdra;-e;ž
+žlak;žlaka;m
+žlambor;-a;in
+žlamborast;;in
+žlampati;-am;nedov.
+žlavsa;-e;ž
+žleb;-a;tudi
+žlebak;-a;m
+žlebast;-a -o;prid.
+žlebat;-ata -o;prid.
+žleben;-bna -o;prid.
+žlebiè;-ièa;m
+žlebièast;-a -o;prid.
+žlebièek;-èka;m
+žlebièiti;-im;nedov.
+žlebièje;-a;s
+žlebièkanje;-a;s
+žlebilen;-lna -o;prid.
+žlebilnik;-a;m
+žlebilo;-a;s
+žlebina;-e;ž
+žlebiti;-im,;tudi
+žlebljenje;;tudi
+žlebnik;-a;m
+žlebnik;;tudi
+žlebnjak;-a;m
+žlebovit;-a -o;prid.
+žlebovje;-a;s
+žled;-a;m
+žlednat;-a -o;prid.
+žleht;;prid. neskl.
+žlehten;-tna -o;prid.
+žlehtnoba;-e;ž
+žlemati;-am;nedov.
+žlemprga;-e;ž
+žleviti;-im;nedov.
+žleza;-e;ž
+žlezast;-a -o;prid.
+žlezav;-a -o;prid.
+žlezen;-zna -o;prid.
+žlezica;-e;ž
+žleznica;-e;ž
+žlezovnik;-a;m
+žlica;-e;ž
+žlièar;-ja;m
+žlièarica;-e;ž
+žlièarka;-a;ž
+žlièarski;-a -o;prid.
+žlièarstvo;-a;s
+žlièast;-a -o;prid.
+žlièen;-èna -o;prid.
+žlièica;-e;ž
+žlièka;-e;ž
+žliènik;-a;m
+žliènjak;-a;m
+žlikrof;-a;m
+žlindra;-e;ž
+žlindrast;-a -o;prid.
+žlindrati;-am;nedov.
+žlindrin;-a -o;prid.
+žlinkrof;-a;m
+žlobodra;-e;ž
+žlobudra;-e;ž
+žlobudraè;-a;m
+žlobudranje;-a;s
+žlobudrast;-a -o;prid.
+žlobudrati;-am;nedov.
+žlobudrav;-ava -o;prid.
+žlobudravost;-i;ž
+žlobudravšèina;-e;ž
+žlomarica;-e;ž
+žlot;-i;ž
+žmahten;-tna -o;prid.
+žmek;žmeka;m
+žmerikati;-am;nedov.
+žmeriti;-im;nedov.
+žmeten;-tna -o;prid.
+žmic;-a;m
+žmigati;-am;nedov.
+žmigavec;-vca;m
+žmikati;-am;nedov.
+žmitek;-tka;m
+žmrkati;-am;nedov.
+žmrkniti;-em;dov.
+žmukelj;-klja;m
+žmula;-e;ž
+žmulast;-a -o;prid.
+žmuriti;-im;nedov.
+žmurka;-e;ž
+žmurkati;-am;nedov.
+žnabelj;-blja;m
+žnablo;-a;s
+žnidar;-ja;m
+žnideršiè;-a;m
+žnidar;-ja;m
+žnideršiè;-a;m
+Žnideršièev;-a -o;prid.
+žnora;-e;ž
+žoga;-e;ž
+žoganje;-a;s
+žogast;-a -o;prid.
+žogati se;-am se;nedov.
+žogica;-e;ž
+žogobrc;-a;m
+žohar;-ja;m
+žokalnik;;tudi
+žokati;-am;nedov.
+žokniti;-em;dov.
+žolca;;tudi
+žolè;-a;m
+žolèast;-a -o;prid.
+žolèast;;tudi
+žolèen;-èna -o;prid.
+žolèevod;-oda;m
+žolèljiv;-a -o;prid.
+žolènik;-a;m
+žolènost;-i;ž
+žold;-a;m
+žolica;ipd.;gl.
+žolna;-e;ž
+žolnir;-ja;m
+žolnirski;-a -o;prid.
+žolt;-a -o;prid.
+žolteti;-im;nedov.
+žoltica;-e;ž
+žoltina;-e;ž
+žoltkast;-a -o;prid.
+žoltokljun;-a -o;prid.
+žoltoplaz;;in
+žoltopolt;-a -o;prid.
+žoltovina;-e;ž
+žongler;-ja;m
+žonglerski;-a -o;prid.
+žonglerstvo;-a;s
+žongliranje;-a;s
+žonglirati;-am;nedov.
+žonta;-e;ž
+žorgati;-am;nedov.
+žoržet;-a;m
+žrd;-i;ž
+žrdana;-e;ž
+žrdast;-a -o;prid.
+žrdana;-e;ž
+žrdast;-a -o;prid.
+žreb;-a;m
+žrebanje;-a;s
+žrebati;-am;nedov.
+žrebèarna;-e;ž
+žrebèek;-èka;m
+žrebe;-eta;s
+žrebec;-bca;m
+žrebetek;-tka;m
+žrebeten;-tna -o;prid.
+žrebetiti;-im;nedov. in dov.
+žrebica;-e;ž
+žrebièek;-èka;m
+žrebièka;-e;ž
+žrebiti;-im;nedov. in dov.
+žrec;-a;m
+žrelce;-lca;s
+žrelen;-lna -o;prid.
+žrelnica;-e;ž
+žrelo;-a;s
+žreti;žrem;nedov.
+žretje;-a;s
+žreti;žrem;nedov.
+žretje;-a;s
+žrka;-e;ž
+žrmljati;-am;nedov.
+žrmlje;-melj;ž mn.
+žrtev;-tve;ž
+žrtje;-a;s
+žrtven;-a -o;prid.
+žrtvenik;-a;m
+žrtveniški;-a -o;prid.
+žrtvovalec;-lca;m
+žrtvovanec;-nca;m
+žrtvovanje;-a;s
+žrtvovanost;-i;ž
+žrtvovati;-ujem;nedov. in dov.
+žubor;-ora;m
+žuborenje;-a;s
+žuboreti;-im;nedov.
+žuganje;-a;s
+žugati;-am;nedov.
+žugavec;-vca;m
+žugniti;-em;dov.
+žuka;-e;ž
+žukovina;-e;ž
+žukovina;-e;ž
+žuliti;;in
+žulj;-a;m
+žuljast;-a -o;prid.
+žuljav;-a -o;prid.
+žuljavina;-e;ž
+žuljavost;-i;ž
+žuljèek;-èka;m
+županèièevski;-a -o;prid.
+županec;-nca;m
+županica;-e;ž
+županija;-e;ž
+županijski;-a -o;prid.
+županiti;-im;nedov.
+županja;-e;ž
+županji;-a -e;prid.
+županov;-a -o;prid.
+županovanje;-a;s
+županovati;-ujem;nedov.
+županski;-a -o;prid.
+županstvo;-a;s
+županovanje;-a;s
+županovati;-ujem;nedov.
+županski;-a -o;prid.
+županstvo;-a;s
+župen;-pna -o;prid.
+župica;-e;ž
+župljan;;in
+župljanka;-e;ž
+župnica;-e;ž
+župnija;-e;ž
+župnijski;-a -o;prid.
+župnikov;-a -o;prid.
+župnikovati;-ujem;nedov.
+župnišèe;-a;s
+župniški;-a -o;prid.
+župniški;-a -o;prid.
+župski;-a -o;prid.
+žur;;tudi
+žuren;-rna -o;prid.
+žuriti se;-im se;nedov.
+žurnal;;tudi
+žurnalist;-a;m
+žuriti se;-im se;nedov.
+žurnal;;tudi
+žurnalist;-a;m
+žurnalistièen;-èna -o;prid.
+žurnalistika;-e;ž
+žurnalistka;-e;ž
+žurnalistovski;-a -o;prid.
+žurnalizem;-zma;m
+žužek;-žka;m
+žuželèen;-èna -o;prid.
+žuželèji;-a -e;prid.
+žuželka;-e;ž
+žuželkar;-ja;m
+žuželkin;-a -o;prid.
+žužkocvetka;-e;ž
+žužkojed;-a;m
+žužkojed;-a -o;prid.
+žužkoslovec;-vca;m
+žužkoslovje;-a;s
+žužlja;-e;ž
+žužljanje;-a;s
+žužljati;-am;nedov.
+žužnja;-e;ž
+žužnjaè;-a;m
+žužnjalast;-a -o;prid.
+žužnjalo;-a;s
+žužnjanje;-a;s
+žužnjati;-am;nedov.
+žužnjav;-ava -o;prid.
+žvala;-e;ž
+žvaliti;-im;nedov.
+žvarast;-a -o;prid.
+žvarcet;-a;m
+žvarovina;;in
+žveèek;-èka;m
+žveèen;-èna -o;prid.
+žveèenje;-a;s
+žveèilec;-lca;m
+žveèilen;-lna -o;prid.
+žveèilo;-a;s
+žveèiti;-im;nedov.
+žveèka;-e;ž
+žvegla;-e;ž
+žveglaè;-a;m
+žveglarica;-e;ž
+žveglati;-am;tudi
+žveglica;-e;ž
+žvekalen;-lna -o;prid.
+žvekalka;-e;ž
+žvekalnik;-a;m
+žvekanje;-a;s
+žvekati;-am;nedov.
+žvenèati;-im;nedov.
+žvenk;žvenka;in
+žvenk;;medm.
+žvenkati;-am;in
+žvenkelj;-klja;m
+žvenket;-eta;m
+žvenketanje;-a;s
+žvenketati;-am;tudi
+žvenkljanje;-a;s
+žvenkljati;-am;nedov.
+žvenkniti;-em;in
+žveplalnica;-e;ž
+žveplalnik;-a;m
+žveplanje;-a;s
+žveplar;-ja;m
+žveplast;-a -o;prid.
+žveplati;-am;nedov.
+žveplec;-a;m
+žveplen;-a -o;prid.
+žveplenica;-e;ž
+žveplenjaèa;-e;ž
+žveplenka;-e;ž
+žvepliti;-im;nedov.
+žveplo;-a;s
+žveplov;-a -o;prid.
+žveplovodik;-a;m
+žveplovodikov;-a -o;prid.
+žverca;-e;ž
+žvirca;;gl.
+žvižg;-a;m
+žvižga;-e;ž
+žvižgaè;-a;m
+žvižgalen;-lna -o;prid.
+žvižganje;-a;s
+žvižgati;-am;nedov.
+žvižgav;-ava -o;tudi
+žvižgavec;-vca;m
+žvižgavka;-e;ž
+žvižgljati;-am;nedov.
+žvižgniti;-em;dov.
+žvokno;-a;s
+žvrgljati;-am;nedov.
+žvrgolenje;-a;s
+žvrgoleti;-im;nedov.
+žvrgolevati;-am;nedov.
+žvrgolevèek;-èka;m
+žvrkati;-am;nedov.
+žvrkelj;-klja;m
+žvrklja;-e;ž
+žvrkljanje;-a;s
+žvrkljati;-am;nedov.

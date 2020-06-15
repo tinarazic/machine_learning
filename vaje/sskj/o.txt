@@ -1,0 +1,5472 @@
+o;;m neskl.
+o;;predl.
+o;;medm.
+o...;;predpona
+oaza;-e;ž
+ob;;predl.
+ob...;;predpona
+oba;;tudi
+obabiti se;-im se;dov.
+obad;;tudi
+obadva;;gl.
+obajati;-am;dov.
+obakraj;;prisl.
+obakraj;;predl.
+obakrat;;prisl.
+obal;-i;ž
+obala;-e;ž
+obalen;-lna -o;prid.
+obaliti;-im;dov.
+obalten;-tna -o;prid.
+obara;-e;ž
+obarek;-rka;m
+obalten;-tna -o;prid.
+obara;-e;ž
+obarek;-rka;m
+obaren;-rna -o;prid.
+obariti;-im;tudi
+obarjalen;-lna -o;prid.
+obarvanje;-a;s
+obarvanost;-i;ž
+obarvati;-am;dov.
+obaviti;-im;dov.
+obavljati;-am;nedov.
+obcesten;-tna -o;prid.
+obèan;;in
+obèanka;-e;ž
+obèanski;-a -o;prid.
+obèanstvo;-a;s
+obèasen;-sna -o;prid.
+obèasnik;-a;m
+obèasnost;-i;ž
+obèe...;;prvi del zloženk
+obèe...;;prvi del zloženk
+obèasnik;-a;m
+obèasnost;-i;ž
+obèe...;;prvi del zloženk
+obèe...;;prvi del zloženk
+obèeèloveški;-a -o;prid.
+obèedržaven;-vna -o;prid.
+obèeljudski;-a -o;prid.
+obèemeti;-im;dov.
+obèen;-èna -o;prid.
+obèenaroden;-dna -o;prid.
+obèepeti;-im;dov.
+obèepraven;-vna -o;prid.
+obèeslovanski;-a -o;prid.
+obèestven;in obèestven -a -o;prid.
+obèestvenost;;tudi
+obèestvo;;in
+obèevalen;-lna -o;prid.
+obèevanje;-a;s
+obèevati;-ujem;nedov.
+obèi;-a -e;prid.
+obèilo;-a;s
+obèina;-e;ž
+obèinar;-ja;m
+obèinski;-a -o;prid.
+obèinstvo;-a;s
+obènost;-i;ž
+obèost;-i;ž
+obèrtati;-am;dov.
+obèrtavati;-am;nedov.
+obèrtovati;-ujem;nedov.
+obèudovalec;-lca;m
+obèudovalen;-lna -o;prid.
+obèudovalka;-e;ž
+obèudovanje;-a;s
+obèudovanka;-e;ž
+obèudovati;-ujem;nedov.
+obèut;-a;m
+obèutek;-tka;m
+obèutenje;-a;s
+obèutenost;-i;ž
+obèutevanje;-a;s
+obèutevati;-am;nedov.
+obèutiti;;in
+obèutje;-a;s
+obèutljaj;;tudi
+obèutljiv;-a -o;prid.
+obèutljivec;-vca;m
+obèutljivost;-i;ž
+obèutljivec;-vca;m
+obèutljivost;-i;ž
+obèutnica;-e;ž
+obèutnost;-i;ž
+obdaèiti;-im;dov.
+obdajati;-am;nedov.
+obdaritev;-tve;ž
+obdariti;-im;dov.
+obdarjati;-am;nedov.
+obdarjenost;;tudi
+obdarovanec;-nca;m
+obdarovanje;-a;s
+obdarovati;-ujem;dov.
+obdati;-dam;dov.
+obdavèenec;-nca;m
+obdavèenje;-a;s
+obdavèenost;-i;ž
+obdavèevanje;-a;s
+obdavèevati;-ujem;nedov.
+obdavèitev;-tve;ž
+obdavèiti;-im;dov.
+obdavèljiv;-a -o;prid.
+obdelanost;-i;ž
+obdelati;-am;dov.
+obdelava;-e;ž
+obdelavati;-am;nedov.
+obdeliti;-im;dov.
+obdelovalec;-lca;m
+obdelovalen;-lna -o;prid.
+obdelovalnica;-e;ž
+obdelovanec;-nca;m
+obdelovanje;-a;s
+obdelovati;-ujem;nedov.
+obdevati;-am;in
+obdirjati;-am;dov.
+obdivjati;-am;dov.
+obdoben;-bna -o;prid.
+obdobje;-a;s
+obdolženec;-nca;m
+obdolženka;-e;ž
+obdolževati;-ujem;nedov.
+obdolžitev;-tve;ž
+obdolžiti;-im;dov.
+obdonavski;-a -o;prid.
+obdravski;-a -o;prid.
+obdrgniti;-em;dov.
+obdrsati;-am;dov.
+obdrsniti;-em;dov.
+obdržanje;-a;s
+obdržati;-im;dov.
+obducent;-enta;in
+obducirati;-am;nedov. in dov.
+obdukcija;-e;ž
+obdukcijski;;tudi
+obeèati;-am,;in
+obeèavati;-am;nedov.
+obed;-eda;m
+obeden;-dna -o;prid.
+obednica;-e;ž
+obedovalec;-lca;m
+obedovalnica;-e;ž
+obedovati;-ujem;tudi
+obel;obla -o;prid.
+obela;-e;ž
+obeleti;-im;dov.
+obeležba;-e;ž
+obeleževati;-ujem;nedov.
+obeležiti;-im;dov.
+obeležje;-a;s
+obelisk;-a;m
+obelodaniti;-im;dov.
+obenem;;prisl.
+ober;obra;m
+obenem;;prisl.
+ober;obra;m
+oberlajtnant;-a;m
+oberoè;;prisl.
+oberoèen;;in
+oberst;-a;m
+obesa;-e;ž
+obesek;-ska;m
+obesen;-sna -o;prid.
+obesišèe;-a;s
+obesiti;-im;dov.
+obešalen;-lna -o;prid.
+obešališèe;-a;s
+obešalnik;-a;m
+obešalo;-a;s
+obešanje;-a;s
+obešanka;-e;ž
+obešati;-am;nedov.
+obešenec;-nca;m
+obešenjak;-a;m
+obešenjaški;-a -o;prid.
+obešenjaštvo;-a;s
+obešenje;-a;s
+obešenka;-e;ž
+obet;-eta;m
+obetanje;-a;s
+obetati;-am;nedov.
+obetaven;;in
+obglaviti;-im;dov.
+obglavljati;-am;nedov.
+obglavljenje;-a;s
+obglodati;-am;tudi
+obglodavati;-am;nedov.
+obgodrnjati;-am;dov.
+obgovarjati;-am;nedov.
+obgovoriti;-im;dov.
+obgozden;-dna -o;prid.
+obgraditi;-im;dov.
+obgristi;-grizem;dov.
+obgrizovati;-ujem;nedov.
+obhajanec;-nca;m
+obhajanje;-a;s
+obhajati;-am;nedov.
+obhajilen;-lna -o;prid.
+obhajilo;-a;s
+obhišen;-šna -o;prid.
+obhod;-oda;m
+obhoden;-dna -o;prid.
+obhoden;;in
+obhoditi;-hodim;dov.
+obhodnica;-e;ž
+obhodnik;-a;m
+obhodnja;-e;ž
+obièaj;-a;m
+obièajen;-jna -o;prid.
+obièajnost;-i;ž
+obièajski;-a -o;prid.
+obièen;;tudi
+obigrati;-am;dov.
+obijanje;-a;s
+obijati;-am;nedov.
+obil;-a -o;prid.
+obilen;-lna -o;prid.
+obilica;-e;ž
+obilje;-a;s
+obilnost;-i;ž
+obilo;;prisl.
+obilokrat;;prisl.
+obilost;-i;ž
+obilovati;-ujem;nedov.
+obimèkati;-am;nedov. in dov.
+obiraè;-a;m
+obiralec;-lca;m
+obiralen;-lna -o;prid.
+obiralka;-e;ž
+obiralnik;-a;m
+obiranje;-a;s
+obirati;-am;nedov.
+obisk;-a;m
+obiskanec;-nca;m
+obiskati;-išèem;dov.
+obiskavati;-am;nedov.
+obiskovalec;-lca;m
+obiskovalka;-e;ž
+obiskovalnica;-e;ž
+obiskovanje;-a;s
+obiskovati;-ujem;nedov.
+obist;-i;ž
+obisten;-tna -o;prid.
+obistiniti;-im;dov.
+obitelj;-i;ž
+obiti;-idem;dov.
+obiti;obijem;dov.
+obitje;-a;s
+objadranje;-a;s
+objadrati;-am;dov.
+objahati;-am;tudi
+objasnitev;-tve;ž
+objasniti;-im;tudi
+objasnjevati;-ujem;nedov.
+objava;-e;ž
+objavitelj;-a;m
+objaviti;-im;dov.
+objavljanje;-a;s
+objavljati;-am;nedov.
+objavljiv;-a -o;prid.
+objed;-a;m
+objedanje;-a;s
+objedati;-am;nedov.
+objedek;-dka;m
+objekt;-a;m
+objekten;-tna -o;prid.
+objektiv;-a;m
+objektivacija;-e;ž
+objektiven;-vna -o;prid.
+objektivirati;-am;dov. in nedov.
+objektivistièen;-èna -o;prid.
+objektiviteta;-e;ž
+objektivizacija;-e;ž
+objektivizem;-zma;m
+objektivizirati;-am;dov. in nedov.
+objektivnost;-i;ž
+objektnik;-a;m
+objem;-ema;m
+objemanje;-a;s
+objemati;-am;stil.
+objemèkati;-am;nedov. in dov.
+objemen;-mna -o;prid.
+objemka;-e;ž
+objest;-i;ž
+objesten;-tna -o;prid.
+objesti;-jem;dov.
+objestnež;-a;m
+objestnost;-i;ž
+objeti;-jamem;dov.
+objetje;-a;s
+objezditi;-im;dov.
+objezerski;;tudi
+objokanec;-nca;m
+objokanka;-e;ž
+objokati;;tudi
+objokavati;-am;nedov.
+objokovalka;-e;ž
+objokovanje;-a;s
+objokovati;-ujem;nedov.
+obkladanje;-a;s
+obkladati;-am;nedov.
+obkladek;-dka;m
+obklajen;-a -o;prid.
+obkleèati;-im;dov.
+obklej;;in
+obklesati;-klešem;dov.
+obkljukati;-am;dov.
+obkolitev;-tve;ž
+obkoliti;-kolim;dov.
+obkolitven;-a -o;prid.
+obkoljati;-am;nedov.
+obkoljenec;-nca;m
+obkoljevalen;-lna -o;prid.
+obkoljevanje;-a;s
+obkoljevati;-ujem;nedov.
+obkopati;-kopljem;tudi
+obkorej;;prisl.
+obkositi;-im;dov.
+obkrajen;-jna -o;prid.
+obkrožati;-am;nedov.
+obkroženje;-a;s
+obkroževati;-ujem;nedov.
+obkrožitev;-tve;ž
+obkrožiti;;in
+obkvaèkati;-am;dov.
+obla;-e;ž
+oblaèec;-èca;m
+oblaèek;-èka;m
+oblaèen;-èna -o;prid.
+oblaèenje;-a;s
+oblaèica;-e;ž
+oblaèilce;-a;s
+oblaèilen;-lna -o;prid.
+oblaèilnica;-e;ž
+oblaèilo;-a;s
+oblaèiti;-im;nedov.
+oblaèiti se;-im se;nedov.
+oblaèje;-a;s
+oblaènost;-i;ž
+oblagalec;-lca;m
+oblaganje;-a;s
+oblagati;-am;nedov.
+oblagodariti;-im;in
+oblajati;-am;dov.
+oblajavati;-am;nedov.
+oblajevati;-ujem;nedov.
+oblak;-a;m
+oblakast;-a -o;prid.
+oblakec;-kca;m
+oblanec;-nca;m
+oblanica;-e;ž
+oblanje;-a;s
+oblast;-i;in
+oblast;-a -o;prid.
+oblastiželjen;-jna -o;prid.
+oblastiželjnost;-i;ž
+oblastnež;-a;m
+oblastnica;-e;ž
+oblastnija;-e;ž
+oblastnik;-a;m
+oblastniški;-a -o;prid.
+oblastništvo;-a;s
+oblastnost;-i;ž
+oblastven;-a -o;prid.
+oblastvo;-a;s
+oblat;-a;m
+oblati;-am;nedov.
+oblatiti;-im;dov.
+oblaziniti;-im;dov.
+oblazinjenje;-a;s
+oblaziti;;in
+oblaževati;-ujem;nedov.
+oblažiti;-im;dov.
+obleèi;obleèem;dov.
+obleèi;-ležem;dov.
+obledelost;-i;ž
+obleden;-dna -o;prid.
+obledelost;-i;ž
+obleden;-dna -o;prid.
+obledeti;-im;dov.
+obledevati;-am;nedov.
+oblega;-e;ž
+oblegalen;-lna -o;prid.
+obleganec;-nca;m
+obleganje;-a;s
+oblegati;-am;nedov.
+oblegovalec;-lca;m
+oblegovalen;-lna -o;prid.
+obleka;-e;ž
+oblekica;-e;ž
+oblepek;-pka;m
+oblepeti;-im;dov.
+oblepiti;;in
+oblepljati;-am;nedov.
+oblesje;-a;s
+oblesti;-lezem;dov.
+oblet;-eta;m
+obletavanje;-a;s
+obletavati;-am;nedov.
+obleten;-tna -o;prid.
+obletavati;-am;nedov.
+obleten;-tna -o;prid.
+obletenje;-a;s
+obleteti;-im;dov.
+obletnica;-e;ž
+obletovati;-ujem;nedov.
+obleven;-vna -o;prid.
+obležati;-im;dov.
+oblica;-e;ž
+obliè;-a;m
+oblièast;-a -o;prid.
+oblièen;-èna -o;prid.
+oblièiti;-im;nedov.
+oblièje;-a;s
+obliènost;-i;ž
+obligacija;-e;ž
+obligacijski;-a -o;prid.
+obligaten;-tna -o;prid.
+obligatoren;-rna -o;prid.
+obligatorièen;-èna -o;prid.
+obligirati;-am;dov. in nedov.
+oblika;-e;ž
+oblikoglasje;-a;s
+oblikosloven;-vna -o;prid.
+oblikoslovje;-a;s
+oblikotvorje;-a;s
+oblikovalec;-lca;m
+oblikovalen;-lna -o;prid.
+oblikovalka;-e;ž
+oblikovalnica;-e;ž
+oblikovalnost;-i;ž
+oblikovalo;-a;s
+oblikovalski;-a -o;prid.
+oblikovanec;-nca;m
+oblikovanje;-a;s
+oblikovanost;-i;ž
+oblikovatelj;-a;m
+oblikovati;-ujem;nedov.
+oblikovec;-vca;m
+oblikoven;-vna -o;prid.
+oblikovit;-a -o;prid.
+oblikovitost;-i;ž
+oblikovnost;-i;ž
+oblina;-e;ž
+oblisniti;-em;dov.
+obliti;-im;nedov.
+obliti;-lijem;dov.
+obliv;-a;m
+oblivanje;-a;s
+oblivati;-am;nedov.
+oblizanec;-nca;m
+oblizanost;-i;ž
+oblizati;;tudi
+oblizavati;-am;nedov.
+oblizek;-zka;m
+oblizniti;-em;dov.
+oblizovati;-ujem;nedov.
+obliž;-a;m
+obližje;-a;s
+obližnji;-a -e;prid.
+obljuba;-e;ž
+obljubiti;;in
+obljubljati;-am;nedov.
+obljubovati;-ujem;nedov.
+obljudenost;-i;ž
+obljuditi;-im;dov.
+oblo;-a;s
+oblo...;;prvi del zloženk
+obloèek;-èka;m
+obloèen;-èna -o;prid.
+obloènica;-e;ž
+obloda;-e;ž
+obloditi;;in
+oblodva;-e;ž
+oblog;-oga;m
+obloga;-e;ž
+obloja;-e;ž
+oblok;;tudi
+oblomiti;-lomim;dov.
+oblomovšèina;-e;ž
+oblost;-i;ž
+obloustka;-e;ž
+oblovina;;in
+oblovina;-e;ž
+obložek;-žka;m
+obložen;-žna -o;prid.
+obloženost;-i;ž
+obložiti;-im;dov.
+obmejek;-jka;m
+obmejen;-jna -o;prid.
+obmejiti;-im;dov.
+obmejnik;-a;m
+obmesten;-tna -o;prid.
+obmestje;-a;s
+obmetati;-meèem;dov.
+obmetavanje;-a;s
+obmetavati;-am;nedov.
+obmirovati;-ujem;dov.
+obmoèen;-èna -o;prid.
+obmoèje;-a;s
+obmodek;-dka;m
+obmolèati;-im;dov.
+obmolkel;-kla -o;prid.
+obmolkniti;-em;dov.
+obmorec;;tudi
+obmorje;-a;s
+obmorski;-a -o;prid.
+obmotati;-am;tudi
+obmreti;-mrem;tudi
+obnašanje;-a;s
+obnašati se;-am se;nedov.
+obnavljalen;-lna -o;prid.
+obnavljanje;-a;s
+obnavljati;-am;nedov.
+obnavljavec;-vca;m
+obnebje;-a;s
+obnemagati;-am;dov.
+obnemelost;-i;ž
+obnemeti;-im;dov.
+obnemoèi;-morem;dov.
+obnemoglost;;tudi
+obnergati;-am;dov.
+obnesti se;-nesem se;dov.
+obnohten;-tna -o;prid.
+obnoreti;-im;dov.
+obnoriti;-im;dov.
+obnosen;;in
+obnositi;-nosim;dov.
+obnova;-e;ž
+obnovitelj;-a;m
+obnovitev;-tve;ž
+obnoviti;-im;dov.
+obnovitven;-a -o;prid.
+obnovljiv;-a -o;prid.
+obnožen;-žna -o;prid.
+obnožina;;in
+oboa;-e;ž
+oboèen;-èna -o;prid.
+obod;-oda;m
+obodec;-dca;m
+oboden;-dna -o;prid.
+obodriti;-im;dov.
+obogatenje;-a;s
+obogateti;-im;dov.
+obogatevati;-am;nedov.
+obogatitev;-tve;ž
+obogatiti;-im;dov.
+oboist;-a;m
+obogatiti;-im;dov.
+oboist;-a;m
+oboj;-oja;m
+oboj;-a -e;zaim.
+oboje;;štev. neskl.
+obojespolen;-lna -o;prid.
+obojestranski;-a -o;prid.
+obojka;-e;ž
+obok;;tudi
+obokast;-a -o;prid.
+obokati;-am;dov.
+oboknica;;in
+obol;;tudi
+obol;;tudi
+obolelost;-i;ž
+obolenje;-a;s
+oboleti;-im;dov.
+obolevanje;-a;s
+obolevati;-am;nedov.
+obolevnost;-i;ž
+obolos;;in
+obor;-ora;m
+obora;-e;ž
+obor;-ora;m
+obora;-e;ž
+oborati;-orjem;in
+oborina;-e;ž
+oboriti;-im;dov.
+oboroženec;-nca;m
+oboroženost;-i;ž
+oboroževalen;-lna -o;prid.
+oboroževanje;-a;s
+oboroževati;-ujem;nedov.
+oborožitev;-tve;ž
+oborožiti;-im;dov.
+oborožitven;-a -o;prid.
+obosti;obodem;dov.
+obotava;-e;ž
+obotavljaè;-a;m
+obotavljanje;-a;s
+obotavljati se;-am se;nedov.
+obotavljav;-ava -o;prid.
+obotavljavec;-vca;m
+obotavljiv;-a -o;prid.
+obotavljivec;-vca;m
+obotavljivost;-i;ž
+obožavati;-am;nedov.
+oboževalec;-lca;m
+oboževalka;-e;ž
+oboževanec;-nca;m
+oboževanje;-a;s
+oboževanka;-e;ž
+oboževatelj;-a;m
+oboževati;-ujem;nedov.
+obplezati;-am;dov.
+obpluti;-plovem;in
+obpoten;-tna -o;prid.
+obraba;-e;ž
+obraben;-bna -o;prid.
+obrabiti;;in
+obrabljati;-am;nedov.
+obrabljenost;-i;ž
+obrabljiv;-a -o;prid.
+obrabljivost;-i;ž
+obrabnina;-e;ž
+obraèaj;-a;m
+obraèalen;-lna -o;prid.
+obraèališèe;-a;s
+obraèalka;-e;ž
+obraèalnik;-a;m
+obraèalo;-a;s
+obraèanje;-a;s
+obraèati;-am;nedov.
+obraèilen;-lna -o;prid.
+obraèljiv;-a -o;prid.
+obraèun;-a;m
+obraèunati;-am;dov.
+obraèunavanje;-a;s
+obraèunavati;-am;nedov.
+obraèunovalec;-lca;m
+obraèunski;-a -o;prid.
+obrad;-a;m
+obradek;-dka;m
+obraditi se;-im se;dov.
+obradostiti;-im;dov.
+obradovati;-ujem;dov.
+obrajda;-e;ž
+obrajtati;-am;nedov.
+obramba;-e;ž
+obramben;-bna -o;prid.
+obramboslovje;-a;s
+obramnica;-e;ž
+obrana;-e;ž
+obraniti;;in
+obrasel;-sla -o;tudi
+obraslika;-e;ž
+obraslost;-i;ž
+obrasnik;-a;m
+obrast;-i;in
+obrastati;-am;nedov.
+obrastek;-tka;m
+obrasti;-rastem;in
+obrastlina;;in
+obrašèati;-am;nedov.
+obrati;oberem;dov.
+obratišèe;-a;s
+obratnik;-a;m
+obratovalen;-lna -o;prid.
+obratovališèe;-a;s
+obratovalnica;-e;ž
+obratovalo;-a;s
+obratovanje;-a;s
+obratovati;-ujem;nedov.
+obratoven;-vna -o;prid.
+obratovodja;-e;in
+obratovodstvo;-a;s
+obravnati;-am;dov.
+obravnava;-e;ž
+obravnavanje;-a;s
+obratovodstvo;-a;s
+obravnati;-am;dov.
+obravnava;-e;ž
+obravnavanje;-a;s
+obravnavati;-am;nedov.
+obravnaven;-vna -o;prid.
+obraz;-aza;m
+obrazdati;-am;dov.
+obrazdati;-am;dov.
+obrazec;-zca;m
+obrazek;-zka;m
+obrazen;-zna -o;prid.
+obrazilo;-a;s
+obraziti;-im;nedov.
+obrazložitev;-tve;ž
+obrazložiti;-im;dov.
+obraznik;-a;m
+obraznost;-i;ž
+obrazovalen;-lna -o;prid.
+obrazovanje;-a;s
+obrazovati;-ujem;nedov.
+obražèek;-èka;m
+obrcati;-am;dov.
+obreèen;-èna -o;prid.
+obreèi;-reèem;dov.
+obred;-eda;m
+obredar;-ja;m
+obreden;-dna -o;prid.
+obrediti;-im;dov.
+obredje;-a;s
+obrednik;-a;m
+obrednost;-i;ž
+obregati se;-am se;nedov.
+obregljiv;-a -o;prid.
+obregniti se;-em se;dov.
+obregovati se;-ujem se;nedov.
+obrejitev;-tve;ž
+obrejiti;-im;tudi
+obrekljiv;-a -o;prid.
+obrekljivec;-vca;m
+obrekljivka;-e;ž
+obrekljivost;-i;ž
+obrekovalec;-lca;m
+obrekovalen;-lna -o;prid.
+obrekovalka;-e;ž
+obrekovalnica;-e;ž
+obrekovalski;-a -o;prid.
+obrekovanje;-a;s
+obrekovati;-ujem;nedov.
+obremenilen;-lna -o;prid.
+obremenitev;-tve;ž
+obremeniti;-im;dov.
+obremenitven;-a -o;prid.
+obremenjenec;-nca;m
+obremenjenost;-i;ž
+obremenjevalen;-lna -o;prid.
+obremenjevanje;-a;s
+obremenjevati;-ujem;nedov.
+obrenkati;-am;dov.
+obresten;-tna -o;prid.
+obresti;-i;ž mn.
+obresti;obredem;dov.
+obrestnoobresten;-tna -o;prid.
+obrestonosen;-sna -o;prid.
+obrestovanje;-a;s
+obrestovati;-ujem;nedov.
+obreza;-e;ž
+obrezaè;-a;m
+obrezanec;-nca;m
+obrezati;-režem;dov.
+obrezavati;-am;nedov.
+obrezek;-zka;m
+obrezina;-e;ž
+obrezlina;-e;ž
+obrezovalec;-lca;m
+obrezovalen;-lna -o;prid.
+obrezovalnik;-a;m
+obrezovanje;-a;s
+obrezovati;-ujem;nedov.
+obrezuspešiti;-im;dov.
+obrežen;-žna -o;prid.
+obrežje;-a;s
+obrh;-a;m
+obribati;-am;dov.
+obris;-a;m
+obrisaèa;-e;ž
+obrisati;obrišem;dov.
+obrisati;-rišem;dov.
+obrisen;-sna -o;prid.
+obrisnica;-e;ž
+obrisovati;-ujem;nedov.
+obriti;obrijem;dov.
+obritina;-e;ž
+obrizg;-a;m
+obrizgati;-am;dov.
+obrizgavati;-am;nedov.
+obrizgniti;-em;dov.
+obrnažiti;-im;dov.
+obrnitev;-tve;ž
+obrniti;;in
+obrnjenost;-i;ž
+obrnljiv;-a -o;prid.
+obrob;;in
+obroba;-e;ž
+obrobek;-bka;m
+obroben;-bna -o;prid.
+obrobiti;;in
+obrobje;-a;s
+obrobljanje;-a;s
+obrobljati;-am;nedov.
+obrobnež;-a;m
+obrobnica;-e;ž
+obrobnik;-a;m
+obrobnost;-i;ž
+obroè;-a;m
+obroèast;-a -o;prid.
+obroèek;-èka;m
+obroèiti;-im;dov.
+obroèkanje;-a;s
+obroèkar;-ja;m
+obroèkast;-a -o;prid.
+obroèkati;-am;nedov.
+obroènica;-e;ž
+obroèkati;-am;nedov.
+obroènica;-e;ž
+obrod;-oda;m
+obrodek;-dka;m
+obroditi;-im;dov.
+obrok;-oka;m
+obromati;-am;dov.
+obronek;-nka;m
+obrov;-ova;m
+obrovski;-a -o;prid.
+obrozgati;-am;dov.
+obrski;-a -o;prid.
+obrsniti;-em;dov.
+obrstiti;-im;dov.
+obrša;-e;ž
+obrt;-a;m
+obrt;-i;tudi
+obrtec;-tca;m
+obrten;-tna -o;prid.
+obrtnica;-e;ž
+obrtnica;-e;ž
+obrtnija;-e;ž
+obrtnik;-a;m
+obrtniški;-a -o;prid.
+obrtništvo;-a;s
+obrtnonadaljevalen;-lna -o;prid.
+obrtnost;-i;ž
+obrtoma;;prisl.
+obrtovati;-ujem;nedov.
+obrunek;-nka;m
+obrunkast;-a -o;prid.
+obrus;-a;m
+obrusek;-ska;m
+obrusiti;;in
+obrv;-i;in
+obrzdanost;-i;ž
+obrzdati;-am;dov.
+obsaditi;-im;dov.
+obscen;-a -o;prid.
+obscenost;-i;ž
+obseèi;-sežem;dov.
+obseènica;-e;ž
+obseda;-e;ž
+obsedati;-am;nedov.
+obseden;-dna -o;prid.
+obsedenec;-nca;m
+obsedenka;-e;ž
+obsedenost;-i;ž
+obsedeti;-im;dov.
+obsedeti;-im;dov.
+obseg;-ega;m
+obsegati;-am;nedov.
+obsegljiv;-a -o;prid.
+obsejati;-sejem;dov.
+obsekati;-am;dov.
+obsekavati;-am;nedov.
+obsena;-e;ž
+obsenèen;-èna -o;prid.
+obsenèevati;-ujem;nedov.
+obsenèiti;-im;dov.
+obsenènik;-a;m
+observacija;-e;ž
+observatorij;-a;m
+obsesija;;tudi
+obsesiven;-vna -o;prid.
+obsesti;-sedem;dov.
+obsevalen;-lna -o;prid.
+obsevalnica;-e;ž
+obsevanec;-nca;m
+obsevanje;-a;s
+obsevati;-am;nedov.
+obseven;-vna -o;prid.
+obsezati;-am;nedov.
+obsežek;-žka;m
+obsežen;-žna -o;prid.
+obsežje;-a;s
+obsežnost;-i;ž
+obsidian;-a;m
+obsijanost;-i;ž
+obsijati;-sijem;dov.
+obsiniti;-em;dov.
+obsipati;-am;tudi
+obsipavati;-am;nedov.
+obskakovati;-ujem;nedov.
+obskurant;-a;m
+obskurantizem;-zma;m
+obskurantski;-a -o;prid.
+obskurantstvo;-a;s
+obskuren;-rna -o;prid.
+obslediti;-im;dov.
+obsloneti;-im;dov.
+obsmrtnica;-e;ž
+obsodba;-e;ž
+obsodilen;-lna -o;prid.
+obsoditi;;in
+obsojanje;-a;s
+obsojati;-am;nedov.
+obsojenec;-nca;m
+obsojenka;-e;ž
+obsojenost;-i;ž
+obsoleten;-tna -o;prid.
+obsonèiti;-im;dov.
+obsorej;;prisl.
+obsovražiti;;in
+obstajanje;-a;s
+obstanek;-nka;m
+obstati;-stanem;dov.
+obstaviti;-im;dov.
+obstekleti;-im;dov.
+obstenski;-a -o;prid.
+obstipacija;-e;ž
+obstoj;-oja;m
+obstojati;-am;nedov.
+obstojeè;-eèa -e;prid.
+obstojen;-jna -o;prid.
+obstojen;;in
+obstojnost;-i;ž
+obstojnost;;in
+obstopiti;;in
+obstranec;-nca;m
+obstojnost;-i;ž
+obstojnost;;in
+obstopiti;;in
+obstranec;-nca;m
+obstranski;-a -o;prid.
+obstrel;-a;m
+obstrelina;-e;ž
+obstreliti;-im;dov.
+obstreljenec;-nca;m
+obstreljenka;-e;ž
+obstreljevanje;-a;s
+obstreljevati;-ujem;nedov.
+obstret;-eta;m
+obstret;-i;ž
+obstreti;-strem;dov.
+obstrièi;-strižem;dov.
+obstrmeti;-im;dov.
+obstruirati;-am;nedov. in dov.
+obstrukcija;-e;ž
+obstrukcionist;-a;m
+obsuti;-sujem;dov.
+obsvetiti;;in
+obsvetliti;-im;dov.
+obsvetljevati;-ujem;nedov.
+obšèitnica;-e;ž
+obširen;-rna -o;prid.
+obširnost;-i;ž
+obšitek;-tka;m
+obšiti;-šijem;dov.
+obšiv;-a;m
+obšivati;-am;nedov.
+obšivavati;-am;nedov.
+obšivek;-vka;m
+obtakniti;;in
+obteèajen;-jna -o;prid.
+obteèi;-teèem;dov.
+obtek;-eka;m
+obtekati;-am;nedov.
+obtesati;-tešem;dov.
+obtesavati;-am;nedov.
+obtež;-i;in
+obtežba;-e;ž
+obteževalen;-lna -o;prid.
+obteževati;-ujem;nedov.
+obtežilen;-lna -o;prid.
+obtežilnik;-a;m
+obtežilo;-a;s
+obtežitev;-tve;ž
+obtežiti;-im;dov.
+obtièati;-im;dov.
+obtipati;-am;in
+obtipavati;-am;nedov.
+obtisniti;-em;dov.
+obtišèati;-im;dov.
+obtoèen;-èna -o;prid.
+obtoèilo;-a;s
+obtok;-oka;m
+obtolèenina;-e;ž
+obtolèi;-tolèem;dov.
+obtorej;;prisl.
+obtorej;;prisl.
+obtovoriti;-im;tudi
+obtožba;-e;ž
+obtožben;;in
+obtožen;-žna -o;prid.
+obtoženec;-nca;m
+obtoženka;-e;ž
+obtoževalec;-lca;m
+obtoževanje;-a;s
+obtoževati;-ujem;nedov.
+obtožilen;-lna -o;prid.
+obtožitelj;-a;m
+obtožiti;;in
+obtožnica;-e;ž
+obtožnica;-e;ž
+obtrgati;-am;stil.
+obtrgavati;-am;nedov.
+obtrgovati;-ujem;nedov.
+obtrkati;-am;dov.
+obtrkavanje;-a;s
+obtrkavati;-am;nedov.
+obubožanec;-nca;m
+obubožanje;-a;s
+obubožanost;-i;ž
+obubožati;-am;dov.
+obuditev;-tve;ž
+obuditi;-im;dov.
+obujanje;-a;s
+obujati;-am;nedov.
+obujek;-jka;m
+obujevalec;-lca;m
+obujka;-e;ž
+obunkati;-am;dov.
+obup;-a;m
+obupanec;-nca;m
+obupanka;-e;ž
+obupanost;-i;ž
+obupati;-am;dov.
+obupavanje;-a;s
+obupavati;-am;nedov.
+obupen;-pna -o;prid.
+obupljiv;-a -o;prid.
+obupnost;-i;ž
+obupovati;-ujem;nedov.
+obusten;-tna -o;prid.
+obustje;-a;s
+obušesen;-sna -o;prid.
+obutal;-i;ž
+obutalo;-a;s
+obutel;-i;ž
+obutev;-tve;ž
+obuti;obujem;dov.
+obutven;-a -o;prid.
+obuvalen;-lna -o;prid.
+obuvalo;-a;s
+obuvanje;-a;s
+obuvati;-am;nedov.
+obuzdati;-am;dov.
+obvarovalen;-lna -o;prid.
+obvarovati;-ujem;in
+obvdoveti;-im;dov.
+obveljati;-am;dov.
+obveseliti;-im;dov.
+obvesiti;-im;dov.
+obveslati;-am;dov.
+obvestilen;-lna -o;prid.
+obvestilo;-a;s
+obvestitelj;-a;m
+obvestitev;-tve;ž
+obvestiti;-im;dov.
+obvešèanje;-a;s
+obvešèati;-am;nedov.
+obvešèenost;;tudi
+obvešèevalec;-lca;m
+obvešèevalen;-lna -o;prid.
+obvešèevalka;-e;ž
+obveti;-vejem;dov.
+obvevati;-am;nedov.
+obveza;-e;ž
+obvezanec;-nca;m
+obvezati;;in
+obvezavati;-am;nedov.
+obvezen;-zna -o;prid.
+obvezilen;-lna -o;prid.
+obvezilo;-a;s
+obveznica;-e;ž
+obveznik;-a;m
+obveznost;-i;ž
+obveznosten;-tna -o;prid.
+obvezovališèe;-a;s
+obvezovalnica;-e;ž
+obvezovanje;-a;s
+obvezovati;-ujem;nedov.
+obvijati;-am;nedov.
+obviseti;-im;dov.
+obviti;-vijem;dov.
+obvladanje;-a;s
+obvladanost;-i;ž
+obvladati;-am;dov.
+obvladljiv;-a -o;prid.
+obvladovanje;-a;s
+obvladovati;-ujem;nedov.
+obvod;-oda;m
+obvoden;-dna -o;prid.
+obvoden;-dna -o;prid.
+obvohati;-am;dov.
+obvohavati;-am;nedov.
+obvoz;-oza;m
+obvozen;;in
+obvoziti;-vozim;dov.
+obvoznica;-e;ž
+obvzeti;-vzamem;dov.
+obzankati;-am;dov.
+obzariti;-im;tudi
+obzidati;;tudi
+obzidava;-e;ž
+obzidavati;-am;nedov.
+obzidek;-dka;m
+obziden;-dna -o;prid.
+obzidje;-a;s
+obzijati;-am;dov.
+obzir;-a;m
+obziren;-rna -o;prid.
+obzirnost;-i;ž
+obznana;;tudi
+obzoben;-bna -o;prid.
+obzor;-ora;m
+obzoren;-rna -o;prid.
+obzorje;-a;s
+obzornica;-e;ž
+obzornik;-a;m
+obzorniški;-a -o;prid.
+obzvanjati;-am;nedov.
+obžagati;-am;dov.
+obžalovanje;-a;s
+obžalovati;-ujem;nedov.
+obžariti;-im;tudi
+obžarjati;-am;nedov.
+obždeti;-ždim;dov.
+obžeti;-žanjem;dov.
+obžgati;-žgem;dov.
+obžigati;-am;nedov.
+obžirati;-am;nedov.
+obžreti;-žrem;dov.
+ocariniti;-im;dov.
+ocarinjenje;-a;s
+ocean;-a;m
+oceanograf;-a;m
+oceanografija;-e;ž
+oceanografski;-a -o;prid.
+oceanski;-a -o;prid.
+ocebati;-am;dov.
+ocediti;-im;dov.
+ocejati;-am;nedov.
+ocena;-e;ž
+ocenitev;-tve;ž
+oceniti;-im,;in
+ocenjati;-am;nedov.
+ocenjevalec;-lca;m
+ocenjevalen;-lna -o;prid.
+ocenjevalka;-e;ž
+ocenjevanje;-a;s
+ocenjevati;-ujem;nedov.
+ocenljiv;-a -o;prid.
+ocepek;-pka;m
+ocet;octa;m
+oceten;-tna -o;prid.
+ocetnokislinski;-a -o;prid.
+ocevje;-a;s
+ociganiti;-im;dov.
+ocilindran;-a -o;prid.
+ocmokati;-am;dov.
+octovec;-vca;m
+ocurek;-rka;m
+ocvesti;;tudi
+ocveteti;-im;dov.
+ocvetlièiti;-im;dov.
+ocvirek;-rka;m
+ocvirkov;-a -o;prid.
+ocvirkovica;-e;ž
+ocvirkovka;-e;ž
+ocvreti;ocvrem;dov.
+ocvrtek;-tka;m
+oèa;-a;in
+oèak;-a;m
+oèakovati;-ujem;nedov.
+oèakovski;-a -o;prid.
+oèala;oèal;s mn.
+oèalar;-ja;m
+oèalast;-a -o;prid.
+oèalen;-lna -o;prid.
+oèali;oèal;m mn.
+oèanec;-nca;m
+oèaranje;-a;s
+oèaranost;-i;ž
+oèarati;-am;dov.
+oèarljiv;-a -o;prid.
+oèarljivka;-e;ž
+oèarljivost;-i;ž
+oèarovati;-ujem;nedov.
+oèaški;-a -o;prid.
+oèce;-a;s
+oèe;-eta;m
+oèediti;-im;dov.
+oèek;oèka;m
+oèeladiti;-im;dov.
+oèeliti;-im;in
+oèelje;;in
+oèeljustati;-am;dov.
+oèenaš;-aša;m
+oèenašek;-ška;m
+oèenèati;-am;dov.
+oèesati;oèešem;dov.
+oèesce;-a;s
+oèesen;-sna -o;prid.
+oèesnat;-a -o;prid.
+oèeten;-tna -o;prid.
+oèetnjava;-e;ž
+oèetomor;-ora;m
+oèetomorilec;-lca;m
+oèetov;-a -o;prid.
+oèetovati;-ujem;nedov.
+oèetovina;-e;ž
+oèetovski;-a -o;prid.
+oèetovstvo;-a;s
+oèevina;-e;ž
+oèi;-ja;m
+oèigled;;m neskl.
+oèim;-a;m
+oèin;-a -o;prid.
+oèina;-e;ž
+oèipkati;-am;dov.
+oèistiti;-im;dov.
+oèišèati;-am;nedov.
+oèišèe;-a;s
+oèišèenje;-a;s
+oèišèevalec;-lca;m
+oèišèevalen;-lna -o;prid.
+oèišèevališèe;-a;s
+oèišèevanje;-a;s
+oèišèevati;-ujem;nedov.
+oèit;-a -o;prid.
+oèitanje;-a;s
+oèitar;-ja;m
+oèitek;-tka;m
+oèiten;-tna -o;prid.
+oèitnost;-i;ž
+oèivesten;-tna -o;prid.
+oèividec;-dca;m
+oèividen;-dna -o;prid.
+oèividnost;-i;ž
+oèividstvo;-a;s
+oèka;-a;m
+oèka;-e;ž
+oèkovati;-ujem;nedov.
+oèloveèenje;-a;s
+oèloveèiti;-im;dov.
+oènica;;in
+oènica;-e;ž
+oènjak;-a;m
+oèloveèiti;-im;dov.
+oènica;;in
+oènica;-e;ž
+oènjak;-a;m
+oèofati;-am;dov.
+oèohati;-am;in
+oèrneti;-im;dov.
+oèrniti;-im;in
+oèrt;-a;m
+oèrtati;-am;dov.
+oèrtavati;-am;nedov.
+oèrtek;-tka;m
+oèrtovati;-ujem;nedov.
+oèuvati;-am;dov.
+oèvrstiti;-im;dov.
+od;;predl.
+od...;;predpona
+oda;-e;ž
+odahniti;;in
+odaliska;-e;ž
+odbegel;-gla -o;prid.
+odbegniti;-em;dov.
+odbezljati;-am;dov.
+odbežati;-im;dov.
+odbijaè;-a;m
+odbijalen;-lna -o;prid.
+odbijanje;-a;s
+odbijati;-am;nedov.
+odbira;-e;ž
+odbiralec;-lca;m
+odbiralen;-lna -o;prid.
+odbiranje;-a;s
+odbirati;-am;nedov.
+odbirek;-rka;m
+odbitek;-tka;m
+odbiten;-tna -o;prid.
+odbiti;-bijem;dov.
+odbitje;-a;s
+odblesk;;tudi
+odblisk;-a;m
+odblisniti;-em;dov.
+odbobnati;-am;dov.
+odbobneti;-im;dov.
+odboèka;-e;ž
+odboj;-oja;m
+odbojen;-jna -o;prid.
+odbojka;-e;ž
+odbojkar;-ja;m
+odbojkarica;-e;ž
+odbojkarski;-a -o;prid.
+odbojnik;-a;m
+odbojnost;-i;ž
+odbor;-ora;m
+odbornica;-e;ž
+odbornik;-a;m
+odborniški;-a -o;prid.
+odborništvo;-a;s
+odborov;-a -o;prid.
+odbranec;-nca;m
+odbranost;-i;ž
+odbrati;-berem;dov.
+odbrcniti;-em;dov.
+odbrenèati;-im;dov.
+odbrenkati;-am;dov.
+odbriti;-brijem;dov.
+odbrneti;-im;dov.
+odbrzeti;-im;dov.
+odbuèati;-im;dov.
+odburiti;-im;dov.
+odcapljati;-am;dov.
+odcedek;-dka;m
+odceden;-dna -o;prid.
+odcediti;-im;dov.
+odceden;-dna -o;prid.
+odcediti;-im;dov.
+odcejalen;-lna -o;prid.
+odcejalnik;-a;m
+odcejanje;-a;s
+odcejati;-am;nedov.
+odcep;-epa;m
+odcepek;-pka;m
+odcepen;-pna -o;prid.
+odcepetati;-am;dov.
+odcepitev;-tve;ž
+odcepiti;;in
+odcepitven;-a -o;prid.
+odcepljati;-am;nedov.
+odcijaziti;-im;dov.
+odcingljati;-am;dov.
+odcoklati;-am;dov.
+odcvesti;;tudi
+odcvet;-eta;m
+odcvetati;-am;nedov.
+odcveteti;-im;dov.
+odcviliti;-im;dov.
+odcvirnati;-am;dov.
+odcvitati;-am;nedov.
+odèaranje;-a;s
+odèarati;-am;dov.
+odèehniti;-em;in
+odèepiti;-èepim;in
+odèepnik;-a;m
+odèesek;-ska;m
+odèesniti;-em;in
+odèitati;-am;dov.
+odèitavanje;-a;s
+odèitavati;-am;nedov.
+odèitek;-tka;m
+odèotati;-am;in
+oddahniti se;;in
+oddaja;-e;ž
+oddajalec;-lca;m
+oddajanje;-a;s
+oddajati;-am;nedov.
+oddajen;-jna -o;prid.
+oddajnica;-e;ž
+oddajnik;-a;m
+oddaleè;;in
+oddaljenost;-i;ž
+oddaljevanje;-a;s
+oddaljevati;-ujem;nedov.
+oddaljevati se;-ujem se;nedov.
+oddaljitev;-tve;ž
+oddaljiti;-im;dov.
+oddaljiti se;-im se;tudi
+oddati;-dam;dov.
+oddavna;;in
+oddavnaj;;in
+oddeklamirati;-am;dov.
+oddelati;-am;dov.
+oddelèen;-èna -o;prid.
+oddelek;-lka;m
+oddelitev;-tve;ž
+oddeliti;-im;dov.
+oddeljevati;-ujem;nedov.
+oddelkoven;-vna -o;prid.
+oddelkovodja;-e;tudi
+oddih;-a;m
+oddihati se;-am se;in
+oddihavati se;-am se;in
+oddihljaj;;stil.
+oddihovati se;-ujem se;in
+oddirjati;-am;dov.
+oddivjati;-am;dov.
+oddojiti;-im;dov.
+oddolževati se;-ujem se;nedov.
+oddolžitev;-tve;ž
+oddolžiti se;-im se;dov.
+oddrdrati;-am;dov.
+oddrgniti;-em;dov.
+oddrncati;-am;dov.
+oddrobenteti;-im;dov.
+oddrobiti;-im;dov.
+oddrobneti;-im;dov.
+oddrsati;-am;dov.
+oddrseti;-im;dov.
+oddrveti;-im;dov.
+oddušek;-ška;m
+oddušen;-šna -o;prid.
+odduška;-e;ž
+odduškati se;-am se;dov.
+oddušnik;;in
+oddvajati;-am;nedov.
+oddvojiti;-im;dov.
+odebeleti;-im;dov.
+odebelina;-e;ž
+odebelitev;-tve;ž
+odebeliti;-im;dov.
+odeja;-e;ž
+odejica;-e;ž
+odelo;-a;s
+odeon;;in
+oder;odra;m
+oderuh;-a;m
+oderuhinja;-e;ž
+oderuški;-a -o;prid.
+oderuštvo;-a;s
+odeti;odenem;dov.
+odev;-eva;m
+odeva;-e;ž
+odevalo;-a;s
+odevanje;-a;s
+odevati;-am;stil.
+odevka;-e;ž
+odfrcniti;-em;dov.
+odfrèati;-im;dov.
+odfrfotati;-am;tudi
+odfrleti;-im;dov.
+odgajati;-am;nedov.
+odgalopirati;-am;dov.
+odganjanje;-a;s
+odganjati;-am;nedov.
+odganjek;-jka;m
+odglasiti;-im;dov.
+odgnati;-ženem;dov.
+odgniti;-gnijem;dov.
+odgoditev;-tve;ž
+odgoditi;-im;dov.
+odgoja;-e;ž
+odgojevati;-ujem;nedov.
+odgojitelj;-a;m
+odgojiteljica;-e;ž
+odgojiti;-im;dov.
+odgon;-ona;m
+odgonetiti;-im;dov.
+odgonski;-a -o;prid.
+odgoreti;-im;dov.
+odgovarjalec;-lca;m
+odgovarjanje;-a;s
+odgovarjati;-am;nedov.
+odgovor;-a;m
+odgovoren;-rna -o;prid.
+odgovoriti;-im;dov.
+odgovornost;-i;ž
+odgovornosten;-tna -o;prid.
+odgozditi;-im;in
+odgrabiti;;in
+odgrebati;-am;nedov.
+odgrebsti;-grebem;dov.
+odgrinjati;-am;nedov.
+odgristi;-grizem;dov.
+odgrizniti;-em;dov.
+odgrizniti;-em;dov.
+odgrmeti;-im;dov.
+odgrniti;;in
+odgugati se;-am se;tudi
+odhacati;-am;dov.
+odhajaè;-a;m
+odhajanje;-a;s
+odhajati;-am;nedov.
+odhiteti;-im;dov.
+odhlaèati;-am;dov.
+odhod;-oda;m
+odhodek;-dka;m
+odhoden;-dna -o;prid.
+odhodnica;-e;ž
+odhodnik;-a;m
+odhodnja;-e;ž
+odhrkati se;-am se;dov.
+odhrkavati se;-am se;nedov.
+odhrkniti se;-em se;dov.
+odhrumeti;-im;dov.
+odhuliti se;-im se;dov.
+odica;;tudi
+odièen;;tudi
+odièiti;-im;dov.
+odiènica;;tudi
+odigranje;-a;s
+odigrati;-am;dov.
+odigravati;-am;nedov.
+odij;-a;m
+odimiti;-im;dov.
+odiozen;-zna -o;prid.
+odioznost;-i;ž
+odiralec;-lca;m
+odiranje;-a;s
+odirati;-am;nedov.
+odiseja;-e;ž
+odisejada;-e;ž
+odisejski;-a -o;prid.
+odišaviti;-im;dov.
+odišavljati;-am;nedov.
+odišel;-šla -o;prid.
+oditi;-idem;dov.
+odjadrati;-am;dov.
+odjahati;-am;tudi
+odjava;-e;ž
+odjaven;-vna -o;prid.
+odjaviti;-im;dov.
+odjavnica;-e;ž
+odjedati;-am;nedov.
+odjek;;tudi
+odjekati;-am;nedov.
+odjekniti;-em;dov.
+odjem;-ema;m
+odjemalec;-lca;m
+odjemalen;-lna -o;prid.
+odjemalka;-e;ž
+odjemalnik;-a;m
+odjemati;-am;stil.
+odjemen;-mna -o;prid.
+odjemnik;-a;m
+odjenjati;-am;dov.
+odjenljiv;-a -o;prid.
+odjenljivost;-i;ž
+odjesti;-jem;dov.
+odjezditi;-im;dov.
+odjuga;-e;ž
+odjužiti se;-im se;dov.
+odkar;;vez.
+odkašljati;-am;dov.
+odkašljevanje;-a;s
+odkašljevati se;-ujem se;nedov.
+odkazati;;tudi
+odkazovanje;-a;s
+odkazovati;-ujem;nedov.
+odkidati;-am;dov.
+odkidavati;-am;nedov.
+odkimati;-am;dov.
+odkimavati;-am;nedov.
+odkimovati;-ujem;nedov.
+odkladališèe;-a;s
+odkladati;-am;nedov.
+odkladnina;-e;ž
+odklamati;-am;dov.
+odklanjanje;-a;s
+odklanjati;-am;nedov.
+odklapljati;-am;nedov.
+odklati;-koljem;dov.
+odklatiti;;in
+odklej;;in
+odkleniti;-klenem;dov.
+odklenkati;-am;dov.
+odklepanje;-a;s
+odklepati;-am;nedov.
+odklesati;-klešem;dov.
+odklestiti;-im;dov.
+odkletev;-tve;ž
+odkleti;-kolnem;dov.
+odkljukati;-am;dov.
+odklobuštrati;-am;dov.
+odklon;-ona;m
+odklonilen;-lna -o;prid.
+odklonitev;-tve;ž
+odkloniti;-klonim;dov.
+odklonljiv;-a -o;prid.
+odklonski;-a -o;prid.
+odklop;-opa;in
+odklopen;-pna -o;prid.
+odklopitev;-tve;ž
+odklopiti;;in
+odklopnik;-a;m
+odklopotati;-am;tudi
+odkobaliti;-im;dov.
+odkoèiti;-im;dov.
+odkod;;in
+odkoder;;in
+odkolovratiti;-im;dov.
+odkop;-opa;m
+odkopati;-kopljem;tudi
+odkopavanje;-a;s
+odkopavati;-am;nedov.
+odkopen;-pna -o;prid.
+odkopneti;-im;dov.
+odkoracati;-am;dov.
+odkoraèiti;-im;dov.
+odkorakati;-am;dov.
+odkos;-osa;m
+odkositi;-im;dov.
+odkositi;-im;dov.
+odkotaliti;-im;dov.
+odkovati;-kujem;dov.
+odkovek;-vka;m
+odkrasti se;-kradem se;dov.
+odkrehati;-am;dov.
+odkrehniti;-em;tudi
+odkrevljati;-am;dov.
+odkrevsati;-am;dov.
+odkrhavati;-am;nedov.
+odkrhek;-hka;m
+odkrhniti;-em;dov.
+odkritelj;-a;m
+odkriteljski;-a -o;prid.
+odkriti;-krijem;dov.
+odkritje;-a;s
+odkritosrèen;-èna -o;prid.
+odkritosrènež;-a;m
+odkritosrènost;-i;ž
+odkritost;-i;ž
+odkrivalec;-lca;m
+odkrivanje;-a;s
+odkrivateljski;-a -o;prid.
+odkrivati;-am;nedov.
+odkrižati se;-am se;dov.
+odkršek;-ška;m
+odkrušek;-ška;m
+odkrušiti;;in
+odkukati;-am;dov.
+odkup;-a;m
+odkupen;-pna -o;prid.
+odkupiti;;in
+odkupnik;-a;m
+odkupnina;-e;ž
+odkupovalec;-lca;m
+odkupovalnica;-e;ž
+odkupovanje;-a;s
+odkupovati;-ujem;nedov.
+odkuriti;;in
+odlagalen;-lna -o;prid.
+odlagališèe;-a;s
+odlaganje;-a;s
+odlagati;-am;nedov.
+odlahniti;;in
+odlakan;-a -o;prid.
+odlamljati;-am;nedov.
+odlašalec;-lca;m
+odlašanje;-a;s
+odlašati;-am;nedov.
+odlašek;-ška;m
+odleèi;-ležem;dov.
+odlegati;-am;nedov.
+odlegel;-gla -o;prid.
+odlepiti;;in
+odlepljati;-am;nedov.
+odlesk;-eska;in
+odlesti;-lezem;dov.
+odlet;-eta;m
+odletati;-am;nedov.
+odletavati;-am;nedov.
+odleteti;-im;dov.
+odletišèe;-a;s
+odležati;-im;dov.
+odlièen;-èna -o;prid.
+odlièje;-a;s
+odliènica;-e;ž
+odliènik;-a;m
+odliènjak;-a;m
+odliènjakinja;-e;ž
+odliènost;-i;ž
+odlika;-e;ž
+odlikovanec;-nca;m
+odlikovanje;-a;s
+odlikovanka;-e;ž
+odlikovati;-ujem;dov. in nedov.
+odlitek;-tka;m
+odliti;-lijem;dov.
+odliv;-a;m
+odlivati;-am;nedov.
+odlivek;-vka;m
+odljuden;-dna -o;prid.
+odljudnež;-a;m
+odljudnost;-i;ž
+odloèanje;-a;s
+odloèati;-am;nedov.
+odloèba;-e;ž
+odloèen;-èna -o;prid.
+odloèenost;-i;ž
+odloèevanje;-a;s
+odloèevati;-ujem;nedov.
+odloèilen;-lna -o;prid.
+odloèitev;-tve;ž
+odloèiti;;in
+odloènež;-a;m
+odloènost;-i;ž
+odlog;-oga;m
+odlok;-oka;m
+odlom;-oma;m
+odlomastiti;-im;dov.
+odlomek;-mka;m
+odlomiti;-lomim;dov.
+odloputniti;-em;dov.
+odlotati;-am;dov.
+odlov;-ova;m
+odložilen;-lna -o;prid.
+odložitev;-tve;ž
+odložiti;-im;dov.
+odložljiv;-a -o;prid.
+odlušèiti;;in
+odmahati;-am,;in
+odmahniti;-em,;in
+odmahovati;-ujem;nedov.
+odmajati;-majem;tudi
+odmajevati;-ujem;nedov.
+odmakati;-am;nedov.
+odmaknitev;-tve;ž
+odmakniti;;in
+odmaknjenec;-nca;m
+odmaknjenost;-i;ž
+odmanjkati;-am;dov.
+odmarširati;-am;dov.
+odmašèevati;-ujem;nedov.
+odmaševati;-ujem;dov.
+odmašiti;-im;dov.
+odmašnjak;-a;m
+odmeèek;-èka;m
+odmegliti;-im;dov.
+odmeka;-e;ž
+odmekniti;-em;dov.
+odmena;-e;ž
+odmencati;-am;dov.
+odmeniti;;in
+odmera;-e;ž
+odmerek;-rka;m
+odmeriti;-im;dov.
+odmerjanje;-a;s
+odmerjati;-am;nedov.
+odmerjenost;-i;ž
+odmet;-eta;m
+odmetalen;-lna -o;prid.
+odmetalo;-a;s
+odmetati;-am;nedov.
+odmetati;-meèem;dov.
+odmetavanje;-a;s
+odmetavati;-am;nedov.
+odmeti;odmem;dov.
+odmev;-eva;m
+odmevati;-am;nedov.
+odmevnik;-a;m
+odmevnost;-i;ž
+odmièen;-èna -o;prid.
+odmigavati;-am;nedov.
+odmigniti;-em;dov.
+odmik;-a;m
+odmikaè;-a;m
+odmikalka;-e;ž
+odmikanje;-a;s
+odmikati;-am;nedov.
+odmiranje;-a;s
+odmirati;-am;nedov.
+odmisliti;-im;dov.
+odmišljanje;-a;s
+odmišljati;-am;nedov.
+odmlada;;prisl.
+odmoèiti;-moèim;dov.
+odmoliti;-molim;dov.
+odmontirati;-am;dov.
+odmor;-ora;m
+odmotati;-am;tudi
+odmotavati;-am;nedov.
+odmotoviliti;-im;dov.
+odmotavati;-am;nedov.
+odmotoviliti;-im;dov.
+odmreti;-mrem;tudi
+odmrlost;-i;ž
+odmrmrati;-am;dov.
+odmrtje;-a;s
+odmrzel;-zla -o;prid.
+odmrzniti;-em;dov.
+odmrzovanje;-a;s
+odmrzovati;-ujem;nedov.
+odmuliti;-im;dov.
+odnaroditi;-im;dov.
+odnašalec;-lca;m
+odnašanje;-a;s
+odnašati;-am;nedov.
+odnedavna;;in
+odnehanje;-a;s
+odnehati;-am;dov.
+odnehavati;-am;nedov.
+odnehljivost;-i;ž
+odnehovati;-ujem;nedov.
+odnes;-esa;m
+odnesti;-nesem;dov.
+odnos;-osa;m
+odnosen;-sna -o;prid.
+odnosnica;-e;ž
+odnosnost;-i;ž
+odnošaj;-a;m
+odnoženje;-a;s
+odnožiti;-im;dov.
+odobravanje;-a;s
+odobravati;-am;nedov.
+odobrenje;-a;s
+odobritev;-tve;ž
+odobriti;-im;dov.
+odobrovoljiti;-im;dov.
+odojek;-jka;m
+odoleti;-im;dov.
+odolin;-a;m
+odondod;;in
+odonod;;in
+odor;-ora;m
+odorati;-orjem;in
+odpad;-ada;m
+odpadati;-am;nedov.
+odpadek;-dka;m
+odpaden;-dna -o;prid.
+odpadnik;-a;m
+odpadniški;-a -o;prid.
+odpadniški;-a -o;prid.
+odpadništvo;-a;s
+odpahniti;;in
+odpahovati;-ujem;nedov.
+odparati;-am;dov.
+odpasati;-pašem;dov.
+odpasti;-padem;dov.
+odpeèatiti;-im;dov.
+odpeketati;-am;tudi
+odpeljati;-peljem;tudi
+odpeljavati;-am;nedov.
+odpenjanje;-a;s
+odpenjati;-am;nedov.
+odpestnik;-a;m
+odpetati;-am;dov.
+odpeti;-pnem;dov.
+odpeti;-pojem;dov.
+odpev;;in
+odpevati;-am;nedov.
+odpihati;-am;dov.
+odpihavati;-am;nedov.
+odpihniti;-em;dov.
+odpihovati;-ujem;nedov.
+odpik;;medm.
+odpiliti;-im;dov.
+odpiraè;-a;m
+odpiralec;-lca;m
+odpiralen;-lna -o;prid.
+odpiralo;-a;s
+odpiranje;-a;s
+odpirati;-am;nedov.
+odpis;-a;m
+odpisati;;in
+odpiskati;-am;dov.
+odpisovati;-ujem;nedov.
+odpiti;-pijem;dov.
+odplaèati;;in
+odplaèen;-èna -o;prid.
+odplaèevanje;-a;s
+odplaèevati;-ujem;nedov.
+odplaèilen;-lna -o;prid.
+odplaèilo;-a;s
+odplaèljiv;-a -o;prid.
+odplahniti;;in
+odplaka;-e;ž
+odplakniti;;in
+odplakovalen;-lna -o;prid.
+odplakovanje;-a;s
+odplakovati;-ujem;nedov.
+odplavati;-am;dov.
+odplaviti;-im;tudi
+odplavljanje;-a;s
+odplavljati;-am;nedov.
+odplaziti se;;in
+odplesati;;in
+odplesti;-pletem;dov.
+odpletati;-am;nedov.
+odplinjevati;-ujem;nedov.
+odpljuniti;-em;dov.
+odpljuskniti;-em;dov.
+odpljusniti;-em;dov.
+odplombirati;-am;dov.
+odpluti;-plovem;in
+odplutje;-a;s
+odpoèiniti;-em;dov.
+odpoèitek;-tka;m
+odpoèiti se;-poèijem se;in
+odpoèivališèe;-a;s
+odpoèivanje;-a;s
+odpoèivati se;-am se;in
+odpoditi;-im;dov.
+odpoklic;-a;m
+odpoklicati;-klièem;dov.
+odpoklicen;-cna -o;prid.
+odpoklicljiv;-a -o;prid.
+odpoljubiti;;in
+odpoljubljati;-am;nedov.
+odpolzeti;-im;dov.
+odpomoè;-i;in
+odpomoèek;-èka;m
+odpomoèi;-morem;dov.
+odpor;-ora;m
+odpornik;-a;m
+odporniški;-a -o;prid.
+odporništvo;-a;s
+odpornost;-i;ž
+odposlanec;-nca;m
+odposlanka;-e;ž
+odposlanski;-a -o;prid.
+odposlanstvo;-a;s
+odposlati;-pošljem;dov.
+odpošiljanje;-a;s
+odpošiljatelj;-a;m
+odpošiljatev;-tve;ž
+odpošiljati;-am;nedov.
+odpotovanje;-a;s
+odpotovati;-ujem;tudi
+odpoved;-i;ž
+odpotovati;-ujem;tudi
+odpoved;-i;ž
+odpovedati;-povem;dov.
+odpoveden;-dna -o;prid.
+odpovedljiv;-a -o;prid.
+odpovedovanje;-a;s
+odpovedovati;-ujem;nedov.
+odpraskati;-am;dov.
+odpraševalen;-lna -o;prid.
+odprati;-perem;dov.
+odprava;-e;ž
+odpravek;-vka;m
+odpraven;-vna -o;prid.
+odpraviti;-im;dov.
+odpravljanje;-a;s
+odpravljati;-am;nedov.
+odpravljiv;-a -o;prid.
+odpravnica;-e;ž
+odpravnik;-a;m
+odpravnina;-e;ž
+odpravništvo;-a;s
+odpravšèina;-e;ž
+odpreèi;-prežem;dov.
+odpredavati;-am;dov.
+odprema;-e;ž
+odpremen;-mna -o;prid.
+odpremiti;-im;dov.
+odpremljati;-am;nedov.
+odpremnica;-e;ž
+odpremnik;-a;m
+odpresek;-ska;m
+odpreti;-prem;dov.
+odprhniti;-em;dov.
+odprhutati;-am;dov.
+odpridigati;-am;dov.
+odprodaja;-e;ž
+odprodajati;-am;nedov.
+odprodati;-dam;dov.
+odprtina;-e;ž
+odprtinica;-e;ž
+odprtje;-a;s
+odprtost;-i;ž
+odprtosten;-tna -o;prid.
+odpuhati;-am;dov.
+odpuhniti;-em;dov.
+odpust;-a;m
+odpustek;-tka;m
+odpustitev;-tve;ž
+odpustitev;-tve;ž
+odpustiti;-im;dov.
+odpustljiv;-a -o;prid.
+odpustljivost;-i;ž
+odpustnica;-e;ž
+odpustnik;-a;m
+odpušèanje;-a;s
+odpušèanje;-a;s
+odpušèati;-am;nedov.
+odpušèenec;-nca;m
+odpušèenje;-a;s
+odrabiti;;in
+odracati;-am;dov.
+odraèunati;-am;dov.
+odrajtati;-am;dov.
+odrajtovati;-ujem;nedov.
+odrajžati;-am;dov.
+odranje;-a;s
+odrapati;-am;in
+odrasel;-sla -o;tudi
+odraslek;-a;m
+odraslost;-i;ž
+odrastek;-tka;m
+odrasti;-rastem;in
+odrasti;-rastem;in
+odrašèanje;-a;s
+odrašèati;-am;nedov.
+odraz;-aza;m
+odraziti;-im;dov.
+odražanje;-a;s
+odražati;-am;nedov.
+odrc;-a;m
+odrèek;-èka;m
+odreagirati;-am;dov.
+odreèi;-reèem;dov.
+odred;-eda;m
+odredba;-e;ž
+odredbodajalec;-lca;m
+odredbodajen;-jna -o;prid.
+odreden;-dna -o;prid.
+odreditev;-tve;ž
+odreja;-e;ž
+odrejati;-am;nedov.
+odrek;-eka;m
+odreka;-e;ž
+odrekanje;-a;s
+odrekati;-am;nedov.
+odrekanje;-a;s
+odrekati;-am;nedov.
+odrekati;-am;dov.
+odrešen;-šna -o;prid.
+odrešenik;-a;m
+odrešeniški;-a -o;prid.
+odrešenje;-a;s
+odrešenjski;-a -o;prid.
+odreševati;-ujem;nedov.
+odrešilen;-lna -o;prid.
+odrešilnost;-i;ž
+odrešitev;-tve;ž
+odrešiti;;in
+odrešitven;-a -o;prid.
+odreti;oderem;tudi
+odrevenelost;-i;ž
+odreveneti;-im;dov.
+odrez;-eza;m
+odrezanost;-i;ž
+odrezati;-režem;dov.
+odrezav;-ava -o;prid.
+odrezavati;-am;nedov.
+odrezavost;-i;ž
+odrezek;-zka;m
+odrezovati;-ujem;nedov.
+odrgnina;-e;ž
+odrgniti;-em;dov.
+odrina;-e;ž
+odrinec;-nca;m
+odriniti;-em;dov.
+odrinjenec;-nca;m
+odrinjenost;-i;ž
+odrišèe;-a;s
+odritek;-tka;m
+odriv;-a;m
+odrivaè;-a;m
+odrivalo;-a;s
+odrivanje;-a;s
+odrivati;-am;nedov.
+odrivek;-vka;m
+odriven;-vna -o;prid.
+odrnica;-e;ž
+odrnik;-a;m
+odrobiti;;in
+odroèen;;tudi
+odroèenje;-a;s
+odroèiti;-im;dov.
+odroènost;;tudi
+odroditi se;-im se;dov.
+odrok;-oka;m
+odromati;-am;dov.
+odropotati;-am;tudi
+odrsati;-am;dov.
+odrski;-a -o;prid.
+odrtija;-e;ž
+odrtina;-e;ž
+odrtnik;-a;m
+odrzati;-am;dov.
+odsanjati;-am;dov.
+odsebni;-a -o;prid.
+odseèen;-èna -o;prid.
+odseèi;-seèem;dov.
+odsedati;-am;nedov.
+odsedeti;-im;dov.
+odsegamal;;prisl.
+odsek;-eka;m
+odsekanje;-a;s
+odsekanost;-i;ž
+odsekati;-am;dov.
+odsekavati;-am;nedov.
+odselitev;-tve;ž
+odseliti;-selim;dov.
+odseljenec;-nca;m
+odseljevanje;-a;s
+odseljevati;-ujem;nedov.
+odsesati;-am;dov.
+odsesavati;-am;nedov.
+odsev;-eva;m
+odsevanje;-a;s
+odsevati;-am;nedov.
+odseven;-vna -o;prid.
+odsevnik;-a;m
+odsevnost;-i;ž
+odsihdob;;prisl.
+odsihmal;;prisl.
+odsijati;-sijem;dov.
+odskakati;;in
+odskakljati;-am;dov.
+odskakovanje;-a;s
+odskakovati;-ujem;nedov.
+odskobljati;-am;dov.
+odskoèen;-èna -o;prid.
+odskoèišèe;-a;s
+odskoèiti;-skoèim;dov.
+odskoènica;-e;ž
+odskok;-oka;in
+odslavljati;-am;nedov.
+odslej;;in
+odslikava;-e;ž
+odslikavati;-am;nedov.
+odsloniti;-slonim;stil.
+odslovilen;-lna -o;prid.
+odslovitev;-tve;ž
+odsloviti;-im;dov.
+odslužek;-žka;m
+odsluženje;-a;s
+odsluževati;-ujem;nedov.
+odslužitev;-tve;ž
+odslužiti;;in
+odsmejati se;-smejem se;tudi
+odsmuèati;-am;dov.
+odsoditi;;in
+odsojen;-jna -o;prid.
+odsonèen;-èna -o;prid.
+odsonèje;-a;s
+odsopihati;-am;dov.
+odsopsti;-sopem;dov.
+odsoten;-tna -o;prid.
+odsotnost;-i;ž
+odspajkati;-am;dov.
+odspati;-spim;dov.
+odspod;;prisl.
+odspodaj;;prisl.
+odspred;;prisl.
+odspredaj;;prisl.
+odsrkati;-am;dov.
+odsrkavati;-am;nedov.
+odstavek;-vka;m
+odstaven;-vna -o;prid.
+odstavitev;-tve;ž
+odstaviti;-im;dov.
+odstavljanje;-a;s
+odstavljati;-am;nedov.
+odstavljenec;-nca;m
+odstavljiv;-a -o;prid.
+odstavljivost;-i;ž
+odstirati;-am;nedov.
+odstop;-opa;m
+odstopanje;-a;s
+odstopati;-am;nedov.
+odstopek;-pka;m
+odstopen;-pna -o;prid.
+odstopicati;-am;dov.
+odstopitev;-tve;ž
+odstopiti;;in
+odstopnica;-e;ž
+odstopnik;-a;m
+odstopnina;-e;ž
+odstotek;-tka;m
+odstoten;-tna -o;prid.
+odstranitev;-tve;ž
+odstraniti;;in
+odstranjati;-am;nedov.
+odstranjevalec;-lca;m
+odstranjevanje;-a;s
+odstranjevati;-ujem;nedov.
+odstranljiv;-a -o;prid.
+odstranljivost;-i;ž
+odstrel;-a;m
+odstrelen;-lna -o;prid.
+odstrelitev;-tve;ž
+odstreliti;-im;dov.
+odstreljevati;-ujem;nedov.
+odstreti;-strem;dov.
+odstrièi;-strižem;dov.
+odstrižek;-žka;m
+odstružiti;-im;dov.
+odsukati;-am;in
+odsun;-a;m
+odsunek;-nka;m
+odsuniti;-em;dov.
+odsuti;-sujem;dov.
+odsvajanje;-a;s
+odsvetovati;-ujem;in
+odsvit;-a;m
+odsvitati;-am;nedov.
+odsvojitev;-tve;ž
+odsvojiti;-im;dov.
+odšantati;-am;dov.
+odšavsniti;-em;dov.
+odšèeniti;-šèenem;dov.
+odšèipavati;-am;nedov.
+odšèipniti;-em;dov.
+odšepati;-am;dov.
+odškoditi;-im;dov.
+odškodnina;-e;ž
+odškodninski;-a -o;prid.
+odškodovanje;-a;s
+odškodovati;-ujem;tudi
+odškripati;;tudi
+odškrniti;-em;dov.
+odšteti;-štejem;dov.
+odštetje;-a;s
+odštevalen;-lna -o;prid.
+odštevanec;-nca;m
+odštevanje;-a;s
+odštevati;-am;nedov.
+odštevek;-vka;m
+odštorkljati;-am;dov.
+odšumeti;-im;dov.
+odšvedrati;-am;dov.
+odtajati;-am;dov.
+odtajevati;-ujem;nedov.
+odtakati;-am;nedov.
+odtakniti;;in
+odtaliti;-im;dov.
+odtaljevati;-ujem;nedov.
+odtavati;-am;dov.
+odteèi;-teèem;dov.
+odtegljaj;-a;m
+odtegnitev;-tve;ž
+odtegniti;;in
+odtegovalka;-e;ž
+odtegovanje;-a;s
+odtegovati;-ujem;nedov.
+odtehmal;;prisl.
+odtehtanost;-i;ž
+odtehtati;-am;dov.
+odtehtavati;-am;nedov.
+odtekalka;-e;ž
+odtekanje;-a;s
+odtekati;-am;nedov.
+odtekniti;;gl.
+odtelovaditi;-im;dov.
+odtemnitev;-tve;ž
+odtenek;-nka;m
+odtesati;-tešem;dov.
+odtešèati se;-am se;dov.
+odtezati;-am;nedov.
+odtihmal;;gl.
+odtihotapiti;-im;dov.
+odtipkati;-am;dov.
+odtirati;-am;dov.
+odtis;-a;m
+odtisk;-a;m
+odtiskavanje;-a;s
+odtiskavati;-am;nedov.
+odtiskovalnica;-e;ž
+odtiskovanje;-a;s
+odtiskovati;-ujem;nedov.
+odtisniti;-em;dov.
+odtisoèek;-èka;m
+odtistihdob;;in
+odtistihmal;;prisl.
+odtlej;;in
+odtoè;-oèa;m
+odtoèen;-èna -o;prid.
+odtoèiti;-toèim;dov.
+odtoènica;-e;ž
+odtoènik;-a;m
+odtod;;in
+odtok;-oka;m
+odtolèi;-tolèem;dov.
+odtopiti;-im;dov.
+odtopotati;-am;tudi
+odtrganost;-i;ž
+odtrgati;-am;stil.
+odtrgavati;-am;nedov.
+odtrgovati;-ujem;nedov.
+odtrkljati;-am;dov.
+odtrobiti;;in
+odtrzniti;-em;dov.
+odtržek;-žka;m
+odtujenec;;in
+odtujenje;;in
+odtujenost;;in
+odtujevalen;-lna -o;prid.
+odtujevanje;-a;s
+odtujevati;-ujem;nedov.
+odtujitev;-tve;ž
+odtujiti;-im;dov.
+odtujljiv;-a -o;prid.
+oduèiti;-im;dov.
+oduhati;-am;dov.
+oduhavati;-am;nedov.
+oduhoviti;-im;dov.
+oduren;-rna -o;prid.
+odurnež;-a;m
+odurnost;-i;ž
+oduševiti;-im;dov.
+oduševljenje;-a;s
+oduševljenost;-i;ž
+odvada;-e;ž
+odvaditi;-im;dov.
+odvajalen;-lna -o;prid.
+odvajalo;-a;s
+odvaliti;-im;dov.
+odvarek;-rka;m
+odvažanje;-a;s
+odvažati;-am;nedov.
+odvažen;-žna -o;prid.
+odvažnost;-i;ž
+odveè;;prisl.
+odveèek;;in
+odveèen;-èna -o;prid.
+odveèerjati;-am;dov.
+odveè;;prisl.
+odveèek;;in
+odveèen;-èna -o;prid.
+odveèerjati;-am;dov.
+odveènost;-i;ž
+odvedba;-e;ž
+odvedljiv;-a -o;prid.
+odveslati;-am;dov.
+odvesti;-vedem;dov.
+odvetnica;-e;ž
+odvetnik;-a;m
+odvetniški;-a -o;prid.
+odvetništvo;-a;s
+odvetrje;-a;s
+odvetrn;-a -o;prid.
+odveza;-e;ž
+odvezati;;in
+odvezniti;-em;dov.
+odvezovati;-ujem;nedov.
+odvihati;-am;dov.
+odvihavati;-am;nedov.
+odvihniti;-em;dov.
+odvihrati;-am;dov.
+odvijaè;-a;m
+odvijalen;-lna -o;prid.
+odvijanje;-a;s
+odvijati;-am;nedov.
+odvirati;-am;nedov.
+odvisen;-sna -o;prid.
+odviseti;-im;dov.
+odvisnik;-a;m
+odvisnost;-i;ž
+odvišen;-šna -o;prid.
+odviti;-vijem;dov.
+odvleèi;-vleèem;dov.
+odvod;-oda;m
+odvoden;-dna -o;prid.
+odvodilo;-a;s
+odvodnica;-e;ž
+odvodnik;-a;m
+odvodnjavati;-am;nedov.
+odvolgniti;-em;dov.
+odvoz;-oza;m
+odvozen;;in
+odvozišèe;-a;s
+odvoziti;-vozim;dov.
+odvozlati;-am;dov.
+odvraèanje;-a;s
+odvraèati;-am;nedov.
+odvraèati;-am;nedov.
+odvraten;-tna -o;prid.
+odvratnež;-a;m
+odvratnost;-i;ž
+odvreèi;-vržem;dov.
+odvreti;-vrem;dov.
+odvriskati;-am;dov.
+odvrnitev;-tve;ž
+odvrniti;;in
+odvrnljiv;-a -o;prid.
+odvršati;-im;dov.
+odvrteti;-im;dov.
+odvzdigniti;-em;dov.
+odvzem;-ema;m
+odvzemanje;-a;s
+odvzemati;-am;nedov.
+odvzemen;-mna -o;prid.
+odvzemljiv;-a -o;prid.
+odvzeti;-vzamem;dov.
+odvzetje;-a;s
+odzad;;prisl.
+odzadaj;;prisl.
+odzadnji;-a -e;prid.
+odzdaj;;in
+odzdolaj;;prisl.
+odzdrav;-ava;m
+odzdraviti;-im;dov.
+odzdravljati;-am;nedov.
+odzemlje;-a;s
+odzgor;;prisl.
+odzgoraj;;prisl.
+odzibati;;tudi
+odzidati se;;tudi
+odziv;-a;m
+odzivanje;-a;s
+odzivati se;-am se;nedov.
+odzivnik;-a;m
+odzivnost;-i;ž
+odznak;-a;m
+odznotraj;;prisl.
+odzraèevati;-ujem;nedov.
+odzrcaliti;-im;dov.
+odzunaj;;prisl.
+odzvanjati;-am;nedov.
+odzvati se;-zovem se;dov.
+odzven;-ena;in
+odzveneti;-im;dov.
+odzvoèen;-èna -o;prid.
+odzveneti;-im;dov.
+odzvoèen;-èna -o;prid.
+odzvok;;in
+odzvonèkljati;-am;dov.
+odzvoniti;-im;dov.
+odžagati;-am;dov.
+odžebrati;-am;dov.
+odžejanje;-a;s
+odžejanost;-i;ž
+odžejati;-am;dov.
+odžeti;-žanjem;dov.
+odžgati;-žgem;dov.
+odžirati;-am;nedov.
+odživeti;-im;dov.
+odžreti;-žrem;dov.
+odžvižgati;-am;dov.
+oef;oefa;m
+oefar;-ja;m
+oefovski;-a -o;prid.
+ofar;-ja;m
+ofenziva;-e;ž
+ofenziven;-vna -o;prid.
+ofenzivnost;-i;ž
+ofer;ofra;m
+ofer;ofra;m
+ofer;;tudi
+oferta;-e;ž
+ofertorij;-a;m
+off;;prisl.
+offside;;gl.
+oficial;-a;m
+oficialen;-lna -o;prid.
+oficialnost;-i;ž
+oficiant;-a;m
+oficij;-a;m
+oficina;-e;ž
+oficinalen;-lna -o;prid.
+oficiozen;-zna -o;prid.
+oficir;-ja;m
+oficirèek;-èka;m
+oficirski;-a -o;prid.
+oficirstvo;-a;s
+ofrakati;-am;dov.
+ofrati;-am;dov. in nedov.
+ofreht;-ehta;m
+ofrnažiti;-im;dov.
+ofrten;-tna -o;prid.
+ofsajd;;in
+ofset;-a;m
+ofseten;-tna -o;prid.
+oftalmolog;-a;m
+oftalmologija;-e;ž
+oftalmološki;-a -o;prid.
+oftalmoskop;;tudi
+ogaba;-e;ž
+ogaben;-bna -o;prid.
+ogabiti;-im;dov.
+ogabnež;-a;m
+ogabnica;-e;ž
+ogabnost;-i;ž
+ogal;-a;m
+ogarati;-am;dov.
+ogeln;-a -o;prid.
+ogelnica;-e;ž
+ogelnik;-a;m
+ogenj;ognja;m
+ogenjèek;-èka;m
+ogibališèe;-a;s
+ogibanje;-a;s
+ogibati se;-am se;in
+ogladiti;-im;dov.
+oglar;;tudi
+ogladiti;-im;dov.
+oglar;;tudi
+oglar;-ja;m
+oglarjenje;-a;s
+oglarski;;tudi
+oglarstvo;;in
+oglas;-asa;m
+oglasen;-sna -o;prid.
+oglasiti;-im,;tudi
+oglasiti se;-im se,;in
+oglasnik;;in
+oglašanje;-a;s
+oglašati;-am;nedov.
+oglašati se;-am se;nedov.
+oglaševalec;-lca;m
+oglaševalen;-lna -o;prid.
+oglaševanje;-a;s
+oglaševati;-ujem;nedov.
+oglaševati se;-ujem se;nedov.
+oglat;-ata -o;prid.
+oglatost;-i;ž
+oglav;-ava;m
+oglavek;-vka;m
+oglav;-ava;m
+oglavek;-vka;m
+oglaven;-vna -o;prid.
+oglavje;-a;s
+oglavnica;-e;ž
+oglavnik;-a;m
+ogled;-eda;m
+ogleda;-a;in
+ogledalce;-a;s
+ogledalen;-lna -o;prid.
+ogledalo;-a;s
+ogledati;-am;dov.
+ogledavati;-am;nedov.
+ogleden;-dna -o;prid.
+ogledi;-ov;m mn.
+oglednica;-e;ž
+oglednik;-a;m
+oglednik;-a;m
+ogledniški;-a -o;prid.
+ogledništvo;-a;s
+ogledovalec;-lca;m
+ogledovanje;-a;s
+ogledovati;-ujem;nedov.
+ogleduh;-a;m
+ogleduški;-a -o;prid.
+ogleduštvo;-a;s
+oglejski;-a -o;prid.
+oglen;-a -o;prid.
+oglenenje;-a;s
+ogleneti;-im;nedov.
+oglenica;-e;ž
+oglenina;-e;ž
+oglenitev;-tve;ž
+ogleniti;-im;nedov.
+oglenka;-e;ž
+ogležnjica;-e;ž
+oglièek;-èka;m
+oglišèe;-a;s
+oglje;-a;s
+ogljik;-a;m
+ogljikov;-a -o;prid.
+ogljikovodik;-a;m
+ogljikovodikov;-a -o;prid.
+oglobiti;-im;in
+oglodati;-am;tudi
+oglodavati;-am;nedov.
+oglodek;-dka;m
+oglušelost;-i;ž
+oglušen;-šna -o;prid.
+oglušeti;-im;dov.
+ogluševati;-ujem;nedov.
+oglušitev;-tve;ž
+oglušiti;-im;dov.
+oglušljiv;-a -o;prid.
+ogniti;ognijem;dov.
+ogniti se;ognem se;in
+ognjar;-ja;m
+ognje...;;prvi del zloženk
+ognjegasec;-sca;m
+ognjemet;-eta;m
+ognjemeten;-tna -o;prid.
+ognjen;-a -o;prid.
+ognjenec;-nca;m
+ognjenica;;in
+ognjenik;-a;m
+ognjeniški;-a -o;prid.
+ognjenosec;-sca;m
+ognjestalen;-lna -o;prid.
+ognjevaren;-rna -o;prid.
+ognjevit;-a -o;prid.
+ognjevitež;-a;m
+ognjevitost;-i;ž
+ognjevzdržen;-žna -o;prid.
+ognjiè;-ièa;m
+ognjièar;-ja;m
+ognjièek;-èka;m
+ognjilo;-a;s
+ognjišèe;-a;s
+ognjišèen;-èna -o;prid.
+ognojek;-jka;m
+ognojitev;-tve;ž
+ognojiti se;-im se;dov.
+ognusen;-sna -o;prid.
+ognusiti;-im;dov.
+ogolelost;-i;ž
+ogoleti;-im;dov.
+ogolitev;-tve;ž
+ogoliti;-im;in
+ogoljufanec;-nca;m
+ogoljufati;-am;dov.
+ogon;-ona;in
+ogor;;in
+ogorèati;-am;nedov.
+ogorèenje;-a;s
+ogorèenost;-i;ž
+ogorèica;-e;ž
+ogorèiti;-im;dov.
+ogorek;-rka;m
+ogoreti;-im;dov.
+ogorina;-e;ž
+ogoršati;-am;dov.
+ogovarjanje;-a;s
+ogovarjati;-am;nedov.
+ogovor;-a;m
+ogovoriti;-im;dov.
+ogovorjenec;-nca;m
+ograbek;-bka;m
+ograbiti;;in
+ograbljati;-am;nedov.
+ograbljati;-am;dov.
+ograd;-ada;in
+ograd;-i;ž
+ograda;-e;ž
+ograditev;-tve;ž
+ograditi;-im;dov.
+ograja;-e;ž
+ograjek;-jka;m
+ograjen;-jna -o;prid.
+ograjenost;-i;ž
+ograjevanje;-a;s
+ograjevati;-ujem;nedov.
+ograjica;-e;ž
+ograjevanje;-a;s
+ograjevati;-ujem;nedov.
+ograjica;-e;ž
+ograjnik;-a;m
+ogražanje;-a;s
+ogražati;-am;nedov.
+ogrc;-a;m
+ogrèast;-a -o;prid.
+ogrèav;-a -o;prid.
+ogrda;-e;ž
+ogrditi;-im;dov.
+ogrebaèa;-e;ž
+ogrebanje;-a;s
+ogrebati;-am;nedov.
+ogreblina;-e;ž
+ogrebotina;-e;ž
+ogrebsti;ogrebem;dov.
+ogredje;-a;s
+ogreneti;-im;dov.
+ogreniti;ogrenem;dov.
+ogreniti;-im;dov.
+ogrešiti;-im;dov.
+ogreti;ogrejem;dov.
+ogretje;-a;s
+ogretost;-i;ž
+ogrevaè;-a;m
+ogrevaèa;-e;ž
+ogrevalec;-lca;m
+ogrevalen;-lna -o;prid.
+ogrevalnica;-e;ž
+ogrevalnik;-a;m
+ogrevalo;-a;s
+ogrevanje;-a;s
+ogrevati;-am;nedov.
+ogreven;-vna -o;prid.
+ogrinjaè;-a;m
+ogrinjaèa;-e;ž
+ogrinjaèka;-e;ž
+ogrinjalce;-a;s
+ogrinjalen;-lna -o;prid.
+ogrinjalka;-e;ž
+ogrinjalo;-a;s
+ogrinjati;-am;nedov.
+ogristi;ogrizem;dov.
+ogriz;-a;m
+ogrizek;-zka;m
+ogrizovati;-ujem;nedov.
+ogrlica;-e;ž
+ogrljak;-a;m
+ogrlje;-a;s
+ogrniti;;in
+ogrobeti;-im;dov.
+ogroden;-dna -o;prid.
+ogrodje;-a;s
+ogrodnik;-a;m
+ogromen;;in
+ogromnost;;in
+ogrozitev;-tve;ž
+ogroziti;-im;dov.
+ogrožanje;-a;s
+ogrožati;-am;nedov.
+ogroženec;;tudi
+ogroženost;;tudi
+ogrski;-a -o;prid.
+ogršèica;-e;ž
+ogrtaè;-a;m
+ogrtaèa;-e;ž
+oguliti;-im;dov.
+oguljek;-jka;m
+oguljenec;-nca;m
+oguljenina;-e;ž
+oh;;medm.
+oha;;medm.
+ohabel;-bla -o;prid.
+ohanje;-a;s
+ohati;-am;nedov.
+ohcet;-i;ž
+ohej;;in
+ohišje;-a;s
+ohišnica;-e;ž
+ohlaèen;-a -o;prid.
+ohladitev;-tve;ž
+ohladiti;-im;dov.
+ohlajanje;-a;s
+ohlajati;-am;nedov.
+ohlajenje;-a;s
+ohlajevalen;-lna -o;prid.
+ohlajevanje;-a;s
+ohlajevati;-ujem;nedov.
+ohlapen;-pna -o;prid.
+ohlapeti;-im;dov.
+ohlapniti;-em;dov.
+ohlapnost;-i;ž
+ohlip;-a;m
+ohlodje;-a;s
+ohlokratija;;in
+ohm;;tudi
+ohmelje;-a;s
+ohmski;;tudi
+oho;;in
+ohodek;-dka;m
+ohoho;;tudi
+ohol;-a -o;prid.
+oholež;-a;m
+oholost;-i;ž
+ohomotati;-am;dov.
+ohrabritev;-tve;ž
+ohrabriti;-im;dov.
+ohrabrovati;-ujem;nedov.
+ohramljati;-am;nedov.
+ohrana;-e;ž
+ohranitev;-tve;ž
+ohraniti;;in
+ohranitven;-a -o;prid.
+ohranjanje;-a;s
+ohranjati;-am;nedov.
+ohranjenost;-i;ž
+ohranjevalec;-lca;m
+ohranjevalen;-lna -o;prid.
+ohranjevanje;-a;s
+ohranjevati;-ujem;nedov.
+ohranljivost;-i;ž
+ohridski;-a -o;prid.
+ohripelost;-i;ž
+ohripeti;-im;dov.
+ohrnija;-e;ž
+ohromelost;-i;ž
+ohrometi;-im;dov.
+ohromitev;-tve;ž
+ohromiti;-im;dov.
+ohrovt;-a;m
+ohrovtov;-a -o;prid.
+oidij;-a;m
+Oidipov;;gl.
+oj;;medm.
+oja;;medm.
+ojaèati;-am;dov.
+ojaèenje;-a;s
+ojaèevalec;-lca;m
+ojaèevalen;-lna -o;prid.
+ojaèevalka;-e;ž
+ojaèevalnica;-e;ž
+ojaèevalnik;-a;m
+ojaèevanje;-a;s
+ojaèevati;-ujem;nedov.
+ojaèitev;-tve;ž
+ojaèiti;-im;dov.
+ojagnjiti se;-im se;dov.
+ojaloviti;-im;dov.
+ojarmiti;-im;dov.
+Ojdipov;;tudi
+oje;-esa;s
+oje;;medm.
+ojej;;in
+ojekleneti;-im;dov.
+ojekleniti;-im;dov.
+ojekliti;-im;dov.
+ojevski;-a -o;prid.
+ojezeritev;-tve;ž
+ojezeriti;-im;in
+ojezikati;-am;dov.
+ojice;ojic;ž mn.
+ojla;;medm.
+ojnica;-e;ž
+ojnièen;-èna -o;prid.
+ojoj;;tudi
+ojunaèiti;-im;dov.
+ojužiti se;-im se;dov.
+oka;-e;ž
+okacati;-am;dov.
+okaditi;-im;dov.
+okajati;-am;nedov.
+okajenec;-nca;m
+okajenost;-i;ž
+okamnelost;;in
+okamneti;-im;in
+okamnina;;in
+okamnitev;;in
+okamniti;-im;in
+okaniti;-im,;tudi
+okapati;-am;in
+okapi;-ja;m
+okapnik;-a;m
+okarakterizirati;-am;dov.
+okarati;-am;dov.
+okarina;-e;ž
+okat;-ata -o;prid.
+okati;-am;nedov.
+okavsati;-am;dov.
+okay;;gl.
+okazionalizem;-zma;m
+okcident;-enta;in
+okej;;tudi
+okej;;tudi
+okel;okla;in
+okence;-a;s
+okenèek;-èka;m
+okence;-a;s
+okenèek;-èka;m
+okenski;;tudi
+okepati;-am;dov.
+oker;okra;m
+okinèati;-am;dov.
+okinjak;-a;m
+okis;-a;m
+okisanje;-a;s
+okisati;-am;dov.
+okisniti;-em;dov.
+okititi;-im;dov.
+oklasiti se;-im se;dov.
+oklast;-a;m
+oklati;okoljem;dov.
+oklatiti;;in
+oklejiti;-im;tudi
+okleniti;oklenem;dov.
+oklep;-epa;m
+oklepaj;-a;m
+oklepanje;-a;s
+oklepati;-am;nedov.
+oklepen;-pna -o;prid.
+oklepiti;-im;dov.
+oklepnica;-e;ž
+oklepnik;-a;m
+oklesati;oklešem;dov.
+oklestiti;-im;dov.
+oklešèek;-èka;m
+oklešèenec;-nca;m
+oklevanje;-a;s
+oklevati;-am;nedov.
+oklevetati;-am;dov.
+oklic;-a;m
+oklicanec;-nca;m
+oklicati;oklièem;dov.
+oklicavati;-am;nedov.
+oklicen;-cna -o;prid.
+oklicevalec;-lca;m
+oklicevati;-ujem;nedov.
+oklikniti;-em;dov.
+oklikovati;-ujem;nedov.
+okljuk;-a;m
+okljuka;-e;ž
+okljukast;-a -o;prid.
+okljuvati;-am;in
+oklo;-a;s
+oklofutati;-am;dov.
+oklop;-opa;in
+oklopen;-pna -o;prid.
+oklopiti;-im;dov.
+oklopnica;-e;ž
+oklopnik;-a;m
+oklopnjaèa;-e;ž
+oklopnjak;-a;m
+okluzija;;in
+oknica;;in
+oknišèe;-a;s
+oknjak;-a;m
+okno;-a;s
+oko;oèesa;s
+okobal;;tudi
+okobaliti;-im;dov.
+okobalo;;prisl.
+okol;-ola;tudi
+okolèje;-a;s
+okolen;-lna -o;prid.
+okoli;;prisl.
+okoli;;predl.
+okolica;-e;ž
+okolièan;;in
+okolièanka;-e;ž
+okolièanski;-a -o;prid.
+okolièiti;-im;dov.
+okolina;-e;ž
+okoliš;;tudi
+okolišanje;-a;s
+okolišati;-am;nedov.
+okolišèina;-e;ž
+okolišen;;tudi
+okolišenje;-a;s
+okolišiti;-im;nedov.
+okoliški;-a -o;prid.
+okolišnji;-a -e;prid.
+okoliti;-im;in
+okolje;-a;s
+okolnost;-i;ž
+okom;;prisl.
+okomandirati;-am;dov.
+okomatati;-am;dov.
+okonèati;-am;dov.
+okonèina;-e;ž
+okonièiti;-im;dov.
+okop;-opa;m
+okopalnik;-a;m
+okopati;;tudi
+okopati;okopljem;tudi
+okopavanje;-a;s
+okopavati;-am;nedov.
+okopavina;-e;ž
+okopeti;-im;dov.
+okopneti;-im;dov.
+okorajžiti;-im;dov.
+okorelost;-i;ž
+okoren;-rna -o;prid.
+okoreniniti se;-im se;dov.
+okoreti;-im;dov.
+okorevati;-am;nedov.
+okoristiti se;-im se;dov.
+okorišèanje;-a;s
+okorišèati se;-am se;nedov.
+okornež;-a;m
+okornost;-i;ž
+okosmateti;-im;dov.
+okosmatiti;-im;dov.
+okostenelost;-i;ž
+okosteneti;-im;dov.
+okostenitev;-tve;ž
+okostje;-a;s
+okostnik;-a;m
+okostnjak;-a;m
+okostnjaški;-a -o;prid.
+okošatiti se;-im se;dov.
+okov;-ova;m
+okov;-ova;m
+okovanec;-nca;m
+okovanje;-a;s
+okovanka;-e;ž
+okovati;okujem;dov.
+okovje;-a;s
+okra;-e;ž
+okradenec;-nca;m
+okraj;-aja;m
+okrajati;-am;nedov.
+okrajec;-jca;m
+okrajek;-jka;m
+okrajen;-jna -o;prid.
+okrajina;;tudi
+okrajšati;-am;dov.
+okrajšava;-e;ž
+okrajševati;-ujem;nedov.
+okrak;-a;m
+okrancljati;-am;dov.
+okras;-asa;m
+okrasek;-ska;m
+okrasen;-sna -o;prid.
+okrasitev;-tve;ž
+okrasiti;-im;dov.
+okrasje;-a;s
+okrast;-a -o;prid.
+okrasti;okradem;dov.
+okrašenost;-i;ž
+okraševalen;-lna -o;prid.
+okraševanje;-a;s
+okraševati;-ujem;nedov.
+okrcati;-am;dov.
+okregati;-am;dov.
+okremeneti;-im;dov.
+okrempljati;-am;dov.
+okreniti;okrenem;dov.
+okrepèati;-am;dov.
+okrepèava;-e;ž
+okrepèevalen;-lna -o;prid.
+okrepèevališèe;-a;s
+okrepèevalnica;-e;ž
+okrepèevati;-ujem;nedov.
+okrepèilen;-lna -o;prid.
+okrepèilo;-a;s
+okrepenelost;-i;ž
+okrepeneti;-im;dov.
+okrepilo;-a;s
+okrepitev;-tve;ž
+okrepiti;-im;dov.
+okrepljati;-am;nedov.
+okrepljevati;-ujem;nedov.
+okresati;okrešem;dov.
+okrešelj;-šlja;m
+okret;-eta;m
+okretaè;-a;m
+okreten;-tna -o;prid.
+okretnica;-e;ž
+okretnost;-i;ž
+okrevališèe;-a;s
+okrevanec;-nca;m
+okrevanje;-a;s
+okrevati;-am;nedov.
+okrhati;-am;dov.
+okrilatiti se;-im se;dov.
+okriliti;-im;dov.
+okrilje;-a;s
+okrinkati;-am;dov.
+okriviti;-im;dov.
+okrižje;-a;s
+okrnek;-nka;m
+okrnelost;-i;ž
+okrneti;-im;dov.
+okrnina;-e;ž
+okrnitev;-tve;ž
+okrniti;-im;dov.
+okrniti;;in
+okrnjenec;-nca;m
+okrnjenost;-i;ž
+okrnjevanje;-a;s
+okrnjevati;-ujem;nedov.
+okrog;;tudi
+okrog;;prisl.
+okrog;;predl.
+okrogel;-gla -o;prid.
+okroglica;-e;ž
+okroglièast;-a -o;prid.
+okroglina;-e;ž
+okroglinast;-a -o;prid.
+okrogliti;-im;in
+okroglo...;;prvi del zloženk
+okrogloglav;;in
+okrogloglavec;-vca;m
+okrogloglavost;-i;ž
+okroglolièen;-èna -o;prid.
+okroglolisten;-tna -o;prid.
+okroglook;-a -o;prid.
+okroglost;-i;ž
+okronati;-am;dov.
+okroglost;-i;ž
+okronati;-am;dov.
+okrov;-ova;m
+okrovje;-a;s
+okrožati;-am;nedov.
+okroževati;-ujem;nedov.
+okrožiti;;in
+okrožje;-a;s
+okrožnica;-e;ž
+okršek;-ška;m
+okrtaèiti;-im;dov.
+okrušek;-ška;m
+okrušenost;-i;ž
+okrušiti;;in
+okruten;-tna -o;prid.
+okrutnež;-a;m
+okrutnica;-e;ž
+okrutnik;-a;m
+okrutnost;-i;ž
+okrvaveti;-im;dov.
+okrvaviti;-im;dov.
+oksalat;-a;m
+oksalen;-lna -o;prid.
+oksalat;-a;m
+oksalen;-lna -o;prid.
+oksast;-a -o;prid.
+oksford;-a;m
+oksi...;;prvi del zloženk
+oksid;-a;m
+oksidacija;-e;ž
+oksidacijski;-a -o;prid.
+oksidant;-a;m
+oksidativen;-vna -o;prid.
+oksidaza;-e;ž
+oksiden;-dna -o;prid.
+oksidiranje;-a;s
+oksidirati;-am;nedov. in dov.
+oksidul;-a;m
+oksigen;-a;m
+oksihemoglobin;-a;m
+oksimoron;;tudi
+oksiton;;tudi
+oksiur;-a;m
+oktaeder;-dra;m
+oktan;-a;m
+oktanski;-a -o;prid.
+oktant;-a;m
+oktav;-a;m
+oktava;-e;ž
+oktaven;-vna -o;prid.
+oktet;-a;m
+oktetovec;-vca;m
+oktober;-bra;m
+oktobrica;-e;ž
+oktobrski;-a -o;prid.
+oktroirati;-am;dov. in nedov.
+okujina;-e;ž
+okulacija;-e;ž
+okular;-ja;m
+okuliranje;-a;s
+okulirati;-am;nedov. in dov.
+okulist;-a;m
+okulistièen;-èna -o;prid.
+okulistika;-e;ž
+okulistka;-e;ž
+okulten;-tna -o;prid.
+okultist;-a;m
+okultistièen;-èna -o;prid.
+okultizem;-zma;m
+okun;-a;m
+okupacija;-e;ž
+okupacijski;-a -o;prid.
+okupator;-ja;m
+okupatorski;-a -o;prid.
+okupirati;-am;dov. in nedov.
+okus;-a;m
+okusiti;-im;dov.
+okusnost;-i;ž
+okušalen;-lna -o;prid.
+okušalo;-a;s
+okušanje;-a;s
+okušati;-am;nedov.
+okuševalec;-lca;m
+okuzmati;-am;tudi
+okužba;-e;ž
+okuženec;-nca;m
+okuženje;-a;s
+okuženka;-e;ž
+okuženost;-i;ž
+okuževati;-ujem;nedov.
+okužitev;-tve;ž
+okužiti;-im;dov.
+okužljiv;-a -o;prid.
+okvalificirati;-am;dov.
+okvara;-e;ž
+okužljiv;-a -o;prid.
+okvalificirati;-am;dov.
+okvara;-e;ž
+okvariti;-im;dov.
+okvarjenec;-nca;m
+okvasiti;-im;tudi
+okvir;-a;m
+okvirast;-a -o;prid.
+okvirèek;-èka;m
+okviren;-rna -o;prid.
+okviriti;-im;nedov.
+okvirjanje;-a;s
+okvirjati;-am;nedov.
+okvirje;-a;s
+okvirnica;-e;ž
+okvirnost;-i;ž
+ol;-a;m
+olahkotiti;-im;dov.
+olajšanje;-a;s
+olajšanost;-i;ž
+olajšati;-am;dov.
+olajšava;-e;ž
+olajševalen;-lna -o;prid.
+olajševanje;-a;s
+olajševati;-ujem;nedov.
+olajšilen;-lna -o;prid.
+olala;;tudi
+olasati;-am;dov.
+oleander;-dra;m
+oleandrov;-a -o;prid.
+oleat;-a;m
+oledeneti;-im;dov.
+oledenevati;-am;nedov.
+oledenitev;-tve;ž
+oledeniti;-im;dov.
+olein;-a;m
+oleografija;-e;ž
+olepiti;;in
+olepotièiti;-im;dov.
+olepotiti;-im;tudi
+olepšanje;-a;s
+olepšati;-am;dov.
+olepšava;-e;ž
+olepšavanje;-a;s
+olepšavati;-am;nedov.
+olepševalec;-lca;m
+olepševalen;-lna -o;prid.
+olepševanje;-a;s
+olepševati;-ujem;nedov.
+olesenelost;-i;ž
+oleseneti;-im;dov.
+olesenitev;-tve;ž
+oleviti se;-im se;dov.
+olièiti;-im;dov.
+olièkati;-am;dov.
+oligarh;-a;m
+oligarhièen;-èna -o;prid.
+oligarhija;-e;ž
+oligo...;;ali
+oligocen;-a;m
+oligocenski;-a -o;prid.
+oligofrenija;-e;ž
+olika;-e;ž
+olikanec;-nca;m
+olikanost;-i;ž
+olikati;-am;dov.
+Olimp;-a;m
+Olimp;;tudi
+olimpiada;-e;ž
+olimpija;-e;ž
+olimpijec;-jca;m
+olimpijka;-e;ž
+olimpijski;-a -o;prid.
+olimpionik;;in
+olimpizem;-zma;m
+olimpski;-a -o;prid.
+olistati;-am;dov.
+olistiti se;-im se;dov.
+olišpati;-am;dov.
+oliva;-e;ž
+olivast;-a -o;prid.
+oliven;-vna -o;prid.
+olivin;-a;m
+olivnat;-a -o;prid.
+olizati;;tudi
+oljar;;tudi
+oljarica;-e;ž
+oljarna;-e;ž
+oljarstvo;-a;s
+oljast;-a -o;prid.
+oljèen;-èna -o;prid.
+oljèevje;-a;s
+oljènica;-e;ž
+oljènik;-a;m
+olje;-a;s
+oljen;-jna -o;prid.
+oljenica;-e;ž
+oljenje;-a;s
+oljenka;-e;ž
+oljiti;-im;nedov.
+oljka;-e;ž
+oljkin;-a -o;prid.
+oljkov;-a -o;prid.
+oljkovina;;in
+oljnat;-a -o;prid.
+oljnica;-e;ž
+oljnik;-a;m
+ološèiti;-im;dov.
+olša;-e;ž
+oltar;-ja;m
+oltarèek;-èka;m
+oltaren;-rna -o;prid.
+oltarski;-a -o;prid.
+olupek;-pka;m
+olupiti;;in
+oluskati;-am;dov.
+olušèiti;;in
+olužiti;-im,;in
+om;ipd.;gl.
+oma;-e;ž
+omaènica;-e;ž
+omadeževati;-ujem;dov.
+omaganec;-nca;m
+omagati;-am;dov.
+omagnetenje;-a;s
+omagnetiti;-im;dov.
+omagovanje;-a;s
+omagovati;-ujem;nedov.
+omah;-aha;m
+omahljiv;-a -o;prid.
+omahljivec;-vca;m
+omahljivka;-e;ž
+omahljivost;-i;ž
+omahniti;-em,;in
+omahovanje;-a;s
+omahovati;-ujem;nedov.
+omajanje;;tudi
+omajanost;;tudi
+omajati;omajem;tudi
+omajek;-jka;m
+omajiti;-im;tudi
+omaka;-e;ž
+omakati;-am;nedov.
+omalodušiti;-im;dov.
+omalovaževalen;-lna -o;prid.
+omalovaževanje;-a;s
+omalovaževati;-ujem;nedov.
+omama;-e;ž
+omamen;-mna -o;prid.
+omamica;-e;ž
+omamilo;-a;s
+omamiti;;in
+omamljanje;-a;s
+omamljati;-am;nedov.
+omamljenec;-nca;m
+omamljenje;-a;s
+omamljenost;-i;ž
+omamljevati;-ujem;nedov.
+omamljiv;-a -o;prid.
+omamnost;-i;ž
+oman;-a;m
+omara;-e;ž
+omarast;-a -o;prid.
+omaren;-rna -o;prid.
+omarica;-e;ž
+omarièen;-èna -o;prid.
+omarija;-e;ž
+omasoviti;-im;dov.
+omasovljenje;-a;s
+omastiti;-im;dov.
+omavèiti;-im;dov.
+omavžati;-am;dov.
+omaz;-aza;m
+omazati;omažem;dov.
+ombrometer;-tra;m
+omecevati;-ujem;tudi
+omeèiti;-im;in
+omediti;-im;dov.
+omedlelost;-i;ž
+omedleti;-im;dov.
+omedlevanje;-a;s
+omedlevati;-am;nedov.
+omedlevica;-e;ž
+omedlevièen;-èna -o;prid.
+omega;-e;ž
+omegleti;-im;dov.
+omegliti;-im;dov.
+omehèanje;-a;s
+omehèati;-am;dov.
+omehèavati;-am;nedov.
+omehkužiti;-im;dov.
+omehuriti se;-im se;dov.
+omej;-eja;m
+omejek;-jka;m
+omejenèek;-èka;m
+omejenec;-nca;m
+omejenost;-i;ž
+omejevalen;-lna -o;prid.
+omejevalnik;-a;m
+omejevanje;-a;s
+omejevati;-ujem;nedov.
+omejitev;-tve;ž
+omejiti;-im;dov.
+omejitven;-a -o;prid.
+omejljiv;-a -o;prid.
+omela;-e;ž
+omelast;-a -o;prid.
+omelce;-a;s
+omelo;-a;s
+omemba;-e;ž
+omen;-a;m
+omencati;-am;dov.
+omenek;-nka;m
+omenitev;-tve;ž
+omeniti;;in
+omenjanje;-a;s
+omenjati;-am;nedov.
+omeriti;-im;dov.
+omeseneti;-im;dov.
+omesiti;;in
+omesti;omedem;in
+omesti;ometem;tudi
+omet;-eta;m
+ometalo;;tudi
+ometanje;-a;s
+ometati;omeèem;dov.
+ometavanje;-a;s
+ometavati;-am;nedov.
+ometen;-tna -o;prid.
+ometi;omanem;dov.
+ometica;-e;ž
+omica;-e;ž
+omika;-e;ž
+omikanec;-nca;m
+omikanost;-i;ž
+omikati;-am;dov.
+omilitev;-tve;ž
+omiliti;-im;dov.
+omiljenje;-a;s
+omiljevanje;-a;s
+omiljevati;-ujem;nedov.
+omilovati;-ujem;nedov.
+omilitev;-tve;ž
+omiliti;-im;dov.
+omiljenje;-a;s
+omiljevanje;-a;s
+omiljevati;-ujem;nedov.
+omilovati;-ujem;nedov.
+ominozen;-zna -o;prid.
+omiselje;-a;s
+omisliti si;-im si;dov.
+omišljati si;-am si;nedov.
+omiti;omijem;dov.
+omizen;-zna -o;prid.
+omizje;-a;s
+omiznik;-a;m
+omlaèiti;-im;in
+omladeti;-im;dov.
+omladina;-e;ž
+omladinec;-nca;m
+omladinski;-a -o;prid.
+omladiti;-im;dov.
+omlahniti;-em;dov.
+omlatiti;;in
+omleda;-e;ž
+omleden;-dna -o;prid.
+omlednost;-i;ž
+omleta;-e;ž
+omleten;-tna -o;prid.
+omnibus;-a;m
+omnibusen;-sna -o;prid.
+omnipotenten;-tna -o;prid.
+omoèiti;omoèim;dov.
+omoèljiv;-a -o;prid.
+omodreti;-im;dov.
+omogoèanje;-a;s
+omogoèati;-am;nedov.
+omogoèevati;-ujem;nedov.
+omogoèiti;-im;dov.
+omolkniti;-em;dov.
+omorika;;in
+omot;-ota;m
+omotati;-am;tudi
+omotavanje;-a;s
+omotavati;-am;nedov.
+omoten;-tna -o;prid.
+omotenost;-i;ž
+omotica;-e;ž
+omotièav;-a -o;prid.
+omotièen;-èna -o;prid.
+omotiènost;-i;ž
+omotiti;;in
+omotljiv;-a -o;prid.
+omotvoziti;-im;dov.
+omožatiti se;-im se;dov.
+omoženka;-e;ž
+omožitev;-tve;ž
+omožiti se;-im se;dov.
+omraèenec;-nca;m
+omraèenje;-a;s
+omraèenost;-i;ž
+omraèevati;-ujem;nedov.
+omraèitev;-tve;ž
+omraèiti;-im;dov.
+omraziti;-im;in
+omraznica;-e;ž
+omreniti;-im;dov.
+omrežen;-žna -o;prid.
+omreževati;-ujem;nedov.
+omrežiti;-im;dov.
+omrežje;-a;s
+omrsiti se;-im se;dov.
+omršaveti;-im;dov.
+omrtvelost;-i;ž
+omrtvenje;-a;s
+omrtveti;-im;dov.
+omrtvièenje;-a;s
+omrtvièenost;-i;ž
+omrtvièiti;-im;dov.
+omrtvitev;-tve;ž
+omrtviti;-im;dov.
+omrviti;-im;dov.
+omrza;-e;ž
+omrzel;-zla -o;prid.
+omrzeti;-im;dov.
+omrziti;-im;dov.
+omrzniti;-em;dov.
+omuhavati se;-am se;nedov.
+omuliti;-im;dov.
+omužiti;-im,;in
+on;ona -o;stil.
+onadva;;gl.
+onager;;in
+onakaziti;-im;tudi
+onakšen;-šna -o;prid.
+onanija;-e;ž
+onaniranje;-a;s
+onanirati;-am;nedov. in dov.
+onanist;-a;m
+onanistka;-e;ž
+onda;;prisl.
+ondaj;;prisl.
+ondan;;prisl.
+ondašnji;-a -e;prid.
+ondi;;in
+ondile;;in
+ondod;;prisl.
+ondoten;-tna -o;prid.
+ondu;;prisl.
+ondukaj;;prisl.
+ondulacija;-e;ž
+onduliranje;-a;s
+ondulirati;-am;nedov. in dov.
+one;-eta;s
+one;;zaim. neskl.
+oneèastiti;-im;dov.
+oneèašèati;-am;nedov.
+oneèašèenje;-a;s
+oneèašèevati;-ujem;nedov.
+oneèediti;-im;dov.
+oneèejati;-am;nedov.
+oneèistiti;-im;dov.
+oneèišèenje;-a;s
+oneèišèevati;-ujem;nedov.
+onega;;zaim. neskl.
+onegati;-am;tudi
+onegati;-am;tudi
+onegav;-a -o;prid.
+onegaviti;-im;nedov.
+onegavljenje;-a;s
+onegov;-a -o;zaim.
+oneida;-e;ž
+onemelost;-i;ž
+onemeti;-im;dov.
+onemevati;-am;nedov.
+onemiti;-im;dov.
+onemoèi;-morem;dov.
+onemoglost;;tudi
+onemoglosten;;tudi
+onemogoèanje;-a;s
+onemogoèati;-am;nedov.
+onemogoèenje;-a;s
+onemogoèiti;-im;dov.
+onesmisliti;-im;dov.
+onesnaženje;-a;s
+onesnaženost;-i;ž
+onesnaževalec;-lca;m
+onesnaževanje;-a;s
+onesnaževati;-ujem;nedov.
+onesnažiti;-im;dov.
+onesposabljati;-am;nedov.
+onesposobitev;-tve;ž
+onesposobiti;-im;dov.
+onesposobljenje;-a;s
+onesposobljenost;-i;ž
+onesreèevati;-ujem;nedov.
+onesreèiti;-im;dov.
+onestep;-a;m
+onesvestiti se;-im se;dov.
+onesvešèati se;-am se;nedov.
+onesvešèenec;-nca;m
+onesvešèenka;-e;ž
+onga;ipd.;gl.
+oni;-a -o;zaim.
+onidan;;prisl.
+onikanje;-a;s
+onikati;-am;nedov.
+onikraj;;prisl.
+onikraj;;predl.
+onikrat;;prisl.
+oniks;-a;m
+onile;-a- -o-;zaim.
+onkolog;-a;m
+onkologija;-e;ž
+onkološki;-a -o;prid.
+onkološki;-a -o;prid.
+onkraj;;prisl.
+onkraj;;predl.
+onkrajen;;tudi
+onkrajnost;;tudi
+onkrat;;prisl.
+onod;;prisl.
+onodoben;-bna -o;prid.
+onogavièiti;-im;dov.
+onokraj;;prisl.
+onokraj;;predl.
+onomastièen;-èna -o;prid.
+onomastika;-e;ž
+onomatopeja;-e;ž
+onomatopejski;-a -o;prid.
+onomatopoetièen;-èna -o;prid.
+onomatopoija;-e;ž
+onostran;;prisl.
+onostran;;predl.
+onostranost;-i;ž
+onostranski;-a -o;prid.
+onostranstvo;-a;s
+onstran;;prisl.
+onstran;;predl.
+onstranost;-i;ž
+onstranski;-a -o;prid.
+onstranstvo;-a;s
+ontario;-a;m
+ontièen;-èna -o;prid.
+ontogenetièen;-èna -o;prid.
+ontogenetski;-a -o;prid.
+ontogeneza;-e;ž
+ontogenija;-e;ž
+ontologija;-e;ž
+ontološki;-a -o;prid.
+onuèa;-e;ž
+oogonij;-a;m
+oolit;-a;m
+op;;medm.
+opa;;medm.
+opacati;-am;dov.
+opackati;-am;dov.
+opadati;-am;nedov.
+opahati;-am;dov.
+opahniti;;in
+opajanje;-a;s
+opajati;-am;nedov.
+opal;-a;m
+opala;;medm.
+opalast;-a -o;prid.
+opalen;-lna -o;prid.
+opalescenca;-e;ž
+opaliti;;in
+opalizirati;-am;nedov.
+opalograf;-a;m
+opalografirati;-am;nedov. in dov.
+opalta;-e;ž
+opametiti;-im;dov.
+opametovati;-ujem;dov.
+opanek;-nka;m
+opanka;-e;ž
+opankar;-ja;m
+opankarski;-a -o;prid.
+oparek;-rka;m
+oparina;-e;ž
+opariti;-im;dov.
+oparjenina;-e;ž
+oparnica;-e;ž
+opart;;in
+opartovski;-a -o;prid.
+opas;;in
+opasaè;-a;m
+opasati;opašem;dov.
+opasen;-sna -o;prid.
+opasica;;in
+opasilnica;-e;ž
+opasilo;-a;s
+opasje;-a;s
+opasnica;-e;ž
+opasnik;-a;m
+opasnost;-i;ž
+opasovati;-ujem;nedov.
+opast;-i;ž
+opasti;opadem;dov.
+opasti;opasem;dov.
+opat;-a;m
+opatica;-e;ž
+opatija;-e;ž
+opatinja;-e;ž
+opazen;-zna -o;prid.
+opaziti;;in
+opazka;-e;ž
+opazljiv;-a -o;prid.
+opaznost;-i;ž
+opazovalec;-lca;m
+opazovalen;-lna -o;prid.
+opazovališèe;-a;s
+opazovalka;-e;ž
+opazovališèe;-a;s
+opazovalka;-e;ž
+opazovalnica;-e;ž
+opazovanec;-nca;m
+opazovanje;-a;s
+opazovati;-ujem;nedov.
+opaž;;tudi
+opažanje;-a;s
+opažati;-am;nedov.
+opažen;-žna -o;prid.
+opaženje;-a;s
+opaževati;-ujem;nedov.
+opažiti;-im;dov.
+opcija;-e;ž
+opcijski;;in
+opeèatiti;-im;dov.
+opeèen;-èna -o;prid.
+opeèenec;-nca;m
+opeèi;opeèem;dov.
+opeènat;-a -o;prid.
+opehariti;-im;dov.
+opeharjenec;-nca;m
+opeharjenost;-i;ž
+opeka;-e;ž
+opekaè;-a;m
+opekar;-ja;m
+opekarna;-e;ž
+opekarnar;-ja;m
+opekarnica;-e;ž
+opekarniški;-a -o;prid.
+opekarski;-a -o;prid.
+opekarstvo;-a;s
+opekast;-a -o;prid.
+opekati;-am;nedov.
+opeklina;-e;ž
+opeklinski;-a -o;prid.
+opel;opla;m
+opeliniti;-im;dov.
+openiti;-im;dov.
+openjati;-am;nedov.
+opentljati;-am;tudi
+opera;-e;ž
+operabilen;-lna -o;prid.
+opera buffa;opere buffe;ž
+operacija;-e;ž
+operacijski;-a -o;prid.
+operacionalizirati;-am;dov. in nedov.
+operand;-a;m
+operat;-a;m
+operater;-ja;m
+operaterka;-e;ž
+operaterski;-a -o;prid.
+operativa;-e;ž
+operativec;-vca;m
+operativen;-vna -o;prid.
+operativnost;-i;ž
+operator;-ja;m
+operen;-rna -o;prid.
+opereta;-e;ž
+opereten;-tna -o;prid.
+operiranec;-nca;m
+operiranje;-a;s
+operiranka;-e;ž
+operirati;-am;nedov.
+operist;-a;m
+operiti;-im;dov.
+operjanièiti;-im;dov.
+operjenec;-nca;m
+operjenost;-i;ž
+operoz;-a;m
+operutiti se;-im se;dov.
+opesen;-sna -o;prid.
+opesniti;-im;dov.
+opestnik;-a;m
+opešanec;-nca;m
+opešanje;-a;s
+opešanost;-i;ž
+opešati;-am;dov.
+opeten;;tudi
+opeti;opnem;dov.
+opeti;opojem;dov.
+opetje;;tudi
+opetnajstiti;-im;dov.
+opetnica;-e;ž
+opetnik;-a;m
+opetovati;-ujem;nedov.
+opevanka;-e;ž
+opevati;-am;nedov.
+ophati;opham;stil.
+opiat;-a;m
+opica;-e;ž
+opièar;-ja;m
+opièarija;-e;ž
+opièiti;-im;dov.
+opièjak;;in
+opièji;-a -e;prid.
+opièka;-e;ž
+opiènik;-a;m
+opiènjak;-a;m
+opih;-a;m
+opihati;-am;dov.
+opihniti;-em;dov.
+opihovati;-ujem;nedov.
+opij;-a;m
+opijaniti;-im;dov.
+opijanjati;-am;nedov.
+opijanje;-a;s
+opijanljiv;-a -o;prid.
+opijati;-am;nedov.
+opijev;-a -o;prid.
+opijski;-a -o;prid.
+opikati;-am;dov.
+opikljati;-am;dov.
+opilek;-lka;m
+opiliti;-im;dov.
+opipati;-am;tudi
+opiraè;-a;m
+opiraèa;-e;ž
+opiralo;-a;s
+opiranje;-a;s
+opis;-a;m
+opisati;;in
+opisavati;-am;nedov.
+opisati;;in
+opisavati;-am;nedov.
+opisen;-sna -o;prid.
+opisljiv;-a -o;prid.
+opismeniti;-im;dov.
+opismenjevati;-ujem;nedov.
+opisništvo;-a;s
+opisnogeometrièen;-èna -o;prid.
+opisnost;-i;ž
+opisovalec;-lca;m
+opisovalen;-lna -o;prid.
+opisovanje;-a;s
+opisovati;-ujem;nedov.
+opišèiti se;-im se;dov.
+opitati;-am;dov.
+opiti;opijem;dov.
+opitje;-a;s
+opitost;-i;ž
+opla;;medm.
+oplahtati;-am;dov.
+oplajanje;-a;s
+oplajati;-am;nedov.
+oplaka;-e;ž
+oplajati;-am;nedov.
+oplaka;-e;ž
+oplakniti;;in
+oplakovati;-ujem;nedov.
+oplankati;-am;dov.
+oplašèiti;-im;dov.
+oplašiti;;in
+oplat;-i;ž
+oplata;-e;ž
+oplati;opoljem;dov.
+oplatica;-e;ž
+oplatiti;-im;in
+oplatnica;;tudi
+oplaz;-aza;m
+oplazen;-zna -o;prid.
+oplazenje;-a;s
+oplaziti;;in
+opleèek;-èka;m
+opleèje;-a;s
+opleènik;-a;m
+oplemenitenje;-a;s
+oplemenitev;-tve;ž
+oplemeniti;-im;dov.
+oplemenitilnica;-e;ž
+oplemenitilnica;-e;ž
+oplemenititi;-im;dov.
+oplemenitovati;-ujem;nedov.
+oplemenjevanje;-a;s
+oplemenjevati;-ujem;nedov.
+oplen;-ena;m
+oplenitev;-tve;ž
+opleniti;;in
+oplesk;;tudi
+opleskati;-am;dov.
+oplesti;opletem;dov.
+oplešiveti;-im;dov.
+oplet;-eta;m
+opletanje;-a;s
+opletati;-am;nedov.
+opletav;-ava -o;prid.
+opletenka;;tudi
+opleti;oplevem;dov
+oplezati;-am;dov.
+oplitveti;-im;dov.
+opljuniti;-em;dov.
+opljuskati;-am;dov.
+opljuskavati;-am;nedov.
+opljuskniti;-em;dov.
+opljusniti;-em;dov.
+opljuvati;-am;in
+oploèiti;-im;tudi
+oploèje;-a;s
+oploènica;-e;ž
+oplodba;-e;ž
+oploden;-dna -o;prid.
+oploditev;-tve;ž
+oploditi;-im;dov.
+oploditven;-a -o;prid.
+oplodje;-a;s
+oplodljiv;-a -o;prid.
+oplodnja;-e;ž
+oplojevalec;-lca;m
+oplojevalen;-lna -o;prid.
+oplojevanje;-a;s
+oplojevati;-ujem;nedov.
+oploskati;-am;dov.
+oplošèiti;-im;dov.
+oplošèiti;-im;tudi
+opluteti;-im;dov.
+opna;-e;ž
+opnast;-a -o;prid.
+opoèasniti;-im;in
+opoèen;-èna -o;prid.
+opogumiti;-im;dov.
+opogumljanje;-a;s
+opogumljati;-am;nedov.
+opoj;-oja;m
+opojen;-jna -o;prid.
+opojenost;-i;ž
+opojilo;-a;s
+opojiti;-im;dov.
+opojnina;-e;ž
+opojnost;-i;ž
+opoka;-e;ž
+opokel;-kla -o;prid.
+opoldan;-dneva;m
+opoldan;;prisl.
+opoldanji;-a -e;prid.
+opoldanski;;tudi
+opoldne;-dneva;s
+opoldne;;prisl.
+opolnoèi;;prisl.
+opolnomoèen;-a -o;prid.
+opolnomoèenec;-nca;m
+opolo;;in
+opolzek;-zka -o;prid.
+opolzel;-zla -o;prid.
+opolzkost;-i;ž
+opomba;-e;ž
+opombica;-e;ž
+opomeniti;-im;dov.
+opomin;-a;m
+opominjanje;-a;s
+opominjati;-am;nedov.
+opominjevalec;-lca;m
+opominjevalen;-lna -o;prid.
+opominjevanje;-a;s
+opominjevati;-ujem;nedov.
+opomnik;-a;m
+opomniti;-im;dov.
+opomnja;-e;ž
+opomoèi si;-morem si;tudi
+opona;-e;ž
+oponašalec;-lca;m
+oponašalka;-e;ž
+oponašanje;-a;s
+oponašati;-am;nedov.
+oponent;-enta;in
+oponesti;-nesem;dov.
+oponiranje;-a;s
+oponirati;-am;nedov.
+opoprati;-am;dov.
+opora;-e;ž
+oporeèen;-èna -o;prid.
+oporeèi;-reèem;dov.
+oporeènik;-a;m
+oporeèništvo;-a;s
+oporeènost;-i;ž
+oporek;-rka;m
+oporekanje;-a;s
+oporekati;-am;nedov.
+oporekovalec;-lca;m
+oporen;-rna -o;prid.
+oporišèe;-a;s
+oporje;-a;s
+opornica;-e;ž
+opornik;-a;m
+opornjak;-a;m
+oporoèen;-èna -o;prid.
+oporoèitelj;-a;m
+oporoèiti;-im;dov.
+oporoènik;-a;m
+oporoka;-e;ž
+oportati;-am;dov.
+oportun;-a -o;prid.
+oportunist;-a;m
+oportunistièen;-èna -o;prid.
+oportunistka;-e;ž
+oportuniteta;-e;ž
+oportunizem;-zma;m
+oportunost;-i;ž
+oportunstvo;-a;s
+oposum;-a;m
+opoteè;-eèa -e;prid.
+opoteèen;-èna -o;prid.
+opoteèi se;-teèem se;dov.
+opoteènost;-i;ž
+opotekanje;-a;s
+opotekati se;-am se;nedov.
+opotekav;-ava -o;prid.
+opotièiti;-im;dov.
+opotika;-e;ž
+opotikati;-am;nedov.
+opovreèi;-vržem;dov.
+opozarjanje;-a;s
+opozarjati;-am;nedov.
+opozicija;-e;ž
+opozicijski;-a -o;prid.
+opozicionalec;-lca;m
+opozicionalen;-lna -o;prid.
+opozicionalnost;-i;ž
+opozorilen;-lna -o;prid.
+opozorilo;-a;s
+opozoritev;-tve;ž
+opozoriti;-im;dov.
+opozorljiv;-a -o;prid.
+oprasiti se;-im se;dov.
+oprask;-aska;m
+opraskanec;-nca;m
+opraskanina;-e;ž
+opraskati;-am;dov.
+oprasniti;-em;dov.
+oprašati;;tudi
+oprašèati;-am;nedov.
+oprašenje;-a;s
+opraševalec;-lca;m
+opraševalen;-lna -o;prid.
+opraševalka;-e;ž
+opraševanje;-a;s
+opraševati;-ujem;nedov.
+oprašitev;-tve;ž
+oprašiti;-im;dov.
+oprati;operem;dov.
+oprava;-e;ž
+opravek;-vka;m
+opravica;-e;ž
+opravica;;in
+opravièba;-e;ž
+opravièenje;-a;s
+opravièenost;-i;ž
+opravièevalen;-lna -o;prid.
+opravièevanje;-a;s
+opravièevati;-ujem;nedov.
+opravièilen;-lna -o;prid.
+opravièilo;-a;s
+opravièiti;-im;dov.
+opravièljiv;-a -o;prid.
+opravilce;-a;s
+opravilen;-lna -o;prid.
+opravilnik;-a;m
+opravilo;-a;s
+opraviti;-im;dov.
+opravka;;in
+opravljanje;-a;s
+opravljanje;;tudi
+opravljiv;-a -o;prid.
+opravljivec;-vca;m
+opravljivka;-e;ž
+opravljivost;-i;ž
+opravnik;-a;m
+opravnina;-e;ž
+opravništvo;-a;s
+opravnina;-e;ž
+opravništvo;-a;s
+opražiti;-im;dov.
+oprèiti;-im;dov.
+opredati;-am;nedov.
+opredelba;-e;ž
+opredelitev;-tve;ž
+opredeliti;-im;dov.
+opredeljenost;-i;ž
+opredeljevalec;-lca;m
+opredeljevanje;-a;s
+opredeljevati;-ujem;nedov.
+opredeljiv;-a -o;prid.
+opredeljivost;-i;ž
+opredmetenje;-a;s
+opredmetenost;-i;ž
+opredmetiti;-im;dov.
+opreka;-e;ž
+oprekelj;-klja;m
+oprema;-e;ž
+opremek;-mka;m
+opremen;-mna -o;prid.
+opremitelj;-a;m
+opremiti;-im;dov.
+opremljanje;-a;s
+opremljati;-am;nedov.
+opremljenost;-i;ž
+opremljevalec;-lca;m
+opresen;-sna -o;prid.
+opresnik;-a;m
+opresnina;-e;ž
+opresti;opredem;in
+opreti;oprem;dov.
+oprez;-eza;m
+oprezanje;-a;s
+oprezati;-am;nedov.
+oprezen;-zna -o;prid.
+opreznež;-a;m
+opreznost;-i;ž
+oprezovalec;-lca;m
+oprezovanje;;tudi
+oprezovati;-ujem;tudi
+oprh;-a;m
+oprhati;-am;dov.
+oprhavati;-am;nedov.
+oprhel;-hla -o;prid.
+oprhljiv;-a -o;prid.
+oprhljivost;-i;ž
+oprhneti;-im;dov.
+oprhniti;-em;dov.
+opriènik;-a;m
+oprijem;-ema;m
+oprijemaè;-a;m
+oprijemalen;-lna -o;prid.
+oprijemališèe;-a;s
+oprijemalka;-e;ž
+oprijemalo;-a;s
+oprijemanje;-a;s
+oprijemati;-am;tudi
+oprijemek;-mka;m
+oprijemen;-mna -o;prid.
+oprijemljiv;-a -o;prid.
+oprijemljivost;-i;ž
+oprijeti;oprimem;dov.
+oprim;-a;m
+oprimek;-mka;m
+oprimnica;-e;ž
+oproda;-e;tudi
+oprodovski;-a -o;prid.
+oproga;-e;ž
+oprostilen;-lna -o;prid.
+oprostitev;-tve;ž
+oprostiti;-im;dov.
+oprostitven;-a -o;prid.
+oprostljiv;-a -o;prid.
+oprošèati;-am;nedov.
+oprošèenec;-nca;m
+oprošèenje;-a;s
+oprsen;-sna -o;prid.
+oprsje;-a;s
+oprsnik;-a;m
+oprstaniti;-im;dov.
+oprt;-a;m
+oprt;-i;ž
+oprta;-e;ž
+oprtaè;-a;m
+oprtati;-am;dov.
+oprtav;;prisl.
+oprtavati;-am;nedov.
+oprtavnica;-e;ž
+oprten;-tna -o;prid.
+oprtica;-e;ž
+oprtiti;-im;dov.
+oprtiv;;prisl.
+oprtnica;-e;ž
+oprtnik;-a;m
+oprtovati;-ujem;nedov.
+opsovati;opsujem;dov.
+optant;-a;m
+optativ;-a;m
+optièen;-èna -o;prid.
+optik;-a;m
+optika;-e;ž
+optimalen;-lna -o;prid.
+optimalizirati;-am;dov. in nedov.
+optimalnost;-i;ž
+optimat;-a;m
+optimist;-a;m
+optimistièen;-èna -o;prid.
+optimistiènost;-i;ž
+optimistka;-e;ž
+optimizem;-zma;m
+optimum;-a;m
+optirati;-am;dov. in nedov.
+opuhel;-hla -o;prid.
+opuhniti;-em;dov.
+opukati;-am;dov.
+opulenten;-tna -o;prid.
+opuliti;;in
+opuncija;-e;ž
+opus;-a;m
+opustelost;-i;ž
+opusteti;-im;dov.
+opustevati;-am;nedov.
+opustitev;-tve;ž
+opustiti;-im;dov.
+opustitven;-a -o;prid.
+opustošenje;-a;s
+opustošenost;-i;ž
+opustošiti;-im;dov.
+opušèaj;-a;m
+opušèanje;-a;s
+opušèati;-am;nedov.
+or;-i;ž
+oraè;-a;m
+orada;-e;ž
+orakelj;-klja;m
+orakeljski;-a -o;prid.
+oral;-a;m
+oral;-i;ž
+oralen;-lna -o;prid.
+oralo;-a;s
+oramje;-a;s
+orangutan;-a;m
+orangutanski;-a -o;prid.
+oranica;-e;ž
+oranje;-a;s
+orant;-a;m
+oranta;-e;ž
+oranža;-e;ž
+oranžada;-e;ž
+oranžast;-a -o;prid.
+oranžen;-žna -o;prid.
+oranžerija;-e;ž
+oranžev;-a -o;prid.
+oranževec;-vca;m
+oratar;-ja;m
+oratev;-tve;ž
+orati;orjem;in
+orator;-ja;m
+oratorij;-a;m
+oratorijski;-a -o;prid.
+oratorski;-a -o;prid.
+orazumiti;-im;dov.
+oraženec;-nca;m
+orbita;-e;ž
+orbitalen;-lna -o;prid.
+orden;-a;in
+ordeti;-im;dov.
+ordinacija;-e;ž
+ordinacijski;-a -o;prid.
+ordinaren;-rna -o;prid.
+ordinariat;-a;m
+ordinarij;-a;m
+ordinarnost;-i;ž
+ordinata;-e;ž
+ordinirati;-am;nedov.
+ordo;-a;m
+ordonanc;-a;m
+ordonanca;-e;ž
+ordonanèen;-èna -o;prid.
+ordonanènik;-a;m
+orduš;;medm.
+oreh;-eha;m
+orehov;-a -o;prid.
+orehovec;-vca;m
+orehovina;;in
+orehovka;-e;ž
+orel;orla;m
+oren;orna -o;in
+orepkati;-am;dov.
+orepnica;-e;ž
+oresnièiti;-im;dov.
+orešèek;-èka;m
+orešek;-ška;m
+oreškar;-ja;m
+orfejski;-a -o;prid.
+orfièen;-èna -o;prid.
+orfik;-a;m
+orfik;-a;m
+orfizem;-zma;m
+organ;-a;m
+organèek;-èka;m
+organdi;-ja;m
+organicistièen;-èna -o;prid.
+organicizem;-zma;m
+organièen;-èna -o;prid.
+organiènost;-i;ž
+organist;-a;m
+organistka;-e;ž
+organistovka;-e;ž
+organistovski;-a -o;prid.
+organizacija;-e;ž
+organizacijski;-a -o;prid.
+organizator;-ja;m
+organizatoren;-rna -o;prid.
+organizatorica;-e;ž
+organizatorièen;-èna -o;prid.
+organizatorka;-e;ž
+organizatorski;-a -o;prid.
+organizem;-zma;m
+organiziranec;-nca;m
+organiziranje;-a;s
+organiziranost;-i;ž
+organizirati;-am;dov. in nedov.
+organo...;;ali
+organogen;-a -o;prid.
+organoleptièen;-èna -o;prid.
+organski;-a -o;prid.
+organskost;-i;ž
+organtin;-a;m
+organzin;-a;m
+orgazem;-zma;m
+orgelski;-a -o;prid.
+orgiastièen;-èna -o;prid.
+orgija;-e;ž
+orglanje;-a;s
+orglar;-ja;m
+orglar;;in
+orglarica;-e;ž
+orglarski;-a -o;prid.
+orglarski;;in
+orglati;-am;nedov.
+orglavec;-vca;m
+orgle;-gel;ž mn.
+orglice;-lic;ž mn.
+orhideja;-e;ž
+oribati;-am;dov.
+orièka;-e;ž
+orient;;in
+orientacija;-e;ž
+orientacijski;-a -o;prid.
+orientalec;-lca;m
+orientalen;-lna -o;prid.
+orientalist;-a;m
+orientalistika;-e;ž
+orientalizem;-zma;m
+orientalizirati;-am;nedov. in dov.
+orientalka;-e;ž
+orientalski;-a -o;prid.
+orientekspres;;in
+orientir;-ja;m
+orientiranje;-a;s
+orientiranost;-i;ž
+orientirati;-am;dov. in nedov.
+orientski;;in
+original;-a;m
+originalen;-lna -o;prid.
+originalnost;-i;ž
+originaren;-rna -o;prid.
+oriks;-a;m
+oris;-a;m
+orisati;orišem;dov.
+orisati;orišem;dov.
+orisen;-sna -o;prid.
+orisovati;-ujem;nedov.
+oriti;-im;tudi
+orjak;-a;m
+orjakinja;-e;ž
+orjaški;-a -o;prid.
+orjaštvo;-a;s
+orjaveti;-im;dov.
+Orjuna;;in
+orjunaš;-a;m
+orjunaški;-a -o;prid.
+orjunaštvo;-a;s
+orjunec;-nca;m
+orka;;medm.
+orkamadona;;in
+orkan;-a;m
+orkanski;-a -o;prid.
+orkester;-tra;m
+orkestra;-e;ž
+orkestracija;-e;ž
+orkestralen;-lna -o;prid.
+orkestraš;-a;m
+orkestrion;;in
+orkestrirati;-am;dov. in nedov.
+orkestrski;-a -o;prid.
+orlica;-e;ž
+orliè;-ièa;m
+orlji;-a -e;prid.
+orlon;-a;m
+orlook;-a -o;prid.
+orlov;-ova -o;tudi
+orlovski;;tudi
+orlovstvo;;in
+ornament;-enta;m
+ornamentacija;-e;ž
+ornamentalen;-lna -o;prid.
+ornamentalnost;-i;ž
+ornamenten;-tna -o;prid.
+ornamentik;-a;m
+ornamentika;-e;ž
+ornamentiranje;-a;s
+ornamentirati;-am;nedov. in dov.
+ornat;-a;m
+ornica;-e;ž
+ornica;-e;ž
+ornitolog;-a;m
+ornitologija;-e;ž
+ornitološki;-a -o;prid.
+ornitološki;-a -o;prid.
+oro...;;ali
+orobkati;-am;dov.
+oroèanje;-a;s
+oroèati;-am;nedov.
+oroèiti;-im;tudi
+oroden;-dna -o;prid.
+orodjar;-ja;m
+orodjarna;-e;ž
+orodjarski;-a -o;prid.
+orodjarstvo;-a;s
+orodje;-a;s
+orodnik;-a;m
+orogeneza;-e;ž
+orografija;-e;ž
+orografski;-a -o;prid.
+orokavièiti;-im;dov.
+oropati;-am;dov.
+oroseti;-im;dov.
+orositi;-im;dov.
+orošati;-am;nedov.
+orožar;-ja;m
+orožarna;-e;ž
+orožarnica;-e;ž
+orožarski;-a -o;prid.
+orožen;-žna -o;prid.
+oroženeti;-im;dov.
+orožiti;-im;dov.
+orožje;-a;s
+orožjenosec;-sca;m
+orožnica;-e;ž
+orožnik;-a;m
+orožniški;-a -o;prid.
+orožništvo;-a;s
+orto...;;ali
+ortodoksen;-sna -o;prid.
+ortodoksija;-e;ž
+ortodoksnost;-i;ž
+ortodont;-a;m
+ortodontija;-e;ž
+ortodontski;-a -o;prid.
+ortoepija;-e;ž
+ortoepski;-a -o;prid.
+ortogonalen;-lna -o;prid.
+ortografija;-e;ž
+ortografski;-a -o;prid.
+ortoklaz;-a;m
+ortokromatski;-a -o;prid.
+ortoped;-a;m
+ortopedagogika;-e;ž
+ortopedièen;-èna -o;prid.
+ortopedija;-e;ž
+ortopedinja;-e;ž
+ortopedski;-a -o;prid.
+orumeneti;-im;dov.
+orumenevati;-am;nedov.
+oružiti;-im;dov.
+os;-i;ž
+osa;-e;stil.
+osahel;-hla -o;prid.
+osahniti;;in
+osajiti;-im;in
+osama;-e;ž
+osamelec;-lca;m
+osamelost;-i;ž
+osameti;-im;dov.
+osamevati;-am;nedov.
+osamilen;-lna -o;prid.
+osamilo;-a;s
+osamitev;-tve;ž
+osamiti;-im;tudi
+osamljati;-am;nedov.
+osamljen;-a -o;prid.
+osamljenec;-nca;m
+osamljenec;-nca;m
+osamljenje;;tudi
+osamljenka;-e;ž
+osamljenost;-i;ž
+osamljenost;;tudi
+osamljevati;-ujem;nedov.
+osamosvajanje;-a;s
+osamosvajati;-am;nedov.
+osamosvestiti;-im;dov.
+osamosvoja;-e;ž
+osamosvojevati;-ujem;nedov.
+osamosvojitev;-tve;ž
+osamosvojiti;-im;dov.
+osast;-a -o;prid.
+osat;-a;m
+osat;-ata -o;prid.
+osatnik;-a;m
+osatost;-i;ž
+oscanka;-e;ž
+oscati;ošèijem;tudi
+oscilacija;-e;ž
+oscilator;-ja;m
+osciliranje;-a;s
+oscilirati;-am;nedov.
+oscilirati;-am;nedov.
+oscilograf;-a;m
+oscilogram;-a;m
+osciloskop;;tudi
+oseba;-e;ž
+osebek;-bka;m
+oseben;-bna -o;prid.
+osebenjek;-jka;m
+osebenjica;-e;ž
+osebenjka;-e;ž
+osebenjkar;-ja;m
+osebenjkarica;-e;ž
+osebenjkovati;-ujem;in
+osebica;-e;ž
+osebje;-a;s
+osebkov;-a -o;prid.
+osebnoizpoveden;-dna -o;prid.
+osebnopraven;-vna -o;prid.
+osebnost;-i;ž
+osebnosten;-tna -o;prid.
+oseèek;-èka;m
+osedlati;-am;dov.
+osek;-eka;tudi
+oseka;-e;ž
+osel;osla;m
+oselnik;-a;m
+osem;osmih;štev.
+osem...;;ali
+osemdeset;-ih;štev.
+osemdeseti;-a -o;štev.
+osemdesetletnica;-e;ž
+osemdesetletnik;-a;m
+osemenitev;-tve;ž
+osemeniti;-im;dov.
+osemenje;-a;s
+osemenjevalec;-lca;m
+osemenjevalen;-lna -o;prid.
+osemenjevalnica;-e;ž
+osemenjevanje;-a;s
+osemenjevati;-ujem;nedov.
+oseminštirideset;-ih;štev.
+osemkrat;;prisl.
+osemkraten;;tudi
+osemleten;-tna -o;prid.
+osemletka;-e;ž
+osemletkar;-ja;m
+osemnajst;;in
+osemnajsti;;in
+osemnajstleten;;in
+osemnajststo;;in
+osemrazreden;-dna -o;prid.
+osemrazrednica;-e;ž
+osemsto;;štev. neskl.
+osemtisoèak;-a;m
+osemuren;-rna -o;prid.
+osemurnik;-a;m
+osen;;in
+osen;;tudi
+osena;-e;ž
+osenèenost;-i;ž
+osenèevati;-ujem;nedov.
+osenèiti;-im;dov.
+oseniti;-im;dov.
+osenjava;-e;ž
+osepnice;-nic;ž mn.
+osepnièast;-a -o;prid.
+osepnièen;-èna -o;prid.
+osica;;tudi
+osigurati;-am;dov.
+osimski;-a -o;prid.
+osina;-e;ž
+osinjak;-a;m
+osinje;-a;s
+osinjeti;-im;dov.
+osip;-a;m
+osipalnik;-a;m
+osipanje;-a;s
+osipati;-am;tudi
+osipavanje;-a;s
+osipavati;-am;nedov.
+osipljiv;-a -o;prid.
+osir;-ja;m
+osirati;-am;nedov.
+osiromašenje;-a;s
+osiromašenje;;in
+osiromašeti;-im;dov.
+osiromaševati;-ujem;nedov.
+osiromašiti;-im;dov.
+osirotelost;-i;ž
+osiroteti;-im;dov.
+osirotiti;-im;in
+osiv;-a -o;prid.
+osivelost;-i;ž
+osiveti;-im;dov.
+osji;;in
+oskalek;-lka;m
+oskaliti se;-im se;dov.
+oskar;-ja;m
+oskaliti se;-im se;dov.
+oskar;-ja;m
+oskobljati;-am;dov.
+oskobljiti;-im;dov.
+oskoden;-dna -o;prid.
+oskorjava;-e;ž
+oskorjiti;-im;dov.
+oskoruš;;in
+oskrba;-e;ž
+oskrben;-bna -o;prid.
+oskrbeti;-im;dov.
+oskrbljenost;-i;ž
+oskrbnica;-e;ž
+oskrbnik;-a;m
+oskrbnina;-e;ž
+oskrbniški;-a -o;prid.
+oskrbništvo;-a;s
+oskrbovalec;-lca;m
+oskrbovalen;-lna -o;prid.
+oskrbovališèe;-a;s
+oskrbovalka;-e;ž
+oskrbovalnina;-e;ž
+oskrbovanec;-nca;m
+oskrbovanje;-a;s
+oskrbovanka;-e;ž
+oskrbovati;-ujem;nedov.
+oskrd;-i;ž
+oskromen;-mna -o;prid.
+oskrumba;-e;ž
+oskrunitev;-tve;ž
+oskruniti;-im;dov.
+oskrunjati;-am;nedov.
+oskrunjenec;-nca;m
+oskrunjenje;-a;s
+oskrunjenost;-i;ž
+oskrunjevalec;-lca;m
+oskrunjevati;-ujem;nedov.
+oskubiti;-im;dov.
+oskubsti;oskubem;dov.
+oskuten;-tna -o;prid.
+osla;-e;ž
+oslabelost;-i;ž
+oslabeti;-im;dov.
+oslabevati;-am;nedov.
+oslabitev;-tve;ž
+oslabiti;-im;dov.
+oslad;;in
+osladen;-dna -o;prid.
+osladiti;-im;dov.
+osladkati;-am;dov.
+osladnost;-i;ž
+oslajati;-am;nedov.
+oslanjati;-am;nedov.
+oslar;-ja;m
+oslarija;-e;ž
+oslaviti;-im;tudi
+oslavljati;-am;nedov.
+osle;-eta;s
+oslec;-eca;m
+oslediti;-im;dov.
+oslepariti;-im;dov.
+osleparjenec;-nca;m
+oslepelost;-i;ž
+oslepeti;-im;dov.
+oslepitev;-tve;ž
+oslepiti;-im;dov.
+oslepljati;-am;nedov.
+oslepljenec;-nca;m
+oslepljevati;-ujem;nedov.
+oslepovati;-ujem;nedov.
+oslez;;in
+oslica;-e;ž
+osliè;-ièa;m
+oslica;-e;ž
+osliè;-ièa;m
+oslièek;-èka;m
+osliniti;-im;dov.
+oslojiti;-im;dov.
+oslomba;-e;ž
+oslon;-ona;m
+oslona;-e;ž
+osloniti;oslonim;stil.
+oslov;-a -o;stil.
+oslovina;-e;ž
+oslovski;-a -o;prid.
+oslovstvo;-a;s
+osluškovanje;-a;s
+osluškovati;-ujem;nedov.
+oslutiti;;in
+osmak;-a;m
+osmanski;;in
+osmegniti;-em;dov.
+osmehniti se;-em se;dov.
+osmeliti;-im;dov.
+osmer;-a -o;štev.
+osmerak;-a;m
+osmerec;;in
+osmerec;;in
+osmerica;-e;ž
+osmerka;-e;ž
+osmero;;štev. neskl.
+osmero...;;prvi del zloženk
+osmerokoten;-tna -o;prid.
+osmerokotnik;-a;m
+osmerostop;-opa;m
+osmerostran;;in
+osmešenje;-a;s
+osmešiti;-im;dov.
+osmetiti;-im;dov.
+osmi;-a -o;štev.
+osmica;-e;ž
+osmiè;;prisl.
+osmièast;-a -o;prid.
+osmij;-a;m
+osmina;-e;ž
+osminka;-e;ž
+osminski;-a -o;prid.
+osmislitev;-tve;ž
+osmisliti;-im;dov.
+osmisljenje;;in
+osmislovati;-ujem;nedov.
+osmiški;-a -o;prid.
+osmišljanje;-a;s
+osmišljati;-am;nedov.
+osmišljenje;-a;s
+osmodek;-dka;m
+osmoditi;-im;dov.
+osmojek;-jka;m
+osmoliti;-im;dov.
+osmoljenec;-nca;m
+osmošolec;-lca;m
+osmošolka;-e;ž
+osmošolski;-a -o;prid.
+osmotièen;;in
+osmotski;;in
+osmoza;;in
+osmozen;;in
+osmraditi;-im;dov.
+osmrkati se;-am se;dov.
+osmrten;-tna -o;prid.
+osmrtnica;-e;ž
+osmukati;-am;tudi
+osmukavati;-am;nedov.
+osmukniti;-em;dov.
+osmuliti;-im;dov.
+osnažiti;-im;dov.
+osnik;-a;m
+osnova;-e;ž
+osnovalen;-lna -o;prid.
+osnovanje;-a;s
+osnovanost;-i;ž
+osnovatelj;-a;m
+osnovati;osnujem;dov.
+osnoven;-vna -o;prid.
+osnovnica;-e;ž
+osnovnik;-a;m
+osnovnošolec;-lca;m
+osnovnošolski;-a -o;prid.
+osnutek;-tka;m
+osnuti;osnujem;dov.
+osobit;-a -o;prid.
+osoèiti se;-im se;dov.
+osoja;-e;ž
+osojen;-jna -o;prid.
+osokoliti;-im;in
+osoliti;-im;dov.
+osolziti;-im;dov.
+osonèenje;-a;s
+osonèenost;-i;ž
+osonèiti;-im;dov.
+osonèje;-a;s
+osorej;;prisl.
+osoren;-rna -o;prid.
+osornost;-i;ž
+osovraženost;-i;ž
+osovražiti;;in
+ospel;;gl.
+osporavati;-am;nedov.
+ospredje;-a;s
+osprednji;-a -e;prid.
+osramje;-a;s
+osramoèenje;-a;s
+osramoèenost;-i;ž
+osramoèevati;-ujem;nedov.
+osramotiti;-im;dov.
+osrane;-eta;m
+osrane;-eta;s
+osranec;-nca;m
+osrati;oserjem;dov.
+osrèevalen;-lna -o;prid.
+osrèevati;-ujem;nedov.
+osrèiti;-im;dov.
+osrèje;-a;s
+osrènik;-a;m
+osreèevalec;-lca;m
+osreèevalen;-lna -o;prid.
+osreèevati;-ujem;nedov.
+osreèitev;-tve;ž
+osreèiti;-im;dov.
+osredek;-dka;m
+osreden;-dna -o;prid.
+osrediniti;-im;dov.
+osrediti;-im;dov.
+osredje;-a;s
+osrednje...;;prvi del zloženk
+osrednji;-a -e;prid.
+osrednjost;-i;ž
+osrednost;-i;ž
+osredotoèanje;-a;s
+osredotoèati;-am;nedov.
+osredotoèenje;-a;s
+osredotoèenost;-i;ž
+osredotoèevati;-ujem;nedov.
+osredotoèitev;-tve;ž
+osredotoèiti;-im;dov.
+osrenica;;in
+osreniti;-im;dov.
+osrepeti;-im;dov.
+osrežiti;-im;dov.
+ost;-i;ž
+ostajališèe;-a;s
+ostajanje;-a;s
+ostajati;-am;nedov.
+ostali;-a -o;prid.
+ostalina;-e;ž
+ostanek;-nka;m
+ostarelost;-i;ž
+ostareti;-im;dov.
+ostarevati;-am;nedov.
+ostati;ostanem;dov.
+ostaviti;-im;dov.
+ostavka;-e;ž
+ostavljati;-am;nedov.
+ostebreti;-im;dov.
+ostekleneti;-im;dov.
+ostekleti;-im;dov.
+ostekliti;-im;dov.
+osten;-tna;m
+ostenje;-a;s
+ostentativen;-vna -o;prid.
+osteologija;-e;ž
+osteoporoza;-e;ž
+oster;-tra;tudi
+ostinaten;-tna -o;prid.
+ostinato;-a;m
+ostnat;-a -o;prid.
+ostnik;-a;m
+ostrakizem;-zma;m
+ostrašiti;-im;in
+ostrašljiv;-a -o;prid.
+ostrc;-a;m
+ostrenje;-a;s
+ostrešek;-ška;m
+ostrešen;-šna -o;prid.
+ostrešiti;-im;dov.
+ostrešje;-a;s
+ostrešnik;-a;m
+ostrgati;-am;tudi
+ostrgavati;-am;nedov.
+ostrica;-e;ž
+ostrièi;ostrižem;dov.
+ostriga;-e;ž
+ostrigar;-ja;m
+ostrilec;-lca;m
+ostrilo;-a;s
+ostrina;-e;ž
+ostrinski;-a -o;prid.
+ostritev;-tve;ž
+ostriti;-im;nedov.
+ostrivec;-vca;m
+ostriž;-a;m
+ostrižek;-žka;m
+ostriženec;-nca;m
+ostriženka;-e;ž
+ostrižišèe;-a;s
+ostrižnjak;-a;m
+ostrmeti;-im;dov.
+ostrnica;-e;ž
+ostro...;;prvi del zloženk
+ostrodlak;;in
+ostrog;;in
+ostroga;-e;ž
+ostrogast;-a -o;prid.
+ostroglav;;in
+ostrogled;-a -o;prid.
+ostrogovina;;in
+ostrokljun;-a -o;prid.
+ostrokoten;-tna -o;prid.
+ostrolisten;-tna -o;prid.
+ostrolistnica;-e;ž
+ostronos;-a -o;prid.
+ostrorob;-a -o;prid.
+ostrost;;tudi
+ostrostrelec;-lca;m
+ostrostrelski;-a -o;prid.
+ostrota;-e;ž
+ostrouh;-a -o;prid.
+ostroumen;-mna -o;prid.
+ostroumje;-a;s
+ostroumnost;-i;ž
+ostrov;-ova;m
+ostroviden;-dna -o;prid.
+ostrovidnost;-i;ž
+ostrozob;-a -o;prid.
+ostrožen;-a -o;prid.
+ostrožnica;-e;ž
+ostrožnik;-a;m
+ostrugati;-am;dov.
+ostrupiti;-im;dov.
+ostrupljati;-am;nedov.
+ostružek;-žka;m
+ostružiti;-im;dov.
+ostrv;-i;in
+ostržek;-žka;m
+ostuda;-e;ž
+ostuden;-dna -o;prid.
+ostuditi;-im;dov.
+ostudnež;-a;m
+ostudnica;-e;ž
+ostudnost;-i;ž
+ostva;-e;ž
+ostva;-e;ž
+ostvar;-ja;m
+ostvaritev;-tve;ž
+ostvariti;-im;dov.
+ostvarjanje;-a;s
+ostvarjati;-am;nedov.
+ostvarljiv;-a -o;prid.
+ostvarljivost;-i;ž
+osukniti;-em;dov.
+osumitev;-tve;ž
+osumiti;-im;dov.
+osumljati;-am;nedov.
+osumljenec;-nca;m
+osumljenka;-e;ž
+osupel;-pla -o;prid.
+osupiti;-im;dov.
+osupljati;-am;nedov.
+osupljiv;-a -o;prid.
+osupljivost;-i;ž
+osuplost;-i;ž
+osupniti;-em;dov.
+osupnjenje;-a;s
+osupnjenost;-i;ž
+osušek;-ška;m
+osuševalen;-lna -o;prid.
+osuševanje;-a;s
+osuševati;-ujem;nedov.
+osušitev;-tve;ž
+osušiti;-im;dov.
+osuti;osujem;dov.
+osuti se;ospem se;dov.
+osuvati;-am;tudi
+osvajaè;-a;m
+osvajalec;-lca;m
+osvajalen;-lna -o;prid.
+osvajalka;-e;ž
+osvajalnost;-i;ž
+osvajalski;-a -o;prid.
+osvajanje;-a;s
+osvajati;-am;nedov.
+osvaljek;-jka;m
+osvaljkati;-am;in
+osvedoèiti;-im;dov.
+osvestitev;-tve;ž
+osvestiti;-im;dov.
+osvešèanje;-a;s
+osvešèati;-am;nedov.
+osvešèenost;-i;ž
+osvešèevalen;-lna -o;prid.
+osveta;-e;ž
+osvetiti;-im;dov.
+osvetiti;;in
+osvetje;-a;s
+osvetlitev;-tve;ž
+osvetliti;-im;dov.
+osvetlitven;-a -o;prid.
+osvetljaè;-a;m
+osvetljava;-e;ž
+osvetljenost;-i;ž
+osvetljevalec;-lca;m
+osvetljevalen;-lna -o;prid.
+osvetljevanje;-a;s
+osvetljevati;-ujem;nedov.
+osvetoželjnost;-i;ž
+osveževati;-ujem;nedov.
+osvežilen;-lna -o;prid.
+osvežilo;-a;s
+osvežitev;-tve;ž
+osvežiti;-im;tudi
+osvinèiti;-im;dov.
+osvinjati;-am;dov.
+osvit;-a;m
+osvobajanje;-a;s
+osvobajati;-am;nedov.
+osvobodilen;-lna -o;prid.
+osvoboditelj;-a;m
+osvoboditeljica;-e;ž
+osvoboditev;-tve;ž
+osvoboditi;-im;dov.
+osvobojenec;-nca;m
+osvobojenje;-a;s
+osvobojenka;-e;ž
+osvobojenost;-i;ž
+osvobojevalen;-lna -o;prid.
+osvobojevati;-ujem;nedov.
+osvojevalec;-lca;m
+osvojitelj;-a;m
+osvojitev;-tve;ž
+osvojiti;-im;dov.
+osvojljiv;-a -o;prid.
+ošaben;-bna -o;prid.
+ošabnež;-a;m
+ošabnica;-e;ž
+ošabnost;-i;ž
+ošèep;-epa;m
+ošèetkati;-am;dov.
+ošèipati;-am;tudi
+ošemiti;-im;dov.
+ošèipati;-am;tudi
+ošemiti;-im;dov.
+ošibati;-am;dov.
+ošibeti;-im;dov.
+ošibiti;-im;dov.
+ošiliti;-im;dov.
+ošiniti;-em;dov.
+ošinjati;-am;nedov.
+oškodba;-e;ž
+oškoditi;-im;dov.
+oškodovanec;-nca;m
+oškodovanje;-a;s
+oškodovanka;-e;ž
+oškodovati;-ujem;tudi
+oškornjan;-a -o;prid.
+oškrabati;-am;tudi
+oškrbati;-am;tudi
+oškrbiti;-im,;in
+oškrbniti;-em;dov.
+oškrniti;-em;dov.
+oškrobiti;-im;dov.
+oškropiti;-im;dov.
+ošlatati;-am;dov.
+ošpehati;-am;dov.
+ošpetelj;-tlja;m
+ošpice;-pic;ž mn.
+ošpièast;-a -o;prid.
+ošpièiti;-im;dov.
+oštarija;-e;ž
+oštarijski;-a -o;prid.
+ošteti;oštejem;dov.
+oštevanje;-a;s
+oštevati;-am;nedov.
+oštevilèenje;-a;s
+oštevilèiti;-im;dov.
+oštija;;gl.
+oštir;-ja;m
+oštirka;-e;ž
+oštirski;-a -o;prid.
+oštja;;in
+oštrcati;-am;dov.
+oštrigljati;-am;dov.
+oštrkati;-am;dov.
+ošvigniti;-em;dov.
+ošvrk;-a;m
+ošvrkati;-am;dov.
+ošvrkavati;-am;nedov.
+ošvrkniti;-em;dov.
+otajati;-am;dov.
+otaliti;-im;dov.
+otava;-e;ž
+otaviè;-a;m
+otavnica;-e;ž
+otavnik;-a;m
+otèev;-a -o;prid.
+otec;otca;m
+oteèi;oteèem;dov.
+otekati;-am;nedov.
+oteklina;-e;ž
+otelitev;-tve;ž
+oteliti se;-im se;dov.
+otemati;-am;tudi
+otemneti;-im;dov.
+otemnevati;-am;nedov.
+otemniti;-im;dov.
+otemnjevati;-ujem;nedov.
+oteniti;-im;dov.
+otep;-epa;m
+otepaè;-a;m
+otepalnik;-a;m
+otepalo;-a;s
+otepanje;-a;s
+otepati;-am;stil.
+otepavanje;-a;s
+otepavanje;-a;s
+otepavati;-am;nedov.
+otepek;-pka;m
+otepsti;otepem;dov.
+otesati;otešem;dov.
+otešèati se;-am se;dov.
+oteti;otmem;dov.
+otevati;-am;nedov.
+oteževati;-ujem;nedov.
+otežiti;-im;dov.
+otežkoèati;-am;nedov.
+otežkoèiti;-im;dov.
+otimati;-am;tudi
+otip;-a;m
+otipati;-am;in
+otipavanje;-a;s
+otipavati;-am;nedov.
+otipljiv;-a -o;prid.
+otipljivost;-i;ž
+otiraè;-a;m
+otiraèa;-e;ž
+otiralka;-e;ž
+otiranje;-a;s
+otiralka;-e;ž
+otiranje;-a;s
+otirati;-am;nedov.
+otisk;-a;m
+otiska;-e;ž
+otisniti;-em;dov.
+otiš;-a;m
+otišèanec;-nca;m
+otišèati;-im;dov.
+otka;-e;ž
+otoèan;;in
+otoèanka;-e;ž
+otoèek;-èka;m
+otoèen;-èna -o;prid.
+otoèiè;-a;m
+otoèje;-a;s
+otodi;;prisl.
+otok;-oka;m
+otok;;in
+otolèenina;-e;ž
+otolèi;otolèem;dov.
+otolit;-a;m
+otolsteti;-im;dov.
+otoman;-a;m
+otomana;-e;ž
+otomanski;-a -o;prid.
+oton;-ona;in
+otonski;-a -o;prid.
+otopelost;-i;ž
+otopeti;-im;dov.
+otopevati;-am;nedov.
+otoplitev;-tve;ž
+otopliti;-im;dov.
+otorej;;prisl.
+otorej;;prisl.
+otorinolaringolog;-a;m
+otorinolaringologija;-e;ž
+otorinolaringološki;-a -o;prid.
+otoški;-a -o;prid.
+otovarjati;-am;nedov.
+otovoriti;-im;tudi
+otovrej;;prisl.
+otožen;-žna -o;prid.
+otožje;-a;s
+otožnost;-i;ž
+otrapati;-am;dov.
+otrdelost;-i;ž
+otrdeti;-im;dov.
+otrdelost;-i;ž
+otrdeti;-im;dov.
+otrdevati;-am;nedov.
+otrdina;-e;ž
+otrditev;-tve;ž
+otrditi;-im;dov.
+otrebek;-bka;m
+otrebiti;;in
+otrepati;-am;nedov.
+otresanje;-a;s
+otresati;-am;nedov.
+otresavati;-am;nedov.
+otresniti;-em;dov.
+otresovati;-ujem;nedov.
+otresti;otresem;dov.
+otreti;otrem;tudi
+otrinjati;-am;nedov.
+otrkati;-am;dov.
+otrkavati;-am;nedov.
+otrniti;otrnem;dov.
+otrob;-a;m
+otrobast;-a -o;prid.
+otroèad;-i;ž
+otroèaj;-a;m
+otroèaj;-a;m
+otroèajnar;-ja;m
+otroèarija;-e;ž
+otroèariti;-im;nedov.
+otroèe;-eta;s
+otroèek;-èka;m
+otroèiè;-ièa;m
+otroèièek;-èka;m
+otroèija;-e;ž
+otroèji;-a -e;prid.
+otroèjost;-i;ž
+otroènica;-e;ž
+otroèniški;-a -o;prid.
+otrok;-oka;m
+otrokec;-kca;m
+otrokov;-a -o;prid.
+otroški;-a -o;prid.
+otroškost;-i;ž
+otroškovarstven;-a -o;prid.
+otroštvo;-a;s
+otrov;-ova;m
+otrovati;otrujem;dov.
+otroven;-vna -o;prid.
+otrpel;-pla -o;prid.
+otrpen;-pna -o;prid.
+otrpevati;-am;nedov.
+otrplica;-e;ž
+otrplost;-i;ž
+otrpniti;-em;dov.
+otrpnjenje;-a;s
+otrpnjenost;-i;ž
+otrzniti;-em;dov.
+Ottov;-a -o;prid.
+otujiti;-im;dov.
+otva;-e;ž
+otvarjati;-am;nedov.
+otvesti;otvezem;in
+otveza;-e;ž
+otvezati;-am;nedov.
+otvoritev;-tve;ž
+otvoriti;-im;dov.
+otvoritven;-a -o;prid.
+out;;gl.
+output;-a;m
+outsider;-ja;m
+outsiderski;-a -o;prid.
+outsiderstvo;-a;s
+ov;;in
+ovacija;-e;ž
+ovadenec;-nca;m
+ovadba;-e;ž
+ovaditelj;-a;m
+ovaditi;-im;dov.
+ovadnik;;in
+ovaduh;-a;m
+ovaduhinja;-e;ž
+ovaduški;-a -o;prid.
+ovaduštvo;-a;s
+ovajalec;-lca;m
+ovajanje;-a;s
+ovajati;-am;nedov.
+oval;-a;m
+ovalen;-lna -o;prid.
+ovalnost;-i;ž
+ovarij;-a;m
+ovbe;;medm.
+ovca;-e;stil.
+ovèad;-i;ž
+ovèar;-ja;m
+ovèarica;-e;ž
+ovèariti;-im;nedov.
+ovèarka;-e;ž
+ovèarna;-e;ž
+ovèarski;-a -o;prid.
+ovèarstvo;-a;s
+ovèereja;;tudi
+ovèerejec;;tudi
+ovèerejski;;tudi
+ovèetina;;in
+ovèica;-e;ž
+ovèina;-e;ž
+ovèjak;-a;m
+ovèji;-a -e;prid.
+ovèka;-e;ž
+ovènjak;-a;m
+ovdovelost;-i;ž
+ovdoveti;-im;dov.
+ovedati se;-am se;nedov.
+ovedenje;-a;s
+ovedeti se;ovem se;dov.
+ovejati;-am;dov.
+ovekoveèenje;-a;s
+ovekoveèevati;-ujem;nedov.
+ovekoveèiti;-im;dov.
+ovel;;in
+oven;ovna;m
+ovenèati;-am;in
+ovenelost;-i;ž
+oveneti;-im;dov.
+oveniti;-em;dov.
+overitelj;-a;m
+overitev;-tve;ž
+overiti;-im;dov.
+overjati;-am;nedov.
+overovatelj;-a;m
+overovitev;-tve;ž
+overoviti;-im;dov.
+overovljati;-am;nedov.
+oves;ovsa;m
+oveseliti;-im;dov.
+ovesiti;-im;dov.
+ovesti se;ovem se;in
+ovešati;-am;nedov.
+oveti;ovejem;dov.
+ovevati;-am;nedov.
+ovijaèa;-e;ž
+ovijalen;-lna -o;prid.
+ovijalka;-e;ž
+ovijanje;-a;s
+ovijati;-am;nedov.
+ovinek;-nka;m
+oviniti;-im;dov.
+ovinkanje;-a;s
+ovinkariti;-im;nedov.
+ovinkarjenje;-a;s
+ovinkarski;-a -o;prid.
+ovinkarstvo;-a;s
+ovinkast;-a -o;prid.
+ovinkati;-am;nedov.
+ovinkoma;;prisl.
+ovira;-e;ž
+oviralen;-lna -o;prid.
+oviranje;-a;s
+ovirati;-am;nedov.
+ovirnica;-e;ž
+ovitek;-tka;m
+oviti;ovijem;dov.
+ovitje;-a;s
+ovladati;-am;dov.
+ovladovati;-ujem;nedov.
+ovlaževalec;-lca;m
+ovlaževanje;-a;s
+ovlaževati;-ujem;nedov.
+ovlažiti;-im;tudi
+ovnaè;-a;m
+ovniè;-ièa;m
+ovnov;-a -o;prid.
+ovnovina;-e;ž
+ovnovski;-a -o;prid.
+ovoèje;-a;s
+ovohati;-am;dov.
+ovohavanje;-a;s
+ovohavati;-am;nedov.
+ovoj;-oja;m
+ovojek;-jka;m
+ovojen;-jna -o;prid.
+ovojka;-e;ž
+ovojnica;-e;ž
+ovojnina;-e;ž
+ovra;-e;ž
+ovraèati;-am;nedov.
+ovraten;-tna -o;prid.
+ovratnica;-e;ž
+ovratnièek;-èka;m
+ovratnik;-a;m
+ovreèi;ovržem;dov.
+ovrednotenje;-a;s
+ovrednotiti;-im;dov.
+ovreti;ovrem;dov.
+ovrgljiv;-a -o;prid.
+ovrovec;-vca;m
+ovršen;-šna -o;prid.
+ovršje;-a;s
+ovržba;-e;ž
+ovržba;-e;ž
+ovsen;-a -o;prid.
+ovsenjak;-a;m
+ovsenka;-e;ž
+ovsika;-e;ž
+ovsišèe;-a;s
+ovulacija;-e;ž
+ovzdušje;-a;s
+ovzmetenje;;in
+ozad;;prisl.
+ozadje;-a;s
+ozadnji;-a -e;prid.
+ozaliden;-dna -o;prid.
+ozaljšati;-am;dov.
+ozaljšava;-e;ž
+ozaljšek;-ška;m
+ozankati;-am;dov.
+ozara;-e;ž
+ozariti;-im;tudi
+ozarjati;-am;nedov.
+ozavestiti;-im;dov.
+ozavešèenost;-i;ž
+ozd;-a;m
+ozdraveti;-im;dov.
+ozdravitev;-tve;ž
+ozdraviti;-im;dov.
+ozdravljati;-am;nedov.
+ozdravljenec;-nca;m
+ozdravljenje;;tudi
+ozdravljenje;-a;s
+ozdravljiv;-a -o;prid.
+ozdravljivost;-i;ž
+ozeba;-e;ž
+ozebek;-bka;m
+ozeben;-bna -o;prid.
+ozeblina;-e;ž
+ozebnik;-a;m
+ozebsti;ozebem;dov.
+ozek;ozka -o;prid.
+ozeleneti;-im;dov.
+ozelenitev;-tve;ž
+ozeleniti;-im;dov.
+ozelenitven;-a -o;prid.
+ozelenjevanje;-a;s
+ozelenjevati;-ujem;nedov.
+ozelot;-a;m
+ozemeljski;-a -o;prid.
+ozemlje;-a;s
+ozemljilo;-a;s
+ozemljitev;-tve;ž
+ozemljiti;-im;dov.
+ozemljitven;-a -o;prid.
+ozidje;-a;s
+ozimec;-mca;m
+ozimen;-mna -o;prid.
+ozimina;;in
+ozimka;-e;ž
+ozimnica;-e;ž
+ozimnost;-i;ž
+ozir;-a;m
+oziralen;-lna -o;prid.
+oziralnik;-a;m
+oziranje;-a;s
+ozirati se;-am se;nedov.
+oziroma;;vez.
+ozko...;;prvi del zloženk
+ozkogrudnost;-i;ž
+ozkokrajen;-jna -o;prid.
+ozkolisten;-tna -o;prid.
+ozkonos;-a -o;prid.
+ozkoprs;-a -o;prid.
+ozkoprsen;-sna -o;prid.
+ozkosrèen;-èna -o;prid.
+ozkosrènež;-a;m
+ozkosrènost;-i;ž
+ozkost;-i;ž
+ozkotiren;-rna -o;prid.
+ozkoust;-a -o;prid.
+ozlatiti;-im;dov.
+ozlovoljenost;-i;ž
+ozlovoljiti;-im;dov.
+ozmerjati;-am;dov.
+ozmoza;ipd.;gl.
+ozna;;in
+oznaèba;-e;ž
+oznaèenec;-nca;m
+oznaèenje;-a;s
+oznaèenost;-i;ž
+oznaèevalec;-lca;m
+oznaèevalen;-lna -o;prid.
+oznaèevanje;-a;s
+oznaèevati;-ujem;nedov.
+oznaèitev;-tve;ž
+oznaèiti;-im;dov.
+oznaka;-e;ž
+oznamenovanje;-a;s
+oznamenovati;-ujem;dov. in nedov.
+oznamovati;-ujem;dov. in nedov.
+oznanilen;-lna -o;prid.
+oznanilo;-a;s
+oznaniti;;in
+oznanjanje;-a;s
+oznanjati;-am;nedov.
+oznanjenje;-a;s
+oznanjenje;-a;s
+oznanjevalec;-lca;m
+oznanjevalka;-e;ž
+oznanjevanje;-a;s
+oznanjevati;-ujem;nedov.
+oznanovalec;-lca;m
+oznanovati;-ujem;nedov.
+oznevoljiti;-im;dov.
+oznojiti;-im;dov.
+oznovec;-vca;m
+ozobati;ozobljem;tudi
+ozobèati;-am;dov.
+ozobec;-bca;m
+ozobek;-bka;m
+ozobitev;-tve;ž
+ozobiti;-im;tudi
+ozobje;-a;s
+ozobljenje;;tudi
+ozon;-a;m
+ozonski;-a -o;prid.
+ozraèen;-èna -o;prid.
+ozraèje;-a;s
+ozreti se;ozrem se;dov.
+ozrniti;-im;dov.
+ozvezditi;-im;dov.
+ozvezdje;-a;s
+ozvoèenje;-a;s
+ozvoèenost;-i;ž
+ozvoèevalen;-lna -o;prid.
+ozvoèiti;-im;dov.
+ožalostiti;-im;dov.
+ožarek;-rka;m
+ožariti;-im;tudi
+ožarjati;-am;nedov.
+ožejati;-am;dov.
+ožemalen;-lna -o;prid.
+ožemalnik;-a;m
+ožemanje;-a;s
+ožemati;-am;nedov.
+ožemèek;-èka;m
+oženiti se;oženim se;dov.
+oženje;-a;s
+oženjenec;-nca;m
+ožep;-epa;m
+ožepek;-pka;m
+ožeti;ožmem;tudi
+ožganina;-e;ž
+ožganost;-i;ž
+ožgati;ožgem;dov.
+ožig;-a;m
+ožigalen;-lna -o;prid.
+ožigalka;-e;ž
+ožigalkar;-ja;m
+ožiganje;-a;s
+ožigati;-am;nedov.
+ožigosati;-am;dov.
+ožilje;-a;s
+ožina;-e;ž
+ožirati;-am;nedov.
+ožiti;-im;nedov.
+oživèevati;-ujem;nedov.
+oživeti;-im;dov.
+oživetje;-a;s
+oživitev;-tve;ž
+oživiti;-im;dov.
+oživljanje;-a;s
+oživljati;-am;nedov.
+oživljenje;-a;s
+oživljenost;-i;ž
+oživotvoriti;-im;dov.
+ožji;-a -e;prid.
+ožlebiti;-im;tudi
+ožmikati;-am;dov.
+ožolteti;-im;dov.
+ožrebiti se;-im se;dov.
+ožrelje;;in
+ožreti;ožrem;dov.
+ožuliti;;in
+ožuljek;-jka;m
+ožuljenost;-i;ž
+ožveplati;-am;dov.
