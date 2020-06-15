@@ -8,12 +8,13 @@ setwd("D:/Dokumenti/FAKS/magisterij/machine_learning/DomacaNaloga3")
 
 # naložimo knjižnice in podatke
 library(limSolve)
-options(digits = 16)
+
 podatki1 <- read.csv("podatki1.csv", header = FALSE)
 colnames(podatki1)[1] <- "y" 
 koristnosti1 <- read.csv("koristnosti1.csv", header = FALSE)
 
 # ukazi za kviz
+options(digits = 16)
 print("Srecno in good luck")
 
 

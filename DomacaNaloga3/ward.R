@@ -112,121 +112,6 @@ ward = function(matrika){
     data.frame(d = razdalje, skupina1 = skupina1, skupina2 = skupina2, skupina12 = skupina12)
 }
 
-###############################################################################################################
-# ENG #########################################################################################################
-###############################################################################################################
-
-dGroup = function(mtrx, inds1, inds2){
-    # average distance
-    dFinal = 0.0
-    for (i1 in inds1){
-        for (i2 in inds2){
-            dFinal = dFinal + d(mtrx[i1, ], mtrx[i2, ])
-        }
-    }
-    dFinal / (length(inds1) * length(inds2))
-}
-
-
-name1 = function(idGroup){
-    sprintf("%d", idGroup)
-}
-
-name2 = function(id1, id2){
-    sprintf("pair%d_%d", id1, id2)
-}
-
-
-wardENG = function(mtrx){
-    # nameplementation could be more efficient but we tried to make it easier to understand :)
-    groups = list()  # groups[[name groups]] = row indices belonging to the group
-    distances = list() # distances[[name para]] = (distance, name group1, name group2)
-    n = nrow(mtrx)
-    # basic groups are singletones
-    for (i in 1:n){
-        groups[[name1(i)]] = c(i)
-    }
-    # "ordinary" distances
-    for (i in 1:(n - 1)){
-        for (j in (i + 1):n){
-            distances[[name2(i, j)]] = list(d(mtrx[i, ], mtrx[j, ]), name1(i), name1(j))
-        }
-    }
-    nextID = n + 1
-    dendrogram = list()  # quadruplec (dist, id1, id2, id(1 union 2))
-    for (merge in 1:(n - 1)){
-        # closest two groups
-        iMin = 1
-        for (i in 1:length(distances)){
-            dNow = distances[[i]][[1]]
-            if (dNow < distances[[iMin]][[1]]){
-                iMin = i
-            }
-        }
-        # new point in dendrogram
-        newElement = distances[[iMin]]  # first three components the same
-        newGroup = name1(nextID)
-        newElement[[4]] = newGroup
-        dendrogram[[merge]] = newElement
-        # the sets that we join
-        id1 = distances[[iMin]][[2]]
-        id2 = distances[[iMin]][[3]]
-        # remove distances that are based on id1 or id2
-        toForget = list()
-        pairNames = names(distances)
-        for (i in 1:length(distances)){
-            i1 = distances[[i]][[2]]
-            i2 = distances[[i]][[3]]
-            if (length(unique(c(id1, id2, i1, i2))) < 4){
-                # if anything repeats: at most three different
-                # we already know: id1 != id2 and i1 != i2
-                toForget[[length(toForget) + 1]] = pairNames[i]
-            }
-        }
-        for(nameOdmet in toForget){
-            distances[[nameOdmet]] = NULL
-        }
-        # compute the distance between new group and the others
-        indices1 = groups[[id1]]
-        indices2 = groups[[id2]]
-        for (id3 in names(groups)){
-            indices3 = groups[[id3]]
-            if (length(unique(c(id1, id2, id3))) == 3){
-                l1 = length(indices1)
-                l2 = length(indices2)
-                l3 = length(indices3)
-                alfa1 = (l1 + l3) / (l1 + l2 + l3)
-                alfa2 = (l2 + l3) / (l1 + l2 + l3)
-                beta = - l3 / (l1 + l2 + l3)
-                d13 = dGroup(mtrx, indices1, indices3)
-                d23 = dGroup(mtrx, indices2, indices3)
-                d12 = dGroup(mtrx, indices1, indices2)
-                distance = alfa1 * d13 + alfa2 * d23 + beta * d12
-                distances[[name2(as.numeric(id3), nextID)]] = list(distance, id3, newGroup)
-            }
-        }
-        # remove the old two groups and add a new one
-        groups[[newGroup]] = c(groups[[id1]], groups[[id2]])
-        groups[[id1]] = NULL
-        groups[[id2]] = NULL
-        nextID = nextID + 1
-    }
-    # nice data frame
-    distances = c()
-    group1 = c()
-    group2 = c()
-    group12 = c()
-    for (i in 1:(n - 1)){
-        element = dendrogram[[i]]
-        distances = c(distances, element[[1]])
-        group1 = c(group1, element[[2]])
-        group2 = c(group2, element[[3]])
-        group12 = c(group12, element[[4]])
-    }
-    data.frame(d = distances, group1 = group1, group2 = group2, group12 = group12)
-}
-
-
 ####################################################################################################
 # Test #############################################################################################
 ####################################################################################################
@@ -248,7 +133,6 @@ m[5,] = c(3, 5)
 
 
 # View(ward(m))
-# View(wardENG(m))
 
 
 
