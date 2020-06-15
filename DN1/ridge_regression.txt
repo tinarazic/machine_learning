@@ -1,3 +1,0 @@
-http://statweb.stanford.edu/~tibs/sta305files/Rudyregularization.pdf?fbclid=IwAR1GGCUPAR77ADxJNW_DrrB6dhTmMBo5Qvb5bia_MSMyQdiDWQfdyUvBh24
-
-RIDGE REGRESSION
