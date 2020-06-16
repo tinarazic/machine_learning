@@ -1,4 +1,7 @@
+########################################################################################
+# Domača naloga 1
 # 2 Linearna regresija
+########################################################################################
 
 #####################################
 # nalozi knjiznice, ki jih potrebujes
@@ -49,7 +52,8 @@ test_sample()
 # Nalozi se potrebne funkcije
 # Load the necessary functions
 #####################################
-setwd("C:/Users/Tina/Documents/FAKS/magisterij/machine_learning/DN1")
+#setwd("D:/Dokumenti/FAKS/magisterij/machine_learning/DomacaNaloga1")
+setwd(paste(getwd(),"/DomacaNaloga1", sep=""))
 
 naloga_problem = 2
 source(sprintf("funkcije%d.R", naloga_problem))
@@ -104,9 +108,10 @@ znacilke3 = names(podatki[, 1:20])
 formula3 = "y ~ "
 for (i in znacilke3){
   if (i == znacilke3[length(znacilke3)]){
+    # zadnjo znacilko (da bo brez plusa na koncu)
     formula3 = paste(formula3, i, "+ I(", i, "^2)")
   }
-  else {formula3 = paste(formula3, i, "+ I(", i, "^2) +")}
+  else {formula3 = paste(formula3, i, "+ I(", i, "^2) +")} # prvih 19 značilk
 }
 formula3
 
@@ -135,10 +140,11 @@ beta.optimal = function(lambda, podatki){
 }
 
 lambda <- 0.01
-alpha <- beta.optimal(lambda, podatki)
-alpha
+norma <- beta.optimal(lambda, podatki)
+norma
 
 # 2.5 Kako velik lambda?
+alpha <- norma
 alpha_10 <- alpha/10
 alpha_10
 
@@ -156,7 +162,7 @@ while (min1 >= min2) {
 
 min <- min1
 max <- min2 # torej lambda bomo iskali med min in max
-vrednost <- alpha # neka za?etna vrednost, pomembno samo da je ve?ja kot kon?na ocena
+vrednost <- alpha # neka začetna vrednost, pomembno samo da je večja kot končna ocena
 
 # bisekcija
 tol <- 1e-7

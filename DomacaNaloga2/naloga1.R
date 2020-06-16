@@ -4,7 +4,8 @@
 ########################################################################################
 
 # working directory
-setwd("D:/Dokumenti/FAKS/magisterij/machine_learning/DomacaNaloga2")
+#setwd("D:/Dokumenti/FAKS/magisterij/machine_learning/DomacaNaloga2")
+#setwd(paste(getwd(),"/DomacaNaloga2", sep=""))
 
 # naložimo knjižnice
 library(rpart)
@@ -75,7 +76,9 @@ pravilo <- function(nodes, napoved){
   function(x){
     # sprejme tabelo x
     pragovi <- as.numeric(regmatches(nodes,regexpr("-?\\d\\.\\d*",nodes)))
+    print(pragovi)
     xi <- regmatches(nodes,regexpr("X\\d",nodes))
+    print(xi)
     n <- nrow(x)
     napovedi <- rep(NA, n)
     for (i in 1:n) {

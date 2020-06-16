@@ -4,7 +4,8 @@
 ########################################################################################
 
 # working directory
-setwd("D:/Dokumenti/FAKS/magisterij/machine_learning/DomacaNaloga2")
+#setwd("D:/Dokumenti/FAKS/magisterij/machine_learning/DomacaNaloga2")
+#setwd(paste(getwd(),"/DomacaNaloga2", sep=""))
 
 # naložimo knjižnice
 options(digits = 16)
@@ -100,13 +101,16 @@ odkrijModerKvadrat <- function(slika){
   # X je tenzor
   # X ima tri dimenzije; X[i,j,k] za vsak par pikslov (i,j)
   # tretja dimenzija je barva X[,,i], i in 1,2,3
-  velikost <- dim(X)
+  velikost <- dim(slika)
   for(i in 1:velikost[1]){
     for(j in 1:velikost[2]){
-      if(X[i,j,1] == 0 && X[i,j,2] == 0 && X[i,j,3] > 0){
+      if(slika[i,j,1] == 0 && slika[i,j,2] == 0 && slika[i,j,3] > 0){
+        # c(i,j) bo zgornji levi kot
+        # prištejemo 2 obema koordinatama, da dobimo središče
+        # vemo, da je dimenzija kvadrata 5x5
         levo <- i + 2
-        spodaj <- j + 2
-        polozaj <- list(levo,spodaj)
+        zgoraj <- j + 2
+        polozaj <- list(levo,zgoraj)
         return(polozaj)
       }
     }

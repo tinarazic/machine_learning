@@ -4,7 +4,8 @@
 ########################################################################################
 
 # working directory
-setwd("D:/Dokumenti/FAKS/magisterij/machine_learning/DomacaNaloga3")
+#setwd("D:/Dokumenti/FAKS/magisterij/machine_learning/DomacaNaloga3")
+#setwd(paste(getwd(),"/DomacaNaloga3", sep=""))
 
 # naložimo knjižnice in podatke
 library(limSolve)
@@ -96,7 +97,7 @@ ustalitev <- function(drevesneKakovosti) {
   p <- nrow(drevesneKakovosti) # to nam pove število spremenljivk
   n <- ncol(drevesneKakovosti)
   
-  povprecne.koristnosti <- rowMeans(drevesneKakovosti)
+  povprecne.koristnosti <- rowMeans(drevesneKakovosti) # za vsako spremenljivko povprečna koristnost
   
   # Najprej poiščemo vrstni red spremenljivk, če upoštevamo vsa drevesa. Parameter
   # index.return nam poda stolpec ix, ki pove indekse urejenega seznama, kar je 

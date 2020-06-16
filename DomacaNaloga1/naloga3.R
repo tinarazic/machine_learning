@@ -1,4 +1,7 @@
-# 3 Variance in se kaj
+########################################################################################
+# Domača naloga 1
+# # 3 Variance in se kaj
+########################################################################################
 
 #####################################
 # nalozi knjiznice, ki jih potrebujes
@@ -49,7 +52,8 @@ test_sample()
 # Nalozi se potrebne funkcije
 # Load the necessary functions
 #####################################
-setwd("C:/Users/Tina/Documents/FAKS/magisterij/machine_learning/DN1")
+#setwd("D:/Dokumenti/FAKS/magisterij/machine_learning/DomacaNaloga1")
+setwd(paste(getwd(),"/DomacaNaloga1", sep=""))
 
 naloga_problem = 3
 source(sprintf("funkcije%d.R", naloga_problem))
@@ -74,6 +78,7 @@ narediPolinom = function(stopnja){
 }
 
 polinomsko.prileganje = function(stopnja, ucna, testna){
+  # vrne rmse za dano stopnjo polinoma
   formula = as.formula(narediPolinom(stopnja))
   model.s = train(formula, data=ucna, method="lm")
   napovedi.s = predict(model.s, testna)
@@ -153,7 +158,7 @@ varianca = function(varianca.epsilon, matrikaX, X_zvezdica){
 sigma.epsilon_ps0 <- 1.0^2
 stopnja_ps0 <- which.min(e.s)
 x <- podatki$x
-prosti.clen = rep(1,160)
+prosti.clen = rep(1,dim(podatki)[1])
 matrikaX <- cbind(prosti.clen, x)
 for (i in 2:stopnja_ps0){
   matrikaX = cbind(matrikaX, x**i)
@@ -169,7 +174,7 @@ varianca_ps0
 sigma.epsilon_ps1 <- 1.0^2
 stopnja_ps1 <- which.min(e.s.all)
 x <- podatki$x
-prosti.clen.1 = rep(1,160)
+prosti.clen.1 = rep(1,dim(podatki)[1])
 matrikaX.1 <- cbind(prosti.clen.1, x)
 for (i in 2:stopnja_ps1){
   matrikaX.1 = cbind(matrikaX.1, x**i)

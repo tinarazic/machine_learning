@@ -1,4 +1,7 @@
-# 1. NAJBLIŽJI SOSEDI
+########################################################################################
+# Domača naloga 1
+# 1 Najbližji sosedje
+########################################################################################
 
 #####################################
 # nalozi knjiznice, ki jih potrebujes
@@ -50,7 +53,8 @@ test_sample()
 # Nalozi se potrebne funkcije
 # Load the necessary functions
 #####################################
-setwd("C:/Users/Tina/Documents/FAKS/magisterij/machine_learning/DN1")
+#setwd("D:/Dokumenti/FAKS/magisterij/machine_learning/DomacaNaloga1")
+setwd(paste(getwd(),"/DomacaNaloga1", sep=""))
 
 naloga_problem = 1
 source(sprintf("funkcije%d.R", naloga_problem))

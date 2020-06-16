@@ -4,7 +4,8 @@
 ########################################################################################
 
 # working directory
-setwd("D:/Dokumenti/FAKS/magisterij/machine_learning/DomacaNaloga2")
+#setwd("D:/Dokumenti/FAKS/magisterij/machine_learning/DomacaNaloga2")
+#setwd(paste(getwd(),"/DomacaNaloga2", sep=""))
 
 # naložimo knjižnice
 options(digits = 16)
@@ -30,7 +31,7 @@ vrednost.kviz <- radialnoJedro(x1,x2,sigma)
 
 
 # 2.2 Ločimo kroglo
-
+# v zvezku napisano
 najmanjsiSigma <- function(b){
   #vselej velja b <= exp(-1/(2*sigma^2))
   #ko je dosežena enakost je to najmanjše
